@@ -1573,190 +1573,725 @@
       ]
     }
   ],
-  "bonus": {
-    "id": "d1014-bonus-ten-promised",
-    "number": 7,
-    "prompt": "Name one of the ten Companions promised Paradise together in one hadith.",
-    "notAccepted": [
-      {
-        "inputs": [
-          "Bilal",
-          "Khalid",
-          "Khalid ibn al-Walid",
-          "Hamzah",
-          "Hamza",
-          "Salman",
-          "Abu Hurayrah",
-          "Muadh"
-        ],
-        "message": "A great Companion, but not one of the ten named together in this hadith. Try again!"
-      }
-    ],
-    "answers": [
-      {
-        "id": "d1014-bonus-ten-promised-abu-bakr",
-        "canonical": "Abu Bakr",
-        "honorific": "RA",
-        "variants": [
-          "Abu Bakr as-Siddiq",
-          "Abu Bakar"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "The first caliph and the Prophet's ﷺ closest friend.",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
-          "status": "needs-review"
+  "bonus": [
+    {
+      "id": "d1014-bonus-ten-promised",
+      "number": 7,
+      "prompt": "Name one of the ten Companions promised Paradise together in one hadith.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Bilal",
+            "Khalid",
+            "Khalid ibn al-Walid",
+            "Hamzah",
+            "Hamza",
+            "Salman",
+            "Abu Hurayrah",
+            "Muadh"
+          ],
+          "message": "A great Companion, but not one of the ten named together in this hadith. Try again!"
         }
-      },
-      {
-        "id": "d1014-bonus-ten-promised-umar",
-        "canonical": "Umar",
-        "honorific": "RA",
-        "variants": [
-          "Umar ibn al-Khattab",
-          "Omar",
-          "Umar bin Khattab"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "The second caliph, al-Faruq.",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
-          "status": "needs-review"
+      ],
+      "answers": [
+        {
+          "id": "d1014-bonus-ten-promised-abu-bakr",
+          "canonical": "Abu Bakr",
+          "honorific": "RA",
+          "variants": [
+            "Abu Bakr as-Siddiq",
+            "Abu Bakar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first caliph and the Prophet's ﷺ closest friend.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-bonus-ten-promised-umar",
+          "canonical": "Umar",
+          "honorific": "RA",
+          "variants": [
+            "Umar ibn al-Khattab",
+            "Omar",
+            "Umar bin Khattab"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The second caliph, al-Faruq.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-bonus-ten-promised-uthman",
+          "canonical": "Uthman",
+          "honorific": "RA",
+          "variants": [
+            "Uthman ibn Affan",
+            "Usman",
+            "Othman"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The third caliph, who compiled the Qur'an into one standard copy.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-bonus-ten-promised-ali",
+          "canonical": "Ali",
+          "honorific": "RA",
+          "variants": [
+            "Ali ibn Abi Talib",
+            "Aly"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The fourth caliph, the Prophet's ﷺ cousin and son-in-law.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-bonus-ten-promised-talhah",
+          "canonical": "Talhah",
+          "honorific": "RA",
+          "variants": [
+            "Talhah ibn Ubaydillah",
+            "Talha"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Shielded the Prophet ﷺ with his own hand at Uhud.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-bonus-ten-promised-al-zubayr",
+          "canonical": "Al-Zubayr",
+          "honorific": "RA",
+          "variants": [
+            "Zubayr",
+            "Zubair",
+            "Zubayr ibn al-Awwam"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet's ﷺ cousin, called his disciple.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-bonus-ten-promised-abd-al-rahman-ibn-awf",
+          "canonical": "'Abd al-Rahman ibn 'Awf",
+          "honorific": "RA",
+          "variants": [
+            "Abdur Rahman ibn Awf",
+            "Abdul Rahman ibn Auf",
+            "Ibn Awf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A wealthy merchant famed for his generosity.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-bonus-ten-promised-sad-ibn-abi-waqqas",
+          "canonical": "Sa'd ibn Abi Waqqas",
+          "honorific": "RA",
+          "variants": [
+            "Sad ibn Abi Waqqas",
+            "Saad ibn Abi Waqqas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The first to shoot an arrow for Islam; commander at al-Qadisiyyah.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-bonus-ten-promised-abu-ubaydah-ibn-al-jarrah",
+          "canonical": "Abu 'Ubaydah ibn al-Jarrah",
+          "honorific": "RA",
+          "variants": [
+            "Abu Ubaydah",
+            "Abu Ubaidah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The trustworthy one of this Ummah.\"",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-bonus-ten-promised-said-ibn-zayd",
+          "canonical": "Sa'id ibn Zayd",
+          "honorific": "RA",
+          "variants": [
+            "Said ibn Zayd",
+            "Saeed ibn Zaid"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An early Muslim, the cousin and brother-in-law of 'Umar.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1014-bonus-ten-promised-uthman",
-        "canonical": "Uthman",
-        "honorific": "RA",
-        "variants": [
-          "Uthman ibn Affan",
-          "Usman",
-          "Othman"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "The third caliph, who compiled the Qur'an into one standard copy.",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1014-deeper-qul-surahs",
+      "number": 8,
+      "prompt": "Name a surah that begins with the word \"Qul\" (\"Say\").",
+      "answers": [
+        {
+          "id": "d1014-deeper-qul-surahs-al-ikhlas",
+          "canonical": "Al-Ikhlas",
+          "variants": [
+            "Ikhlas",
+            "Sincerity",
+            "Qul Huwa Allahu Ahad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Say: He is Allah, the One.\"",
+          "source": {
+            "text": "Qur'an 112:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-qul-surahs-al-falaq",
+          "canonical": "Al-Falaq",
+          "variants": [
+            "Falaq",
+            "The Daybreak"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Say: I seek refuge in the Lord of daybreak.\"",
+          "source": {
+            "text": "Qur'an 113:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-qul-surahs-an-nas",
+          "canonical": "An-Nas",
+          "variants": [
+            "Nas",
+            "Naas",
+            "Mankind"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Say: I seek refuge in the Lord of mankind.\"",
+          "source": {
+            "text": "Qur'an 114:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-qul-surahs-al-kafirun",
+          "canonical": "Al-Kafirun",
+          "variants": [
+            "Kafirun",
+            "Kafiroon",
+            "The Disbelievers"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Say: O disbelievers…\"",
+          "source": {
+            "text": "Qur'an 109:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-qul-surahs-al-jinn",
+          "canonical": "Al-Jinn",
+          "variants": [
+            "Jinn",
+            "The Jinn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Say: It has been revealed to me that a group of jinn listened.\"",
+          "source": {
+            "text": "Qur'an 72:1",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1014-bonus-ten-promised-ali",
-        "canonical": "Ali",
-        "honorific": "RA",
-        "variants": [
-          "Ali ibn Abi Talib",
-          "Aly"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "The fourth caliph, the Prophet's ﷺ cousin and son-in-law.",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1014-deeper-shura-six",
+      "number": 9,
+      "prompt": "Name one of the six Companions 'Umar chose to select the next caliph.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Abu Bakr",
+            "Umar",
+            "Abu Ubaydah",
+            "Sa'id ibn Zayd",
+            "Said ibn Zayd"
+          ],
+          "message": "He wasn't one of the six 'Umar named. Try again!"
         }
-      },
-      {
-        "id": "d1014-bonus-ten-promised-talhah",
-        "canonical": "Talhah",
-        "honorific": "RA",
-        "variants": [
-          "Talhah ibn Ubaydillah",
-          "Talha"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "Shielded the Prophet ﷺ with his own hand at Uhud.",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
-          "status": "needs-review"
+      ],
+      "answers": [
+        {
+          "id": "d1014-deeper-shura-six-uthman",
+          "canonical": "'Uthman",
+          "honorific": "RA",
+          "variants": [
+            "Uthman ibn Affan",
+            "Usman"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Chosen from among them as the third caliph.",
+          "source": {
+            "text": "Sahih al-Bukhari 3700",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-shura-six-ali",
+          "canonical": "'Ali",
+          "honorific": "RA",
+          "variants": [
+            "Ali ibn Abi Talib"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Became the fourth caliph after 'Uthman.",
+          "source": {
+            "text": "Sahih al-Bukhari 3700",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-shura-six-abd-al-rahman-ibn-awf",
+          "canonical": "'Abd al-Rahman ibn 'Awf",
+          "honorific": "RA",
+          "variants": [
+            "Abdur Rahman ibn Awf",
+            "Abdul Rahman ibn Auf"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Withdrew himself and consulted the people to make the choice.",
+          "source": {
+            "text": "Sahih al-Bukhari 3700",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-shura-six-sad-ibn-abi-waqqas",
+          "canonical": "Sa'd ibn Abi Waqqas",
+          "honorific": "RA",
+          "variants": [
+            "Sad ibn Abi Waqqas",
+            "Saad ibn Abi Waqqas"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The victor of al-Qadisiyyah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3700",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-shura-six-talhah",
+          "canonical": "Talhah",
+          "honorific": "RA",
+          "variants": [
+            "Talha",
+            "Talhah ibn Ubaydillah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "One of the earliest Muslims.",
+          "source": {
+            "text": "Sahih al-Bukhari 3700",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-shura-six-al-zubayr",
+          "canonical": "Al-Zubayr",
+          "honorific": "RA",
+          "variants": [
+            "Zubayr",
+            "Zubair",
+            "Zubayr ibn al-Awwam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Prophet's ﷺ cousin and 'disciple'.",
+          "source": {
+            "text": "Sahih al-Bukhari 3700",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1014-bonus-ten-promised-al-zubayr",
-        "canonical": "Al-Zubayr",
-        "honorific": "RA",
-        "variants": [
-          "Zubayr",
-          "Zubair",
-          "Zubayr ibn al-Awwam"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "The Prophet's ﷺ cousin, called his disciple.",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1014-deeper-abadilah",
+      "number": 10,
+      "prompt": "Name one of the four 'Abadilah — the four great Companions called 'Abdullah.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Ibn Mas'ud",
+            "Abdullah ibn Mas'ud",
+            "Ibn Masud",
+            "Abdullah ibn Masud"
+          ],
+          "message": "Most scholars don't count Ibn Mas'ud among the four 'Abadilah. Try again!"
         }
-      },
-      {
-        "id": "d1014-bonus-ten-promised-abd-al-rahman-ibn-awf",
-        "canonical": "'Abd al-Rahman ibn 'Awf",
-        "honorific": "RA",
-        "variants": [
-          "Abdur Rahman ibn Awf",
-          "Abdul Rahman ibn Auf",
-          "Ibn Awf"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "A wealthy merchant famed for his generosity.",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
-          "status": "needs-review"
+      ],
+      "answers": [
+        {
+          "id": "d1014-deeper-abadilah-abdullah-ibn-abbas",
+          "canonical": "'Abdullah ibn 'Abbas",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Abbas",
+            "Abdullah ibn Abbas"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The scholar of the Ummah, the Prophet's ﷺ cousin.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-abadilah-abdullah-ibn-umar",
+          "canonical": "'Abdullah ibn 'Umar",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Umar",
+            "Abdullah ibn Umar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Son of 'Umar, famed for following the Sunnah closely.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-abadilah-abdullah-ibn-al-zubayr",
+          "canonical": "'Abdullah ibn al-Zubayr",
+          "honorific": "RA",
+          "variants": [
+            "Ibn al-Zubayr",
+            "Abdullah ibn Zubayr",
+            "Ibn Zubair"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of al-Zubayr and Asma', the first child born to the emigrants in Madinah.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-abadilah-abdullah-ibn-amr-ibn-al-as",
+          "canonical": "'Abdullah ibn 'Amr ibn al-'As",
+          "honorific": "RA",
+          "variants": [
+            "Abdullah ibn Amr",
+            "Ibn Amr",
+            "Abdullah ibn Amr ibn al-As"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Wrote down hadith with the Prophet's ﷺ permission.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1014-bonus-ten-promised-sad-ibn-abi-waqqas",
-        "canonical": "Sa'd ibn Abi Waqqas",
-        "honorific": "RA",
-        "variants": [
-          "Sad ibn Abi Waqqas",
-          "Saad ibn Abi Waqqas"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "The first to shoot an arrow for Islam; commander at al-Qadisiyyah.",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1014-deeper-miqat",
+      "number": 11,
+      "prompt": "Name one of the miqat — the places where pilgrims enter ihram.",
+      "answers": [
+        {
+          "id": "d1014-deeper-miqat-dhul-hulayfah",
+          "canonical": "Dhul-Hulayfah",
+          "variants": [
+            "Dhul Hulayfah",
+            "Dhu al-Hulayfah",
+            "Abyar Ali",
+            "Bir Ali",
+            "Abyar Aly"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The miqat of the people of Madinah, today called Abyar 'Ali.",
+          "source": {
+            "text": "Sahih al-Bukhari 1524",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-miqat-al-juhfah",
+          "canonical": "Al-Juhfah",
+          "variants": [
+            "Juhfah",
+            "Juhfa",
+            "Rabigh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The miqat for Syria and Egypt; pilgrims now use nearby Rabigh.",
+          "source": {
+            "text": "Sahih al-Bukhari 1524",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-miqat-qarn-al-manazil",
+          "canonical": "Qarn al-Manazil",
+          "variants": [
+            "Qarn",
+            "Qarnul Manazil",
+            "As-Sayl al-Kabir",
+            "Sayl al-Kabir"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The miqat of Najd, today called as-Sayl al-Kabir.",
+          "source": {
+            "text": "Sahih al-Bukhari 1524",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-miqat-yalamlam",
+          "canonical": "Yalamlam",
+          "variants": [
+            "Yalamlam",
+            "As-Sadiyyah",
+            "Sadiyah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The miqat of Yemen, today called as-Sa'diyyah.",
+          "source": {
+            "text": "Sahih al-Bukhari 1524",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1014-deeper-miqat-dhat-irq",
+          "canonical": "Dhat 'Irq",
+          "variants": [
+            "Dhat Irq",
+            "Dhatu Irq"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The miqat for Iraq, set by 'Umar.",
+          "source": {
+            "text": "Sahih al-Bukhari 1531",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1014-bonus-ten-promised-abu-ubaydah-ibn-al-jarrah",
-        "canonical": "Abu 'Ubaydah ibn al-Jarrah",
-        "honorific": "RA",
-        "variants": [
-          "Abu Ubaydah",
-          "Abu Ubaidah"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "\"The trustworthy one of this Ummah.\"",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1014-deeper-ya-ayyuha",
+      "number": 12,
+      "prompt": "Name a surah that begins with \"Ya ayyuha…\" (\"O you…\").",
+      "answers": [
+        {
+          "id": "d1014-deeper-ya-ayyuha-an-nisa",
+          "canonical": "An-Nisa'",
+          "variants": [
+            "Nisa",
+            "An-Nisa",
+            "The Women"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"O mankind, fear your Lord…\"",
+          "source": {
+            "text": "Qur'an 4:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-ya-ayyuha-al-maidah",
+          "canonical": "Al-Ma'idah",
+          "variants": [
+            "Maidah",
+            "Al-Maidah",
+            "The Table Spread"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"O you who believe, fulfil your contracts.\"",
+          "source": {
+            "text": "Qur'an 5:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-ya-ayyuha-al-hajj",
+          "canonical": "Al-Hajj",
+          "variants": [
+            "Hajj",
+            "The Pilgrimage"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"O mankind, fear your Lord — the quake of the Hour is tremendous.\"",
+          "source": {
+            "text": "Qur'an 22:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-ya-ayyuha-al-muzzammil",
+          "canonical": "Al-Muzzammil",
+          "variants": [
+            "Muzzammil",
+            "Muzammil"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"O you wrapped in garments.\"",
+          "source": {
+            "text": "Qur'an 73:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-ya-ayyuha-al-muddaththir",
+          "canonical": "Al-Muddaththir",
+          "variants": [
+            "Muddaththir",
+            "Muddassir",
+            "Mudathir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"O you cloaked one.\"",
+          "source": {
+            "text": "Qur'an 74:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-ya-ayyuha-al-ahzab",
+          "canonical": "Al-Ahzab",
+          "variants": [
+            "Ahzab",
+            "The Confederates"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"O Prophet, be mindful of Allah.\"",
+          "source": {
+            "text": "Qur'an 33:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-ya-ayyuha-al-hujurat",
+          "canonical": "Al-Hujurat",
+          "variants": [
+            "Hujurat",
+            "The Rooms"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"O you who believe, do not put yourselves before Allah and His Messenger.\"",
+          "source": {
+            "text": "Qur'an 49:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-ya-ayyuha-al-mumtahanah",
+          "canonical": "Al-Mumtahanah",
+          "variants": [
+            "Mumtahanah",
+            "Mumtahina"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"O you who believe, do not take My enemies as allies.\"",
+          "source": {
+            "text": "Qur'an 60:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-ya-ayyuha-at-talaq",
+          "canonical": "At-Talaq",
+          "variants": [
+            "Talaq",
+            "Divorce"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"O Prophet, when you divorce women…\"",
+          "source": {
+            "text": "Qur'an 65:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1014-deeper-ya-ayyuha-at-tahrim",
+          "canonical": "At-Tahrim",
+          "variants": [
+            "Tahrim",
+            "The Prohibition"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"O Prophet, why do you forbid what Allah has made lawful for you?\"",
+          "source": {
+            "text": "Qur'an 66:1",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1014-bonus-ten-promised-said-ibn-zayd",
-        "canonical": "Sa'id ibn Zayd",
-        "honorific": "RA",
-        "variants": [
-          "Said ibn Zayd",
-          "Saeed ibn Zaid"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "An early Muslim, the cousin and brother-in-law of 'Umar.",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3747 (the ten given glad tidings of Paradise)",
-          "status": "needs-review"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

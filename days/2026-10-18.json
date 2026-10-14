@@ -1862,373 +1862,1106 @@
       ]
     }
   ],
-  "bonus": {
-    "id": "d1018-bonus-qiraat",
-    "number": 7,
-    "prompt": "Name one of the imams of the canonical Qur'an readings, or one of their transmitters.",
-    "answers": [
-      {
-        "id": "d1018-bonus-qiraat-hafs",
-        "canonical": "Hafs",
-        "variants": [
-          "Hafs an Asim",
-          "Hafs ibn Sulayman"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "Transmitted 'Asim's reading — the one most of the world recites today.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
+  "bonus": [
+    {
+      "id": "d1018-bonus-qiraat",
+      "number": 7,
+      "prompt": "Name one of the imams of the canonical Qur'an readings, or one of their transmitters.",
+      "answers": [
+        {
+          "id": "d1018-bonus-qiraat-hafs",
+          "canonical": "Hafs",
+          "variants": [
+            "Hafs an Asim",
+            "Hafs ibn Sulayman"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Transmitted 'Asim's reading — the one most of the world recites today.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-asim",
+          "canonical": "'Asim",
+          "variants": [
+            "Asim",
+            "Aasim",
+            "Asim ibn Abi al-Najud"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The reader of Kufa whose reading reaches most Muslims through Hafs.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-warsh",
+          "canonical": "Warsh",
+          "variants": [
+            "Warsh an Nafi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Transmitted Nafi''s reading, recited across North and West Africa.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-nafi",
+          "canonical": "Nafi'",
+          "variants": [
+            "Nafi",
+            "Naafi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The reader of Madinah.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-qalun",
+          "canonical": "Qalun",
+          "variants": [
+            "Qaloon"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Nafi''s other transmitter, whose reading is used in Libya and Tunisia.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-abu-amr",
+          "canonical": "Abu 'Amr",
+          "variants": [
+            "Abu Amr",
+            "Abu Amr al-Basri"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The reader of Basra, read today in parts of Sudan through al-Duri.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-ibn-kathir",
+          "canonical": "Ibn Kathir",
+          "variants": [
+            "Ibn Katheer",
+            "Ibn Kathir al-Makki"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The reader of Makkah (not the later commentator).",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-ibn-amir",
+          "canonical": "Ibn 'Amir",
+          "variants": [
+            "Ibn Amir",
+            "Ibn Aamir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The reader of Damascus.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-hamzah",
+          "canonical": "Hamzah",
+          "variants": [
+            "Hamza",
+            "Hamzah al-Zayyat"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A reader of Kufa.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-al-kisai",
+          "canonical": "Al-Kisa'i",
+          "variants": [
+            "Kisai",
+            "Al-Kisai"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A reader of Kufa and a famous grammarian.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-shubah",
+          "canonical": "Shu'bah",
+          "variants": [
+            "Shubah",
+            "Shuba",
+            "Abu Bakr Shubah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'Asim's other transmitter.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-al-duri",
+          "canonical": "Al-Duri",
+          "variants": [
+            "Duri",
+            "Ad-Duri"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Transmitted Abu 'Amr's reading (and al-Kisa'i's).",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-abu-jafar",
+          "canonical": "Abu Ja'far",
+          "variants": [
+            "Abu Jafar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Reader of Madinah, one of the three completing the ten.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-yaqub",
+          "canonical": "Ya'qub",
+          "variants": [
+            "Yaqub",
+            "Yaqub al-Hadrami"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Reader of Basra, one of the three completing the ten.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-khalaf",
+          "canonical": "Khalaf",
+          "variants": [
+            "Khalaf al-Bazzar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Transmitter of Hamzah and a reader in his own right, completing the ten.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-al-susi",
+          "canonical": "Al-Susi",
+          "variants": [
+            "Susi",
+            "As-Susi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Abu 'Amr's other transmitter.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-al-bazzi",
+          "canonical": "Al-Bazzi",
+          "variants": [
+            "Bazzi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A transmitter of Ibn Kathir.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-qunbul",
+          "canonical": "Qunbul",
+          "variants": [
+            "Qunbal"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A transmitter of Ibn Kathir.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-hisham",
+          "canonical": "Hisham",
+          "variants": [
+            "Hisham ibn Ammar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A transmitter of Ibn 'Amir.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-ibn-dhakwan",
+          "canonical": "Ibn Dhakwan",
+          "variants": [
+            "Ibn Zakwan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A transmitter of Ibn 'Amir.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-khallad",
+          "canonical": "Khallad",
+          "variants": [
+            "Khalad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A transmitter of Hamzah.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-ruways",
+          "canonical": "Ruways",
+          "variants": [
+            "Ruwais"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A transmitter of Ya'qub.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-rawh",
+          "canonical": "Rawh",
+          "variants": [
+            "Rauh"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A transmitter of Ya'qub.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-ibn-wardan",
+          "canonical": "Ibn Wardan",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A transmitter of Abu Ja'far.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-bonus-qiraat-ibn-jammaz",
+          "canonical": "Ibn Jammaz",
+          "variants": [
+            "Ibn Jamaz"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A transmitter of Abu Ja'far.",
+          "source": {
+            "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1018-bonus-qiraat-asim",
-        "canonical": "'Asim",
-        "variants": [
-          "Asim",
-          "Aasim",
-          "Asim ibn Abi al-Najud"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "The reader of Kufa whose reading reaches most Muslims through Hafs.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1018-deeper-place-surahs",
+      "number": 8,
+      "prompt": "Name a surah named after a place.",
+      "answers": [
+        {
+          "id": "d1018-deeper-place-surahs-al-kahf",
+          "canonical": "Al-Kahf",
+          "variants": [
+            "Kahf",
+            "The Cave"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Cave', where the young believers slept.",
+          "source": {
+            "text": "Qur'an 18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-place-surahs-saba",
+          "canonical": "Saba'",
+          "variants": [
+            "Saba",
+            "Sheba"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The kingdom of Sheba.",
+          "source": {
+            "text": "Qur'an 34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-place-surahs-at-tur",
+          "canonical": "At-Tur",
+          "variants": [
+            "Tur",
+            "The Mount"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Mount' — Mount Sinai.",
+          "source": {
+            "text": "Qur'an 52",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-place-surahs-al-balad",
+          "canonical": "Al-Balad",
+          "variants": [
+            "Balad",
+            "The City"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The City' — Makkah.",
+          "source": {
+            "text": "Qur'an 90",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-place-surahs-al-ahqaf",
+          "canonical": "Al-Ahqaf",
+          "variants": [
+            "Ahqaf",
+            "The Sand Dunes"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Sand Dunes', home of 'Ad.",
+          "source": {
+            "text": "Qur'an 46",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-place-surahs-al-hijr",
+          "canonical": "Al-Hijr",
+          "variants": [
+            "Hijr",
+            "The Rocky Tract"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The rocky land of Thamud.",
+          "source": {
+            "text": "Qur'an 15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-place-surahs-al-araf",
+          "canonical": "Al-A'raf",
+          "variants": [
+            "Araf",
+            "Al-Araf",
+            "The Heights"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Heights' between Paradise and Hell.",
+          "source": {
+            "text": "Qur'an 7:46",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-place-surahs-al-hujurat",
+          "canonical": "Al-Hujurat",
+          "variants": [
+            "Hujurat",
+            "The Rooms"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Rooms' — the Prophet's ﷺ private rooms.",
+          "source": {
+            "text": "Qur'an 49:4",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1018-bonus-qiraat-warsh",
-        "canonical": "Warsh",
-        "variants": [
-          "Warsh an Nafi"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "Transmitted Nafi''s reading, recited across North and West Africa.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1018-deeper-anbiya-prophets",
+      "number": 9,
+      "prompt": "Name a prophet mentioned by name in Surah al-Anbiya'.",
+      "answers": [
+        {
+          "id": "d1018-deeper-anbiya-prophets-musa",
+          "canonical": "Musa",
+          "honorific": "AS",
+          "variants": [
+            "Moses"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Named in the surah (21:48).",
+          "source": {
+            "text": "Qur'an 21:48",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-ibrahim",
+          "canonical": "Ibrahim",
+          "honorific": "AS",
+          "variants": [
+            "Abraham"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The story of him breaking the idols and being thrown into the fire.",
+          "source": {
+            "text": "Qur'an 21:51–70",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-harun",
+          "canonical": "Harun",
+          "honorific": "AS",
+          "variants": [
+            "Aaron"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Named in the surah (21:48).",
+          "source": {
+            "text": "Qur'an 21:48",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-nuh",
+          "canonical": "Nuh",
+          "honorific": "AS",
+          "variants": [
+            "Noah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Named in the surah (21:76).",
+          "source": {
+            "text": "Qur'an 21:76",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-dawud",
+          "canonical": "Dawud",
+          "honorific": "AS",
+          "variants": [
+            "David",
+            "Dawood"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Mountains and birds glorified Allah with him.",
+          "source": {
+            "text": "Qur'an 21:78–79",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-sulayman",
+          "canonical": "Sulayman",
+          "honorific": "AS",
+          "variants": [
+            "Solomon",
+            "Suleiman"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The wind was made to serve him.",
+          "source": {
+            "text": "Qur'an 21:78–81",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-lut",
+          "canonical": "Lut",
+          "honorific": "AS",
+          "variants": [
+            "Lot"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Named in the surah (21:71).",
+          "source": {
+            "text": "Qur'an 21:71",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-ishaq",
+          "canonical": "Ishaq",
+          "honorific": "AS",
+          "variants": [
+            "Isaac"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Named in the surah (21:72).",
+          "source": {
+            "text": "Qur'an 21:72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-yaqub",
+          "canonical": "Ya'qub",
+          "honorific": "AS",
+          "variants": [
+            "Yaqub",
+            "Jacob"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Named in the surah (21:72).",
+          "source": {
+            "text": "Qur'an 21:72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-ayyub",
+          "canonical": "Ayyub",
+          "honorific": "AS",
+          "variants": [
+            "Job",
+            "Ayub"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Harm has touched me, and You are the Most Merciful.\"",
+          "source": {
+            "text": "Qur'an 21:83",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-yunus",
+          "canonical": "Yunus",
+          "honorific": "AS",
+          "variants": [
+            "Jonah",
+            "Dhun-Nun",
+            "Dhun Nun"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Called Dhun-Nun, 'the man of the fish'.",
+          "source": {
+            "text": "Qur'an 21:87",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-ismail",
+          "canonical": "Isma'il",
+          "honorific": "AS",
+          "variants": [
+            "Ismail",
+            "Ishmael"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Named in the surah (21:85).",
+          "source": {
+            "text": "Qur'an 21:85",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-idris",
+          "canonical": "Idris",
+          "honorific": "AS",
+          "variants": [
+            "Enoch"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Named in the surah (21:85).",
+          "source": {
+            "text": "Qur'an 21:85",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-dhul-kifl",
+          "canonical": "Dhul-Kifl",
+          "honorific": "AS",
+          "variants": [
+            "Dhul Kifl",
+            "Zul Kifl"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Named in the surah (21:85).",
+          "source": {
+            "text": "Qur'an 21:85",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-zakariyya",
+          "canonical": "Zakariyya",
+          "honorific": "AS",
+          "variants": [
+            "Zakariya",
+            "Zachariah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"My Lord, do not leave me alone.\"",
+          "source": {
+            "text": "Qur'an 21:89",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-anbiya-prophets-yahya",
+          "canonical": "Yahya",
+          "honorific": "AS",
+          "variants": [
+            "John"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Named in the surah (21:90).",
+          "source": {
+            "text": "Qur'an 21:90",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1018-bonus-qiraat-nafi",
-        "canonical": "Nafi'",
-        "variants": [
-          "Nafi",
-          "Naafi"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "The reader of Madinah.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1018-deeper-servants",
+      "number": 10,
+      "prompt": "Name someone who was freed or served in the Prophet's ﷺ household.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Bilal",
+            "Bilal ibn Rabah"
+          ],
+          "message": "Bilal was freed by Abu Bakr. Try again!"
         }
-      },
-      {
-        "id": "d1018-bonus-qiraat-qalun",
-        "canonical": "Qalun",
-        "variants": [
-          "Qaloon"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "Nafi''s other transmitter, whose reading is used in Libya and Tunisia.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
+      ],
+      "answers": [
+        {
+          "id": "d1018-deeper-servants-zayd-ibn-harithah",
+          "canonical": "Zayd ibn Harithah",
+          "honorific": "RA",
+          "variants": [
+            "Zaid ibn Haritha",
+            "Zayd"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Freed and raised by the Prophet ﷺ — the only Companion named in the Qur'an.",
+          "source": {
+            "text": "Qur'an 33:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-servants-umm-ayman",
+          "canonical": "Umm Ayman",
+          "honorific": "RA",
+          "variants": [
+            "Barakah",
+            "Baraka"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His nurse from childhood, Barakah, freed by him.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-deeper-servants-anas-ibn-malik",
+          "canonical": "Anas ibn Malik",
+          "honorific": "RA",
+          "variants": [
+            "Anas"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Served him for ten years as a boy (he was never a slave).",
+          "source": {
+            "text": "Sahih Muslim 2309",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-deeper-servants-thawban",
+          "canonical": "Thawban",
+          "honorific": "RA",
+          "variants": [
+            "Thawbaan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A freed slave who stayed close to him all his life.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-deeper-servants-abu-rafi",
+          "canonical": "Abu Rafi'",
+          "honorific": "RA",
+          "variants": [
+            "Abu Rafi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A freed slave who brought him the news of al-'Abbas's Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-deeper-servants-safinah",
+          "canonical": "Safinah",
+          "honorific": "RA",
+          "variants": [
+            "Safina"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Nicknamed 'Ship' because he carried so much on a journey.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-deeper-servants-shuqran",
+          "canonical": "Shuqran",
+          "honorific": "RA",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A freed slave who helped prepare his burial.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-deeper-servants-abdullah-ibn-masud",
+          "canonical": "'Abdullah ibn Mas'ud",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Masud",
+            "Abdullah ibn Masud"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Served him, carrying his sandals and miswak.",
+          "source": {
+            "text": "Sahih al-Bukhari 3761",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-deeper-servants-ruwayfi",
+          "canonical": "Ruwayfi'",
+          "honorific": "RA",
+          "variants": [
+            "Ruwayfi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A freed slave of the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1018-bonus-qiraat-abu-amr",
-        "canonical": "Abu 'Amr",
-        "variants": [
-          "Abu Amr",
-          "Abu Amr al-Basri"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "The reader of Basra, read today in parts of Sudan through al-Duri.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1018-deeper-false-prophets",
+      "number": 11,
+      "prompt": "Name someone who falsely claimed prophethood around the Prophet's ﷺ time.",
+      "answers": [
+        {
+          "id": "d1018-deeper-false-prophets-musaylimah",
+          "canonical": "Musaylimah",
+          "variants": [
+            "Musaylimah the Liar",
+            "Musailima",
+            "Musaylimah al-Kadhdhab"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Liar' of al-Yamamah, killed at the Battle of al-Yamamah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-deeper-false-prophets-al-aswad-al-ansi",
+          "canonical": "Al-Aswad al-'Ansi",
+          "variants": [
+            "Aswad al-Ansi",
+            "Al-Aswad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Claimed prophethood in Yemen and was killed before the Prophet ﷺ died.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-deeper-false-prophets-tulayhah",
+          "canonical": "Tulayhah",
+          "variants": [
+            "Tulayhah al-Asadi",
+            "Tulaiha"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Claimed prophethood, was defeated by Khalid, and later repented and became a Muslim.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1018-deeper-false-prophets-sajah",
+          "canonical": "Sajah",
+          "variants": [
+            "Sajaah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A woman who claimed prophethood, allied with Musaylimah, then later accepted Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1018-bonus-qiraat-ibn-kathir",
-        "canonical": "Ibn Kathir",
-        "variants": [
-          "Ibn Katheer",
-          "Ibn Kathir al-Makki"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "The reader of Makkah (not the later commentator).",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1018-deeper-shahadah-conditions",
+      "number": 12,
+      "prompt": "Name one of the conditions of the Shahadah, as listed by the scholars.",
+      "answers": [
+        {
+          "id": "d1018-deeper-shahadah-conditions-knowledge",
+          "canonical": "Knowledge",
+          "variants": [
+            "'Ilm",
+            "Ilm"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Knowing what it means: \"Know that there is no god but Allah.\"",
+          "source": {
+            "text": "Qur'an 47:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-shahadah-conditions-certainty",
+          "canonical": "Certainty",
+          "variants": [
+            "Yaqin",
+            "Yaqeen"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Believing it without doubt.",
+          "source": {
+            "text": "Qur'an 49:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-shahadah-conditions-sincerity",
+          "canonical": "Sincerity",
+          "variants": [
+            "Ikhlas"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Saying it purely for Allah.",
+          "source": {
+            "text": "Qur'an 98:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-shahadah-conditions-truthfulness",
+          "canonical": "Truthfulness",
+          "variants": [
+            "Sidq",
+            "Honesty"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Saying it truly, not like the hypocrites.",
+          "source": {
+            "text": "Qur'an 29:2–3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-shahadah-conditions-love",
+          "canonical": "Love",
+          "variants": [
+            "Mahabbah",
+            "Mahabba"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Loving it, what it stands for and those who live by it.",
+          "source": {
+            "text": "Qur'an 2:165",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-shahadah-conditions-acceptance",
+          "canonical": "Acceptance",
+          "variants": [
+            "Qabul",
+            "Qubool"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Accepting all it requires, rejecting none of it.",
+          "source": {
+            "text": "Qur'an 37:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-shahadah-conditions-submission",
+          "canonical": "Submission",
+          "variants": [
+            "Inqiyad",
+            "Inqiyad",
+            "Compliance"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Acting on it in practice.",
+          "source": {
+            "text": "Qur'an 31:22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1018-deeper-shahadah-conditions-rejecting-false-gods",
+          "canonical": "Rejecting false gods",
+          "variants": [
+            "Kufr bit-Taghut",
+            "Rejecting taghut",
+            "Disbelief in taghut"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Disbelieving in everything worshipped besides Allah.",
+          "source": {
+            "text": "Qur'an 2:256",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1018-bonus-qiraat-ibn-amir",
-        "canonical": "Ibn 'Amir",
-        "variants": [
-          "Ibn Amir",
-          "Ibn Aamir"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "The reader of Damascus.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-hamzah",
-        "canonical": "Hamzah",
-        "variants": [
-          "Hamza",
-          "Hamzah al-Zayyat"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "A reader of Kufa.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-al-kisai",
-        "canonical": "Al-Kisa'i",
-        "variants": [
-          "Kisai",
-          "Al-Kisai"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "A reader of Kufa and a famous grammarian.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-shubah",
-        "canonical": "Shu'bah",
-        "variants": [
-          "Shubah",
-          "Shuba",
-          "Abu Bakr Shubah"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "'Asim's other transmitter.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-al-duri",
-        "canonical": "Al-Duri",
-        "variants": [
-          "Duri",
-          "Ad-Duri"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Transmitted Abu 'Amr's reading (and al-Kisa'i's).",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-abu-jafar",
-        "canonical": "Abu Ja'far",
-        "variants": [
-          "Abu Jafar"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Reader of Madinah, one of the three completing the ten.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-yaqub",
-        "canonical": "Ya'qub",
-        "variants": [
-          "Yaqub",
-          "Yaqub al-Hadrami"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Reader of Basra, one of the three completing the ten.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-khalaf",
-        "canonical": "Khalaf",
-        "variants": [
-          "Khalaf al-Bazzar"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Transmitter of Hamzah and a reader in his own right, completing the ten.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-al-susi",
-        "canonical": "Al-Susi",
-        "variants": [
-          "Susi",
-          "As-Susi"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Abu 'Amr's other transmitter.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-al-bazzi",
-        "canonical": "Al-Bazzi",
-        "variants": [
-          "Bazzi"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "A transmitter of Ibn Kathir.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-qunbul",
-        "canonical": "Qunbul",
-        "variants": [
-          "Qunbal"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "A transmitter of Ibn Kathir.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-hisham",
-        "canonical": "Hisham",
-        "variants": [
-          "Hisham ibn Ammar"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "A transmitter of Ibn 'Amir.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-ibn-dhakwan",
-        "canonical": "Ibn Dhakwan",
-        "variants": [
-          "Ibn Zakwan"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "A transmitter of Ibn 'Amir.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-khallad",
-        "canonical": "Khallad",
-        "variants": [
-          "Khalad"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "A transmitter of Hamzah.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-ruways",
-        "canonical": "Ruways",
-        "variants": [
-          "Ruwais"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "A transmitter of Ya'qub.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-rawh",
-        "canonical": "Rawh",
-        "variants": [
-          "Rauh"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "A transmitter of Ya'qub.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-ibn-wardan",
-        "canonical": "Ibn Wardan",
-        "variants": [],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "A transmitter of Abu Ja'far.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1018-bonus-qiraat-ibn-jammaz",
-        "canonical": "Ibn Jammaz",
-        "variants": [
-          "Ibn Jamaz"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "A transmitter of Abu Ja'far.",
-        "source": {
-          "text": "Ibn al-Jazari, al-Nashr fi al-Qira'at al-'Ashr",
-          "status": "needs-review"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

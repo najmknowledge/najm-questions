@@ -1902,105 +1902,696 @@
       ]
     }
   ],
-  "bonus": {
-    "id": "d1017-bonus-ulul-azm",
-    "number": 7,
-    "prompt": "Name one of the Ulul 'Azm — the five messengers of firm resolve.",
-    "notAccepted": [
-      {
-        "inputs": [
-          "Adam",
-          "Dawud",
-          "Sulayman",
-          "Yusuf",
-          "Yunus",
-          "Ismail",
-          "Harun"
-        ],
-        "message": "A great prophet, but not one of the five of firm resolve. Try again!"
-      }
-    ],
-    "answers": [
-      {
-        "id": "d1017-bonus-ulul-azm-muhammad",
-        "canonical": "Muhammad",
-        "variants": [
-          "Mohammed",
-          "Prophet Muhammad"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "The final messenger ﷺ.",
-        "source": {
-          "text": "Qur'an 33:7; 46:35",
-          "status": "quran-reference"
+  "bonus": [
+    {
+      "id": "d1017-bonus-ulul-azm",
+      "number": 7,
+      "prompt": "Name one of the Ulul 'Azm — the five messengers of firm resolve.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Adam",
+            "Dawud",
+            "Sulayman",
+            "Yusuf",
+            "Yunus",
+            "Ismail",
+            "Harun"
+          ],
+          "message": "A great prophet, but not one of the five of firm resolve. Try again!"
         }
-      },
-      {
-        "id": "d1017-bonus-ulul-azm-ibrahim",
-        "canonical": "Ibrahim",
-        "honorific": "AS",
-        "variants": [
-          "Ibraheem",
-          "Abraham"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "The friend of Allah, father of the prophets.",
-        "source": {
-          "text": "Qur'an 33:7; 42:13",
-          "status": "quran-reference"
+      ],
+      "answers": [
+        {
+          "id": "d1017-bonus-ulul-azm-muhammad",
+          "canonical": "Muhammad",
+          "variants": [
+            "Mohammed",
+            "Prophet Muhammad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The final messenger ﷺ.",
+          "source": {
+            "text": "Qur'an 33:7; 46:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-bonus-ulul-azm-ibrahim",
+          "canonical": "Ibrahim",
+          "honorific": "AS",
+          "variants": [
+            "Ibraheem",
+            "Abraham"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The friend of Allah, father of the prophets.",
+          "source": {
+            "text": "Qur'an 33:7; 42:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-bonus-ulul-azm-musa",
+          "canonical": "Musa",
+          "honorific": "AS",
+          "variants": [
+            "Moosa",
+            "Moses"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Given the Tawrah; Allah spoke to him directly.",
+          "source": {
+            "text": "Qur'an 33:7; 42:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-bonus-ulul-azm-isa",
+          "canonical": "'Isa",
+          "honorific": "AS",
+          "variants": [
+            "Isa",
+            "Eesa",
+            "Jesus"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Son of Maryam, given the Injil.",
+          "source": {
+            "text": "Qur'an 33:7; 42:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-bonus-ulul-azm-nuh",
+          "canonical": "Nuh",
+          "honorific": "AS",
+          "variants": [
+            "Nooh",
+            "Noah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Called his people for 950 years.",
+          "source": {
+            "text": "Qur'an 33:7; 42:13",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1017-bonus-ulul-azm-musa",
-        "canonical": "Musa",
-        "honorific": "AS",
-        "variants": [
-          "Moosa",
-          "Moses"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "Given the Tawrah; Allah spoke to him directly.",
-        "source": {
-          "text": "Qur'an 33:7; 42:13",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1017-deeper-maryam-prophets",
+      "number": 8,
+      "prompt": "Name a prophet mentioned in Surah Maryam.",
+      "answers": [
+        {
+          "id": "d1017-deeper-maryam-prophets-zakariyya",
+          "canonical": "Zakariyya",
+          "honorific": "AS",
+          "variants": [
+            "Zakariya",
+            "Zachariah",
+            "Zakaria"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The surah opens with his prayer for a child.",
+          "source": {
+            "text": "Qur'an 19:2–11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-isa",
+          "canonical": "'Isa",
+          "honorific": "AS",
+          "variants": [
+            "Isa",
+            "Jesus",
+            "Eesa"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Spoke from the cradle to defend his mother.",
+          "source": {
+            "text": "Qur'an 19:29–34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-yahya",
+          "canonical": "Yahya",
+          "honorific": "AS",
+          "variants": [
+            "John"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Given wisdom as a child.",
+          "source": {
+            "text": "Qur'an 19:12–15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-ibrahim",
+          "canonical": "Ibrahim",
+          "honorific": "AS",
+          "variants": [
+            "Abraham"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Called his father away from idols.",
+          "source": {
+            "text": "Qur'an 19:41–50",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-musa",
+          "canonical": "Musa",
+          "honorific": "AS",
+          "variants": [
+            "Moses"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"He was chosen, a messenger and a prophet.\"",
+          "source": {
+            "text": "Qur'an 19:51–53",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-harun",
+          "canonical": "Harun",
+          "honorific": "AS",
+          "variants": [
+            "Aaron"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Given to Musa as a prophet out of Allah's mercy.",
+          "source": {
+            "text": "Qur'an 19:53",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-ismail",
+          "canonical": "Isma'il",
+          "honorific": "AS",
+          "variants": [
+            "Ismail",
+            "Ishmael"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"True to his promise.\"",
+          "source": {
+            "text": "Qur'an 19:54–55",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-idris",
+          "canonical": "Idris",
+          "honorific": "AS",
+          "variants": [
+            "Enoch"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Raised to a high station.",
+          "source": {
+            "text": "Qur'an 19:56–57",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-ishaq",
+          "canonical": "Ishaq",
+          "honorific": "AS",
+          "variants": [
+            "Isaac"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Given to Ibrahim.",
+          "source": {
+            "text": "Qur'an 19:49",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-yaqub",
+          "canonical": "Ya'qub",
+          "honorific": "AS",
+          "variants": [
+            "Yaqub",
+            "Jacob"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Given to Ibrahim through Ishaq.",
+          "source": {
+            "text": "Qur'an 19:49",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-adam",
+          "canonical": "Adam",
+          "honorific": "AS",
+          "variants": [],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named among the forefathers of the prophets.",
+          "source": {
+            "text": "Qur'an 19:58",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-maryam-prophets-nuh",
+          "canonical": "Nuh",
+          "honorific": "AS",
+          "variants": [
+            "Noah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named among the forefathers of the prophets.",
+          "source": {
+            "text": "Qur'an 19:58",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1017-bonus-ulul-azm-isa",
-        "canonical": "'Isa",
-        "honorific": "AS",
-        "variants": [
-          "Isa",
-          "Eesa",
-          "Jesus"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "Son of Maryam, given the Injil.",
-        "source": {
-          "text": "Qur'an 33:7; 42:13",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1017-deeper-four-reciters",
+      "number": 9,
+      "prompt": "Name one of the four Companions the Prophet ﷺ said to learn the Qur'an from.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Zayd ibn Thabit",
+            "Zaid ibn Thabit",
+            "Abu Bakr",
+            "Ali",
+            "Uthman"
+          ],
+          "message": "A great reciter, but not one of the four named in this hadith. Try again!"
         }
-      },
-      {
-        "id": "d1017-bonus-ulul-azm-nuh",
-        "canonical": "Nuh",
-        "honorific": "AS",
-        "variants": [
-          "Nooh",
-          "Noah"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Called his people for 950 years.",
-        "source": {
-          "text": "Qur'an 33:7; 42:13",
-          "status": "quran-reference"
+      ],
+      "answers": [
+        {
+          "id": "d1017-deeper-four-reciters-abdullah-ibn-masud",
+          "canonical": "'Abdullah ibn Mas'ud",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Masud",
+            "Abdullah ibn Masud",
+            "Ibn Mas'ud"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Named first in the hadith.",
+          "source": {
+            "text": "Sahih al-Bukhari 3758",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-four-reciters-ubayy-ibn-kab",
+          "canonical": "Ubayy ibn Ka'b",
+          "honorific": "RA",
+          "variants": [
+            "Ubay ibn Kab",
+            "Ubayy"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Called the master of the reciters.",
+          "source": {
+            "text": "Sahih al-Bukhari 3758",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-four-reciters-muadh-ibn-jabal",
+          "canonical": "Mu'adh ibn Jabal",
+          "honorific": "RA",
+          "variants": [
+            "Muadh ibn Jabal",
+            "Muadh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Sent to teach the people of Yemen.",
+          "source": {
+            "text": "Sahih al-Bukhari 3758",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-four-reciters-salim",
+          "canonical": "Salim",
+          "honorific": "RA",
+          "variants": [
+            "Salim mawla Abi Hudhayfah",
+            "Salim Mawla Abu Hudhayfah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Salim, the freed slave of Abu Hudhayfah, who led prayer before the Prophet ﷺ arrived in Madinah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3758",
+            "status": "needs-review"
+          }
         }
-      }
-    ]
-  }
+      ]
+    },
+    {
+      "id": "d1017-deeper-gates-of-paradise",
+      "number": 10,
+      "prompt": "Name one of the gates of Paradise mentioned in the Hadith.",
+      "answers": [
+        {
+          "id": "d1017-deeper-gates-of-paradise-bab-al-rayyan",
+          "canonical": "Bab al-Rayyan",
+          "variants": [
+            "Rayyan",
+            "Ar-Rayyan",
+            "Gate of fasting"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The gate for those who fasted.",
+          "source": {
+            "text": "Sahih al-Bukhari 1896",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-gates-of-paradise-gate-of-prayer",
+          "canonical": "Gate of Prayer",
+          "variants": [
+            "Bab al-Salah",
+            "Bab as-Salat",
+            "Prayer gate"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "For those devoted to prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 1897",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-gates-of-paradise-gate-of-charity",
+          "canonical": "Gate of Charity",
+          "variants": [
+            "Bab al-Sadaqah",
+            "Charity gate",
+            "Bab as-Sadaqah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "For those devoted to giving.",
+          "source": {
+            "text": "Sahih al-Bukhari 1897",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-gates-of-paradise-gate-of-jihad",
+          "canonical": "Gate of Jihad",
+          "variants": [
+            "Bab al-Jihad",
+            "Jihad gate"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "For those who strove in Allah's cause.",
+          "source": {
+            "text": "Sahih al-Bukhari 1897",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-gates-of-paradise-right-hand-gate",
+          "canonical": "Right-hand gate",
+          "variants": [
+            "Al-Bab al-Ayman",
+            "Bab al-Ayman",
+            "Gate on the right"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "For those who enter Paradise without reckoning.",
+          "source": {
+            "text": "Sahih al-Bukhari 4712",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-gates-of-paradise-gate-of-hajj",
+          "canonical": "Gate of Hajj",
+          "variants": [
+            "Bab al-Hajj"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Mentioned in some reports.",
+          "source": {
+            "text": "Reports collected by Ibn Hajar, Fath al-Bari",
+            "status": "needs-review"
+          },
+          "note": "These reports are weaker than those naming the first four gates."
+        },
+        {
+          "id": "d1017-deeper-gates-of-paradise-gate-of-those-who-restrain-anger",
+          "canonical": "Gate of those who restrain anger",
+          "variants": [
+            "Bab al-Kazimin al-Ghayz"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Mentioned in some reports.",
+          "source": {
+            "text": "Reports collected by Ibn Hajar, Fath al-Bari",
+            "status": "needs-review"
+          },
+          "note": "These reports are weaker than those naming the first four gates."
+        }
+      ]
+    },
+    {
+      "id": "d1017-deeper-envoys",
+      "number": 11,
+      "prompt": "Name a Companion who carried one of the Prophet's ﷺ letters to a ruler.",
+      "answers": [
+        {
+          "id": "d1017-deeper-envoys-dihyah-al-kalbi",
+          "canonical": "Dihyah al-Kalbi",
+          "honorific": "RA",
+          "variants": [
+            "Dihya",
+            "Dihyah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Took the letter to Heraclius; Jibril sometimes appeared in his form.",
+          "source": {
+            "text": "Sahih al-Bukhari 7",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-envoys-abdullah-ibn-hudhafah",
+          "canonical": "'Abdullah ibn Hudhafah",
+          "honorific": "RA",
+          "variants": [
+            "Abdullah ibn Hudhafa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Took the letter to Kisra of Persia.",
+          "source": {
+            "text": "Sahih al-Bukhari 64",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-envoys-amr-ibn-umayyah-al-damri",
+          "canonical": "'Amr ibn Umayyah al-Damri",
+          "honorific": "RA",
+          "variants": [
+            "Amr ibn Umayyah",
+            "Amr ibn Umayya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Took the letter to the Negus.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-envoys-hatib-ibn-abi-baltaah",
+          "canonical": "Hatib ibn Abi Balta'ah",
+          "honorific": "RA",
+          "variants": [
+            "Hatib ibn Abi Baltaah",
+            "Hatib"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Took the letter to al-Muqawqis of Egypt.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-envoys-al-ala-al-hadrami",
+          "canonical": "Al-'Ala' al-Hadrami",
+          "honorific": "RA",
+          "variants": [
+            "Ala al-Hadrami"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Took the letter to al-Mundhir of Bahrain.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-envoys-amr-ibn-al-as",
+          "canonical": "'Amr ibn al-'As",
+          "honorific": "RA",
+          "variants": [
+            "Amr ibn al-As",
+            "Amr ibn Aas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Took the letter to the rulers of Oman.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-envoys-shuja-ibn-wahb",
+          "canonical": "Shuja' ibn Wahb",
+          "honorific": "RA",
+          "variants": [
+            "Shuja ibn Wahb"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Took the letter to al-Harith al-Ghassani.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1017-deeper-envoys-salit-ibn-amr",
+          "canonical": "Salit ibn 'Amr",
+          "honorific": "RA",
+          "variants": [
+            "Salit ibn Amr"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Took the letter to Hawdhah of al-Yamamah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1017-deeper-inna-surahs",
+      "number": 12,
+      "prompt": "Name a surah that begins with \"Inna\" (\"Indeed, We…\").",
+      "answers": [
+        {
+          "id": "d1017-deeper-inna-surahs-al-qadr",
+          "canonical": "Al-Qadr",
+          "variants": [
+            "Qadr",
+            "The Night of Decree"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Indeed, We sent it down on the Night of Decree.\"",
+          "source": {
+            "text": "Qur'an 97:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-inna-surahs-al-kawthar",
+          "canonical": "Al-Kawthar",
+          "variants": [
+            "Kawthar",
+            "Kausar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Indeed, We have given you al-Kawthar.\"",
+          "source": {
+            "text": "Qur'an 108:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-inna-surahs-al-fath",
+          "canonical": "Al-Fath",
+          "variants": [
+            "Fath",
+            "The Victory"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Indeed, We have given you a clear victory.\"",
+          "source": {
+            "text": "Qur'an 48:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1017-deeper-inna-surahs-nuh",
+          "canonical": "Nuh",
+          "variants": [
+            "Nooh",
+            "Noah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Indeed, We sent Nuh to his people.\"",
+          "source": {
+            "text": "Qur'an 71:1",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
 }

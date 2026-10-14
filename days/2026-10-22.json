@@ -1687,139 +1687,906 @@
       ]
     }
   ],
-  "bonus": {
-    "id": "d1022-bonus-time-surahs",
-    "number": 7,
-    "prompt": "Name a surah named after a time of day or a period of time.",
-    "answers": [
-      {
-        "id": "d1022-bonus-time-surahs-al-asr",
-        "canonical": "Al-'Asr",
-        "variants": [
-          "Asr",
-          "Al-Asr",
-          "Time",
-          "The Afternoon"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "'Time' or 'The Afternoon' — three verses on what saves people from loss.",
-        "source": {
-          "text": "Qur'an 103",
-          "status": "quran-reference"
+  "bonus": [
+    {
+      "id": "d1022-bonus-time-surahs",
+      "number": 7,
+      "prompt": "Name a surah named after a time of day or a period of time.",
+      "answers": [
+        {
+          "id": "d1022-bonus-time-surahs-al-asr",
+          "canonical": "Al-'Asr",
+          "variants": [
+            "Asr",
+            "Al-Asr",
+            "Time",
+            "The Afternoon"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'Time' or 'The Afternoon' — three verses on what saves people from loss.",
+          "source": {
+            "text": "Qur'an 103",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-bonus-time-surahs-al-fajr",
+          "canonical": "Al-Fajr",
+          "variants": [
+            "Fajr",
+            "The Dawn"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Dawn'.",
+          "source": {
+            "text": "Qur'an 89",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-bonus-time-surahs-ad-duha",
+          "canonical": "Ad-Duha",
+          "variants": [
+            "Duha",
+            "Ad-Duha",
+            "The Forenoon",
+            "The Morning"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Morning Brightness'.",
+          "source": {
+            "text": "Qur'an 93",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-bonus-time-surahs-al-layl",
+          "canonical": "Al-Layl",
+          "variants": [
+            "Layl",
+            "Lail",
+            "The Night"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Night'.",
+          "source": {
+            "text": "Qur'an 92",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-bonus-time-surahs-al-jumuah",
+          "canonical": "Al-Jumu'ah",
+          "variants": [
+            "Jumuah",
+            "Jummah",
+            "Friday"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'Friday' — the day of congregation.",
+          "source": {
+            "text": "Qur'an 62",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-bonus-time-surahs-al-qadr",
+          "canonical": "Al-Qadr",
+          "variants": [
+            "Qadr",
+            "The Night of Decree",
+            "The Night of Power"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Night of Decree'.",
+          "source": {
+            "text": "Qur'an 97",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-bonus-time-surahs-al-falaq",
+          "canonical": "Al-Falaq",
+          "variants": [
+            "Falaq",
+            "The Daybreak"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Daybreak'.",
+          "source": {
+            "text": "Qur'an 113",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-bonus-time-surahs-ad-dahr",
+          "canonical": "Ad-Dahr",
+          "variants": [
+            "Dahr",
+            "Al-Insan",
+            "Insan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'Time' — another name for Surah al-Insan.",
+          "source": {
+            "text": "Qur'an 76:1",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1022-bonus-time-surahs-al-fajr",
-        "canonical": "Al-Fajr",
-        "variants": [
-          "Fajr",
-          "The Dawn"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "'The Dawn'.",
-        "source": {
-          "text": "Qur'an 89",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1022-deeper-women-scholars",
+      "number": 8,
+      "prompt": "Name a female Companion known for her knowledge or her narrations.",
+      "answers": [
+        {
+          "id": "d1022-deeper-women-scholars-aishah",
+          "canonical": "'Aishah",
+          "honorific": "RA",
+          "variants": [
+            "Aisha",
+            "Ayesha"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Senior Companions came to her with their questions.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3883",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-women-scholars-umm-salamah",
+          "canonical": "Umm Salamah",
+          "honorific": "RA",
+          "variants": [
+            "Umm Salama"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A Mother of the Believers who narrated many hadith and gave wise counsel at Hudaybiyyah.",
+          "source": {
+            "text": "Sahih al-Bukhari 2731",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-women-scholars-hafsah",
+          "canonical": "Hafsah",
+          "honorific": "RA",
+          "variants": [
+            "Hafsa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Kept the first written copy of the Qur'an.",
+          "source": {
+            "text": "Sahih al-Bukhari 4986",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-women-scholars-asma-bint-abi-bakr",
+          "canonical": "Asma' bint Abi Bakr",
+          "honorific": "RA",
+          "variants": [
+            "Asma bint Abi Bakr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Narrated many hadith and lived to about a hundred.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-women-scholars-asma-bint-yazid",
+          "canonical": "Asma' bint Yazid",
+          "honorific": "RA",
+          "variants": [
+            "Asma bint Yazid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Spoke to the Prophet ﷺ on behalf of the women.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-women-scholars-umm-atiyyah",
+          "canonical": "Umm 'Atiyyah",
+          "honorific": "RA",
+          "variants": [
+            "Umm Atiyyah",
+            "Umm Atiya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Narrated how to wash the dead and the women's Eid prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 1253",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-women-scholars-maymunah",
+          "canonical": "Maymunah",
+          "honorific": "RA",
+          "variants": [
+            "Maimuna",
+            "Maymuna"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Mother of the Believers who narrated hadith.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-women-scholars-fatimah-bint-qays",
+          "canonical": "Fatimah bint Qays",
+          "honorific": "RA",
+          "variants": [
+            "Fatima bint Qais"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Narrated the long hadith of Tamim al-Dari and the Dajjal.",
+          "source": {
+            "text": "Sahih Muslim 2942",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-women-scholars-al-shifa-bint-abdullah",
+          "canonical": "Al-Shifa' bint 'Abdullah",
+          "honorific": "RA",
+          "variants": [
+            "Shifa bint Abdullah",
+            "Al-Shifa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Taught women to read and write.",
+          "source": {
+            "text": "Sunan Abi Dawud 3887",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-women-scholars-umm-hani",
+          "canonical": "Umm Hani'",
+          "honorific": "RA",
+          "variants": [
+            "Umm Hani"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Narrated the Prophet's ﷺ Duha prayer on the day Makkah was conquered.",
+          "source": {
+            "text": "Sahih al-Bukhari 357",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-women-scholars-umm-sulaym",
+          "canonical": "Umm Sulaym",
+          "honorific": "RA",
+          "variants": [
+            "Umm Sulaim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mother of Anas, known for asking about matters of religion.",
+          "source": {
+            "text": "Sahih al-Bukhari 130",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1022-bonus-time-surahs-ad-duha",
-        "canonical": "Ad-Duha",
-        "variants": [
-          "Duha",
-          "Ad-Duha",
-          "The Forenoon",
-          "The Morning"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "'The Morning Brightness'.",
-        "source": {
-          "text": "Qur'an 93",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1022-deeper-makkah-places",
+      "number": 9,
+      "prompt": "Name a place in Makkah connected to the Prophet's ﷺ life.",
+      "answers": [
+        {
+          "id": "d1022-deeper-makkah-places-cave-hira",
+          "canonical": "Cave Hira",
+          "variants": [
+            "Hira",
+            "Ghar Hira",
+            "Jabal an-Nur"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Where the first revelation came.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-makkah-places-cave-thawr",
+          "canonical": "Cave Thawr",
+          "variants": [
+            "Thawr",
+            "Ghar Thawr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Where he hid with Abu Bakr on the Hijrah.",
+          "source": {
+            "text": "Qur'an 9:40",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-makkah-places-dar-al-arqam",
+          "canonical": "Dar al-Arqam",
+          "variants": [
+            "House of Arqam",
+            "Darul Arqam"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The house where the early Muslims met in secret.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-makkah-places-safa",
+          "canonical": "Safa",
+          "variants": [
+            "As-Safa",
+            "Mount Safa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Where he first called Quraysh openly to Islam.",
+          "source": {
+            "text": "Sahih al-Bukhari 4770",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-makkah-places-shib-abi-talib",
+          "canonical": "Shi'b Abi Talib",
+          "variants": [
+            "Shib Abi Talib",
+            "Valley of Abu Talib"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The valley where his clan was boycotted.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-makkah-places-jannat-al-mualla",
+          "canonical": "Jannat al-Mu'alla",
+          "variants": [
+            "Al-Mualla",
+            "Jannatul Mualla",
+            "Mualla cemetery"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The cemetery where Khadijah is buried.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-makkah-places-dar-al-nadwah",
+          "canonical": "Dar al-Nadwah",
+          "variants": [
+            "Dar an-Nadwah",
+            "House of Assembly"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Quraysh's meeting house, where they plotted against him.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-makkah-places-house-of-khadijah",
+          "canonical": "House of Khadijah",
+          "variants": [
+            "Khadijah's house"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Where he lived with Khadijah for many years.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-makkah-places-his-birthplace",
+          "canonical": "His birthplace",
+          "variants": [
+            "Birthplace of the Prophet",
+            "Mawlid house"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The house in Suq al-Layl traditionally held to be where he was born.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          },
+          "note": "The exact spot is a matter of historical tradition."
         }
-      },
-      {
-        "id": "d1022-bonus-time-surahs-al-layl",
-        "canonical": "Al-Layl",
-        "variants": [
-          "Layl",
-          "Lail",
-          "The Night"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "'The Night'.",
-        "source": {
-          "text": "Qur'an 92",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1022-deeper-madinah-places",
+      "number": 10,
+      "prompt": "Name a place in Madinah connected to the Prophet's ﷺ life.",
+      "answers": [
+        {
+          "id": "d1022-deeper-madinah-places-quba",
+          "canonical": "Quba",
+          "variants": [
+            "Quba Mosque",
+            "Masjid Quba"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Where he built the first mosque on arrival.",
+          "source": {
+            "text": "Sahih al-Bukhari 3906",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-madinah-places-al-baqi",
+          "canonical": "Al-Baqi'",
+          "variants": [
+            "Baqi",
+            "Jannat al-Baqi",
+            "Jannatul Baqi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The cemetery where many Companions are buried.",
+          "source": {
+            "text": "Sahih Muslim 974",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-madinah-places-mount-uhud",
+          "canonical": "Mount Uhud",
+          "variants": [
+            "Uhud"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"A mountain that loves us and we love it.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 4083",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-madinah-places-al-rawdah",
+          "canonical": "Al-Rawdah",
+          "variants": [
+            "Rawdah",
+            "Riyad al-Jannah",
+            "The Rawdah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Between my house and my pulpit is a garden of the gardens of Paradise.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1196",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-madinah-places-al-suffah",
+          "canonical": "Al-Suffah",
+          "variants": [
+            "Suffah",
+            "Ahl as-Suffah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The shaded platform in the mosque where poor Companions lived.",
+          "source": {
+            "text": "Sahih al-Bukhari 6452",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-madinah-places-masjid-al-qiblatayn",
+          "canonical": "Masjid al-Qiblatayn",
+          "variants": [
+            "Qiblatayn",
+            "Qiblatain"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Linked to the change of qiblah to the Ka'bah.",
+          "source": {
+            "text": "Qur'an 2:144",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-madinah-places-bir-rumah",
+          "canonical": "Bi'r Rumah",
+          "variants": [
+            "Bir Rumah",
+            "Well of Rumah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The well 'Uthman bought and gave to the Muslims.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3703",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-madinah-places-saqifah-of-banu-saidah",
+          "canonical": "Saqifah of Banu Sa'idah",
+          "variants": [
+            "Saqifah",
+            "Saqifah Bani Saidah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Where Abu Bakr was chosen as caliph.",
+          "source": {
+            "text": "Sahih al-Bukhari 3668",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-madinah-places-thaniyyat-al-wada",
+          "canonical": "Thaniyyat al-Wada'",
+          "variants": [
+            "Thaniyyat al-Wada",
+            "Thaniyyatul Wada"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The hill pass where people welcomed and farewelled travellers.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-madinah-places-mount-sal",
+          "canonical": "Mount Sal'",
+          "variants": [
+            "Sal",
+            "Jabal Sal"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Near where the trench was dug.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1022-bonus-time-surahs-al-jumuah",
-        "canonical": "Al-Jumu'ah",
-        "variants": [
-          "Jumuah",
-          "Jummah",
-          "Friday"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "'Friday' — the day of congregation.",
-        "source": {
-          "text": "Qur'an 62",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1022-deeper-firsts",
+      "number": 11,
+      "prompt": "Name someone known for being 'the first' in Islam at something.",
+      "answers": [
+        {
+          "id": "d1022-deeper-firsts-khadijah",
+          "canonical": "Khadijah",
+          "honorific": "RA",
+          "variants": [
+            "Khadija",
+            "Khadijah bint Khuwaylid"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first person to believe in the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-firsts-abu-bakr",
+          "canonical": "Abu Bakr",
+          "honorific": "RA",
+          "variants": [
+            "Abu Bakr as-Siddiq"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first free man to accept Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-firsts-ali",
+          "canonical": "'Ali",
+          "honorific": "RA",
+          "variants": [
+            "Ali ibn Abi Talib"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The first child to accept Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-firsts-sumayyah",
+          "canonical": "Sumayyah",
+          "honorific": "RA",
+          "variants": [
+            "Sumayya",
+            "Sumayyah bint Khayyat"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The first martyr in Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-firsts-bilal",
+          "canonical": "Bilal",
+          "honorific": "RA",
+          "variants": [
+            "Bilal ibn Rabah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The first to call the adhan.",
+          "source": {
+            "text": "Sunan Abi Dawud 499",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-firsts-zayd-ibn-harithah",
+          "canonical": "Zayd ibn Harithah",
+          "honorific": "RA",
+          "variants": [
+            "Zaid ibn Haritha"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The first freed slave to accept Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-firsts-musab-ibn-umayr",
+          "canonical": "Mus'ab ibn 'Umayr",
+          "honorific": "RA",
+          "variants": [
+            "Musab ibn Umayr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The first envoy sent to teach Islam in Madinah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-firsts-sad-ibn-abi-waqqas",
+          "canonical": "Sa'd ibn Abi Waqqas",
+          "honorific": "RA",
+          "variants": [
+            "Sad ibn Abi Waqqas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The first to shoot an arrow in Allah's cause.",
+          "source": {
+            "text": "Sahih al-Bukhari 3728",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-firsts-abdullah-ibn-masud",
+          "canonical": "'Abdullah ibn Mas'ud",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Masud",
+            "Abdullah ibn Masud"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The first to recite the Qur'an aloud publicly in Makkah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1022-bonus-time-surahs-al-qadr",
-        "canonical": "Al-Qadr",
-        "variants": [
-          "Qadr",
-          "The Night of Decree",
-          "The Night of Power"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "'The Night of Decree'.",
-        "source": {
-          "text": "Qur'an 97",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1022-deeper-named-verses",
+      "number": 12,
+      "prompt": "Name a verse of the Qur'an that has its own special name.",
+      "answers": [
+        {
+          "id": "d1022-deeper-named-verses-ayat-al-kursi",
+          "canonical": "Ayat al-Kursi",
+          "variants": [
+            "Ayatul Kursi",
+            "Verse of the Throne",
+            "Ayat ul Kursi"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Verse of the Throne — the greatest verse in the Qur'an.",
+          "source": {
+            "text": "Qur'an 2:255; Sahih Muslim 810",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1022-deeper-named-verses-ayat-al-nur",
+          "canonical": "Ayat al-Nur",
+          "variants": [
+            "Ayatul Nur",
+            "Verse of Light",
+            "Ayat an-Nur"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Verse of Light: \"Allah is the Light of the heavens and the earth.\"",
+          "source": {
+            "text": "Qur'an 24:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-deeper-named-verses-ayat-al-dayn",
+          "canonical": "Ayat al-Dayn",
+          "variants": [
+            "Verse of Debt",
+            "Ayatul Dayn",
+            "Ayat ad-Dayn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Verse of Debt — the longest verse in the Qur'an.",
+          "source": {
+            "text": "Qur'an 2:282",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-deeper-named-verses-ayat-al-hijab",
+          "canonical": "Ayat al-Hijab",
+          "variants": [
+            "Verse of the Hijab"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Verse of the Screen.",
+          "source": {
+            "text": "Qur'an 33:53",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-deeper-named-verses-ayat-al-mubahalah",
+          "canonical": "Ayat al-Mubahalah",
+          "variants": [
+            "Verse of Mubahalah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Verse of Mutual Invocation.",
+          "source": {
+            "text": "Qur'an 3:61",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-deeper-named-verses-ayat-al-tathir",
+          "canonical": "Ayat al-Tathir",
+          "variants": [
+            "Verse of Purification",
+            "Ayat at-Tathir"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Verse of Purification, about the Prophet's ﷺ household.",
+          "source": {
+            "text": "Qur'an 33:33",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-deeper-named-verses-ayat-al-wudu",
+          "canonical": "Ayat al-Wudu'",
+          "variants": [
+            "Ayat al-Wudu",
+            "Verse of Wudu",
+            "Verse of Ablution"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The verse describing ablution.",
+          "source": {
+            "text": "Qur'an 5:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-deeper-named-verses-ayat-al-sayf",
+          "canonical": "Ayat al-Sayf",
+          "variants": [
+            "Verse of the Sword"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Verse of the Sword.",
+          "source": {
+            "text": "Qur'an 9:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1022-deeper-named-verses-ayat-al-kalalah",
+          "canonical": "Ayat al-Kalalah",
+          "variants": [
+            "Verse of Kalalah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The verse on inheritance for one with no parent or child — among the last revealed.",
+          "source": {
+            "text": "Qur'an 4:176; Sahih al-Bukhari 4605",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1022-bonus-time-surahs-al-falaq",
-        "canonical": "Al-Falaq",
-        "variants": [
-          "Falaq",
-          "The Daybreak"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "'The Daybreak'.",
-        "source": {
-          "text": "Qur'an 113",
-          "status": "quran-reference"
-        }
-      },
-      {
-        "id": "d1022-bonus-time-surahs-ad-dahr",
-        "canonical": "Ad-Dahr",
-        "variants": [
-          "Dahr",
-          "Al-Insan",
-          "Insan"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "'Time' — another name for Surah al-Insan.",
-        "source": {
-          "text": "Qur'an 76:1",
-          "status": "quran-reference"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

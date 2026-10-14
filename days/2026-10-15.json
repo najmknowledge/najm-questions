@@ -1531,90 +1531,782 @@
       ]
     }
   ],
-  "bonus": {
-    "id": "d1015-bonus-alhamdulillah",
-    "number": 7,
-    "prompt": "Name a surah that begins with \"Alhamdu lillah\" (\"All praise is for Allah\").",
-    "answers": [
-      {
-        "id": "d1015-bonus-alhamdulillah-al-fatihah",
-        "canonical": "Al-Fatihah",
-        "variants": [
-          "Fatihah",
-          "Fatiha",
-          "Al-Fatiha",
-          "The Opening"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "The Opening: \"All praise is for Allah, Lord of the worlds.\"",
-        "source": {
-          "text": "Qur'an 1:2",
-          "status": "quran-reference"
+  "bonus": [
+    {
+      "id": "d1015-bonus-alhamdulillah",
+      "number": 7,
+      "prompt": "Name a surah that begins with \"Alhamdu lillah\" (\"All praise is for Allah\").",
+      "answers": [
+        {
+          "id": "d1015-bonus-alhamdulillah-al-fatihah",
+          "canonical": "Al-Fatihah",
+          "variants": [
+            "Fatihah",
+            "Fatiha",
+            "Al-Fatiha",
+            "The Opening"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Opening: \"All praise is for Allah, Lord of the worlds.\"",
+          "source": {
+            "text": "Qur'an 1:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-bonus-alhamdulillah-al-kahf",
+          "canonical": "Al-Kahf",
+          "variants": [
+            "Kahf",
+            "The Cave"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"All praise is for Allah, who sent down the Book to His servant.\"",
+          "source": {
+            "text": "Qur'an 18:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-bonus-alhamdulillah-al-anam",
+          "canonical": "Al-An'am",
+          "variants": [
+            "Anam",
+            "Al-Anam",
+            "The Cattle"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"All praise is for Allah, who created the heavens and the earth.\"",
+          "source": {
+            "text": "Qur'an 6:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-bonus-alhamdulillah-saba",
+          "canonical": "Saba'",
+          "variants": [
+            "Saba",
+            "Sheba"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"All praise is for Allah, to whom belongs all in the heavens and the earth.\"",
+          "source": {
+            "text": "Qur'an 34:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-bonus-alhamdulillah-fatir",
+          "canonical": "Fatir",
+          "variants": [
+            "Faatir",
+            "Al-Fatir",
+            "The Originator"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"All praise is for Allah, Originator of the heavens and the earth.\"",
+          "source": {
+            "text": "Qur'an 35:1",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1015-bonus-alhamdulillah-al-kahf",
-        "canonical": "Al-Kahf",
-        "variants": [
-          "Kahf",
-          "The Cave"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "\"All praise is for Allah, who sent down the Book to His servant.\"",
-        "source": {
-          "text": "Qur'an 18:1",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1015-deeper-hawamim",
+      "number": 8,
+      "prompt": "Name one of the seven Hawamim — the surahs that open with \"Ha Mim\".",
+      "answers": [
+        {
+          "id": "d1015-deeper-hawamim-ghafir",
+          "canonical": "Ghafir",
+          "variants": [
+            "Al-Mu'min",
+            "Mumin",
+            "Ghafir",
+            "The Forgiver"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 40, also called al-Mu'min.",
+          "source": {
+            "text": "Qur'an 40:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-hawamim-fussilat",
+          "canonical": "Fussilat",
+          "variants": [
+            "Fussilat",
+            "Ha Mim Sajdah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 41, also called Ha Mim as-Sajdah.",
+          "source": {
+            "text": "Qur'an 41:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-hawamim-ad-dukhan",
+          "canonical": "Ad-Dukhan",
+          "variants": [
+            "Dukhan",
+            "The Smoke"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 44, 'The Smoke'.",
+          "source": {
+            "text": "Qur'an 44:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-hawamim-ash-shura",
+          "canonical": "Ash-Shura",
+          "variants": [
+            "Shura",
+            "Consultation"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 42, 'The Consultation'.",
+          "source": {
+            "text": "Qur'an 42:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-hawamim-az-zukhruf",
+          "canonical": "Az-Zukhruf",
+          "variants": [
+            "Zukhruf",
+            "Ornaments"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 43, 'The Ornaments of Gold'.",
+          "source": {
+            "text": "Qur'an 43:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-hawamim-al-jathiyah",
+          "canonical": "Al-Jathiyah",
+          "variants": [
+            "Jathiyah",
+            "Jathiya",
+            "The Kneeling"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 45, 'The Kneeling'.",
+          "source": {
+            "text": "Qur'an 45:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-hawamim-al-ahqaf",
+          "canonical": "Al-Ahqaf",
+          "variants": [
+            "Ahqaf",
+            "The Sand Dunes"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 46, 'The Sand Dunes'.",
+          "source": {
+            "text": "Qur'an 46:1",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1015-bonus-alhamdulillah-al-anam",
-        "canonical": "Al-An'am",
-        "variants": [
-          "Anam",
-          "Al-Anam",
-          "The Cattle"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "\"All praise is for Allah, who created the heavens and the earth.\"",
-        "source": {
-          "text": "Qur'an 6:1",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1015-deeper-narrators",
+      "number": 9,
+      "prompt": "Name one of the Companions who narrated the most hadith.",
+      "answers": [
+        {
+          "id": "d1015-deeper-narrators-abu-hurayrah",
+          "canonical": "Abu Hurayrah",
+          "honorific": "RA",
+          "variants": [
+            "Abu Huraira",
+            "Abu Hurairah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Narrated more hadith than anyone — over 5,000.",
+          "source": {
+            "text": "Ibn al-Salah, Muqaddimah; al-Suyuti, Tadrib al-Rawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-narrators-aishah",
+          "canonical": "'Aishah",
+          "honorific": "RA",
+          "variants": [
+            "Aisha",
+            "Aishah",
+            "Ayesha"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Mother of the Believers who narrated over 2,000 hadith.",
+          "source": {
+            "text": "Al-Suyuti, Tadrib al-Rawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-narrators-anas-ibn-malik",
+          "canonical": "Anas ibn Malik",
+          "honorific": "RA",
+          "variants": [
+            "Anas",
+            "Anas bin Malik"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Served the Prophet ﷺ for ten years.",
+          "source": {
+            "text": "Al-Suyuti, Tadrib al-Rawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-narrators-ibn-umar",
+          "canonical": "Ibn 'Umar",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Umar",
+            "Abdullah ibn Umar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'Abdullah ibn 'Umar, known for following the Sunnah closely.",
+          "source": {
+            "text": "Al-Suyuti, Tadrib al-Rawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-narrators-ibn-abbas",
+          "canonical": "Ibn 'Abbas",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Abbas",
+            "Abdullah ibn Abbas"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The scholar of the Ummah.",
+          "source": {
+            "text": "Al-Suyuti, Tadrib al-Rawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-narrators-jabir-ibn-abdillah",
+          "canonical": "Jabir ibn 'Abdillah",
+          "honorific": "RA",
+          "variants": [
+            "Jabir",
+            "Jabir ibn Abdullah",
+            "Jabir bin Abdullah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A Companion of Madinah who narrated about 1,500 hadith.",
+          "source": {
+            "text": "Al-Suyuti, Tadrib al-Rawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-narrators-abu-said-al-khudri",
+          "canonical": "Abu Sa'id al-Khudri",
+          "honorific": "RA",
+          "variants": [
+            "Abu Said al-Khudri",
+            "Abu Saeed al-Khudri"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A young Companion of Madinah who narrated over 1,000 hadith.",
+          "source": {
+            "text": "Al-Suyuti, Tadrib al-Rawi",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1015-bonus-alhamdulillah-saba",
-        "canonical": "Saba'",
-        "variants": [
-          "Saba",
-          "Sheba"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "\"All praise is for Allah, to whom belongs all in the heavens and the earth.\"",
-        "source": {
-          "text": "Qur'an 34:1",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1015-deeper-sacred-months",
+      "number": 10,
+      "prompt": "Name one of the four sacred months.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Ramadan",
+            "Ramadhan",
+            "Ramzan"
+          ],
+          "message": "Ramadan is the most blessed month, but it isn't one of the four sacred months. Try again!"
         }
-      },
-      {
-        "id": "d1015-bonus-alhamdulillah-fatir",
-        "canonical": "Fatir",
-        "variants": [
-          "Faatir",
-          "Al-Fatir",
-          "The Originator"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "\"All praise is for Allah, Originator of the heavens and the earth.\"",
-        "source": {
-          "text": "Qur'an 35:1",
-          "status": "quran-reference"
+      ],
+      "answers": [
+        {
+          "id": "d1015-deeper-sacred-months-muharram",
+          "canonical": "Muharram",
+          "variants": [
+            "Muharam",
+            "Moharram"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first month of the year.",
+          "source": {
+            "text": "Qur'an 9:36; Sahih al-Bukhari 3197",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-sacred-months-rajab",
+          "canonical": "Rajab",
+          "variants": [
+            "Rajjab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The seventh month, standing alone between Jumada and Sha'ban.",
+          "source": {
+            "text": "Sahih al-Bukhari 3197",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-sacred-months-dhul-hijjah",
+          "canonical": "Dhul-Hijjah",
+          "variants": [
+            "Dhul Hijjah",
+            "Zul Hijjah",
+            "Dhu al-Hijjah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The month of Hajj.",
+          "source": {
+            "text": "Sahih al-Bukhari 3197",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-sacred-months-dhul-qadah",
+          "canonical": "Dhul-Qa'dah",
+          "variants": [
+            "Dhul Qadah",
+            "Zul Qadah",
+            "Dhu al-Qa'dah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The month before Hajj.",
+          "source": {
+            "text": "Sahih al-Bukhari 3197",
+            "status": "needs-review"
+          }
         }
-      }
-    ]
-  }
+      ]
+    },
+    {
+      "id": "d1015-deeper-hijrah-people",
+      "number": 11,
+      "prompt": "Name someone who played a part in the Hijrah to Madinah.",
+      "answers": [
+        {
+          "id": "d1015-deeper-hijrah-people-abu-bakr",
+          "canonical": "Abu Bakr",
+          "honorific": "RA",
+          "variants": [
+            "Abu Bakr as-Siddiq"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Travelled with the Prophet ﷺ and hid with him in the cave of Thawr.",
+          "source": {
+            "text": "Qur'an 9:40; Sahih al-Bukhari 3905",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-hijrah-people-ali",
+          "canonical": "'Ali",
+          "honorific": "RA",
+          "variants": [
+            "Ali ibn Abi Talib"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Slept in the Prophet's ﷺ bed to fool those waiting to kill him.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-hijrah-people-asma-bint-abi-bakr",
+          "canonical": "Asma' bint Abi Bakr",
+          "honorific": "RA",
+          "variants": [
+            "Asma",
+            "Asma bint Abi Bakr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Brought them food and tied it with her waistband torn in two.",
+          "source": {
+            "text": "Sahih al-Bukhari 2979",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-hijrah-people-suraqah-ibn-malik",
+          "canonical": "Suraqah ibn Malik",
+          "honorific": "RA",
+          "variants": [
+            "Suraqah",
+            "Suraqa ibn Malik"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Chased them for the reward, his horse sank in the sand, and he was promised Kisra's bracelets.",
+          "source": {
+            "text": "Sahih al-Bukhari 3906",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-hijrah-people-abdullah-ibn-urayqit",
+          "canonical": "'Abdullah ibn Urayqit",
+          "variants": [
+            "Ibn Urayqit",
+            "Abdullah ibn Uraiqit",
+            "The guide"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The guide they hired, who knew the desert routes.",
+          "source": {
+            "text": "Sahih al-Bukhari 3905",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-hijrah-people-amir-ibn-fuhayrah",
+          "canonical": "'Amir ibn Fuhayrah",
+          "honorific": "RA",
+          "variants": [
+            "Amir ibn Fuhayrah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Abu Bakr's shepherd, who brought milk and covered their tracks.",
+          "source": {
+            "text": "Sahih al-Bukhari 3905",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-hijrah-people-abdullah-ibn-abi-bakr",
+          "canonical": "'Abdullah ibn Abi Bakr",
+          "honorific": "RA",
+          "variants": [
+            "Abdullah ibn Abi Bakr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Brought them news from Makkah each night.",
+          "source": {
+            "text": "Sahih al-Bukhari 3905",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-hijrah-people-umm-mabad",
+          "canonical": "Umm Ma'bad",
+          "honorific": "RA",
+          "variants": [
+            "Umm Mabad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The woman whose dry goat gave milk when the Prophet ﷺ touched it.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-hijrah-people-buraydah-al-aslami",
+          "canonical": "Buraydah al-Aslami",
+          "honorific": "RA",
+          "variants": [
+            "Buraydah",
+            "Buraida"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Met them on the road with his people and accepted Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1015-deeper-hijrah-people-kulthum-ibn-al-hidm",
+          "canonical": "Kulthum ibn al-Hidm",
+          "honorific": "RA",
+          "variants": [
+            "Kulthum"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Hosted the Prophet ﷺ at Quba.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1015-deeper-sajdah-surahs",
+      "number": 12,
+      "prompt": "Name a surah that contains a verse of prostration (sajdah).",
+      "answers": [
+        {
+          "id": "d1015-deeper-sajdah-surahs-as-sajdah",
+          "canonical": "As-Sajdah",
+          "variants": [
+            "Sajdah",
+            "Sajda",
+            "The Prostration"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 32, named 'The Prostration'.",
+          "source": {
+            "text": "Qur'an 32:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-maryam",
+          "canonical": "Maryam",
+          "variants": [
+            "Mary"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Ends a passage on the prophets with them falling in prostration.",
+          "source": {
+            "text": "Qur'an 19:58",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-an-najm",
+          "canonical": "An-Najm",
+          "variants": [
+            "Najm",
+            "The Star"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Its last verse: \"So prostrate to Allah and worship Him.\"",
+          "source": {
+            "text": "Qur'an 53:62",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-al-alaq",
+          "canonical": "Al-'Alaq",
+          "variants": [
+            "Alaq",
+            "Iqra",
+            "The Clot"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Its last verse: \"Prostrate and draw near.\"",
+          "source": {
+            "text": "Qur'an 96:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-an-nahl",
+          "canonical": "An-Nahl",
+          "variants": [
+            "Nahl",
+            "The Bee"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Contains a verse of prostration (16:50).",
+          "source": {
+            "text": "Qur'an 16:50",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-al-isra",
+          "canonical": "Al-Isra'",
+          "variants": [
+            "Isra",
+            "Al-Isra",
+            "Bani Israil"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Contains a verse of prostration (17:109).",
+          "source": {
+            "text": "Qur'an 17:109",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-al-hajj",
+          "canonical": "Al-Hajj",
+          "variants": [
+            "Hajj"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "It has two verses of prostration by most counts.",
+          "source": {
+            "text": "Qur'an 22:18; 22:77",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-al-araf",
+          "canonical": "Al-A'raf",
+          "variants": [
+            "Araf",
+            "Al-Araf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Its last verse.",
+          "source": {
+            "text": "Qur'an 7:206",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-ar-rad",
+          "canonical": "Ar-Ra'd",
+          "variants": [
+            "Rad",
+            "Ar-Rad",
+            "Thunder"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Contains a verse of prostration (13:15).",
+          "source": {
+            "text": "Qur'an 13:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-al-furqan",
+          "canonical": "Al-Furqan",
+          "variants": [
+            "Furqan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Contains a verse of prostration (25:60).",
+          "source": {
+            "text": "Qur'an 25:60",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-an-naml",
+          "canonical": "An-Naml",
+          "variants": [
+            "Naml",
+            "The Ant"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Contains a verse of prostration (27:26).",
+          "source": {
+            "text": "Qur'an 27:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-sad",
+          "canonical": "Sad",
+          "variants": [
+            "Saad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Scholars differ on whether its prostration is obligatory.",
+          "source": {
+            "text": "Qur'an 38:24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-fussilat",
+          "canonical": "Fussilat",
+          "variants": [
+            "Ha Mim Sajdah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Contains a verse of prostration (41:38).",
+          "source": {
+            "text": "Qur'an 41:38",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1015-deeper-sajdah-surahs-al-inshiqaq",
+          "canonical": "Al-Inshiqaq",
+          "variants": [
+            "Inshiqaq"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Contains a verse of prostration (84:21).",
+          "source": {
+            "text": "Qur'an 84:21",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
 }

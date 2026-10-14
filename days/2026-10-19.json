@@ -1686,248 +1686,749 @@
       ]
     }
   ],
-  "bonus": {
-    "id": "d1019-bonus-commanders",
-    "number": 7,
-    "prompt": "Name a Companion who led Muslim armies in the early conquests.",
-    "notAccepted": [
-      {
-        "inputs": [
-          "Tariq ibn Ziyad",
-          "Musa ibn Nusayr",
-          "Muhammad ibn Qasim",
-          "Salah al-Din",
-          "Saladin",
-          "Qutaybah ibn Muslim"
-        ],
-        "message": "A great commander, but from after the Companions. Try again!"
-      }
-    ],
-    "answers": [
-      {
-        "id": "d1019-bonus-commanders-khalid-ibn-al-walid",
-        "canonical": "Khalid ibn al-Walid",
-        "honorific": "RA",
-        "variants": [
-          "Khalid",
-          "Khalid bin Walid",
-          "Saifullah"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "'The Sword of Allah', victor in Iraq and at Yarmouk.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
+  "bonus": [
+    {
+      "id": "d1019-bonus-commanders",
+      "number": 7,
+      "prompt": "Name a Companion who led Muslim armies in the early conquests.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Tariq ibn Ziyad",
+            "Musa ibn Nusayr",
+            "Muhammad ibn Qasim",
+            "Salah al-Din",
+            "Saladin",
+            "Qutaybah ibn Muslim"
+          ],
+          "message": "A great commander, but from after the Companions. Try again!"
         }
-      },
-      {
-        "id": "d1019-bonus-commanders-amr-ibn-al-as",
-        "canonical": "'Amr ibn al-'As",
-        "honorific": "RA",
-        "variants": [
-          "Amr ibn al-As",
-          "Amr bin Aas",
-          "Amr ibn Aas"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "Led the conquest of Egypt and founded Fustat.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
+      ],
+      "answers": [
+        {
+          "id": "d1019-bonus-commanders-khalid-ibn-al-walid",
+          "canonical": "Khalid ibn al-Walid",
+          "honorific": "RA",
+          "variants": [
+            "Khalid",
+            "Khalid bin Walid",
+            "Saifullah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Sword of Allah', victor in Iraq and at Yarmouk.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-amr-ibn-al-as",
+          "canonical": "'Amr ibn al-'As",
+          "honorific": "RA",
+          "variants": [
+            "Amr ibn al-As",
+            "Amr bin Aas",
+            "Amr ibn Aas"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Led the conquest of Egypt and founded Fustat.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-sad-ibn-abi-waqqas",
+          "canonical": "Sa'd ibn Abi Waqqas",
+          "honorific": "RA",
+          "variants": [
+            "Sad ibn Abi Waqqas",
+            "Saad ibn Abi Waqqas"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Won the Battle of al-Qadisiyyah and took Ctesiphon.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-abu-ubaydah-ibn-al-jarrah",
+          "canonical": "Abu 'Ubaydah ibn al-Jarrah",
+          "honorific": "RA",
+          "variants": [
+            "Abu Ubaydah",
+            "Abu Ubaidah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Commander-in-chief in Syria; took Damascus with Khalid.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-usamah-ibn-zayd",
+          "canonical": "Usamah ibn Zayd",
+          "honorific": "RA",
+          "variants": [
+            "Usama ibn Zayd",
+            "Usamah",
+            "Osama ibn Zaid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Appointed by the Prophet ﷺ, aged about 18, to lead an army to Syria.",
+          "source": {
+            "text": "Sahih al-Bukhari 4469",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-al-muthanna-ibn-harithah",
+          "canonical": "Al-Muthanna ibn Harithah",
+          "honorific": "RA",
+          "variants": [
+            "Muthanna",
+            "Al-Muthanna"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Led the early campaigns in Iraq.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-al-numan-ibn-muqarrin",
+          "canonical": "Al-Nu'man ibn Muqarrin",
+          "honorific": "RA",
+          "variants": [
+            "Numan ibn Muqarrin",
+            "Nu'man"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Commander at Nahavand, where he was martyred.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-abu-musa-al-ashari",
+          "canonical": "Abu Musa al-Ash'ari",
+          "honorific": "RA",
+          "variants": [
+            "Abu Musa",
+            "Abu Musa al-Ashari"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Led campaigns in Khuzistan and southern Persia.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-yazid-ibn-abi-sufyan",
+          "canonical": "Yazid ibn Abi Sufyan",
+          "honorific": "RA",
+          "variants": [
+            "Yazid ibn Abi Sufyan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Led one of the armies sent to Syria.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-shurahbil-ibn-hasanah",
+          "canonical": "Shurahbil ibn Hasanah",
+          "honorific": "RA",
+          "variants": [
+            "Shurahbil"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Led one of the armies sent to Syria and Jordan.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-muawiyah",
+          "canonical": "Mu'awiyah",
+          "honorific": "RA",
+          "variants": [
+            "Muawiyah",
+            "Muawiya ibn Abi Sufyan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Led the first Muslim naval expedition, to Cyprus.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-abdullah-ibn-sad",
+          "canonical": "'Abdullah ibn Sa'd",
+          "honorific": "RA",
+          "variants": [
+            "Abdullah ibn Sad ibn Abi Sarh",
+            "Ibn Abi Sarh"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Led the campaigns in North Africa and the Battle of the Masts at sea.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-iyad-ibn-ghanm",
+          "canonical": "'Iyad ibn Ghanm",
+          "honorific": "RA",
+          "variants": [
+            "Iyad ibn Ghanm"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Took the lands of upper Mesopotamia.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-bonus-commanders-al-ala-al-hadrami",
+          "canonical": "Al-'Ala' al-Hadrami",
+          "honorific": "RA",
+          "variants": [
+            "Ala al-Hadrami",
+            "Al-Ala al-Hadrami"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Led campaigns in Bahrain and eastern Arabia.",
+          "source": {
+            "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1019-bonus-commanders-sad-ibn-abi-waqqas",
-        "canonical": "Sa'd ibn Abi Waqqas",
-        "honorific": "RA",
-        "variants": [
-          "Sad ibn Abi Waqqas",
-          "Saad ibn Abi Waqqas"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "Won the Battle of al-Qadisiyyah and took Ctesiphon.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1019-deeper-sky-surahs",
+      "number": 8,
+      "prompt": "Name a surah named after something in the sky.",
+      "answers": [
+        {
+          "id": "d1019-deeper-sky-surahs-ash-shams",
+          "canonical": "Ash-Shams",
+          "variants": [
+            "Shams",
+            "The Sun"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Sun'.",
+          "source": {
+            "text": "Qur'an 91",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1019-deeper-sky-surahs-al-qamar",
+          "canonical": "Al-Qamar",
+          "variants": [
+            "Qamar",
+            "The Moon"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Moon' — it tells of the moon splitting.",
+          "source": {
+            "text": "Qur'an 54",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1019-deeper-sky-surahs-an-najm",
+          "canonical": "An-Najm",
+          "variants": [
+            "Najm",
+            "The Star"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Star'.",
+          "source": {
+            "text": "Qur'an 53",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1019-deeper-sky-surahs-al-buruj",
+          "canonical": "Al-Buruj",
+          "variants": [
+            "Buruj",
+            "The Constellations"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Great Constellations'.",
+          "source": {
+            "text": "Qur'an 85",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1019-deeper-sky-surahs-at-tariq",
+          "canonical": "At-Tariq",
+          "variants": [
+            "Tariq",
+            "The Night Comer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Night-Comer', the piercing star.",
+          "source": {
+            "text": "Qur'an 86",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1019-bonus-commanders-abu-ubaydah-ibn-al-jarrah",
-        "canonical": "Abu 'Ubaydah ibn al-Jarrah",
-        "honorific": "RA",
-        "variants": [
-          "Abu Ubaydah",
-          "Abu Ubaidah"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "Commander-in-chief in Syria; took Damascus with Khalid.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1019-deeper-arab-prophets",
+      "number": 9,
+      "prompt": "Name one of the prophets sent from among the Arabs.",
+      "answers": [
+        {
+          "id": "d1019-deeper-arab-prophets-muhammad",
+          "canonical": "Muhammad",
+          "variants": [
+            "Prophet Muhammad",
+            "Mohammed"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The final messenger ﷺ, from Quraysh.",
+          "source": {
+            "text": "Sahih Ibn Hibban 361",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-arab-prophets-hud",
+          "canonical": "Hud",
+          "honorific": "AS",
+          "variants": [
+            "Hood"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Sent to 'Ad in southern Arabia.",
+          "source": {
+            "text": "Sahih Ibn Hibban 361; Qur'an 7:65",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-arab-prophets-salih",
+          "canonical": "Salih",
+          "honorific": "AS",
+          "variants": [
+            "Saleh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Sent to Thamud in north-west Arabia.",
+          "source": {
+            "text": "Sahih Ibn Hibban 361; Qur'an 7:73",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-arab-prophets-shuayb",
+          "canonical": "Shu'ayb",
+          "honorific": "AS",
+          "variants": [
+            "Shuayb",
+            "Shoaib",
+            "Shuaib"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sent to Madyan.",
+          "source": {
+            "text": "Sahih Ibn Hibban 361; Qur'an 7:85",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-arab-prophets-ismail",
+          "canonical": "Isma'il",
+          "honorific": "AS",
+          "variants": [
+            "Ismail",
+            "Ishmael"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ancestor of the northern Arabs, who settled in Makkah.",
+          "source": {
+            "text": "Qur'an 14:37; 19:54",
+            "status": "needs-review"
+          },
+          "note": "The hadith naming the four Arab prophets lists Hud, Salih, Shu'ayb and Muhammad ﷺ."
         }
-      },
-      {
-        "id": "d1019-bonus-commanders-usamah-ibn-zayd",
-        "canonical": "Usamah ibn Zayd",
-        "honorific": "RA",
-        "variants": [
-          "Usama ibn Zayd",
-          "Usamah",
-          "Osama ibn Zaid"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "Appointed by the Prophet ﷺ, aged about 18, to lead an army to Syria.",
-        "source": {
-          "text": "Sahih al-Bukhari 4469",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1019-deeper-muadhdhins",
+      "number": 10,
+      "prompt": "Name one of the Prophet's ﷺ mu'adhdhins (callers to prayer).",
+      "answers": [
+        {
+          "id": "d1019-deeper-muadhdhins-bilal",
+          "canonical": "Bilal",
+          "honorific": "RA",
+          "variants": [
+            "Bilal ibn Rabah",
+            "Bilal al-Habashi"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first mu'adhdhin of Islam, with his beautiful voice.",
+          "source": {
+            "text": "Sunan Abi Dawud 499",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-muadhdhins-ibn-umm-maktum",
+          "canonical": "Ibn Umm Maktum",
+          "honorific": "RA",
+          "variants": [
+            "Abdullah ibn Umm Maktum",
+            "Ibn Umm Maktoom"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The blind Companion who gave the second call at Fajr.",
+          "source": {
+            "text": "Sahih al-Bukhari 617",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-muadhdhins-abu-mahdhurah",
+          "canonical": "Abu Mahdhurah",
+          "honorific": "RA",
+          "variants": [
+            "Abu Mahdhura"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The mu'adhdhin of Makkah, taught the adhan by the Prophet ﷺ himself.",
+          "source": {
+            "text": "Sahih Muslim 379",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-muadhdhins-sad-al-qaraz",
+          "canonical": "Sa'd al-Qaraz",
+          "honorific": "RA",
+          "variants": [
+            "Sad al-Qaraz",
+            "Saad al-Qaraz"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The mu'adhdhin of the mosque of Quba.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1019-bonus-commanders-al-muthanna-ibn-harithah",
-        "canonical": "Al-Muthanna ibn Harithah",
-        "honorific": "RA",
-        "variants": [
-          "Muthanna",
-          "Al-Muthanna"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Led the early campaigns in Iraq.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1019-deeper-fasting-days",
+      "number": 11,
+      "prompt": "Name a day on which fasting is forbidden or discouraged.",
+      "answers": [
+        {
+          "id": "d1019-deeper-fasting-days-eid-al-fitr",
+          "canonical": "Eid al-Fitr",
+          "variants": [
+            "Eid ul Fitr",
+            "First of Shawwal"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Fasting on the day of Eid is forbidden.",
+          "source": {
+            "text": "Sahih al-Bukhari 1990",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-fasting-days-eid-al-adha",
+          "canonical": "Eid al-Adha",
+          "variants": [
+            "Eid ul Adha",
+            "Day of Sacrifice"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Fasting on the day of Eid is forbidden.",
+          "source": {
+            "text": "Sahih al-Bukhari 1990",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-fasting-days-days-of-tashriq",
+          "canonical": "Days of Tashriq",
+          "variants": [
+            "Tashriq",
+            "Ayyam at-Tashriq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Days of eating, drinking and remembering Allah.\"",
+          "source": {
+            "text": "Sahih Muslim 1141",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-fasting-days-friday-alone",
+          "canonical": "Friday alone",
+          "variants": [
+            "Friday",
+            "Jumuah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Singling out Friday for fasting is disliked.",
+          "source": {
+            "text": "Sahih al-Bukhari 1985",
+            "status": "needs-review"
+          },
+          "note": "Disliked rather than forbidden; it is fine with a day before or after."
+        },
+        {
+          "id": "d1019-deeper-fasting-days-the-day-of-doubt",
+          "canonical": "The day of doubt",
+          "variants": [
+            "Day of doubt",
+            "30th of Shaban",
+            "Yawm ash-Shakk"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The 30th of Sha'ban, when it is unclear if Ramadan has begun.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 686",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-fasting-days-continuous-fasting",
+          "canonical": "Continuous fasting",
+          "variants": [
+            "Wisal",
+            "Fasting without breaking"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Fasting day and night without breaking (wisal) was forbidden to the Companions.",
+          "source": {
+            "text": "Sahih al-Bukhari 1964",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1019-bonus-commanders-al-numan-ibn-muqarrin",
-        "canonical": "Al-Nu'man ibn Muqarrin",
-        "honorific": "RA",
-        "variants": [
-          "Numan ibn Muqarrin",
-          "Nu'man"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Commander at Nahavand, where he was martyred.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1019-deeper-uhud-martyrs",
+      "number": 12,
+      "prompt": "Name a Companion martyred at the Battle of Uhud.",
+      "answers": [
+        {
+          "id": "d1019-deeper-uhud-martyrs-hamzah",
+          "canonical": "Hamzah",
+          "honorific": "RA",
+          "variants": [
+            "Hamza",
+            "Hamzah ibn Abd al-Muttalib"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Lion of Allah' and 'Master of the Martyrs'.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-uhud-martyrs-musab-ibn-umayr",
+          "canonical": "Mus'ab ibn 'Umayr",
+          "honorific": "RA",
+          "variants": [
+            "Musab ibn Umayr",
+            "Musab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Carried the banner until he fell; too little cloth was left to cover him.",
+          "source": {
+            "text": "Sahih al-Bukhari 1276",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-uhud-martyrs-hanzalah",
+          "canonical": "Hanzalah",
+          "honorific": "RA",
+          "variants": [
+            "Hanzala",
+            "Hanzalah ibn Abi Amir"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Left his wedding night for battle; the angels washed him.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-uhud-martyrs-abdullah-ibn-jahsh",
+          "canonical": "'Abdullah ibn Jahsh",
+          "honorific": "RA",
+          "variants": [
+            "Abdullah ibn Jahsh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Prayed to be martyred the day before.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-uhud-martyrs-anas-ibn-al-nadr",
+          "canonical": "Anas ibn al-Nadr",
+          "honorific": "RA",
+          "variants": [
+            "Anas ibn Nadr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Found with more than eighty wounds.",
+          "source": {
+            "text": "Sahih al-Bukhari 2805",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-uhud-martyrs-sad-ibn-al-rabi",
+          "canonical": "Sa'd ibn al-Rabi'",
+          "honorific": "RA",
+          "variants": [
+            "Sad ibn al-Rabi",
+            "Saad ibn Rabi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sent his last greetings to the Prophet ﷺ as he died.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-uhud-martyrs-abdullah-ibn-amr-ibn-haram",
+          "canonical": "'Abdullah ibn 'Amr ibn Haram",
+          "honorific": "RA",
+          "variants": [
+            "Abdullah ibn Amr ibn Haram"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Jabir's father; Allah spoke to him without a veil.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3010",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-uhud-martyrs-amr-ibn-al-jamuh",
+          "canonical": "'Amr ibn al-Jamuh",
+          "honorific": "RA",
+          "variants": [
+            "Amr ibn al-Jamuh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Lame, yet insisted on fighting and was martyred.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-uhud-martyrs-al-yaman",
+          "canonical": "Al-Yaman",
+          "honorific": "RA",
+          "variants": [
+            "Husayl",
+            "Al-Yaman"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Hudhayfah's father, killed by mistake by Muslims in the confusion.",
+          "source": {
+            "text": "Sahih al-Bukhari 3290",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1019-deeper-uhud-martyrs-khaythamah",
+          "canonical": "Khaythamah",
+          "honorific": "RA",
+          "variants": [
+            "Khaythama"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Whose son had been martyred at Badr.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1019-bonus-commanders-abu-musa-al-ashari",
-        "canonical": "Abu Musa al-Ash'ari",
-        "honorific": "RA",
-        "variants": [
-          "Abu Musa",
-          "Abu Musa al-Ashari"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Led campaigns in Khuzistan and southern Persia.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1019-bonus-commanders-yazid-ibn-abi-sufyan",
-        "canonical": "Yazid ibn Abi Sufyan",
-        "honorific": "RA",
-        "variants": [
-          "Yazid ibn Abi Sufyan"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Led one of the armies sent to Syria.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1019-bonus-commanders-shurahbil-ibn-hasanah",
-        "canonical": "Shurahbil ibn Hasanah",
-        "honorific": "RA",
-        "variants": [
-          "Shurahbil"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Led one of the armies sent to Syria and Jordan.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1019-bonus-commanders-muawiyah",
-        "canonical": "Mu'awiyah",
-        "honorific": "RA",
-        "variants": [
-          "Muawiyah",
-          "Muawiya ibn Abi Sufyan"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Led the first Muslim naval expedition, to Cyprus.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1019-bonus-commanders-abdullah-ibn-sad",
-        "canonical": "'Abdullah ibn Sa'd",
-        "honorific": "RA",
-        "variants": [
-          "Abdullah ibn Sad ibn Abi Sarh",
-          "Ibn Abi Sarh"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Led the campaigns in North Africa and the Battle of the Masts at sea.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1019-bonus-commanders-iyad-ibn-ghanm",
-        "canonical": "'Iyad ibn Ghanm",
-        "honorific": "RA",
-        "variants": [
-          "Iyad ibn Ghanm"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Took the lands of upper Mesopotamia.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1019-bonus-commanders-al-ala-al-hadrami",
-        "canonical": "Al-'Ala' al-Hadrami",
-        "honorific": "RA",
-        "variants": [
-          "Ala al-Hadrami",
-          "Al-Ala al-Hadrami"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Led campaigns in Bahrain and eastern Arabia.",
-        "source": {
-          "text": "Al-Tabari, Tarikh al-Rusul wa al-Muluk; al-Baladhuri, Futuh al-Buldan",
-          "status": "needs-review"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

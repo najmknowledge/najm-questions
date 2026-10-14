@@ -1893,123 +1893,1028 @@
       ]
     }
   ],
-  "bonus": {
-    "id": "d1020-bonus-animal-surahs",
-    "number": 7,
-    "prompt": "Name a surah named after an animal.",
-    "answers": [
-      {
-        "id": "d1020-bonus-animal-surahs-al-baqarah",
-        "canonical": "Al-Baqarah",
-        "variants": [
-          "Baqarah",
-          "Baqara",
-          "The Cow"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "'The Cow' — the longest surah.",
-        "source": {
-          "text": "Qur'an 2:67",
-          "status": "quran-reference"
+  "bonus": [
+    {
+      "id": "d1020-bonus-animal-surahs",
+      "number": 7,
+      "prompt": "Name a surah named after an animal.",
+      "answers": [
+        {
+          "id": "d1020-bonus-animal-surahs-al-baqarah",
+          "canonical": "Al-Baqarah",
+          "variants": [
+            "Baqarah",
+            "Baqara",
+            "The Cow"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'The Cow' — the longest surah.",
+          "source": {
+            "text": "Qur'an 2:67",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-bonus-animal-surahs-al-fil",
+          "canonical": "Al-Fil",
+          "variants": [
+            "Fil",
+            "Feel",
+            "The Elephant"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Elephant' — Abraha's army.",
+          "source": {
+            "text": "Qur'an 105",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-bonus-animal-surahs-an-nahl",
+          "canonical": "An-Nahl",
+          "variants": [
+            "Nahl",
+            "The Bee"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Bee'.",
+          "source": {
+            "text": "Qur'an 16:68",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-bonus-animal-surahs-an-naml",
+          "canonical": "An-Naml",
+          "variants": [
+            "Naml",
+            "The Ant"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Ant' — the ant that spoke as Sulayman's army passed.",
+          "source": {
+            "text": "Qur'an 27:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-bonus-animal-surahs-al-ankabut",
+          "canonical": "Al-'Ankabut",
+          "variants": [
+            "Ankabut",
+            "Ankaboot",
+            "The Spider"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Spider' — the frail home of the spider.",
+          "source": {
+            "text": "Qur'an 29:41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-bonus-animal-surahs-al-anam",
+          "canonical": "Al-An'am",
+          "variants": [
+            "Anam",
+            "Al-Anam",
+            "The Cattle",
+            "Livestock"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Cattle' (livestock).",
+          "source": {
+            "text": "Qur'an 6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-bonus-animal-surahs-al-adiyat",
+          "canonical": "Al-'Adiyat",
+          "variants": [
+            "Adiyat",
+            "Al-Adiyat",
+            "The Chargers",
+            "War horses"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'The Chargers' — horses racing into battle.",
+          "source": {
+            "text": "Qur'an 100:1",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1020-bonus-animal-surahs-al-fil",
-        "canonical": "Al-Fil",
-        "variants": [
-          "Fil",
-          "Feel",
-          "The Elephant"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "'The Elephant' — Abraha's army.",
-        "source": {
-          "text": "Qur'an 105",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1020-deeper-scribes",
+      "number": 8,
+      "prompt": "Name a Companion who wrote down the revelation for the Prophet ﷺ.",
+      "answers": [
+        {
+          "id": "d1020-deeper-scribes-zayd-ibn-thabit",
+          "canonical": "Zayd ibn Thabit",
+          "honorific": "RA",
+          "variants": [
+            "Zaid ibn Thabit"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The best known of the scribes.",
+          "source": {
+            "text": "Sahih al-Bukhari 4986",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-ubayy-ibn-kab",
+          "canonical": "Ubayy ibn Ka'b",
+          "honorific": "RA",
+          "variants": [
+            "Ubay ibn Kab",
+            "Ubayy"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The first to write for the Prophet ﷺ in Madinah.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-ali",
+          "canonical": "'Ali",
+          "honorific": "RA",
+          "variants": [
+            "Ali ibn Abi Talib"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Wrote the Treaty of Hudaybiyyah and revelation.",
+          "source": {
+            "text": "Sahih al-Bukhari 2699",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-uthman",
+          "canonical": "'Uthman",
+          "honorific": "RA",
+          "variants": [
+            "Uthman ibn Affan",
+            "Usman"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Among the scribes of revelation.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-muawiyah",
+          "canonical": "Mu'awiyah",
+          "honorific": "RA",
+          "variants": [
+            "Muawiyah",
+            "Muawiya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Wrote for the Prophet ﷺ after the conquest of Makkah.",
+          "source": {
+            "text": "Sahih Muslim 2501",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-abu-bakr",
+          "canonical": "Abu Bakr",
+          "honorific": "RA",
+          "variants": [
+            "Abu Bakr as-Siddiq"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Among those who wrote for the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-umar",
+          "canonical": "'Umar",
+          "honorific": "RA",
+          "variants": [
+            "Umar ibn al-Khattab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Among those who wrote for the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-khalid-ibn-said",
+          "canonical": "Khalid ibn Sa'id",
+          "honorific": "RA",
+          "variants": [
+            "Khalid ibn Said"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An early Muslim among the scribes.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-hanzalah-al-usaydi",
+          "canonical": "Hanzalah al-Usaydi",
+          "honorific": "RA",
+          "variants": [
+            "Hanzalah al-Katib",
+            "Hanzala al-Usaydi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "So often a scribe that he was called 'al-Katib'.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-aban-ibn-said",
+          "canonical": "Aban ibn Sa'id",
+          "honorific": "RA",
+          "variants": [
+            "Aban ibn Said"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Khalid's brother, also a scribe.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-thabit-ibn-qays",
+          "canonical": "Thabit ibn Qays",
+          "honorific": "RA",
+          "variants": [
+            "Thabit ibn Qais"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Prophet's ﷺ orator, also listed among the scribes.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-abdullah-ibn-al-arqam",
+          "canonical": "'Abdullah ibn al-Arqam",
+          "honorific": "RA",
+          "variants": [
+            "Abdullah ibn Arqam"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Wrote the Prophet's ﷺ letters to rulers.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-scribes-shurahbil-ibn-hasanah",
+          "canonical": "Shurahbil ibn Hasanah",
+          "honorific": "RA",
+          "variants": [
+            "Shurahbil"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Listed among the scribes.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1020-bonus-animal-surahs-an-nahl",
-        "canonical": "An-Nahl",
-        "variants": [
-          "Nahl",
-          "The Bee"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "'The Bee'.",
-        "source": {
-          "text": "Qur'an 16:68",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1020-deeper-refuge",
+      "number": 9,
+      "prompt": "Name something the Prophet ﷺ sought refuge in Allah from in his du'as.",
+      "answers": [
+        {
+          "id": "d1020-deeper-refuge-punishment-of-the-grave",
+          "canonical": "Punishment of the grave",
+          "variants": [
+            "Grave punishment",
+            "Torment of the grave"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He sought refuge from it in every prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 832",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-trial-of-the-dajjal",
+          "canonical": "Trial of the Dajjal",
+          "variants": [
+            "Dajjal",
+            "Fitnah of the Dajjal"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The trial of the False Messiah.",
+          "source": {
+            "text": "Sahih al-Bukhari 832",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-trials-of-life-and-death",
+          "canonical": "Trials of life and death",
+          "variants": [
+            "Trials of life",
+            "Fitnah of life and death"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The trials of living and of dying.",
+          "source": {
+            "text": "Sahih al-Bukhari 832",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-punishment-of-the-fire",
+          "canonical": "Punishment of the Fire",
+          "variants": [
+            "Hellfire",
+            "Punishment of Hell",
+            "The Fire"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The torment of Hell.",
+          "source": {
+            "text": "Sahih Muslim 588",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-debt",
+          "canonical": "Debt",
+          "variants": [
+            "Being in debt",
+            "Sin and debt"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"O Allah, I seek refuge in You from sin and debt.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 832",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-laziness",
+          "canonical": "Laziness",
+          "variants": [
+            "Incapacity",
+            "Lazy"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…from incapacity and laziness.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6369",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-cowardice",
+          "canonical": "Cowardice",
+          "variants": [
+            "Fear",
+            "Being a coward"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…from cowardice and miserliness.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6369",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-miserliness",
+          "canonical": "Miserliness",
+          "variants": [
+            "Stinginess",
+            "Greed"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…from cowardice and miserliness.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6369",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-worry-and-grief",
+          "canonical": "Worry and grief",
+          "variants": [
+            "Worry",
+            "Grief",
+            "Anxiety",
+            "Sadness"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…from worry and grief.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6369",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-old-age",
+          "canonical": "Old age",
+          "variants": [
+            "Senility",
+            "Decrepit old age"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Being returned to the most decrepit old age.",
+          "source": {
+            "text": "Sahih al-Bukhari 6365",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-being-overpowered-by-people",
+          "canonical": "Being overpowered by people",
+          "variants": [
+            "Being overpowered by men",
+            "Oppression"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…from the burden of debt and being overpowered by men.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6369",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-knowledge-that-does-not-benefit",
+          "canonical": "Knowledge that does not benefit",
+          "variants": [
+            "Useless knowledge"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…from knowledge that does not benefit.\"",
+          "source": {
+            "text": "Sahih Muslim 2722",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-refuge-a-heart-that-is-not-humble",
+          "canonical": "A heart that is not humble",
+          "variants": [
+            "Unhumble heart",
+            "A hard heart"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…and from a heart that is not humble.\"",
+          "source": {
+            "text": "Sahih Muslim 2722",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1020-bonus-animal-surahs-an-naml",
-        "canonical": "An-Naml",
-        "variants": [
-          "Naml",
-          "The Ant"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "'The Ant' — the ant that spoke as Sulayman's army passed.",
-        "source": {
-          "text": "Qur'an 27:18",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1020-deeper-founded-cities",
+      "number": 10,
+      "prompt": "Name a city founded by Muslims in the early centuries of Islam.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Makkah",
+            "Mecca",
+            "Madinah",
+            "Medina",
+            "Damascus",
+            "Jerusalem",
+            "Istanbul",
+            "Alexandria"
+          ],
+          "message": "That city existed long before Islam. Try again!"
         }
-      },
-      {
-        "id": "d1020-bonus-animal-surahs-al-ankabut",
-        "canonical": "Al-'Ankabut",
-        "variants": [
-          "Ankabut",
-          "Ankaboot",
-          "The Spider"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "'The Spider' — the frail home of the spider.",
-        "source": {
-          "text": "Qur'an 29:41",
-          "status": "quran-reference"
+      ],
+      "answers": [
+        {
+          "id": "d1020-deeper-founded-cities-baghdad",
+          "canonical": "Baghdad",
+          "variants": [],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Founded by the caliph al-Mansur in 762 as the Round City.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-cairo",
+          "canonical": "Cairo",
+          "variants": [
+            "Al-Qahirah",
+            "Qahirah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Founded by the Fatimids in 969.",
+          "source": {
+            "text": "Al-Maqrizi, al-Khitat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-basra",
+          "canonical": "Basra",
+          "variants": [
+            "Basrah",
+            "Al-Basrah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Founded as a garrison town around 636, under 'Umar.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-kufa",
+          "canonical": "Kufa",
+          "variants": [
+            "Kufah",
+            "Al-Kufah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Founded as a garrison town around 638 by Sa'd ibn Abi Waqqas.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-fustat",
+          "canonical": "Fustat",
+          "variants": [
+            "Al-Fustat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Founded by 'Amr ibn al-'As in Egypt around 641.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-kairouan",
+          "canonical": "Kairouan",
+          "variants": [
+            "Qayrawan",
+            "Kairouan",
+            "Al-Qayrawan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Founded by 'Uqbah ibn Nafi' in Tunisia in 670.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-fez",
+          "canonical": "Fez",
+          "variants": [
+            "Fes",
+            "Fas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Founded by Idris I in 789.",
+          "source": {
+            "text": "Ibn Abi Zar', Rawd al-Qirtas",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-samarra",
+          "canonical": "Samarra",
+          "variants": [
+            "Samarrah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Founded by the caliph al-Mu'tasim in 836.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-wasit",
+          "canonical": "Wasit",
+          "variants": [],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Founded by al-Hajjaj around 702.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-marrakesh",
+          "canonical": "Marrakesh",
+          "variants": [
+            "Marrakech"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Founded by the Almoravids around 1070.",
+          "source": {
+            "text": "Ibn Abi Zar', Rawd al-Qirtas",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-ramla",
+          "canonical": "Ramla",
+          "variants": [
+            "Ramlah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Founded by the Umayyads in Palestine around 715.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-founded-cities-mahdia",
+          "canonical": "Mahdia",
+          "variants": [
+            "Mahdiya",
+            "Al-Mahdiyya"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Founded by the Fatimids in Tunisia in 916.",
+          "source": {
+            "text": "Standard histories",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1020-bonus-animal-surahs-al-anam",
-        "canonical": "Al-An'am",
-        "variants": [
-          "Anam",
-          "Al-Anam",
-          "The Cattle",
-          "Livestock"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "'The Cattle' (livestock).",
-        "source": {
-          "text": "Qur'an 6",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1020-deeper-people-surahs",
+      "number": 11,
+      "prompt": "Name a surah named after a group of people.",
+      "answers": [
+        {
+          "id": "d1020-deeper-people-surahs-quraysh",
+          "canonical": "Quraysh",
+          "variants": [
+            "Quraish"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Prophet's ﷺ tribe.",
+          "source": {
+            "text": "Qur'an 106",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-deeper-people-surahs-ar-rum",
+          "canonical": "Ar-Rum",
+          "variants": [
+            "Rum",
+            "The Romans"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Romans'.",
+          "source": {
+            "text": "Qur'an 30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-deeper-people-surahs-al-kafirun",
+          "canonical": "Al-Kafirun",
+          "variants": [
+            "Kafirun",
+            "The Disbelievers"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Disbelievers'.",
+          "source": {
+            "text": "Qur'an 109",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-deeper-people-surahs-al-munafiqun",
+          "canonical": "Al-Munafiqun",
+          "variants": [
+            "Munafiqun",
+            "The Hypocrites"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Hypocrites'.",
+          "source": {
+            "text": "Qur'an 63",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-deeper-people-surahs-al-muminun",
+          "canonical": "Al-Mu'minun",
+          "variants": [
+            "Muminun",
+            "Al-Muminun",
+            "The Believers"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Believers'.",
+          "source": {
+            "text": "Qur'an 23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-deeper-people-surahs-al-jinn",
+          "canonical": "Al-Jinn",
+          "variants": [
+            "Jinn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Jinn'.",
+          "source": {
+            "text": "Qur'an 72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-deeper-people-surahs-an-nas",
+          "canonical": "An-Nas",
+          "variants": [
+            "Nas",
+            "Mankind"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'Mankind'.",
+          "source": {
+            "text": "Qur'an 114",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-deeper-people-surahs-al-ahzab",
+          "canonical": "Al-Ahzab",
+          "variants": [
+            "Ahzab",
+            "The Confederates"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Confederates'.",
+          "source": {
+            "text": "Qur'an 33",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-deeper-people-surahs-al-mutaffifin",
+          "canonical": "Al-Mutaffifin",
+          "variants": [
+            "Mutaffifin",
+            "The Defrauders"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Defrauders' who give short measure.",
+          "source": {
+            "text": "Qur'an 83",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1020-deeper-people-surahs-as-saffat",
+          "canonical": "As-Saffat",
+          "variants": [
+            "Saffat",
+            "Those in ranks"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'Those Ranged in Ranks' — the angels.",
+          "source": {
+            "text": "Qur'an 37",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1020-bonus-animal-surahs-al-adiyat",
-        "canonical": "Al-'Adiyat",
-        "variants": [
-          "Adiyat",
-          "Al-Adiyat",
-          "The Chargers",
-          "War horses"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "'The Chargers' — horses racing into battle.",
-        "source": {
-          "text": "Qur'an 100:1",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1020-deeper-governors",
+      "number": 12,
+      "prompt": "Name a Companion the Prophet ﷺ appointed as a governor or judge.",
+      "answers": [
+        {
+          "id": "d1020-deeper-governors-muadh-ibn-jabal",
+          "canonical": "Mu'adh ibn Jabal",
+          "honorific": "RA",
+          "variants": [
+            "Muadh ibn Jabal",
+            "Muadh"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Sent to Yemen to teach and judge.",
+          "source": {
+            "text": "Sahih al-Bukhari 1395",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-governors-abu-musa-al-ashari",
+          "canonical": "Abu Musa al-Ash'ari",
+          "honorific": "RA",
+          "variants": [
+            "Abu Musa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Sent to Yemen alongside Mu'adh.",
+          "source": {
+            "text": "Sahih al-Bukhari 4341",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-governors-ali",
+          "canonical": "'Ali",
+          "honorific": "RA",
+          "variants": [
+            "Ali ibn Abi Talib"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Sent to Yemen as a judge.",
+          "source": {
+            "text": "Sunan Abi Dawud 3582",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-governors-attab-ibn-asid",
+          "canonical": "'Attab ibn Asid",
+          "honorific": "RA",
+          "variants": [
+            "Attab ibn Usayd",
+            "Attab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Made governor of Makkah after its conquest, still a young man.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-governors-amr-ibn-al-as",
+          "canonical": "'Amr ibn al-'As",
+          "honorific": "RA",
+          "variants": [
+            "Amr ibn al-As"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Governor of Oman.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-governors-al-ala-al-hadrami",
+          "canonical": "Al-'Ala' al-Hadrami",
+          "honorific": "RA",
+          "variants": [
+            "Ala al-Hadrami"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Governor of Bahrain.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-governors-badhan",
+          "canonical": "Badhan",
+          "honorific": "RA",
+          "variants": [
+            "Bazan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Persian governor of Yemen who embraced Islam and kept his post.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-governors-uthman-ibn-abi-al-as",
+          "canonical": "'Uthman ibn Abi al-'As",
+          "honorific": "RA",
+          "variants": [
+            "Uthman ibn Abi al-As"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Governor of Ta'if, the youngest of its delegation.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1020-deeper-governors-khalid-ibn-said",
+          "canonical": "Khalid ibn Sa'id",
+          "honorific": "RA",
+          "variants": [
+            "Khalid ibn Said"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Sent to San'a' in Yemen.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
         }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }

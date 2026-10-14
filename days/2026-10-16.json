@@ -1751,140 +1751,748 @@
       ]
     }
   ],
-  "bonus": {
-    "id": "d1016-bonus-prophet-surahs",
-    "number": 7,
-    "prompt": "Name a surah named after a prophet.",
-    "notAccepted": [
-      {
-        "inputs": [
-          "Maryam",
-          "Mary"
-        ],
-        "message": "Maryam is greatly honoured, but she wasn't a prophet. Try again!"
-      },
-      {
-        "inputs": [
-          "Luqman"
-        ],
-        "message": "Most scholars hold that Luqman was a wise man, not a prophet. Try again!"
-      },
-      {
-        "inputs": [
-          "Taha",
-          "Ta Ha",
-          "Yasin",
-          "Ya Sin"
-        ],
-        "message": "Scholars differ over whether these are names of the Prophet ﷺ. Try another!"
-      }
-    ],
-    "answers": [
-      {
-        "id": "d1016-bonus-prophet-surahs-yusuf",
-        "canonical": "Yusuf",
-        "variants": [
-          "Yousuf",
-          "Joseph",
-          "Surah Yusuf"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "Surah 12, telling his whole story — \"the best of stories\".",
-        "source": {
-          "text": "Qur'an 12:3",
-          "status": "quran-reference"
+  "bonus": [
+    {
+      "id": "d1016-bonus-prophet-surahs",
+      "number": 7,
+      "prompt": "Name a surah named after a prophet.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Maryam",
+            "Mary"
+          ],
+          "message": "Maryam is greatly honoured, but she wasn't a prophet. Try again!"
+        },
+        {
+          "inputs": [
+            "Luqman"
+          ],
+          "message": "Most scholars hold that Luqman was a wise man, not a prophet. Try again!"
+        },
+        {
+          "inputs": [
+            "Taha",
+            "Ta Ha",
+            "Yasin",
+            "Ya Sin"
+          ],
+          "message": "Scholars differ over whether these are names of the Prophet ﷺ. Try another!"
         }
-      },
-      {
-        "id": "d1016-bonus-prophet-surahs-yunus",
-        "canonical": "Yunus",
-        "variants": [
-          "Younus",
-          "Jonah"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "Surah 10.",
-        "source": {
-          "text": "Qur'an 10",
-          "status": "quran-reference"
+      ],
+      "answers": [
+        {
+          "id": "d1016-bonus-prophet-surahs-yusuf",
+          "canonical": "Yusuf",
+          "variants": [
+            "Yousuf",
+            "Joseph",
+            "Surah Yusuf"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 12, telling his whole story — \"the best of stories\".",
+          "source": {
+            "text": "Qur'an 12:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-bonus-prophet-surahs-yunus",
+          "canonical": "Yunus",
+          "variants": [
+            "Younus",
+            "Jonah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 10.",
+          "source": {
+            "text": "Qur'an 10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-bonus-prophet-surahs-ibrahim",
+          "canonical": "Ibrahim",
+          "variants": [
+            "Ibraheem",
+            "Abraham"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 14, containing his prayer for Makkah.",
+          "source": {
+            "text": "Qur'an 14:35–41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-bonus-prophet-surahs-hud",
+          "canonical": "Hud",
+          "variants": [
+            "Hood"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 11; the Prophet ﷺ said it turned his hair grey.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 3297",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-bonus-prophet-surahs-nuh",
+          "canonical": "Nuh",
+          "variants": [
+            "Nooh",
+            "Noah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 71, entirely about his call to his people.",
+          "source": {
+            "text": "Qur'an 71",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-bonus-prophet-surahs-muhammad",
+          "canonical": "Muhammad",
+          "variants": [
+            "Mohammed"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 47, named after the Prophet ﷺ.",
+          "source": {
+            "text": "Qur'an 47:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-bonus-prophet-surahs-al-anbiya",
+          "canonical": "Al-Anbiya'",
+          "variants": [
+            "Anbiya",
+            "Al-Anbiya",
+            "The Prophets"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 21, 'The Prophets', naming many of them.",
+          "source": {
+            "text": "Qur'an 21",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1016-bonus-prophet-surahs-ibrahim",
-        "canonical": "Ibrahim",
-        "variants": [
-          "Ibraheem",
-          "Abraham"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "Surah 14, containing his prayer for Makkah.",
-        "source": {
-          "text": "Qur'an 14:35–41",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1016-deeper-prophet-sons",
+      "number": 8,
+      "prompt": "Name a prophet whose father was also a prophet.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "'Isa",
+            "Isa",
+            "Jesus"
+          ],
+          "message": "'Isa was born without a father. Try again!"
+        },
+        {
+          "inputs": [
+            "Harun",
+            "Aaron"
+          ],
+          "message": "Harun was Musa's brother. Try again!"
         }
-      },
-      {
-        "id": "d1016-bonus-prophet-surahs-hud",
-        "canonical": "Hud",
-        "variants": [
-          "Hood"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "Surah 11; the Prophet ﷺ said it turned his hair grey.",
-        "source": {
-          "text": "Sunan al-Tirmidhi 3297",
-          "status": "needs-review"
+      ],
+      "answers": [
+        {
+          "id": "d1016-deeper-prophet-sons-yusuf",
+          "canonical": "Yusuf",
+          "honorific": "AS",
+          "variants": [
+            "Joseph",
+            "Yousuf"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Son of Ya'qub.",
+          "source": {
+            "text": "Qur'an 12:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-prophet-sons-sulayman",
+          "canonical": "Sulayman",
+          "honorific": "AS",
+          "variants": [
+            "Solomon",
+            "Suleiman",
+            "Sulaiman"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Son of Dawud, who inherited from him.",
+          "source": {
+            "text": "Qur'an 27:16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-prophet-sons-ismail",
+          "canonical": "Isma'il",
+          "honorific": "AS",
+          "variants": [
+            "Ismail",
+            "Ishmael"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of Ibrahim.",
+          "source": {
+            "text": "Qur'an 2:127; 2:133",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-prophet-sons-ishaq",
+          "canonical": "Ishaq",
+          "honorific": "AS",
+          "variants": [
+            "Isaac",
+            "Ishaaq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of Ibrahim.",
+          "source": {
+            "text": "Qur'an 2:133; 11:71",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-prophet-sons-yaqub",
+          "canonical": "Ya'qub",
+          "honorific": "AS",
+          "variants": [
+            "Yaqub",
+            "Jacob"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Son of Ishaq.",
+          "source": {
+            "text": "Qur'an 2:133; 12:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-prophet-sons-yahya",
+          "canonical": "Yahya",
+          "honorific": "AS",
+          "variants": [
+            "John",
+            "Yahya ibn Zakariyya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Son of Zakariyya.",
+          "source": {
+            "text": "Qur'an 19:7",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1016-bonus-prophet-surahs-nuh",
-        "canonical": "Nuh",
-        "variants": [
-          "Nooh",
-          "Noah"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "Surah 71, entirely about his call to his people.",
-        "source": {
-          "text": "Qur'an 71",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1016-deeper-mushaf-committee",
+      "number": 9,
+      "prompt": "Name one of the Companions 'Uthman appointed to copy the standard Mushaf.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Hudhayfah",
+            "Hudhayfah ibn al-Yaman"
+          ],
+          "message": "Hudhayfah urged 'Uthman to do it, but wasn't on the committee. Try again!"
+        },
+        {
+          "inputs": [
+            "Hafsah",
+            "Hafsa"
+          ],
+          "message": "Hafsah kept the first written copy, but wasn't on the committee. Try again!"
         }
-      },
-      {
-        "id": "d1016-bonus-prophet-surahs-muhammad",
-        "canonical": "Muhammad",
-        "variants": [
-          "Mohammed"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "Surah 47, named after the Prophet ﷺ.",
-        "source": {
-          "text": "Qur'an 47:2",
-          "status": "quran-reference"
+      ],
+      "answers": [
+        {
+          "id": "d1016-deeper-mushaf-committee-zayd-ibn-thabit",
+          "canonical": "Zayd ibn Thabit",
+          "honorific": "RA",
+          "variants": [
+            "Zaid ibn Thabit",
+            "Zayd bin Thabit"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Led the work — he had also gathered the Qur'an under Abu Bakr.",
+          "source": {
+            "text": "Sahih al-Bukhari 4987",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-mushaf-committee-abdullah-ibn-al-zubayr",
+          "canonical": "'Abdullah ibn al-Zubayr",
+          "honorific": "RA",
+          "variants": [
+            "Ibn al-Zubayr",
+            "Abdullah ibn Zubayr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of the three Qurashi members of the committee.",
+          "source": {
+            "text": "Sahih al-Bukhari 4987",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-mushaf-committee-said-ibn-al-as",
+          "canonical": "Sa'id ibn al-'As",
+          "honorific": "RA",
+          "variants": [
+            "Said ibn al-As",
+            "Saeed ibn al-Aas"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One of the three Qurashi members of the committee.",
+          "source": {
+            "text": "Sahih al-Bukhari 4987",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-mushaf-committee-abd-al-rahman-ibn-al-harith",
+          "canonical": "'Abd al-Rahman ibn al-Harith",
+          "honorific": "RA",
+          "variants": [
+            "Abdur Rahman ibn al-Harith",
+            "Abd al-Rahman ibn al-Harith ibn Hisham"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "One of the three Qurashi members of the committee.",
+          "source": {
+            "text": "Sahih al-Bukhari 4987",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1016-bonus-prophet-surahs-al-anbiya",
-        "canonical": "Al-Anbiya'",
-        "variants": [
-          "Anbiya",
-          "Al-Anbiya",
-          "The Prophets"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Surah 21, 'The Prophets', naming many of them.",
-        "source": {
-          "text": "Qur'an 21",
-          "status": "quran-reference"
+      ]
+    },
+    {
+      "id": "d1016-deeper-hajj-days",
+      "number": 10,
+      "prompt": "Name one of the days of Hajj by its name.",
+      "answers": [
+        {
+          "id": "d1016-deeper-hajj-days-day-of-arafah",
+          "canonical": "Day of 'Arafah",
+          "variants": [
+            "Yawm Arafah",
+            "Arafah",
+            "Day of Arafat"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "9 Dhul-Hijjah, the standing at Arafah.",
+          "source": {
+            "text": "Sunan al-Tirmidhi 889",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-hajj-days-yawm-at-tarwiyah",
+          "canonical": "Yawm at-Tarwiyah",
+          "variants": [
+            "Tarwiyah",
+            "Day of Tarwiyah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "8 Dhul-Hijjah, when pilgrims set out for Mina.",
+          "source": {
+            "text": "Sahih Muslim 1218",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-hajj-days-yawm-an-nahr",
+          "canonical": "Yawm an-Nahr",
+          "variants": [
+            "Day of Sacrifice",
+            "Nahr",
+            "Yawm al-Nahr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "10 Dhul-Hijjah, the Day of Sacrifice — the greatest day of Hajj.",
+          "source": {
+            "text": "Sunan Abi Dawud 1765",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-hajj-days-days-of-tashriq",
+          "canonical": "Days of Tashriq",
+          "variants": [
+            "Tashriq",
+            "Ayyam at-Tashriq"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "11–13 Dhul-Hijjah, spent in Mina.",
+          "source": {
+            "text": "Sahih Muslim 1141",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-hajj-days-yawm-al-qarr",
+          "canonical": "Yawm al-Qarr",
+          "variants": [
+            "Day of Staying",
+            "Qarr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "11 Dhul-Hijjah, the 'day of staying' in Mina.",
+          "source": {
+            "text": "Sunan Abi Dawud 1765",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-hajj-days-yawm-an-nafr-al-awwal",
+          "canonical": "Yawm an-Nafr al-Awwal",
+          "variants": [
+            "First Nafr",
+            "First day of departure",
+            "Nafr al-Awwal"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "12 Dhul-Hijjah, when pilgrims in a hurry may leave Mina.",
+          "source": {
+            "text": "Qur'an 2:203",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-hajj-days-yawm-an-nafr-ath-thani",
+          "canonical": "Yawm an-Nafr ath-Thani",
+          "variants": [
+            "Second Nafr",
+            "Second day of departure",
+            "Nafr ath-Thani"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "13 Dhul-Hijjah, the last day of departure from Mina.",
+          "source": {
+            "text": "Qur'an 2:203",
+            "status": "quran-reference"
+          }
         }
-      }
-    ]
-  }
+      ]
+    },
+    {
+      "id": "d1016-deeper-opponents",
+      "number": 11,
+      "prompt": "Name one of the leaders of Quraysh who opposed the Prophet ﷺ in Makkah.",
+      "answers": [
+        {
+          "id": "d1016-deeper-opponents-abu-jahl",
+          "canonical": "Abu Jahl",
+          "variants": [
+            "Amr ibn Hisham",
+            "Abu al-Hakam"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The fiercest enemy of Islam, killed at Badr.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-opponents-abu-lahab",
+          "canonical": "Abu Lahab",
+          "variants": [
+            "Abdul Uzza"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Prophet's ﷺ own uncle; Surah al-Masad is about him.",
+          "source": {
+            "text": "Qur'an 111",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-opponents-umayyah-ibn-khalaf",
+          "canonical": "Umayyah ibn Khalaf",
+          "variants": [
+            "Umayya ibn Khalaf"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Bilal's master, who tortured him on the burning sand.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-opponents-abu-sufyan",
+          "canonical": "Abu Sufyan",
+          "variants": [
+            "Abu Sufyan ibn Harb"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Led Quraysh against the Muslims for years, then embraced Islam at the conquest of Makkah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-opponents-al-walid-ibn-al-mughirah",
+          "canonical": "Al-Walid ibn al-Mughirah",
+          "variants": [
+            "Walid ibn Mughirah",
+            "Al-Walid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Called the Qur'an magic; many link Surah al-Muddaththir 74:11–25 to him.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-opponents-utbah-ibn-rabiah",
+          "canonical": "'Utbah ibn Rabi'ah",
+          "variants": [
+            "Utbah ibn Rabiah",
+            "Utba"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Offered the Prophet ﷺ wealth and power to stop preaching.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-opponents-uqbah-ibn-abi-muayt",
+          "canonical": "'Uqbah ibn Abi Mu'ayt",
+          "variants": [
+            "Uqbah ibn Abi Muayt",
+            "Uqba"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Threw a camel's entrails on the Prophet ﷺ as he prayed.",
+          "source": {
+            "text": "Sahih al-Bukhari 240",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-opponents-al-as-ibn-wail",
+          "canonical": "Al-'As ibn Wa'il",
+          "variants": [
+            "As ibn Wail",
+            "Al-As ibn Wail"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mocked the Prophet ﷺ for having no surviving sons.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-opponents-al-nadr-ibn-al-harith",
+          "canonical": "Al-Nadr ibn al-Harith",
+          "variants": [
+            "Nadr ibn al-Harith",
+            "An-Nadr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Told Persian tales to distract people from the Qur'an.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-opponents-shaybah-ibn-rabiah",
+          "canonical": "Shaybah ibn Rabi'ah",
+          "variants": [
+            "Shaybah",
+            "Shaiba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'Utbah's brother, killed at Badr.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1016-deeper-opponents-umm-jamil",
+          "canonical": "Umm Jamil",
+          "variants": [
+            "Wife of Abu Lahab"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Abu Lahab's wife, 'the carrier of firewood'.",
+          "source": {
+            "text": "Qur'an 111:4",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1016-deeper-idha-surahs",
+      "number": 12,
+      "prompt": "Name a surah that begins with \"Idha\" (\"When…\").",
+      "answers": [
+        {
+          "id": "d1016-deeper-idha-surahs-an-nasr",
+          "canonical": "An-Nasr",
+          "variants": [
+            "Nasr",
+            "The Victory"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"When the victory of Allah comes, and the conquest.\"",
+          "source": {
+            "text": "Qur'an 110:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-idha-surahs-az-zalzalah",
+          "canonical": "Az-Zalzalah",
+          "variants": [
+            "Zalzalah",
+            "Zilzal",
+            "The Earthquake"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"When the earth is shaken with its quake.\"",
+          "source": {
+            "text": "Qur'an 99:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-idha-surahs-al-waqiah",
+          "canonical": "Al-Waqi'ah",
+          "variants": [
+            "Waqiah",
+            "Al-Waqiah",
+            "The Event"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"When the Event befalls.\"",
+          "source": {
+            "text": "Qur'an 56:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-idha-surahs-at-takwir",
+          "canonical": "At-Takwir",
+          "variants": [
+            "Takwir",
+            "The Folding Up"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"When the sun is wrapped up.\"",
+          "source": {
+            "text": "Qur'an 81:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-idha-surahs-al-munafiqun",
+          "canonical": "Al-Munafiqun",
+          "variants": [
+            "Munafiqun",
+            "The Hypocrites"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"When the hypocrites come to you…\"",
+          "source": {
+            "text": "Qur'an 63:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-idha-surahs-al-infitar",
+          "canonical": "Al-Infitar",
+          "variants": [
+            "Infitar",
+            "The Cleaving"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"When the sky breaks apart.\"",
+          "source": {
+            "text": "Qur'an 82:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1016-deeper-idha-surahs-al-inshiqaq",
+          "canonical": "Al-Inshiqaq",
+          "variants": [
+            "Inshiqaq",
+            "The Splitting"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"When the sky is split open.\"",
+          "source": {
+            "text": "Qur'an 84:1",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
 }

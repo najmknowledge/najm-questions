@@ -2103,264 +2103,1108 @@
       ]
     }
   ],
-  "bonus": {
-    "id": "d1021-bonus-abyssinia",
-    "number": 7,
-    "prompt": "Name a Companion who emigrated to Abyssinia.",
-    "answers": [
-      {
-        "id": "d1021-bonus-abyssinia-jafar-ibn-abi-talib",
-        "canonical": "Ja'far ibn Abi Talib",
-        "honorific": "RA",
-        "variants": [
-          "Jafar",
-          "Jafar ibn Abi Talib",
-          "Jafar at-Tayyar"
-        ],
-        "rarity": "ignition",
-        "distanceKm": 1000,
-        "explanation": "Led the emigrants and recited Surah Maryam before the Negus.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
+  "bonus": [
+    {
+      "id": "d1021-bonus-abyssinia",
+      "number": 7,
+      "prompt": "Name a Companion who emigrated to Abyssinia.",
+      "answers": [
+        {
+          "id": "d1021-bonus-abyssinia-jafar-ibn-abi-talib",
+          "canonical": "Ja'far ibn Abi Talib",
+          "honorific": "RA",
+          "variants": [
+            "Jafar",
+            "Jafar ibn Abi Talib",
+            "Jafar at-Tayyar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Led the emigrants and recited Surah Maryam before the Negus.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-uthman-ibn-affan",
+          "canonical": "'Uthman ibn 'Affan",
+          "honorific": "RA",
+          "variants": [
+            "Uthman",
+            "Uthman ibn Affan",
+            "Usman"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Among the first to go, with his wife Ruqayyah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-ruqayyah",
+          "canonical": "Ruqayyah",
+          "honorific": "RA",
+          "variants": [
+            "Ruqayya",
+            "Ruqaiya",
+            "Ruqayyah bint Muhammad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet's ﷺ daughter, who emigrated with 'Uthman.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-umm-salamah",
+          "canonical": "Umm Salamah",
+          "honorific": "RA",
+          "variants": [
+            "Umm Salama",
+            "Hind bint Abi Umayyah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She later told the story of the audience with the Negus.",
+          "source": {
+            "text": "Musnad Ahmad 1740",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-abu-salamah",
+          "canonical": "Abu Salamah",
+          "honorific": "RA",
+          "variants": [
+            "Abu Salama"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Emigrated with his wife Umm Salamah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-umm-habibah",
+          "canonical": "Umm Habibah",
+          "honorific": "RA",
+          "variants": [
+            "Umm Habiba",
+            "Ramlah bint Abi Sufyan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Married to the Prophet ﷺ while in Abyssinia, with the Negus arranging it.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-al-zubayr-ibn-al-awwam",
+          "canonical": "Al-Zubayr ibn al-Awwam",
+          "honorific": "RA",
+          "variants": [
+            "Zubayr",
+            "Zubair"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Among the early emigrants.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-abd-al-rahman-ibn-awf",
+          "canonical": "'Abd al-Rahman ibn 'Awf",
+          "honorific": "RA",
+          "variants": [
+            "Abdur Rahman ibn Awf",
+            "Abdul Rahman ibn Auf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Among the early emigrants.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-musab-ibn-umayr",
+          "canonical": "Mus'ab ibn 'Umayr",
+          "honorific": "RA",
+          "variants": [
+            "Musab ibn Umayr",
+            "Musab"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Among the early emigrants, later the first envoy to Madinah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-abdullah-ibn-masud",
+          "canonical": "'Abdullah ibn Mas'ud",
+          "honorific": "RA",
+          "variants": [
+            "Ibn Masud",
+            "Abdullah ibn Masud"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Among the emigrants to Abyssinia.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-asma-bint-umays",
+          "canonical": "Asma' bint 'Umays",
+          "honorific": "RA",
+          "variants": [
+            "Asma bint Umays"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ja'far's wife; their son 'Abdullah was born in Abyssinia.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-uthman-ibn-mazun",
+          "canonical": "'Uthman ibn Maz'un",
+          "honorific": "RA",
+          "variants": [
+            "Uthman ibn Mazun"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Some reports say he led the first group.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-abu-hudhayfah",
+          "canonical": "Abu Hudhayfah",
+          "honorific": "RA",
+          "variants": [
+            "Abu Hudhaifa",
+            "Abu Hudhayfah ibn Utbah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Emigrated with his wife Sahlah bint Suhayl.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-sahlah-bint-suhayl",
+          "canonical": "Sahlah bint Suhayl",
+          "honorific": "RA",
+          "variants": [
+            "Sahla bint Suhail"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Emigrated with her husband Abu Hudhayfah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-layla-bint-abi-hathmah",
+          "canonical": "Layla bint Abi Hathmah",
+          "honorific": "RA",
+          "variants": [
+            "Layla bint Abi Hathma"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Often named as the first woman to arrive in Abyssinia.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-bonus-abyssinia-amir-ibn-rabiah",
+          "canonical": "'Amir ibn Rabi'ah",
+          "honorific": "RA",
+          "variants": [
+            "Amir ibn Rabiah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Emigrated with his wife Layla.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-uthman-ibn-affan",
-        "canonical": "'Uthman ibn 'Affan",
-        "honorific": "RA",
-        "variants": [
-          "Uthman",
-          "Uthman ibn Affan",
-          "Usman"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "Among the first to go, with his wife Ruqayyah.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1021-deeper-prophet-duas",
+      "number": 8,
+      "prompt": "Name a prophet whose du'a is recorded in the Qur'an.",
+      "answers": [
+        {
+          "id": "d1021-deeper-prophet-duas-adam",
+          "canonical": "Adam",
+          "honorific": "AS",
+          "variants": [],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Our Lord, we have wronged ourselves…\"",
+          "source": {
+            "text": "Qur'an 7:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-yunus",
+          "canonical": "Yunus",
+          "honorific": "AS",
+          "variants": [
+            "Jonah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"There is no god but You; glory be to You…\"",
+          "source": {
+            "text": "Qur'an 21:87",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-musa",
+          "canonical": "Musa",
+          "honorific": "AS",
+          "variants": [
+            "Moses"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"My Lord, expand my chest for me.\"",
+          "source": {
+            "text": "Qur'an 20:25",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-ibrahim",
+          "canonical": "Ibrahim",
+          "honorific": "AS",
+          "variants": [
+            "Abraham"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"My Lord, make this city secure.\"",
+          "source": {
+            "text": "Qur'an 14:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-nuh",
+          "canonical": "Nuh",
+          "honorific": "AS",
+          "variants": [
+            "Noah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"My Lord, help me, for they deny me.\"",
+          "source": {
+            "text": "Qur'an 23:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-muhammad",
+          "canonical": "Muhammad",
+          "variants": [
+            "Prophet Muhammad"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Taught to pray \"My Lord, increase me in knowledge.\"",
+          "source": {
+            "text": "Qur'an 20:114",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-zakariyya",
+          "canonical": "Zakariyya",
+          "honorific": "AS",
+          "variants": [
+            "Zakariya",
+            "Zachariah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"My Lord, do not leave me alone.\"",
+          "source": {
+            "text": "Qur'an 21:89",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-ayyub",
+          "canonical": "Ayyub",
+          "honorific": "AS",
+          "variants": [
+            "Job",
+            "Ayub"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Harm has touched me, and You are the Most Merciful.\"",
+          "source": {
+            "text": "Qur'an 21:83",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-sulayman",
+          "canonical": "Sulayman",
+          "honorific": "AS",
+          "variants": [
+            "Solomon"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"My Lord, enable me to be grateful for Your favour.\"",
+          "source": {
+            "text": "Qur'an 27:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-yusuf",
+          "canonical": "Yusuf",
+          "honorific": "AS",
+          "variants": [
+            "Joseph"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Take my soul as a Muslim and join me with the righteous.\"",
+          "source": {
+            "text": "Qur'an 12:101",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-lut",
+          "canonical": "Lut",
+          "honorific": "AS",
+          "variants": [
+            "Lot"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"My Lord, save me and my family from what they do.\"",
+          "source": {
+            "text": "Qur'an 26:169",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-shuayb",
+          "canonical": "Shu'ayb",
+          "honorific": "AS",
+          "variants": [
+            "Shuayb"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Our Lord, judge between us and our people in truth.\"",
+          "source": {
+            "text": "Qur'an 7:89",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-prophet-duas-isa",
+          "canonical": "'Isa",
+          "honorific": "AS",
+          "variants": [
+            "Isa",
+            "Jesus"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Prayed for the table spread from heaven.",
+          "source": {
+            "text": "Qur'an 5:114",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-ruqayyah",
-        "canonical": "Ruqayyah",
-        "honorific": "RA",
-        "variants": [
-          "Ruqayya",
-          "Ruqaiya",
-          "Ruqayyah bint Muhammad"
-        ],
-        "rarity": "liftoff",
-        "distanceKm": 3000,
-        "explanation": "The Prophet's ﷺ daughter, who emigrated with 'Uthman.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1021-deeper-people-of-book",
+      "number": 9,
+      "prompt": "Name a Companion who was Jewish or Christian before accepting Islam.",
+      "answers": [
+        {
+          "id": "d1021-deeper-people-of-book-abdullah-ibn-salam",
+          "canonical": "'Abdullah ibn Salam",
+          "honorific": "RA",
+          "variants": [
+            "Abdullah ibn Salam"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A rabbi of Madinah who embraced Islam when the Prophet ﷺ arrived.",
+          "source": {
+            "text": "Sahih al-Bukhari 3329",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-people-of-book-salman-al-farsi",
+          "canonical": "Salman al-Farsi",
+          "honorific": "RA",
+          "variants": [
+            "Salman",
+            "Salman the Persian"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A Persian who became a Christian, then sought the final Prophet ﷺ.",
+          "source": {
+            "text": "Musnad Ahmad 23737",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-people-of-book-safiyyah-bint-huyayy",
+          "canonical": "Safiyyah bint Huyayy",
+          "honorific": "RA",
+          "variants": [
+            "Safiyyah",
+            "Safiya bint Huyay"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Daughter of a Jewish chief, she became a Mother of the Believers.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-people-of-book-tamim-al-dari",
+          "canonical": "Tamim al-Dari",
+          "honorific": "RA",
+          "variants": [
+            "Tamim ad-Dari",
+            "Tamim"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A Christian from Palestine who told of meeting the Dajjal.",
+          "source": {
+            "text": "Sahih Muslim 2942",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-people-of-book-adi-ibn-hatim",
+          "canonical": "'Adi ibn Hatim",
+          "honorific": "RA",
+          "variants": [
+            "Adi ibn Hatim"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A Christian, son of the famously generous Hatim al-Ta'i.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-people-of-book-mariyah-al-qibtiyyah",
+          "canonical": "Mariyah al-Qibtiyyah",
+          "honorific": "RA",
+          "variants": [
+            "Mariyah",
+            "Maria al-Qibtiyya",
+            "Mariya the Copt"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A Coptic Christian from Egypt, mother of the Prophet's ﷺ son Ibrahim.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-people-of-book-zayd-ibn-sanah",
+          "canonical": "Zayd ibn Sa'nah",
+          "honorific": "RA",
+          "variants": [
+            "Zaid ibn Sanah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A rabbi who tested the Prophet's ﷺ patience before accepting Islam.",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-people-of-book-mukhayriq",
+          "canonical": "Mukhayriq",
+          "variants": [
+            "Mukhairiq"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A rabbi of Madinah who fought for the Muslims at Uhud.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          },
+          "note": "Reports differ on whether he formally accepted Islam."
         }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-umm-salamah",
-        "canonical": "Umm Salamah",
-        "honorific": "RA",
-        "variants": [
-          "Umm Salama",
-          "Hind bint Abi Umayyah"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "She later told the story of the audience with the Negus.",
-        "source": {
-          "text": "Musnad Ahmad 1740",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1021-deeper-non-arab",
+      "number": 10,
+      "prompt": "Name a Companion who came from outside Arabia.",
+      "answers": [
+        {
+          "id": "d1021-deeper-non-arab-bilal",
+          "canonical": "Bilal",
+          "honorific": "RA",
+          "variants": [
+            "Bilal ibn Rabah",
+            "Bilal al-Habashi"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "From an Abyssinian family.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-non-arab-salman-al-farsi",
+          "canonical": "Salman al-Farsi",
+          "honorific": "RA",
+          "variants": [
+            "Salman",
+            "Salman the Persian"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "From Persia.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-non-arab-suhayb-al-rumi",
+          "canonical": "Suhayb al-Rumi",
+          "honorific": "RA",
+          "variants": [
+            "Suhayb ar-Rumi",
+            "Suhaib",
+            "Suhayb"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Grew up among the Byzantines ('Romans').",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-non-arab-mariyah-al-qibtiyyah",
+          "canonical": "Mariyah al-Qibtiyyah",
+          "honorific": "RA",
+          "variants": [
+            "Mariyah",
+            "Maria the Copt"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From Egypt.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-non-arab-umm-ayman",
+          "canonical": "Umm Ayman",
+          "honorific": "RA",
+          "variants": [
+            "Barakah",
+            "Baraka"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From Abyssinia.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-non-arab-wahshi",
+          "canonical": "Wahshi",
+          "honorific": "RA",
+          "variants": [
+            "Wahshi ibn Harb"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An Abyssinian who later embraced Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-non-arab-badhan",
+          "canonical": "Badhan",
+          "honorific": "RA",
+          "variants": [
+            "Bazan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Persian governor of Yemen.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1021-deeper-non-arab-sirin",
+          "canonical": "Sirin",
+          "honorific": "RA",
+          "variants": [
+            "Sireen"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Mariyah's sister, from Egypt, who married Hassan ibn Thabit.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah al-Nabawiyyah; Ibn Sa'd, al-Tabaqat al-Kubra",
+            "status": "needs-review"
+          }
         }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-abu-salamah",
-        "canonical": "Abu Salamah",
-        "honorific": "RA",
-        "variants": [
-          "Abu Salama"
-        ],
-        "rarity": "orbit",
-        "distanceKm": 6000,
-        "explanation": "Emigrated with his wife Umm Salamah.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1021-deeper-long-surahs",
+      "number": 11,
+      "prompt": "Name one of the seven long surahs (as-Sab' at-Tiwal).",
+      "answers": [
+        {
+          "id": "d1021-deeper-long-surahs-al-baqarah",
+          "canonical": "Al-Baqarah",
+          "variants": [
+            "Baqarah",
+            "The Cow"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The longest surah of all.",
+          "source": {
+            "text": "Qur'an 2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-long-surahs-al-imran",
+          "canonical": "Al 'Imran",
+          "variants": [
+            "Aal Imran",
+            "Al Imran",
+            "Ali Imran"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Family of 'Imran'.",
+          "source": {
+            "text": "Qur'an 3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-long-surahs-an-nisa",
+          "canonical": "An-Nisa'",
+          "variants": [
+            "Nisa",
+            "The Women"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'The Women'.",
+          "source": {
+            "text": "Qur'an 4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-long-surahs-al-maidah",
+          "canonical": "Al-Ma'idah",
+          "variants": [
+            "Maidah",
+            "Al-Maidah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Table Spread'.",
+          "source": {
+            "text": "Qur'an 5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-long-surahs-al-anam",
+          "canonical": "Al-An'am",
+          "variants": [
+            "Anam",
+            "Al-Anam"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'The Cattle'.",
+          "source": {
+            "text": "Qur'an 6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-long-surahs-al-araf",
+          "canonical": "Al-A'raf",
+          "variants": [
+            "Araf",
+            "Al-Araf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'The Heights'.",
+          "source": {
+            "text": "Qur'an 7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-long-surahs-al-anfal-and-at-tawbah",
+          "canonical": "Al-Anfal and at-Tawbah",
+          "variants": [
+            "Al-Anfal",
+            "At-Tawbah",
+            "Anfal",
+            "Tawbah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Often counted together as the seventh.",
+          "source": {
+            "text": "Qur'an 8–9",
+            "status": "quran-reference"
+          },
+          "note": "Some scholars count Yunus as the seventh instead."
+        },
+        {
+          "id": "d1021-deeper-long-surahs-yunus",
+          "canonical": "Yunus",
+          "variants": [
+            "Younus"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Counted as the seventh by some scholars.",
+          "source": {
+            "text": "Qur'an 10",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-umm-habibah",
-        "canonical": "Umm Habibah",
-        "honorific": "RA",
-        "variants": [
-          "Umm Habiba",
-          "Ramlah bint Abi Sufyan"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Married to the Prophet ﷺ while in Abyssinia, with the Negus arranging it.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
+      ]
+    },
+    {
+      "id": "d1021-deeper-oath-surahs",
+      "number": 12,
+      "prompt": "Name a surah that opens with an oath beginning \"Wa…\" (\"By…\").",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Al-Qiyamah",
+            "Qiyamah",
+            "Al-Balad",
+            "Balad"
+          ],
+          "message": "It opens \"I swear by…\" rather than \"By…\". Try another!"
+        },
+        {
+          "inputs": [
+            "Qaf",
+            "Sad",
+            "Ya Sin",
+            "Yasin"
+          ],
+          "message": "It opens with letters before its oath. Try another!"
         }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-al-zubayr-ibn-al-awwam",
-        "canonical": "Al-Zubayr ibn al-Awwam",
-        "honorific": "RA",
-        "variants": [
-          "Zubayr",
-          "Zubair"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Among the early emigrants.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
+      ],
+      "answers": [
+        {
+          "id": "d1021-deeper-oath-surahs-al-asr",
+          "canonical": "Al-'Asr",
+          "variants": [
+            "Asr",
+            "Al-Asr",
+            "Time"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"By time.\"",
+          "source": {
+            "text": "Qur'an 103:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-ad-duha",
+          "canonical": "Ad-Duha",
+          "variants": [
+            "Duha"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"By the morning brightness.\"",
+          "source": {
+            "text": "Qur'an 93:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-ash-shams",
+          "canonical": "Ash-Shams",
+          "variants": [
+            "Shams"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"By the sun.\"",
+          "source": {
+            "text": "Qur'an 91:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-at-tin",
+          "canonical": "At-Tin",
+          "variants": [
+            "Tin",
+            "Teen",
+            "The Fig"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"By the fig and the olive.\"",
+          "source": {
+            "text": "Qur'an 95:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-al-fajr",
+          "canonical": "Al-Fajr",
+          "variants": [
+            "Fajr",
+            "The Dawn"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"By the dawn.\"",
+          "source": {
+            "text": "Qur'an 89:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-al-layl",
+          "canonical": "Al-Layl",
+          "variants": [
+            "Layl",
+            "Lail"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"By the night.\"",
+          "source": {
+            "text": "Qur'an 92:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-an-najm",
+          "canonical": "An-Najm",
+          "variants": [
+            "Najm"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"By the star.\"",
+          "source": {
+            "text": "Qur'an 53:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-al-buruj",
+          "canonical": "Al-Buruj",
+          "variants": [
+            "Buruj"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"By the sky with its constellations.\"",
+          "source": {
+            "text": "Qur'an 85:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-al-adiyat",
+          "canonical": "Al-'Adiyat",
+          "variants": [
+            "Adiyat",
+            "Al-Adiyat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"By the chargers.\"",
+          "source": {
+            "text": "Qur'an 100:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-as-saffat",
+          "canonical": "As-Saffat",
+          "variants": [
+            "Saffat"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By those ranged in ranks.\"",
+          "source": {
+            "text": "Qur'an 37:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-adh-dhariyat",
+          "canonical": "Adh-Dhariyat",
+          "variants": [
+            "Dhariyat"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By the scattering winds.\"",
+          "source": {
+            "text": "Qur'an 51:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-at-tur",
+          "canonical": "At-Tur",
+          "variants": [
+            "Tur"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By the Mount.\"",
+          "source": {
+            "text": "Qur'an 52:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-al-mursalat",
+          "canonical": "Al-Mursalat",
+          "variants": [
+            "Mursalat"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By those sent forth.\"",
+          "source": {
+            "text": "Qur'an 77:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-an-naziat",
+          "canonical": "An-Nazi'at",
+          "variants": [
+            "Naziat",
+            "An-Naziat"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By those who pull out.\"",
+          "source": {
+            "text": "Qur'an 79:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1021-deeper-oath-surahs-at-tariq",
+          "canonical": "At-Tariq",
+          "variants": [
+            "Tariq"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"By the sky and the night-comer.\"",
+          "source": {
+            "text": "Qur'an 86:1",
+            "status": "quran-reference"
+          }
         }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-abd-al-rahman-ibn-awf",
-        "canonical": "'Abd al-Rahman ibn 'Awf",
-        "honorific": "RA",
-        "variants": [
-          "Abdur Rahman ibn Awf",
-          "Abdul Rahman ibn Auf"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Among the early emigrants.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-musab-ibn-umayr",
-        "canonical": "Mus'ab ibn 'Umayr",
-        "honorific": "RA",
-        "variants": [
-          "Musab ibn Umayr",
-          "Musab"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Among the early emigrants, later the first envoy to Madinah.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-abdullah-ibn-masud",
-        "canonical": "'Abdullah ibn Mas'ud",
-        "honorific": "RA",
-        "variants": [
-          "Ibn Masud",
-          "Abdullah ibn Masud"
-        ],
-        "rarity": "supernova",
-        "distanceKm": 10000,
-        "explanation": "Among the emigrants to Abyssinia.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-asma-bint-umays",
-        "canonical": "Asma' bint 'Umays",
-        "honorific": "RA",
-        "variants": [
-          "Asma bint Umays"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Ja'far's wife; their son 'Abdullah was born in Abyssinia.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-uthman-ibn-mazun",
-        "canonical": "'Uthman ibn Maz'un",
-        "honorific": "RA",
-        "variants": [
-          "Uthman ibn Mazun"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Some reports say he led the first group.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-abu-hudhayfah",
-        "canonical": "Abu Hudhayfah",
-        "honorific": "RA",
-        "variants": [
-          "Abu Hudhaifa",
-          "Abu Hudhayfah ibn Utbah"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Emigrated with his wife Sahlah bint Suhayl.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-sahlah-bint-suhayl",
-        "canonical": "Sahlah bint Suhayl",
-        "honorific": "RA",
-        "variants": [
-          "Sahla bint Suhail"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Emigrated with her husband Abu Hudhayfah.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-layla-bint-abi-hathmah",
-        "canonical": "Layla bint Abi Hathmah",
-        "honorific": "RA",
-        "variants": [
-          "Layla bint Abi Hathma"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Often named as the first woman to arrive in Abyssinia.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
-        }
-      },
-      {
-        "id": "d1021-bonus-abyssinia-amir-ibn-rabiah",
-        "canonical": "'Amir ibn Rabi'ah",
-        "honorific": "RA",
-        "variants": [
-          "Amir ibn Rabiah"
-        ],
-        "rarity": "beyond",
-        "distanceKm": 15000,
-        "explanation": "Emigrated with his wife Layla.",
-        "source": {
-          "text": "Ibn Hisham, al-Sirah al-Nabawiyyah (the emigrants to Abyssinia)",
-          "status": "needs-review"
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
 }
