@@ -1,0 +1,1828 @@
+{
+  "id": "mothers-of-the-believers",
+  "title": "Mothers of the Believers",
+  "description": "The wives of the Prophet ﷺ — their families, their stories and their virtues.",
+  "emoji": "🌸",
+  "color": "#f472b6",
+  "questions": [
+    {
+      "id": "mothers-widowed",
+      "number": 1,
+      "prompt": "Name a Mother of the Believers who was a widow when she married the Prophet ﷺ.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Zaynab",
+            "Zainab",
+            "Zainab RA"
+          ],
+          "message": "Which Zaynab? Add her father: bint Jahsh or bint Khuzaymah."
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Aisha",
+            "Aishah",
+            "Ayesha",
+            "Aysha",
+            "Aisha bint Abi Bakr"
+          ],
+          "message": "'A'ishah had not been married before. Try another!"
+        },
+        {
+          "inputs": [
+            "Zaynab bint Jahsh",
+            "Zainab bint Jahsh",
+            "Zaynab bint Jahash"
+          ],
+          "message": "Zaynab bint Jahsh had been divorced by Zayd ibn Harithah, not widowed. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "mothers-widowed-umm-salamah",
+          "canonical": "Umm Salamah",
+          "variants": [
+            "Umm Salamah",
+            "Umm Salama",
+            "Um Salama",
+            "Hind bint Abi Umayyah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Widow of Abu Salamah, who died of wounds from Uhud.",
+          "source": {
+            "text": "Sahih Muslim 918",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-widowed-khadijah-bint-khuwaylid",
+          "canonical": "Khadijah bint Khuwaylid",
+          "variants": [
+            "Khadijah",
+            "Khadija",
+            "Khadeeja",
+            "Khadijah bint Khuwaylid"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She had been widowed before marrying the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-widowed-sawdah-bint-zamah",
+          "canonical": "Sawdah bint Zam'ah",
+          "variants": [
+            "Sawdah",
+            "Sawda",
+            "Sauda",
+            "Sawdah bint Zamah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Widow of al-Sakran ibn 'Amr.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-widowed-hafsah-bint-umar",
+          "canonical": "Hafsah bint 'Umar",
+          "variants": [
+            "Hafsa",
+            "Hafsah",
+            "Hafsa bint Umar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Widow of Khunays ibn Hudhafah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4005",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-widowed-umm-habibah",
+          "canonical": "Umm Habibah",
+          "variants": [
+            "Umm Habibah",
+            "Umm Habiba",
+            "Ramlah bint Abi Sufyan",
+            "Ramla"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Her husband 'Ubaydullah ibn Jahsh died in Abyssinia.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-widowed-safiyyah-bint-huyayy",
+          "canonical": "Safiyyah bint Huyayy",
+          "variants": [
+            "Safiyyah",
+            "Safiya",
+            "Safiyya",
+            "Safia",
+            "Safiyyah bint Huyayy"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Her husband was killed at Khaybar.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-widowed-zaynab-bint-khuzaymah",
+          "canonical": "Zaynab bint Khuzaymah",
+          "variants": [
+            "Zaynab bint Khuzaymah",
+            "Zainab bint Khuzaima",
+            "Zaynab bint Khuzayma",
+            "Umm al-Masakin"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Her husband was martyred.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-widowed-juwayriyah-bint-al-harith",
+          "canonical": "Juwayriyah bint al-Harith",
+          "variants": [
+            "Juwayriyah",
+            "Juwayriya",
+            "Juwairiya",
+            "Juwayriyya"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Her husband was killed at al-Muraysi'.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-widowed-maymunah-bint-al-harith",
+          "canonical": "Maymunah bint al-Harith",
+          "variants": [
+            "Maymunah",
+            "Maimuna",
+            "Maymuna",
+            "Maimunah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Widow of Abu Ruhm ibn 'Abd al-'Uzza.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        }
+      ]
+    },
+    {
+      "id": "mothers-safiyyah",
+      "number": 2,
+      "prompt": "Name something Safiyyah (RA) is known for.",
+      "answers": [
+        {
+          "id": "mothers-safiyyah-from-khaybar-and-banu-al-nadir",
+          "canonical": "From Khaybar and Banu al-Nadir",
+          "variants": [
+            "Khaybar",
+            "Jewish",
+            "Banu Nadir",
+            "Banu al-Nadir",
+            "From Khaybar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "She was from the Jewish tribe of Banu al-Nadir and was captured at Khaybar.",
+          "source": {
+            "text": "Sahih al-Bukhari 371",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-safiyyah-daughter-of-huyayy-ibn-akhtab",
+          "canonical": "Daughter of Huyayy ibn Akhtab",
+          "variants": [
+            "Huyayy",
+            "Huyayy ibn Akhtab",
+            "Daughter of a chief",
+            "Father was a chief"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Her father was the chief of Banu al-Nadir.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-safiyyah-her-freedom-was-her-dowry",
+          "canonical": "Her freedom was her dowry",
+          "variants": [
+            "Freedom as dowry",
+            "Freed",
+            "Mahr",
+            "Freedom as her mahr",
+            "Manumission"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet ﷺ freed her and made her freedom her mahr.",
+          "source": {
+            "text": "Sahih al-Bukhari 371",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-safiyyah-descended-from-harun",
+          "canonical": "Descended from Harun (AS)",
+          "variants": [
+            "Descendant of Harun",
+            "Daughter of Harun",
+            "Harun",
+            "Daughter of a prophet"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Your father is Harun, your uncle is Musa and your husband is Muhammad.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3894",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-safiyyah-visiting-him-in-itikaf",
+          "canonical": "Visiting him in i'tikaf",
+          "variants": [
+            "Itikaf",
+            "I'tikaf",
+            "This is Safiyyah",
+            "Visited him in the mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He walked her home and said to two men, \"This is Safiyyah.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2035",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-safiyyah-dream-of-the-moon",
+          "canonical": "Dream of the moon",
+          "variants": [
+            "Moon in her lap",
+            "Dream of the moon",
+            "Moon dream",
+            "Dream"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Before Khaybar she dreamt the moon fell into her lap.",
+          "source": {
+            "text": "Ibn Hibban 5199",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-safiyyah-helping-uthman-in-the-siege",
+          "canonical": "Helping 'Uthman in the siege",
+          "variants": [
+            "Helped Uthman",
+            "Defended Uthman",
+            "Food to Uthman",
+            "Siege of Uthman"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "She tried to bring food and water to 'Uthman when he was besieged.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mothers-fathers",
+      "number": 3,
+      "prompt": "Name the father of one of the Mothers of the Believers.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Harith",
+            "Al-Harith"
+          ],
+          "message": "Which al-Harith? Add his father: ibn Abi Dirar or ibn Hazn."
+        }
+      ],
+      "answers": [
+        {
+          "id": "mothers-fathers-abu-bakr",
+          "canonical": "Abu Bakr",
+          "variants": [
+            "Abu Bakr",
+            "Abu Bakar",
+            "Abubakr",
+            "Siddiq"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Father of 'A'ishah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3894",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-fathers-umar-ibn-al-khattab",
+          "canonical": "'Umar ibn al-Khattab",
+          "variants": [
+            "Umar",
+            "Omar",
+            "Umar ibn al-Khattab"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Father of Hafsah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4005",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-fathers-khuwaylid-ibn-asad",
+          "canonical": "Khuwaylid ibn Asad",
+          "variants": [
+            "Khuwaylid",
+            "Khuwailid",
+            "Khuwaylid ibn Asad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Father of Khadijah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-fathers-abu-sufyan",
+          "canonical": "Abu Sufyan",
+          "variants": [
+            "Abu Sufyan",
+            "Abu Sufyaan",
+            "Abu Sufyan ibn Harb"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Father of Umm Habibah.",
+          "source": {
+            "text": "Sahih Muslim 2501",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-fathers-huyayy-ibn-akhtab",
+          "canonical": "Huyayy ibn Akhtab",
+          "variants": [
+            "Huyayy",
+            "Huyayy ibn Akhtab",
+            "Huyay",
+            "Huyai"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Father of Safiyyah, chief of Banu al-Nadir.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-fathers-zamah-ibn-qays",
+          "canonical": "Zam'ah ibn Qays",
+          "variants": [
+            "Zamah",
+            "Zam'ah",
+            "Zama ibn Qays"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Father of Sawdah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-fathers-abu-umayyah-ibn-al-mughirah",
+          "canonical": "Abu Umayyah ibn al-Mughirah",
+          "variants": [
+            "Abu Umayyah",
+            "Abu Umayya",
+            "Abu Umayyah ibn al-Mughirah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Father of Umm Salamah, famed for feeding travellers.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-fathers-jahsh-ibn-riab",
+          "canonical": "Jahsh ibn Ri'ab",
+          "variants": [
+            "Jahsh",
+            "Jahash",
+            "Jahsh ibn Riab"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Father of Zaynab bint Jahsh.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-fathers-al-harith-ibn-abi-dirar",
+          "canonical": "Al-Harith ibn Abi Dirar",
+          "variants": [
+            "Harith ibn Abi Dirar",
+            "Al-Harith ibn Abi Dirar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Father of Juwayriyah, chief of Banu al-Mustaliq.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-fathers-khuzaymah-ibn-al-harith",
+          "canonical": "Khuzaymah ibn al-Harith",
+          "variants": [
+            "Khuzaymah",
+            "Khuzayma",
+            "Khuzaima"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Father of Zaynab bint Khuzaymah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-fathers-al-harith-ibn-hazn",
+          "canonical": "Al-Harith ibn Hazn",
+          "variants": [
+            "Harith ibn Hazn",
+            "Al-Harith ibn Hazn"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Father of Maymunah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mothers-quraysh",
+      "number": 4,
+      "prompt": "Name a Mother of the Believers from the tribe of Quraysh.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Zaynab",
+            "Zainab",
+            "Zainab RA"
+          ],
+          "message": "Which Zaynab? Add her father: bint Jahsh or bint Khuzaymah."
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Zaynab bint Jahsh",
+            "Zainab bint Jahsh",
+            "Zaynab bint Jahash",
+            "Zaynab bint Khuzaymah",
+            "Zainab bint Khuzaima",
+            "Zaynab bint Khuzayma",
+            "Umm al-Masakin",
+            "Juwayriyah",
+            "Juwayriya",
+            "Juwairiya",
+            "Juwayriyya",
+            "Safiyyah",
+            "Safiya",
+            "Safiyya",
+            "Safia",
+            "Safiyyah bint Huyayy",
+            "Maymunah",
+            "Maimuna",
+            "Maymuna",
+            "Maimunah"
+          ],
+          "message": "She wasn't from Quraysh. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "mothers-quraysh-khadijah-bint-khuwaylid",
+          "canonical": "Khadijah bint Khuwaylid",
+          "variants": [
+            "Khadijah",
+            "Khadija",
+            "Khadeeja",
+            "Khadijah bint Khuwaylid"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "From the clan of Asad.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-quraysh-aishah-bint-abi-bakr",
+          "canonical": "'A'ishah bint Abi Bakr",
+          "variants": [
+            "Aisha",
+            "Aishah",
+            "Ayesha",
+            "Aysha",
+            "Aisha bint Abi Bakr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "From the clan of Taym.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-quraysh-hafsah-bint-umar",
+          "canonical": "Hafsah bint 'Umar",
+          "variants": [
+            "Hafsa",
+            "Hafsah",
+            "Hafsa bint Umar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "From the clan of 'Adi.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-quraysh-sawdah-bint-zamah",
+          "canonical": "Sawdah bint Zam'ah",
+          "variants": [
+            "Sawdah",
+            "Sawda",
+            "Sauda",
+            "Sawdah bint Zamah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From the clan of 'Amir ibn Lu'ayy.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-quraysh-umm-salamah",
+          "canonical": "Umm Salamah",
+          "variants": [
+            "Umm Salamah",
+            "Umm Salama",
+            "Um Salama",
+            "Hind bint Abi Umayyah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From the clan of Makhzum.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-quraysh-umm-habibah",
+          "canonical": "Umm Habibah",
+          "variants": [
+            "Umm Habibah",
+            "Umm Habiba",
+            "Ramlah bint Abi Sufyan",
+            "Ramla"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From the clan of Umayyah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        }
+      ]
+    },
+    {
+      "id": "mothers-khadijah",
+      "number": 5,
+      "prompt": "Name something Khadijah (RA) is known for.",
+      "answers": [
+        {
+          "id": "mothers-khadijah-first-to-believe",
+          "canonical": "First to believe",
+          "variants": [
+            "First Muslim",
+            "First to believe",
+            "First to accept Islam",
+            "First believer"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first person to accept Islam.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-merchant",
+          "canonical": "Merchant",
+          "variants": [
+            "Merchant",
+            "Businesswoman",
+            "Trade",
+            "Wealthy",
+            "Rich"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A wealthy merchant; the Prophet ﷺ traded for her.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-she-proposed",
+          "canonical": "She proposed",
+          "variants": [
+            "Proposed",
+            "She proposed",
+            "Proposal"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She proposed marriage to him.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-comforting-him-after-the-first-revelation",
+          "canonical": "Comforting him after the first revelation",
+          "variants": [
+            "Comforted him",
+            "Covered him",
+            "Zammiluni",
+            "Allah will never disgrace you",
+            "First revelation"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"By Allah, Allah will never disgrace you.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-mother-of-his-children",
+          "canonical": "Mother of his children",
+          "variants": [
+            "Mother of Fatimah",
+            "Mother of his children",
+            "Children",
+            "Fatimah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Mother of all his children except Ibrahim.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-waraqah-ibn-nawfal",
+          "canonical": "Waraqah ibn Nawfal",
+          "variants": [
+            "Waraqah",
+            "Waraqa",
+            "Waraqah ibn Nawfal",
+            "Cousin Waraqah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She took him to her cousin Waraqah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-greeted-by-allah-through-jibril",
+          "canonical": "Greeted by Allah through Jibril",
+          "variants": [
+            "Salam from Allah",
+            "Greeting from Allah",
+            "Salam from Jibril"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Jibril brought her salam from her Lord.",
+          "source": {
+            "text": "Sahih al-Bukhari 3820",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-a-house-of-pearl-in-paradise",
+          "canonical": "A house of pearl in Paradise",
+          "variants": [
+            "House of pearl",
+            "House in Paradise",
+            "Palace of pearl",
+            "Pearl"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"A house of hollowed pearl, with no noise or tiredness.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3820",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-best-of-the-women-of-her-time",
+          "canonical": "Best of the women of her time",
+          "variants": [
+            "Best of women",
+            "Best woman",
+            "Khayru nisaiha"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The best of its women is Khadijah.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3432",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-only-wife-for-25-years",
+          "canonical": "Only wife for 25 years",
+          "variants": [
+            "Only wife",
+            "No other wife",
+            "25 years",
+            "Twenty-five years"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He married no one else while she lived.",
+          "source": {
+            "text": "Sahih Muslim 2436",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-the-year-of-sorrow",
+          "canonical": "The Year of Sorrow",
+          "variants": [
+            "Year of Sorrow",
+            "Am al-Huzn",
+            "Year of Grief",
+            "Death"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She died three years before the Hijrah, in the same year as Abu Talib.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-at-tahirah",
+          "canonical": "At-Tahirah",
+          "variants": [
+            "Tahirah",
+            "At-Tahirah",
+            "The pure one",
+            "Tahira"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She was called \"the pure one\" before Islam.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-khadijah-the-boycott",
+          "canonical": "The boycott",
+          "variants": [
+            "Boycott",
+            "Shi'b Abi Talib",
+            "Siege",
+            "Valley of Abu Talib"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "She shared the years of boycott in the valley of Abu Talib.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mothers-aishah",
+      "number": 6,
+      "prompt": "Name something 'A'ishah (RA) is known for.",
+      "answers": [
+        {
+          "id": "mothers-aishah-narrating-hadith",
+          "canonical": "Narrating hadith",
+          "variants": [
+            "Hadith",
+            "Narrations",
+            "Narrated hadith",
+            "Narrator"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Over two thousand hadith are narrated from her.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-knowledge",
+          "canonical": "Knowledge",
+          "variants": [
+            "Knowledge",
+            "Scholar",
+            "Fiqh",
+            "Teacher",
+            "Scholarship"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Senior Companions asked her about matters of religion.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3883",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-daughter-of-abu-bakr",
+          "canonical": "Daughter of Abu Bakr",
+          "variants": [
+            "Daughter of Abu Bakr",
+            "Abu Bakr",
+            "Father Abu Bakr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Her father was the first caliph.",
+          "source": {
+            "text": "Sahih al-Bukhari 3894",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-her-innocence-revealed",
+          "canonical": "Her innocence revealed",
+          "variants": [
+            "Innocence",
+            "Slander",
+            "Ifk",
+            "Lost necklace",
+            "Surah Nur",
+            "Incident of the slander"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Verses of Surah an-Nur cleared her of the slander.",
+          "source": {
+            "text": "Qur'an 24:11-26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mothers-aishah-tayammum-revealed",
+          "canonical": "Tayammum revealed",
+          "variants": [
+            "Tayammum",
+            "Dry ablution",
+            "Verse of tayammum"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The verse of tayammum came when her necklace was lost on a journey.",
+          "source": {
+            "text": "Sahih al-Bukhari 334",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-the-prophet-died-in-her-room",
+          "canonical": "The Prophet ﷺ died in her room",
+          "variants": [
+            "Died in her room",
+            "Her room",
+            "Died in her lap",
+            "Hujrah",
+            "His grave in her room"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He passed away resting against her chest.",
+          "source": {
+            "text": "Sahih al-Bukhari 4451",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-most-beloved-to-him",
+          "canonical": "Most beloved to him",
+          "variants": [
+            "Most beloved",
+            "Beloved wife",
+            "Most loved"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Asked who was most beloved to him, he said \"'A'ishah\".",
+          "source": {
+            "text": "Sahih al-Bukhari 3662",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-humayra",
+          "canonical": "Humayra'",
+          "variants": [
+            "Humayra",
+            "Humaira",
+            "Humayraa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An affectionate name: \"the little reddish one\".",
+          "source": {
+            "text": "Sunan an-Nasa'i al-Kubra 8951",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-racing-the-prophet",
+          "canonical": "Racing the Prophet ﷺ",
+          "variants": [
+            "Race",
+            "Racing",
+            "Running race"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "They raced on a journey; she won, and later he won.",
+          "source": {
+            "text": "Sunan Abi Dawud 2578",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-greeted-by-jibril",
+          "canonical": "Greeted by Jibril",
+          "variants": [
+            "Salam from Jibril",
+            "Jibril greeted her",
+            "Greeting from Jibril"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"O 'A'ish, this is Jibril sending you salam.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3768",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-the-only-wife-not-married-before",
+          "canonical": "The only wife not married before",
+          "variants": [
+            "Only virgin",
+            "Never married before",
+            "First marriage"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She was the only one of his wives who had not married before.",
+          "source": {
+            "text": "Sahih al-Bukhari 5077",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-the-battle-of-the-camel",
+          "canonical": "The Battle of the Camel",
+          "variants": [
+            "Battle of the Camel",
+            "Camel",
+            "Jamal"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She was present at the battle in 36 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-like-tharid-over-other-food",
+          "canonical": "Like tharid over other food",
+          "variants": [
+            "Tharid",
+            "Like tharid",
+            "Tharid over other food"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"The superiority of 'A'ishah over women is like tharid over other food.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3770",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-aishah-revelation-in-her-blanket",
+          "canonical": "Revelation in her blanket",
+          "variants": [
+            "Revelation in her blanket",
+            "Blanket",
+            "Wahy in her blanket"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Revelation came to him while he was under her blanket, and with no other wife.",
+          "source": {
+            "text": "Sahih al-Bukhari 3775",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mothers-umm-salamah",
+      "number": 7,
+      "prompt": "Name something Umm Salamah (RA) is known for.",
+      "answers": [
+        {
+          "id": "mothers-umm-salamah-her-advice-at-al-hudaybiyah",
+          "canonical": "Her advice at al-Hudaybiyah",
+          "variants": [
+            "Hudaybiyah",
+            "Hudaybiyyah",
+            "Advice",
+            "Shave your head",
+            "Told him to shave"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "She told him to shave his head first, and the Companions followed.",
+          "source": {
+            "text": "Sahih al-Bukhari 2731",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-umm-salamah-her-dua-for-something-better",
+          "canonical": "Her du'a for something better",
+          "variants": [
+            "Dua for something better",
+            "Replace it with better",
+            "Allahumma jurni",
+            "Inna lillahi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"O Allah, reward me in my affliction and replace it with something better\" — then she married the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih Muslim 918",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-umm-salamah-her-lonely-hijrah",
+          "canonical": "Her lonely Hijrah",
+          "variants": [
+            "Hijrah alone",
+            "Separated from her family",
+            "Rode alone to Madinah",
+            "Hijrah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Separated from her husband and son, she later rode alone to Madinah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-umm-salamah-narrating-hadith",
+          "canonical": "Narrating hadith",
+          "variants": [
+            "Hadith",
+            "Narrations",
+            "Narrator"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of the wives who narrated the most.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-umm-salamah-emigrating-to-abyssinia",
+          "canonical": "Emigrating to Abyssinia",
+          "variants": [
+            "Abyssinia",
+            "Habasha",
+            "Ethiopia"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She went to Abyssinia with Abu Salamah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-umm-salamah-the-last-of-the-mothers-to-die",
+          "canonical": "The last of the Mothers to die",
+          "variants": [
+            "Last to die",
+            "Last of the wives",
+            "Last Mother of the Believers"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She died around 61 AH, the last of the Prophet's ﷺ wives.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-umm-salamah-asking-why-women-were-not-mentioned",
+          "canonical": "Asking why women were not mentioned",
+          "variants": [
+            "Women mentioned",
+            "Women in the Quran",
+            "Verse 33:35",
+            "Muslim men and Muslim women"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Her question was followed by the verse \"the Muslim men and Muslim women…\".",
+          "source": {
+            "text": "Qur'an 33:35; Musnad Ahmad 26575",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mothers-umm-salamah-her-son-umar-ibn-abi-salamah",
+          "canonical": "Her son 'Umar ibn Abi Salamah",
+          "variants": [
+            "Umar ibn Abi Salamah",
+            "Her son",
+            "Children",
+            "Salamah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Say Bismillah, eat with your right hand…\" was said to him.",
+          "source": {
+            "text": "Sahih al-Bukhari 5376",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-umm-salamah-her-name-hind",
+          "canonical": "Her name, Hind",
+          "variants": [
+            "Hind",
+            "Hind bint Abi Umayyah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Her name was Hind bint Abi Umayyah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mothers-zaynab-jahsh",
+      "number": 8,
+      "prompt": "Name something Zaynab bint Jahsh (RA) is known for.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Umm al-Masakin",
+            "Mother of the poor",
+            "Mother of the needy"
+          ],
+          "message": "Umm al-Masakin was Zaynab bint Khuzaymah. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "mothers-zaynab-jahsh-married-by-allahs-command",
+          "canonical": "Married by Allah's command",
+          "variants": [
+            "Married by Allah",
+            "Married from above the heavens",
+            "Marriage in the Quran",
+            "Above seven heavens"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"We married her to you\" — she said Allah married her from above the seven heavens.",
+          "source": {
+            "text": "Qur'an 33:37; Sahih al-Bukhari 7420",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mothers-zaynab-jahsh-formerly-married-to-zayd-ibn-harithah",
+          "canonical": "Formerly married to Zayd ibn Harithah",
+          "variants": [
+            "Zayd",
+            "Zaid",
+            "Zayd ibn Harithah",
+            "Wife of Zayd"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She was married to Zayd before.",
+          "source": {
+            "text": "Qur'an 33:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mothers-zaynab-jahsh-cousin-of-the-prophet",
+          "canonical": "Cousin of the Prophet ﷺ",
+          "variants": [
+            "Cousin",
+            "His cousin"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Her mother was his aunt Umaymah bint 'Abd al-Muttalib.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-zaynab-jahsh-the-longest-hand",
+          "canonical": "The longest hand",
+          "variants": [
+            "Longest hand",
+            "Long hands",
+            "Generous",
+            "Charity",
+            "Generosity"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The first of you to join me will be the one with the longest hand\" — meaning the most charitable.",
+          "source": {
+            "text": "Sahih Muslim 2452",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-zaynab-jahsh-first-wife-to-die-after-him",
+          "canonical": "First wife to die after him",
+          "variants": [
+            "First to die",
+            "First to join him",
+            "Died first"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She was the first of his wives to pass away after him.",
+          "source": {
+            "text": "Sahih Muslim 2452",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-zaynab-jahsh-the-verse-of-hijab",
+          "canonical": "The verse of hijab",
+          "variants": [
+            "Hijab",
+            "Verse of hijab",
+            "Wedding feast",
+            "Walimah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "It was revealed at her wedding feast.",
+          "source": {
+            "text": "Sahih al-Bukhari 4791",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-zaynab-jahsh-working-with-her-hands",
+          "canonical": "Working with her hands",
+          "variants": [
+            "Worked with her hands",
+            "Handicrafts",
+            "Tanning",
+            "Sewing"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She worked with her hands and gave away what she earned.",
+          "source": {
+            "text": "Sahih Muslim 2452",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-zaynab-jahsh-abdullah-ibn-jahsh",
+          "canonical": "'Abdullah ibn Jahsh",
+          "variants": [
+            "Abdullah ibn Jahsh",
+            "Her brother",
+            "Brother"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Her brother, martyred at Uhud.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-zaynab-jahsh-renamed-from-barrah",
+          "canonical": "Renamed from Barrah",
+          "variants": [
+            "Barrah",
+            "Barra",
+            "Renamed"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Her name was Barrah and he renamed her Zaynab.",
+          "source": {
+            "text": "Sahih Muslim 2142",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mothers-names",
+      "number": 9,
+      "prompt": "Name a title or name of one of the Mothers of the Believers.",
+      "answers": [
+        {
+          "id": "mothers-names-umm-al-muminin",
+          "canonical": "Umm al-Mu'minin",
+          "variants": [
+            "Umm al-Muminin",
+            "Mother of the Believers",
+            "Ummul Momineen",
+            "Mothers of the Believers"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"His wives are their mothers.\"",
+          "source": {
+            "text": "Qur'an 33:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mothers-names-at-tahirah",
+          "canonical": "At-Tahirah",
+          "variants": [
+            "Tahirah",
+            "At-Tahirah",
+            "Tahira",
+            "The Pure"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Khadijah, \"the pure one\".",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-names-as-siddiqah",
+          "canonical": "As-Siddiqah",
+          "variants": [
+            "Siddiqah",
+            "As-Siddiqah",
+            "Siddiqa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'A'ishah, daughter of as-Siddiq.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3175",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-names-al-kubra",
+          "canonical": "Al-Kubra",
+          "variants": [
+            "Kubra",
+            "Khadijah al-Kubra",
+            "Al Kubra"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Khadijah al-Kubra, \"the great\".",
+          "source": {
+            "text": "Common title",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-names-humayra",
+          "canonical": "Humayra'",
+          "variants": [
+            "Humayra",
+            "Humaira"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "An affectionate name for 'A'ishah.",
+          "source": {
+            "text": "Sunan an-Nasa'i al-Kubra 8951",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-names-umm-al-masakin",
+          "canonical": "Umm al-Masakin",
+          "variants": [
+            "Umm al-Masakin",
+            "Mother of the poor",
+            "Mother of the needy"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Zaynab bint Khuzaymah, \"mother of the poor\", for her charity.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-names-ramlah",
+          "canonical": "Ramlah",
+          "variants": [
+            "Ramlah",
+            "Ramla"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The name of Umm Habibah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-names-hind",
+          "canonical": "Hind",
+          "variants": [
+            "Hind"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The name of Umm Salamah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-names-umm-abdullah",
+          "canonical": "Umm 'Abdullah",
+          "variants": [
+            "Umm Abdullah",
+            "Umm 'Abdillah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'A'ishah's kunya, after her nephew 'Abdullah ibn al-Zubayr.",
+          "source": {
+            "text": "Sunan Abi Dawud 4970",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mothers-names-barrah",
+          "canonical": "Barrah",
+          "variants": [
+            "Barrah",
+            "Barra"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The earlier name of Juwayriyah, and of Zaynab bint Jahsh.",
+          "source": {
+            "text": "Sahih Muslim 2140, 2142",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mothers-after-hijrah",
+      "number": 10,
+      "prompt": "Name a Mother of the Believers whom the Prophet ﷺ married after the Hijrah.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Zaynab",
+            "Zainab",
+            "Zainab RA"
+          ],
+          "message": "Which Zaynab? Add her father: bint Jahsh or bint Khuzaymah."
+        }
+      ],
+      "notAccepted": [
+        {
+          "inputs": [
+            "Khadijah",
+            "Khadija",
+            "Khadeeja",
+            "Khadijah bint Khuwaylid",
+            "Sawdah",
+            "Sawda",
+            "Sauda",
+            "Sawdah bint Zamah"
+          ],
+          "message": "He married her in Makkah, before the Hijrah. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "mothers-after-hijrah-hafsah-bint-umar",
+          "canonical": "Hafsah bint 'Umar",
+          "variants": [
+            "Hafsa",
+            "Hafsah",
+            "Hafsa bint Umar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Married in 3 AH.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-after-hijrah-aishah-bint-abi-bakr",
+          "canonical": "'A'ishah bint Abi Bakr",
+          "variants": [
+            "Aisha",
+            "Aishah",
+            "Ayesha",
+            "Aysha",
+            "Aisha bint Abi Bakr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Her marriage was contracted in Makkah; she joined his household in Madinah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3894",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-after-hijrah-umm-salamah",
+          "canonical": "Umm Salamah",
+          "variants": [
+            "Umm Salamah",
+            "Umm Salama",
+            "Um Salama",
+            "Hind bint Abi Umayyah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Married in 4 AH.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-after-hijrah-zaynab-bint-jahsh",
+          "canonical": "Zaynab bint Jahsh",
+          "variants": [
+            "Zaynab bint Jahsh",
+            "Zainab bint Jahsh",
+            "Zaynab bint Jahash"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Married in 5 AH.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-after-hijrah-safiyyah-bint-huyayy",
+          "canonical": "Safiyyah bint Huyayy",
+          "variants": [
+            "Safiyyah",
+            "Safiya",
+            "Safiyya",
+            "Safia",
+            "Safiyyah bint Huyayy"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Married after Khaybar, 7 AH.",
+          "source": {
+            "text": "Sahih al-Bukhari 371",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-after-hijrah-juwayriyah-bint-al-harith",
+          "canonical": "Juwayriyah bint al-Harith",
+          "variants": [
+            "Juwayriyah",
+            "Juwayriya",
+            "Juwairiya",
+            "Juwayriyya"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Married after al-Muraysi', 5 or 6 AH.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-after-hijrah-umm-habibah",
+          "canonical": "Umm Habibah",
+          "variants": [
+            "Umm Habibah",
+            "Umm Habiba",
+            "Ramlah bint Abi Sufyan",
+            "Ramla"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Married by proxy in Abyssinia, about 7 AH.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-after-hijrah-maymunah-bint-al-harith",
+          "canonical": "Maymunah bint al-Harith",
+          "variants": [
+            "Maymunah",
+            "Maimuna",
+            "Maymuna",
+            "Maimunah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Married during the 'Umrah of 7 AH — the last he married.",
+          "source": {
+            "text": "Sahih al-Bukhari 4258",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "mothers-after-hijrah-zaynab-bint-khuzaymah",
+          "canonical": "Zaynab bint Khuzaymah",
+          "variants": [
+            "Zaynab bint Khuzaymah",
+            "Zainab bint Khuzaima",
+            "Zaynab bint Khuzayma",
+            "Umm al-Masakin"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Married in 3 or 4 AH; she died a few months later.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        }
+      ]
+    }
+  ]
+}

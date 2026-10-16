@@ -1,0 +1,343 @@
+{
+  "id": "prophet-nuh",
+  "title": "Prophet Nuh",
+  "description": "The ark, the flood and 950 years of calling his people.",
+  "emoji": "🚢",
+  "color": "#31c46c",
+  "questions": [
+    {
+      "id": "prophet-nuh-story",
+      "number": 1,
+      "prompt": "Name something from the story of Prophet Nuh (AS).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Nuh",
+            "Noah",
+            "Nooh"
+          ],
+          "message": "That's in the question — name something else from the story!"
+        },
+        {
+          "inputs": [
+            "Dove",
+            "Raven",
+            "Olive branch",
+            "Rainbow"
+          ],
+          "message": "That's from the Bible's telling — it isn't in the Qur'an's story of Nuh. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-nuh-story-the-ark",
+          "canonical": "The ark",
+          "variants": [
+            "Ark",
+            "Ship",
+            "Boat",
+            "Building the ark",
+            "Safina",
+            "Building the ship"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Allah told him to build the ship under His eyes.",
+          "source": {
+            "text": "Qur'an 11:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-the-flood",
+          "canonical": "The flood",
+          "variants": [
+            "Flood",
+            "Great flood",
+            "Deluge",
+            "Rain",
+            "Water",
+            "Storm"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Water poured from the sky and burst from the earth.",
+          "source": {
+            "text": "Qur'an 54:11-12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-animals-in-pairs",
+          "canonical": "Animals in pairs",
+          "variants": [
+            "Animals",
+            "Pairs",
+            "Pairs of animals",
+            "Two of every kind",
+            "Animals two by two"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He took a pair of every kind on board.",
+          "source": {
+            "text": "Qur'an 11:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-his-son-who-drowned",
+          "canonical": "His son who drowned",
+          "variants": [
+            "Son",
+            "His son",
+            "Son drowned",
+            "Kan'an",
+            "Canaan",
+            "Yam"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His son refused to board and was among the drowned.",
+          "source": {
+            "text": "Qur'an 11:42-43",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-the-mockery",
+          "canonical": "The mockery",
+          "variants": [
+            "Mocking",
+            "Mockery",
+            "People laughing",
+            "Laughed at him",
+            "Ridicule",
+            "Mocked"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His people mocked him each time they passed as he built the ship.",
+          "source": {
+            "text": "Qur'an 11:38",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-mount-judi",
+          "canonical": "Mount Judi",
+          "variants": [
+            "Judi",
+            "Mount Judi",
+            "Jodi",
+            "Al Judi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The ark came to rest on al-Judi.",
+          "source": {
+            "text": "Qur'an 11:44",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-950-years",
+          "canonical": "950 years",
+          "variants": [
+            "950",
+            "950 years",
+            "Nine hundred and fifty years",
+            "Thousand years less fifty",
+            "1000 years minus 50"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He stayed among his people a thousand years less fifty.",
+          "source": {
+            "text": "Qur'an 29:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-idols",
+          "canonical": "Idols",
+          "variants": [
+            "Idols",
+            "Statues",
+            "Idol worship"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His people worshipped idols and refused to leave them.",
+          "source": {
+            "text": "Qur'an 71:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-wadd-suwa-yaghuth-yauq-and-nasr",
+          "canonical": "Wadd, Suwa', Yaghuth, Ya'uq and Nasr",
+          "variants": [
+            "Wadd",
+            "Wad",
+            "Suwa",
+            "Suwa'",
+            "Yaghuth",
+            "Yaghus",
+            "Yauq",
+            "Ya'uq",
+            "Nasr"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The idols his people refused to abandon.",
+          "source": {
+            "text": "Qur'an 71:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-nuhs-wife",
+          "canonical": "Nuh's wife",
+          "variants": [
+            "Wife",
+            "His wife",
+            "Wife of Nuh",
+            "Nuh's wife",
+            "Waila"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An example of disbelief, though married to a prophet.",
+          "source": {
+            "text": "Qur'an 66:10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-fingers-in-their-ears",
+          "canonical": "Fingers in their ears",
+          "variants": [
+            "Fingers in ears",
+            "Fingers in their ears",
+            "Covered their heads",
+            "Garments over heads"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His people put their fingers in their ears and covered themselves with their garments.",
+          "source": {
+            "text": "Qur'an 71:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-his-dua-against-the-disbelievers",
+          "canonical": "His du'a against the disbelievers",
+          "variants": [
+            "Dua",
+            "Du'a",
+            "Prayer",
+            "Rabbi la tadhar",
+            "His prayer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"My Lord, do not leave a single disbeliever on the earth.\"",
+          "source": {
+            "text": "Qur'an 71:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-only-a-few-believed",
+          "canonical": "Only a few believed",
+          "variants": [
+            "Few believers",
+            "Believers",
+            "Only a few believed",
+            "Family",
+            "Followers"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Only a few believed with him.",
+          "source": {
+            "text": "Qur'an 11:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-the-first-messenger",
+          "canonical": "The first messenger",
+          "variants": [
+            "First messenger",
+            "First rasul",
+            "First prophet sent"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In the hadith of intercession, people call him the first messenger sent to the people of the earth.",
+          "source": {
+            "text": "Sahih al-Bukhari 4712",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-the-oven-gushed",
+          "canonical": "The oven gushed",
+          "variants": [
+            "Oven",
+            "Tannur",
+            "Tannoor",
+            "Oven boiled",
+            "Tanur"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The sign of the flood was the oven (tannur) boiling over.",
+          "source": {
+            "text": "Qur'an 11:40; 23:27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-planks-and-nails",
+          "canonical": "Planks and nails",
+          "variants": [
+            "Planks",
+            "Nails",
+            "Planks and nails",
+            "Wood",
+            "Timber"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The ship was made of planks and nails.",
+          "source": {
+            "text": "Qur'an 54:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-nuh-story-seeking-forgiveness-brings-rain",
+          "canonical": "Seeking forgiveness brings rain",
+          "variants": [
+            "Istighfar",
+            "Seeking forgiveness",
+            "Ask forgiveness",
+            "Rain and wealth",
+            "Forgiveness"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Ask forgiveness of your Lord… He will send rain upon you in abundance.\"",
+          "source": {
+            "text": "Qur'an 71:10-12",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

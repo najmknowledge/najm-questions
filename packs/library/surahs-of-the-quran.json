@@ -1,0 +1,2270 @@
+{
+  "id": "surahs-of-the-quran",
+  "title": "Surahs of the Qur'an",
+  "description": "Verse counts, where they were revealed and what the Prophet ﷺ said about them.",
+  "emoji": "📖",
+  "color": "#31c46c",
+  "questions": [
+    {
+      "id": "surahs-last-ten",
+      "number": 1,
+      "prompt": "Name one of the last ten surahs of the Qur'an (al-Fil to an-Nas).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Al-'Asr",
+            "Asr",
+            "Al Asr",
+            "Al-Humazah",
+            "Humazah",
+            "Humaza",
+            "At-Takathur",
+            "Takathur",
+            "Takasur",
+            "Al-Qadr",
+            "Qadr",
+            "Qadar",
+            "Az-Zalzalah",
+            "Zalzalah",
+            "Zalzala"
+          ],
+          "message": "Close — but that surah comes before the last ten. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "surahs-last-ten-al-ikhlas",
+          "canonical": "Al-Ikhlas",
+          "variants": [
+            "Ikhlas",
+            "Ikhlaas",
+            "Al Ikhlas",
+            "Sincerity",
+            "Purity",
+            "Tawhid",
+            "Qul huwallahu ahad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 112: \"Say, He is Allah, the One.\"",
+          "source": {
+            "text": "Qur'an 112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-last-ten-an-nas",
+          "canonical": "An-Nas",
+          "variants": [
+            "Nas",
+            "Naas",
+            "An Nas",
+            "Annas",
+            "Mankind",
+            "People"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 114, the very last surah.",
+          "source": {
+            "text": "Qur'an 114",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-last-ten-al-falaq",
+          "canonical": "Al-Falaq",
+          "variants": [
+            "Falaq",
+            "Al Falaq",
+            "Daybreak",
+            "The Daybreak",
+            "Dawn"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 113: \"Say, I seek refuge in the Lord of daybreak.\"",
+          "source": {
+            "text": "Qur'an 113",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-last-ten-al-kawthar",
+          "canonical": "Al-Kawthar",
+          "variants": [
+            "Kawthar",
+            "Kausar",
+            "Kauthar",
+            "Kawsar",
+            "Abundance"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 108, the shortest surah, with three verses.",
+          "source": {
+            "text": "Qur'an 108",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-last-ten-al-kafirun",
+          "canonical": "Al-Kafirun",
+          "variants": [
+            "Kafirun",
+            "Kafiroon",
+            "Kaafiroon",
+            "Al Kafirun",
+            "The Disbelievers",
+            "Disbelievers",
+            "Qul ya ayyuhal kafirun"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 109: \"For you your religion, and for me mine.\"",
+          "source": {
+            "text": "Qur'an 109",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-last-ten-an-nasr",
+          "canonical": "An-Nasr",
+          "variants": [
+            "Nasr",
+            "An Nasr",
+            "Help",
+            "Divine Help",
+            "Idha jaa nasrullah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 110, about Allah's help and the victory.",
+          "source": {
+            "text": "Qur'an 110",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-last-ten-al-masad",
+          "canonical": "Al-Masad",
+          "variants": [
+            "Masad",
+            "Al Masad",
+            "Lahab",
+            "Al Lahab",
+            "Tabbat",
+            "Tabbat yada",
+            "Palm Fibre"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 111, about Abu Lahab and his wife.",
+          "source": {
+            "text": "Qur'an 111",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-last-ten-quraysh",
+          "canonical": "Quraysh",
+          "variants": [
+            "Quraysh",
+            "Quraish",
+            "Kuraish",
+            "Qureshi",
+            "Li ilafi Quraysh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 106, about the winter and summer journeys of Quraysh.",
+          "source": {
+            "text": "Qur'an 106",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-last-ten-al-fil",
+          "canonical": "Al-Fil",
+          "variants": [
+            "Fil",
+            "Feel",
+            "Al Fil",
+            "The Elephant",
+            "Elephant"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Surah 105, about the army of the elephant.",
+          "source": {
+            "text": "Qur'an 105",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-last-ten-al-maun",
+          "canonical": "Al-Ma'un",
+          "variants": [
+            "Maun",
+            "Ma'un",
+            "Maoon",
+            "Ma'oon",
+            "Small Kindnesses",
+            "Neighbourly Needs",
+            "Almsgiving"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 107, about those who refuse small kindnesses.",
+          "source": {
+            "text": "Qur'an 107",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "surahs-over-100",
+      "number": 2,
+      "prompt": "Name a surah with more than 100 verses.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Al-Anfal",
+            "Anfal",
+            "Maryam",
+            "Al-Hijr",
+            "Hijr",
+            "Al-Waqiah",
+            "Waqiah",
+            "Ya-Sin",
+            "Yasin",
+            "Ar-Rahman",
+            "Rahman",
+            "Al-Hajj",
+            "Hajj",
+            "An-Nur",
+            "Nur",
+            "Al-Furqan",
+            "Furqan",
+            "An-Naml",
+            "Naml",
+            "Al-Qasas",
+            "Qasas",
+            "Sad",
+            "Az-Zumar",
+            "Zumar",
+            "Ghafir",
+            "Al-Ahzab",
+            "Ahzab",
+            "Al-Mulk",
+            "Mulk"
+          ],
+          "message": "That surah has 100 verses or fewer. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "surahs-over-100-al-baqarah",
+          "canonical": "Al-Baqarah",
+          "variants": [
+            "Baqarah",
+            "Baqara",
+            "Al Baqarah",
+            "The Cow",
+            "Cow"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The longest surah, with 286 verses.",
+          "source": {
+            "text": "Qur'an 2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-al-imran",
+          "canonical": "Al 'Imran",
+          "variants": [
+            "Al Imran",
+            "Ali Imran",
+            "Aal Imran",
+            "Al-i-Imran",
+            "Imran",
+            "Family of Imran"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "200 verses.",
+          "source": {
+            "text": "Qur'an 3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-an-nisa",
+          "canonical": "An-Nisa'",
+          "variants": [
+            "Nisa",
+            "Nisaa",
+            "An Nisa",
+            "Women",
+            "The Women"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "176 verses.",
+          "source": {
+            "text": "Qur'an 4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-al-maidah",
+          "canonical": "Al-Ma'idah",
+          "variants": [
+            "Maidah",
+            "Maida",
+            "Al Maidah",
+            "Table",
+            "The Table Spread",
+            "Table Spread"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "120 verses.",
+          "source": {
+            "text": "Qur'an 5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-al-anam",
+          "canonical": "Al-An'am",
+          "variants": [
+            "Anam",
+            "An'aam",
+            "Al Anam",
+            "Cattle",
+            "Livestock"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "165 verses.",
+          "source": {
+            "text": "Qur'an 6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-al-araf",
+          "canonical": "Al-A'raf",
+          "variants": [
+            "Araf",
+            "A'raaf",
+            "Al Araf",
+            "Heights",
+            "The Heights"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "206 verses.",
+          "source": {
+            "text": "Qur'an 7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-at-tawbah",
+          "canonical": "At-Tawbah",
+          "variants": [
+            "Tawbah",
+            "Taubah",
+            "Tawba",
+            "Tauba",
+            "Bara'ah",
+            "Baraah",
+            "Repentance"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "129 verses.",
+          "source": {
+            "text": "Qur'an 9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-yusuf",
+          "canonical": "Yusuf",
+          "variants": [
+            "Yusuf",
+            "Yousuf",
+            "Yousef",
+            "Joseph"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "111 verses.",
+          "source": {
+            "text": "Qur'an 12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-al-kahf",
+          "canonical": "Al-Kahf",
+          "variants": [
+            "Kahf",
+            "Al Kahf",
+            "The Cave",
+            "Cave"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "110 verses.",
+          "source": {
+            "text": "Qur'an 18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-yunus",
+          "canonical": "Yunus",
+          "variants": [
+            "Yunus",
+            "Younus",
+            "Jonah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "109 verses.",
+          "source": {
+            "text": "Qur'an 10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-hud",
+          "canonical": "Hud",
+          "variants": [
+            "Hud",
+            "Hood"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "123 verses.",
+          "source": {
+            "text": "Qur'an 11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-an-nahl",
+          "canonical": "An-Nahl",
+          "variants": [
+            "Nahl",
+            "The Bee",
+            "Bee"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "128 verses.",
+          "source": {
+            "text": "Qur'an 16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-al-isra",
+          "canonical": "Al-Isra'",
+          "variants": [
+            "Isra",
+            "Isra'",
+            "Bani Israil",
+            "Bani Isra'il",
+            "Night Journey",
+            "The Night Journey",
+            "Subhanalladhi asra"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "111 verses.",
+          "source": {
+            "text": "Qur'an 17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-ta-ha",
+          "canonical": "Ta-Ha",
+          "variants": [
+            "Taha",
+            "Ta Ha"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "135 verses.",
+          "source": {
+            "text": "Qur'an 20",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-al-anbiya",
+          "canonical": "Al-Anbiya'",
+          "variants": [
+            "Anbiya",
+            "Anbiya'",
+            "Anbiyaa",
+            "The Prophets",
+            "Prophets"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "112 verses.",
+          "source": {
+            "text": "Qur'an 21",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-ash-shuara",
+          "canonical": "Ash-Shu'ara'",
+          "variants": [
+            "Shuara",
+            "Shu'ara",
+            "Shu'araa",
+            "The Poets",
+            "Poets"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "227 verses — the second-highest count after al-Baqarah.",
+          "source": {
+            "text": "Qur'an 26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-al-muminun",
+          "canonical": "Al-Mu'minun",
+          "variants": [
+            "Muminun",
+            "Mu'minun",
+            "Mu'minoon",
+            "Muminoon",
+            "The Believers",
+            "Believers"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "118 verses.",
+          "source": {
+            "text": "Qur'an 23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-over-100-as-saffat",
+          "canonical": "As-Saffat",
+          "variants": [
+            "Saffat",
+            "Saaffaat",
+            "As Saffat",
+            "Those Ranged in Ranks",
+            "Those Who Set the Ranks"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "182 verses.",
+          "source": {
+            "text": "Qur'an 37",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "surahs-madani",
+      "number": 3,
+      "prompt": "Name a surah revealed in Madinah.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Ar-Rad",
+            "Rad",
+            "Ar-Rahman",
+            "Rahman",
+            "Al-Insan",
+            "Insan",
+            "Ad-Dahr",
+            "Dahr",
+            "Al-Hajj",
+            "Hajj",
+            "Az-Zalzalah",
+            "Zalzalah",
+            "Al-Bayyinah",
+            "Bayyinah",
+            "Al-Ikhlas",
+            "Ikhlas",
+            "Al-Falaq",
+            "Falaq",
+            "An-Nas",
+            "Nas",
+            "Al-Mutaffifin",
+            "Mutaffifin",
+            "Al-Qadr",
+            "Qadr",
+            "Al-Fatiha",
+            "Fatiha"
+          ],
+          "message": "Scholars differ over whether that surah was revealed in Makkah or Madinah. Try one that's agreed on!"
+        },
+        {
+          "inputs": [
+            "Ya-Sin",
+            "Yasin",
+            "Al-Kahf",
+            "Kahf",
+            "Maryam",
+            "Al-Mulk",
+            "Mulk",
+            "Al-Waqiah",
+            "Waqiah",
+            "Yusuf",
+            "Ta-Ha",
+            "Taha",
+            "Luqman",
+            "Al-Anbiya",
+            "Anbiya",
+            "Al-Isra",
+            "Isra"
+          ],
+          "message": "That one was revealed in Makkah. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "surahs-madani-al-baqarah",
+          "canonical": "Al-Baqarah",
+          "variants": [
+            "Baqarah",
+            "Baqara",
+            "Al Baqarah",
+            "The Cow",
+            "Cow"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first long surah revealed in Madinah.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-imran",
+          "canonical": "Al 'Imran",
+          "variants": [
+            "Al Imran",
+            "Ali Imran",
+            "Aal Imran",
+            "Al-i-Imran",
+            "Imran",
+            "Family of Imran"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Revealed in Madinah, including the verses on Uhud.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-an-nisa",
+          "canonical": "An-Nisa'",
+          "variants": [
+            "Nisa",
+            "Nisaa",
+            "An Nisa",
+            "Women",
+            "The Women"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A Madinan surah on family law and inheritance.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-maidah",
+          "canonical": "Al-Ma'idah",
+          "variants": [
+            "Maidah",
+            "Maida",
+            "Al Maidah",
+            "Table",
+            "The Table Spread",
+            "Table Spread"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Among the last surahs revealed.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-anfal",
+          "canonical": "Al-Anfal",
+          "variants": [
+            "Anfal",
+            "Anfaal",
+            "Spoils of War",
+            "Spoils"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Revealed after the Battle of Badr.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-at-tawbah",
+          "canonical": "At-Tawbah",
+          "variants": [
+            "Tawbah",
+            "Taubah",
+            "Tawba",
+            "Tauba",
+            "Bara'ah",
+            "Baraah",
+            "Repentance"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Revealed around the expedition of Tabuk.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-an-nur",
+          "canonical": "An-Nur",
+          "variants": [
+            "Nur",
+            "Noor",
+            "An Nur",
+            "The Light",
+            "Light"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Revealed in Madinah, with the verses on modesty.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-ahzab",
+          "canonical": "Al-Ahzab",
+          "variants": [
+            "Ahzab",
+            "Ahzaab",
+            "The Confederates",
+            "Confederates",
+            "The Clans",
+            "Combined Forces"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Revealed about the Battle of the Trench.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-jumuah",
+          "canonical": "Al-Jumu'ah",
+          "variants": [
+            "Jumuah",
+            "Jumu'ah",
+            "Jumua",
+            "Juma",
+            "Jummah",
+            "Jumah",
+            "Friday"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Revealed in Madinah, about the Friday prayer.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-an-nasr",
+          "canonical": "An-Nasr",
+          "variants": [
+            "Nasr",
+            "An Nasr",
+            "Help",
+            "Divine Help",
+            "Idha jaa nasrullah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One of the last surahs revealed.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-muhammad",
+          "canonical": "Muhammad",
+          "variants": [
+            "Muhammad",
+            "Muhammed",
+            "Qital"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Also called al-Qital (fighting).",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-fath",
+          "canonical": "Al-Fath",
+          "variants": [
+            "Fath",
+            "Al Fath",
+            "Victory",
+            "The Victory",
+            "Conquest"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Revealed on the way back from al-Hudaybiyah.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-hujurat",
+          "canonical": "Al-Hujurat",
+          "variants": [
+            "Hujurat",
+            "Hujuraat",
+            "The Rooms",
+            "Private Apartments",
+            "Inner Apartments"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "On manners towards the Prophet ﷺ and one another.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-hadid",
+          "canonical": "Al-Hadid",
+          "variants": [
+            "Hadid",
+            "Hadeed",
+            "Iron",
+            "The Iron"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Named after iron, sent down with great strength.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-hashr",
+          "canonical": "Al-Hashr",
+          "variants": [
+            "Hashr",
+            "Al Hashr",
+            "The Exile",
+            "Exile",
+            "The Gathering",
+            "Banishment"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "About the exile of Banu al-Nadir.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-munafiqun",
+          "canonical": "Al-Munafiqun",
+          "variants": [
+            "Munafiqun",
+            "Munafiqoon",
+            "Munafiqeen",
+            "The Hypocrites",
+            "Hypocrites"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "About the hypocrites of Madinah.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-at-talaq",
+          "canonical": "At-Talaq",
+          "variants": [
+            "Talaq",
+            "Talaaq",
+            "Divorce"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "On divorce and the waiting period.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-at-tahrim",
+          "canonical": "At-Tahrim",
+          "variants": [
+            "Tahrim",
+            "Tahreem",
+            "Prohibition",
+            "The Prohibition",
+            "Banning"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "On the Prophet's ﷺ household.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-mujadilah",
+          "canonical": "Al-Mujadilah",
+          "variants": [
+            "Mujadilah",
+            "Mujadila",
+            "Mujadalah",
+            "Mujaadalah",
+            "The Pleading Woman",
+            "She Who Disputes"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "About the woman who pleaded her case to the Prophet ﷺ.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-al-mumtahanah",
+          "canonical": "Al-Mumtahanah",
+          "variants": [
+            "Mumtahanah",
+            "Mumtahana",
+            "Mumtahinah",
+            "Mumtahina",
+            "The Woman Tested",
+            "She That Is Examined"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "About testing the faith of women who emigrated.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-as-saff",
+          "canonical": "As-Saff",
+          "variants": [
+            "Saff",
+            "As Saff",
+            "The Ranks",
+            "Ranks",
+            "Battle Array"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Allah loves those who fight in His cause in a row.",
+          "source": {
+            "text": "Madani by agreement",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-madani-at-taghabun",
+          "canonical": "At-Taghabun",
+          "variants": [
+            "Taghabun",
+            "Taghaabun",
+            "Mutual Disillusion",
+            "Mutual Loss and Gain"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "About the day of mutual loss and gain.",
+          "source": {
+            "text": "Madani by most scholars",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "surahs-kahf-stories",
+      "number": 4,
+      "prompt": "Name a story told in Surah al-Kahf.",
+      "answers": [
+        {
+          "id": "surahs-kahf-stories-the-people-of-the-cave",
+          "canonical": "The People of the Cave",
+          "variants": [
+            "People of the Cave",
+            "Ashab al-Kahf",
+            "Companions of the Cave",
+            "Sleepers of the Cave",
+            "Seven sleepers",
+            "Sleepers",
+            "Youths in the cave",
+            "Cave"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Young believers who slept in a cave for 309 years.",
+          "source": {
+            "text": "Qur'an 18:9-26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-kahf-stories-musa-and-al-khidr",
+          "canonical": "Musa and al-Khidr",
+          "variants": [
+            "Musa and Khidr",
+            "Khidr",
+            "Khadir",
+            "Khizr",
+            "Al-Khidr",
+            "Moses and Khidr",
+            "Musa",
+            "Moses",
+            "Two seas",
+            "Meeting of the two seas",
+            "Fish",
+            "Boat",
+            "Boy"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Musa travelled with a servant of Allah who sank a boat, killed a boy and repaired a wall.",
+          "source": {
+            "text": "Qur'an 18:60-82",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-kahf-stories-dhul-qarnayn",
+          "canonical": "Dhul-Qarnayn",
+          "variants": [
+            "Dhul Qarnayn",
+            "Dhul Qarnain",
+            "Zulqarnain",
+            "Zul Qarnain",
+            "Dhu al-Qarnayn",
+            "Yajuj and Majuj",
+            "Gog and Magog",
+            "Iron wall",
+            "Barrier"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A righteous ruler who travelled east and west and built a barrier against Ya'juj and Ma'juj.",
+          "source": {
+            "text": "Qur'an 18:83-98",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-kahf-stories-the-owner-of-the-two-gardens",
+          "canonical": "The owner of the two gardens",
+          "variants": [
+            "Two gardens",
+            "Owner of the two gardens",
+            "Man with two gardens",
+            "Gardens",
+            "Garden",
+            "Two men",
+            "Rich man and poor man"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A proud man boasted of his two gardens, and they were destroyed.",
+          "source": {
+            "text": "Qur'an 18:32-44",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-kahf-stories-iblis-and-adam",
+          "canonical": "Iblis and Adam",
+          "variants": [
+            "Iblis",
+            "Adam",
+            "Adam and Iblis",
+            "Iblis refusing to bow",
+            "Shaytan",
+            "Satan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Iblis refused to prostrate to Adam — \"he was of the jinn\".",
+          "source": {
+            "text": "Qur'an 18:50",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-kahf-stories-the-parable-of-the-rain",
+          "canonical": "The parable of the rain",
+          "variants": [
+            "Parable of the rain",
+            "Rain",
+            "Worldly life",
+            "Life of this world",
+            "Plants",
+            "Water from the sky"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Worldly life is like rain that makes plants grow, then they become dry stalks scattered by the wind.",
+          "source": {
+            "text": "Qur'an 18:45",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "surahs-virtues",
+      "number": 5,
+      "prompt": "Name a surah the Prophet ﷺ described as having a special virtue.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Al-Waqiah",
+            "Waqiah",
+            "Waqia"
+          ],
+          "message": "The hadith about al-Waqi'ah and poverty is very weak, so it isn't counted here. Try another!"
+        },
+        {
+          "inputs": [
+            "Ayat al-Kursi",
+            "Ayatul Kursi",
+            "Ayat ul Kursi"
+          ],
+          "message": "Ayat al-Kursi is a verse (in al-Baqarah), not a whole surah. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "surahs-virtues-al-fatihah",
+          "canonical": "Al-Fatihah",
+          "variants": [
+            "Fatiha",
+            "Fatihah",
+            "Al Fatiha",
+            "Opening",
+            "The Opening",
+            "Umm al-Kitab",
+            "Umm al-Quran",
+            "Seven Oft-Repeated"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The greatest surah in the Qur'an\" — the seven oft-repeated verses.",
+          "source": {
+            "text": "Sahih al-Bukhari 4474",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-al-ikhlas",
+          "canonical": "Al-Ikhlas",
+          "variants": [
+            "Ikhlas",
+            "Ikhlaas",
+            "Al Ikhlas",
+            "Sincerity",
+            "Purity",
+            "Tawhid",
+            "Qul huwallahu ahad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Equal to a third of the Qur'an.",
+          "source": {
+            "text": "Sahih al-Bukhari 5013",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-al-kahf",
+          "canonical": "Al-Kahf",
+          "variants": [
+            "Kahf",
+            "Al Kahf",
+            "The Cave",
+            "Cave"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Whoever memorises its first ten verses is protected from the Dajjal.",
+          "source": {
+            "text": "Sahih Muslim 809",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-al-mulk",
+          "canonical": "Al-Mulk",
+          "variants": [
+            "Mulk",
+            "Al Mulk",
+            "Tabarak",
+            "Tabaraka",
+            "Dominion",
+            "Sovereignty",
+            "The Kingdom"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A surah of thirty verses that interceded for a man until he was forgiven.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2891",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-al-baqarah",
+          "canonical": "Al-Baqarah",
+          "variants": [
+            "Baqarah",
+            "Baqara",
+            "Al Baqarah",
+            "The Cow",
+            "Cow"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Shaytan flees from a house in which al-Baqarah is recited.",
+          "source": {
+            "text": "Sahih Muslim 780",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-al-imran",
+          "canonical": "Al 'Imran",
+          "variants": [
+            "Al Imran",
+            "Ali Imran",
+            "Aal Imran",
+            "Al-i-Imran",
+            "Imran",
+            "Family of Imran"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "With al-Baqarah, one of \"the two radiant ones\" that will come shading their companions.",
+          "source": {
+            "text": "Sahih Muslim 804",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-al-falaq",
+          "canonical": "Al-Falaq",
+          "variants": [
+            "Falaq",
+            "Al Falaq",
+            "Daybreak",
+            "The Daybreak",
+            "Dawn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "With an-Nas, verses \"the like of which have never been seen\".",
+          "source": {
+            "text": "Sahih Muslim 814",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-an-nas",
+          "canonical": "An-Nas",
+          "variants": [
+            "Nas",
+            "Naas",
+            "An Nas",
+            "Annas",
+            "Mankind",
+            "People"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "With al-Falaq, the best words to seek refuge with.",
+          "source": {
+            "text": "Sahih Muslim 814",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-al-kafirun",
+          "canonical": "Al-Kafirun",
+          "variants": [
+            "Kafirun",
+            "Kafiroon",
+            "Kaafiroon",
+            "Al Kafirun",
+            "The Disbelievers",
+            "Disbelievers",
+            "Qul ya ayyuhal kafirun"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Recited before sleeping, it is a declaration of freedom from shirk.",
+          "source": {
+            "text": "Sunan Abi Dawud 5055",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-ya-sin",
+          "canonical": "Ya-Sin",
+          "variants": [
+            "Yasin",
+            "Ya Sin",
+            "Yaseen",
+            "Ya Seen"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Called \"the heart of the Qur'an\" in a narration that scholars grade weak.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2887",
+            "status": "needs-review"
+          },
+          "note": "The hadith is graded weak."
+        },
+        {
+          "id": "surahs-virtues-al-fath",
+          "canonical": "Al-Fath",
+          "variants": [
+            "Fath",
+            "Al Fath",
+            "Victory",
+            "The Victory",
+            "Conquest"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"A surah has been revealed to me tonight that is dearer to me than everything the sun rises over.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 4177",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-as-sajdah",
+          "canonical": "As-Sajdah",
+          "variants": [
+            "Sajdah",
+            "Sajda",
+            "As Sajdah",
+            "Prostration",
+            "The Prostration",
+            "Alif Lam Mim Tanzil"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Prophet ﷺ would not sleep until he had recited it and al-Mulk.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2892",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-hud",
+          "canonical": "Hud",
+          "variants": [
+            "Hud",
+            "Hood"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Hud and its sisters have made my hair grey.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3297",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-virtues-az-zalzalah",
+          "canonical": "Az-Zalzalah",
+          "variants": [
+            "Zalzalah",
+            "Zalzala",
+            "Zilzal",
+            "Zilzaal",
+            "Earthquake",
+            "The Earthquake"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Said to equal half the Qur'an in a narration graded weak.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2893",
+            "status": "needs-review"
+          },
+          "note": "The hadith is graded weak."
+        }
+      ]
+    },
+    {
+      "id": "surahs-glorify",
+      "number": 6,
+      "prompt": "Name a surah whose first word glorifies Allah (Subhana, Sabbaha, Yusabbihu or Sabbih).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Al-Mulk",
+            "Mulk",
+            "Tabarak",
+            "Al-Furqan",
+            "Furqan"
+          ],
+          "message": "That surah opens with 'Tabaraka' (Blessed is…), not a word of glorification. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "surahs-glorify-al-ala",
+          "canonical": "Al-A'la",
+          "variants": [
+            "Ala",
+            "A'la",
+            "Al Ala",
+            "The Most High",
+            "Most High",
+            "Sabbihisma"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Sabbihisma rabbika al-a'la\" — Glorify the name of your Lord, the Most High.",
+          "source": {
+            "text": "Qur'an 87:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-glorify-al-isra",
+          "canonical": "Al-Isra'",
+          "variants": [
+            "Isra",
+            "Isra'",
+            "Bani Israil",
+            "Bani Isra'il",
+            "Night Journey",
+            "The Night Journey",
+            "Subhanalladhi asra"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Subhana alladhi asra\" — Glory be to the One who took His servant by night.",
+          "source": {
+            "text": "Qur'an 17:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-glorify-al-jumuah",
+          "canonical": "Al-Jumu'ah",
+          "variants": [
+            "Jumuah",
+            "Jumu'ah",
+            "Jumua",
+            "Juma",
+            "Jummah",
+            "Jumah",
+            "Friday"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Yusabbihu lillahi…\" — Whatever is in the heavens and earth glorifies Allah.",
+          "source": {
+            "text": "Qur'an 62:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-glorify-al-hadid",
+          "canonical": "Al-Hadid",
+          "variants": [
+            "Hadid",
+            "Hadeed",
+            "Iron",
+            "The Iron"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Sabbaha lillahi…\" — the first of the \"musabbihat\".",
+          "source": {
+            "text": "Qur'an 57:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-glorify-al-hashr",
+          "canonical": "Al-Hashr",
+          "variants": [
+            "Hashr",
+            "Al Hashr",
+            "The Exile",
+            "Exile",
+            "The Gathering",
+            "Banishment"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Sabbaha lillahi ma fis-samawati wa ma fil-ard.\"",
+          "source": {
+            "text": "Qur'an 59:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-glorify-as-saff",
+          "canonical": "As-Saff",
+          "variants": [
+            "Saff",
+            "As Saff",
+            "The Ranks",
+            "Ranks",
+            "Battle Array"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Sabbaha lillahi ma fis-samawati wa ma fil-ard.\"",
+          "source": {
+            "text": "Qur'an 61:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-glorify-at-taghabun",
+          "canonical": "At-Taghabun",
+          "variants": [
+            "Taghabun",
+            "Taghaabun",
+            "Mutual Disillusion",
+            "Mutual Loss and Gain"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Yusabbihu lillahi ma fis-samawati wa ma fil-ard.\"",
+          "source": {
+            "text": "Qur'an 64:1",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "surahs-alif-lam-mim",
+      "number": 7,
+      "prompt": "Name a surah that opens with \"Alif Lam Mim\".",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Ar-Rad",
+            "Rad",
+            "Ar-Ra'd",
+            "Thunder"
+          ],
+          "message": "Close! Ar-Ra'd opens with Alif Lam Mim Ra. Try another!"
+        },
+        {
+          "inputs": [
+            "Al-Araf",
+            "Araf",
+            "Al-A'raf"
+          ],
+          "message": "Close! Al-A'raf opens with Alif Lam Mim Sad. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "surahs-alif-lam-mim-al-baqarah",
+          "canonical": "Al-Baqarah",
+          "variants": [
+            "Baqarah",
+            "Baqara",
+            "Al Baqarah",
+            "The Cow",
+            "Cow"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Alif Lam Mim. This is the Book, about which there is no doubt.\"",
+          "source": {
+            "text": "Qur'an 2:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-alif-lam-mim-al-imran",
+          "canonical": "Al 'Imran",
+          "variants": [
+            "Al Imran",
+            "Ali Imran",
+            "Aal Imran",
+            "Al-i-Imran",
+            "Imran",
+            "Family of Imran"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Alif Lam Mim. Allah — there is no god but Him.\"",
+          "source": {
+            "text": "Qur'an 3:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-alif-lam-mim-al-ankabut",
+          "canonical": "Al-'Ankabut",
+          "variants": [
+            "Ankabut",
+            "Ankaboot",
+            "Al Ankabut",
+            "The Spider",
+            "Spider"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Alif Lam Mim. Do people think they will be left to say 'We believe' and not be tested?\"",
+          "source": {
+            "text": "Qur'an 29:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-alif-lam-mim-ar-rum",
+          "canonical": "Ar-Rum",
+          "variants": [
+            "Rum",
+            "Room",
+            "Ar Rum",
+            "The Romans",
+            "Romans",
+            "Byzantines"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Alif Lam Mim. The Romans have been defeated.\"",
+          "source": {
+            "text": "Qur'an 30:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-alif-lam-mim-luqman",
+          "canonical": "Luqman",
+          "variants": [
+            "Luqman",
+            "Lukman",
+            "Loqman"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Alif Lam Mim. These are the verses of the wise Book.\"",
+          "source": {
+            "text": "Qur'an 31:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-alif-lam-mim-as-sajdah",
+          "canonical": "As-Sajdah",
+          "variants": [
+            "Sajdah",
+            "Sajda",
+            "As Sajdah",
+            "Prostration",
+            "The Prostration",
+            "Alif Lam Mim Tanzil"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Alif Lam Mim. The revelation of the Book…\"",
+          "source": {
+            "text": "Qur'an 32:1",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "surahs-under-10",
+      "number": 8,
+      "prompt": "Name a surah with fewer than 10 verses, other than the last ten surahs.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Al-Fil",
+            "Fil",
+            "Feel",
+            "Quraysh",
+            "Quraysh",
+            "Quraish",
+            "Al-Ma'un",
+            "Maun",
+            "Ma'un",
+            "Al-Kawthar",
+            "Kawthar",
+            "Kausar",
+            "Al-Kafirun",
+            "Kafirun",
+            "Kafiroon",
+            "An-Nasr",
+            "Nasr",
+            "An Nasr",
+            "Al-Masad",
+            "Masad",
+            "Al Masad",
+            "Al-Ikhlas",
+            "Ikhlas",
+            "Ikhlaas",
+            "Al-Falaq",
+            "Falaq",
+            "Al Falaq",
+            "An-Nas",
+            "Nas",
+            "Naas"
+          ],
+          "message": "That's one of the last ten — try one from earlier in the Qur'an!"
+        },
+        {
+          "inputs": [
+            "Ad-Duha",
+            "Duha",
+            "Al-Qari'ah",
+            "Qariah",
+            "Al-'Adiyat",
+            "Adiyat"
+          ],
+          "message": "Close — that surah has 11 verses. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "surahs-under-10-al-fatihah",
+          "canonical": "Al-Fatihah",
+          "variants": [
+            "Fatiha",
+            "Fatihah",
+            "Al Fatiha",
+            "Opening",
+            "The Opening",
+            "Umm al-Kitab",
+            "Umm al-Quran"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Seven verses.",
+          "source": {
+            "text": "Qur'an 1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-under-10-al-asr",
+          "canonical": "Al-'Asr",
+          "variants": [
+            "Asr",
+            "Al Asr",
+            "Wal Asr",
+            "Time",
+            "The Declining Day"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Three verses.",
+          "source": {
+            "text": "Qur'an 103",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-under-10-al-qadr",
+          "canonical": "Al-Qadr",
+          "variants": [
+            "Qadr",
+            "Qadar",
+            "Al Qadr",
+            "Power",
+            "Night of Power",
+            "Decree",
+            "Inna anzalnahu"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Five verses.",
+          "source": {
+            "text": "Qur'an 97",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-under-10-at-takathur",
+          "canonical": "At-Takathur",
+          "variants": [
+            "Takathur",
+            "Takasur",
+            "Takaathur",
+            "Rivalry",
+            "Competition",
+            "Piling Up",
+            "Alhakumut takathur"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Eight verses.",
+          "source": {
+            "text": "Qur'an 102",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-under-10-az-zalzalah",
+          "canonical": "Az-Zalzalah",
+          "variants": [
+            "Zalzalah",
+            "Zalzala",
+            "Zilzal",
+            "Zilzaal",
+            "Earthquake",
+            "The Earthquake"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Eight verses.",
+          "source": {
+            "text": "Qur'an 99",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-under-10-at-tin",
+          "canonical": "At-Tin",
+          "variants": [
+            "Tin",
+            "Teen",
+            "At Tin",
+            "The Fig",
+            "Fig"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Eight verses.",
+          "source": {
+            "text": "Qur'an 95",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-under-10-ash-sharh",
+          "canonical": "Ash-Sharh",
+          "variants": [
+            "Sharh",
+            "Ash Sharh",
+            "Inshirah",
+            "Alam Nashrah",
+            "Relief",
+            "Expansion",
+            "Solace"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Eight verses.",
+          "source": {
+            "text": "Qur'an 94",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-under-10-al-humazah",
+          "canonical": "Al-Humazah",
+          "variants": [
+            "Humazah",
+            "Humaza",
+            "The Slanderer",
+            "Slanderer",
+            "Backbiter"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Nine verses.",
+          "source": {
+            "text": "Qur'an 104",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-under-10-al-bayyinah",
+          "canonical": "Al-Bayyinah",
+          "variants": [
+            "Bayyinah",
+            "Bayyina",
+            "Clear Proof",
+            "Clear Evidence"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Eight verses.",
+          "source": {
+            "text": "Qur'an 98",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "surahs-iblis",
+      "number": 9,
+      "prompt": "Name a surah in which Iblis refuses to prostrate to Adam (AS).",
+      "answers": [
+        {
+          "id": "surahs-iblis-al-baqarah",
+          "canonical": "Al-Baqarah",
+          "variants": [
+            "Baqarah",
+            "Baqara",
+            "Al Baqarah",
+            "The Cow",
+            "Cow"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"They prostrated, except Iblis. He refused and was arrogant.\"",
+          "source": {
+            "text": "Qur'an 2:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-iblis-al-araf",
+          "canonical": "Al-A'raf",
+          "variants": [
+            "Araf",
+            "A'raaf",
+            "Al Araf",
+            "Heights",
+            "The Heights"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"I am better than him: You created me from fire and created him from clay.\"",
+          "source": {
+            "text": "Qur'an 7:11-12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-iblis-al-kahf",
+          "canonical": "Al-Kahf",
+          "variants": [
+            "Kahf",
+            "Al Kahf",
+            "The Cave",
+            "Cave"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…except Iblis. He was of the jinn.\"",
+          "source": {
+            "text": "Qur'an 18:50",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-iblis-al-hijr",
+          "canonical": "Al-Hijr",
+          "variants": [
+            "Hijr",
+            "Al Hijr",
+            "Rocky Tract",
+            "Stoneland"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…except Iblis; he refused to be with those who prostrated.\"",
+          "source": {
+            "text": "Qur'an 15:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-iblis-al-isra",
+          "canonical": "Al-Isra'",
+          "variants": [
+            "Isra",
+            "Isra'",
+            "Bani Israil",
+            "Bani Isra'il",
+            "Night Journey",
+            "The Night Journey",
+            "Subhanalladhi asra"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Shall I prostrate to one You created from clay?\"",
+          "source": {
+            "text": "Qur'an 17:61",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-iblis-ta-ha",
+          "canonical": "Ta-Ha",
+          "variants": [
+            "Taha",
+            "Ta Ha"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…except Iblis; he refused.\"",
+          "source": {
+            "text": "Qur'an 20:116",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "surahs-iblis-sad",
+          "canonical": "Sad",
+          "variants": [
+            "Sad",
+            "Saad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…except Iblis; he was arrogant and became of the disbelievers.\"",
+          "source": {
+            "text": "Qur'an 38:74",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "surahs-jumuah-eid",
+      "number": 10,
+      "prompt": "Name a surah the Prophet ﷺ recited in the Friday or Eid prayers.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Al-Kahf",
+            "Kahf"
+          ],
+          "message": "Al-Kahf is recommended to read on Friday, but not as part of the prayer. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "surahs-jumuah-eid-al-jumuah",
+          "canonical": "Al-Jumu'ah",
+          "variants": [
+            "Jumuah",
+            "Jumu'ah",
+            "Jumua",
+            "Juma",
+            "Jummah",
+            "Jumah",
+            "Friday"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Recited in the Friday prayer.",
+          "source": {
+            "text": "Sahih Muslim 877",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-jumuah-eid-al-ala",
+          "canonical": "Al-A'la",
+          "variants": [
+            "Ala",
+            "A'la",
+            "Al Ala",
+            "The Most High",
+            "Most High",
+            "Sabbihisma"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Recited in the Friday and Eid prayers.",
+          "source": {
+            "text": "Sahih Muslim 878",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-jumuah-eid-al-ghashiyah",
+          "canonical": "Al-Ghashiyah",
+          "variants": [
+            "Ghashiyah",
+            "Ghashiya",
+            "Al Ghashiyah",
+            "The Overwhelming",
+            "Overwhelming Event"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Recited with al-A'la in the Friday and Eid prayers.",
+          "source": {
+            "text": "Sahih Muslim 878",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-jumuah-eid-al-munafiqun",
+          "canonical": "Al-Munafiqun",
+          "variants": [
+            "Munafiqun",
+            "Munafiqoon",
+            "Munafiqeen",
+            "The Hypocrites",
+            "Hypocrites"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Recited with al-Jumu'ah in the Friday prayer.",
+          "source": {
+            "text": "Sahih Muslim 877",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-jumuah-eid-as-sajdah",
+          "canonical": "As-Sajdah",
+          "variants": [
+            "Sajdah",
+            "Sajda",
+            "As Sajdah",
+            "Prostration",
+            "The Prostration",
+            "Alif Lam Mim Tanzil"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Recited in Fajr on Friday.",
+          "source": {
+            "text": "Sahih al-Bukhari 891",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-jumuah-eid-qaf",
+          "canonical": "Qaf",
+          "variants": [
+            "Qaf",
+            "Qaaf",
+            "Kaf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Recited in the Eid prayer.",
+          "source": {
+            "text": "Sahih Muslim 891",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-jumuah-eid-al-qamar",
+          "canonical": "Al-Qamar",
+          "variants": [
+            "Qamar",
+            "Al Qamar",
+            "The Moon",
+            "Moon"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Recited with Qaf in the Eid prayer.",
+          "source": {
+            "text": "Sahih Muslim 891",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "surahs-jumuah-eid-al-insan",
+          "canonical": "Al-Insan",
+          "variants": [
+            "Insan",
+            "Insaan",
+            "Al Insan",
+            "Dahr",
+            "Ad Dahr",
+            "Man",
+            "Human"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Recited with as-Sajdah in Fajr on Friday.",
+          "source": {
+            "text": "Sahih al-Bukhari 891",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

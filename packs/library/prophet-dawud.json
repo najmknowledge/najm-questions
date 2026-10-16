@@ -1,0 +1,325 @@
+{
+  "id": "prophet-dawud",
+  "title": "Prophet Dawud",
+  "description": "Jalut, the Zabur, soft iron and the singing mountains.",
+  "emoji": "🛡️",
+  "color": "#a855f7",
+  "questions": [
+    {
+      "id": "prophet-dawud-story",
+      "number": 1,
+      "prompt": "Name something from the story of Prophet Dawud (AS).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Dawud",
+            "Dawood",
+            "David"
+          ],
+          "message": "That's in the question — name something else from the story!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-dawud-story-jalut",
+          "canonical": "Jalut",
+          "variants": [
+            "Jalut",
+            "Jaloot",
+            "Goliath",
+            "Killing Goliath",
+            "Killed Jalut"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "As a young man Dawud killed Jalut (Goliath).",
+          "source": {
+            "text": "Qur'an 2:251",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-the-zabur",
+          "canonical": "The Zabur",
+          "variants": [
+            "Zabur",
+            "Zaboor",
+            "Psalms",
+            "Book"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Allah gave Dawud the Zabur (Psalms).",
+          "source": {
+            "text": "Qur'an 4:163; 17:55",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-iron-made-soft",
+          "canonical": "Iron made soft",
+          "variants": [
+            "Iron",
+            "Soft iron",
+            "Iron softened",
+            "Armour",
+            "Armor",
+            "Chain mail",
+            "Coats of mail"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Iron was made soft for him and he made coats of mail.",
+          "source": {
+            "text": "Qur'an 34:10-11; 21:80",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-the-mountains-and-birds",
+          "canonical": "The mountains and birds",
+          "variants": [
+            "Mountains",
+            "Birds",
+            "Mountains and birds",
+            "Mountains glorified",
+            "Singing with mountains",
+            "Tasbih of the mountains"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The mountains and the birds glorified Allah with him.",
+          "source": {
+            "text": "Qur'an 34:10; 38:18-19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-sulayman",
+          "canonical": "Sulayman",
+          "variants": [
+            "Sulayman",
+            "Sulaiman",
+            "Solomon",
+            "His son",
+            "Son"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His son, who inherited from him.",
+          "source": {
+            "text": "Qur'an 27:16; 38:30",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-dawud-story-talut",
+          "canonical": "Talut",
+          "variants": [
+            "Talut",
+            "Taloot",
+            "Saul",
+            "King Talut",
+            "Army of Talut"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Dawud fought in the army of King Talut.",
+          "source": {
+            "text": "Qur'an 2:249-251",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-his-beautiful-voice",
+          "canonical": "His beautiful voice",
+          "variants": [
+            "Voice",
+            "Beautiful voice",
+            "Recitation",
+            "Mizmar",
+            "Flute",
+            "Lovely voice"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet ﷺ praised a Companion's recitation as \"one of the flutes of the family of Dawud\".",
+          "source": {
+            "text": "Sahih al-Bukhari 5048",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-the-fast-of-dawud",
+          "canonical": "The fast of Dawud",
+          "variants": [
+            "Fast of Dawud",
+            "Fasting every other day",
+            "Fasting alternate days",
+            "Fasting"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He fasted every other day — the best voluntary fast.",
+          "source": {
+            "text": "Sahih al-Bukhari 1131",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-judging-the-dispute",
+          "canonical": "Judging the dispute",
+          "variants": [
+            "Two disputants",
+            "Dispute",
+            "Ewes",
+            "99 ewes",
+            "Ninety nine sheep",
+            "Sheep",
+            "Two men",
+            "Climbed the wall",
+            "Judge",
+            "Judging"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Two men climbed into his prayer chamber with a case about ninety-nine ewes and one.",
+          "source": {
+            "text": "Qur'an 38:21-24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-khalifah-on-the-earth",
+          "canonical": "Khalifah on the earth",
+          "variants": [
+            "Khalifah",
+            "Khalifa",
+            "Vicegerent",
+            "King",
+            "Kingdom",
+            "Ruler"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"O Dawud, We have made you a successor upon the earth, so judge between people in truth.\"",
+          "source": {
+            "text": "Qur'an 38:26; 2:251",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-his-night-prayer",
+          "canonical": "His night prayer",
+          "variants": [
+            "Night prayer",
+            "Qiyam",
+            "Tahajjud",
+            "Prayed a third of the night"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He slept half the night, prayed a third and slept a sixth.",
+          "source": {
+            "text": "Sahih al-Bukhari 1131",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-eating-from-his-own-work",
+          "canonical": "Eating from his own work",
+          "variants": [
+            "Worked with his hands",
+            "Ate from his own work",
+            "Own earnings",
+            "Earned with his hands",
+            "Blacksmith",
+            "Craftsman"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He ate only from what he earned with his own hands.",
+          "source": {
+            "text": "Sahih al-Bukhari 2072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-the-sling",
+          "canonical": "The sling",
+          "variants": [
+            "Sling",
+            "Slingshot",
+            "Stone",
+            "Stones",
+            "Pebble"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Tradition says he killed Jalut with stones from a sling; the Qur'an does not say how.",
+          "source": {
+            "text": "Tafsir of Qur'an 2:251",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-the-river-test",
+          "canonical": "The river test",
+          "variants": [
+            "River",
+            "River test",
+            "Drinking from the river",
+            "Handful of water",
+            "Not drinking"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Talut's army was tested by a river: only those who drank no more than a handful went on.",
+          "source": {
+            "text": "Qur'an 2:249",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-his-repentance",
+          "canonical": "His repentance",
+          "variants": [
+            "Repentance",
+            "Fell down bowing",
+            "Prostration",
+            "Sajdah",
+            "Sujud",
+            "Sought forgiveness",
+            "Istighfar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He sought forgiveness and fell down bowing, and turned in repentance.",
+          "source": {
+            "text": "Qur'an 38:24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-dawud-story-wisdom-and-decisive-speech",
+          "canonical": "Wisdom and decisive speech",
+          "variants": [
+            "Wisdom",
+            "Hikmah",
+            "Hikma",
+            "Decisive speech",
+            "Faslul khitab"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Allah gave him wisdom and decisive judgement.",
+          "source": {
+            "text": "Qur'an 38:20",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

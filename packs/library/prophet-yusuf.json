@@ -1,0 +1,1689 @@
+{
+  "id": "prophet-yusuf",
+  "title": "Prophet Yusuf",
+  "description": "The well, the dream, the prison and the palace — the best of stories.",
+  "emoji": "🌾",
+  "color": "#f4c542",
+  "questions": [
+    {
+      "id": "prophet-yusuf-story",
+      "number": 1,
+      "prompt": "Name something from the story of Prophet Yusuf (AS) in the Qur'an.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Yusuf",
+            "Joseph",
+            "Yousuf"
+          ],
+          "message": "That's in the question — name something else from the story!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-yusuf-story-the-well",
+          "canonical": "The well",
+          "variants": [
+            "Well",
+            "Bottom of the well",
+            "Pit",
+            "Thrown in the well"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His brothers threw Yusuf into the bottom of a well.",
+          "source": {
+            "text": "Qur'an 12:10,15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-his-brothers",
+          "canonical": "His brothers",
+          "variants": [
+            "Brothers",
+            "Yusuf's brothers",
+            "Jealous brothers"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Jealous of their father's love for him, his brothers plotted against him.",
+          "source": {
+            "text": "Qur'an 12:8-9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-yaqub",
+          "canonical": "Ya'qub",
+          "variants": [
+            "Yaqub",
+            "Yakub",
+            "Yaqoob",
+            "Jacob",
+            "His father",
+            "Father"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His father, the Prophet Ya'qub, who grieved for him for years.",
+          "source": {
+            "text": "Qur'an 12:4,84",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-yusuf-story-the-dream-of-the-eleven-stars",
+          "canonical": "The dream of the eleven stars",
+          "variants": [
+            "Dream",
+            "The dream",
+            "Eleven stars",
+            "11 stars",
+            "Stars sun and moon",
+            "Sun moon and stars",
+            "Sun and moon"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "As a boy he dreamt of eleven stars, the sun and the moon prostrating to him.",
+          "source": {
+            "text": "Qur'an 12:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-the-shirt",
+          "canonical": "The shirt",
+          "variants": [
+            "Shirt",
+            "Yusuf's shirt",
+            "Bloodstained shirt",
+            "Torn shirt",
+            "Qamis",
+            "Kurta"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His brothers brought back his shirt stained with false blood; later his shirt restored his father's sight.",
+          "source": {
+            "text": "Qur'an 12:18,93",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-egypt",
+          "canonical": "Egypt",
+          "variants": [
+            "Misr",
+            "Egypt"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He was sold in Egypt and rose to high office there.",
+          "source": {
+            "text": "Qur'an 12:21,99",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-the-wolf",
+          "canonical": "The wolf",
+          "variants": [
+            "Wolf"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The brothers claimed a wolf had eaten him.",
+          "source": {
+            "text": "Qur'an 12:13,17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-prison",
+          "canonical": "Prison",
+          "variants": [
+            "Jail",
+            "Prison",
+            "Dungeon",
+            "Imprisonment"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Though innocent, he chose prison over sin and spent years there.",
+          "source": {
+            "text": "Qur'an 12:33-35,42",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-the-wife-of-al-aziz",
+          "canonical": "The wife of al-'Aziz",
+          "variants": [
+            "Zulaikha",
+            "Zulaykha",
+            "Zuleikha",
+            "Zulekha",
+            "Wife of Aziz",
+            "Aziz's wife",
+            "Wife of al-Aziz",
+            "Potiphars wife"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She tried to seduce him; tradition names her Zulaykha.",
+          "source": {
+            "text": "Qur'an 12:23-30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-the-caravan",
+          "canonical": "The caravan",
+          "variants": [
+            "Caravan",
+            "Travellers",
+            "Bucket",
+            "Water drawer"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Travellers lowered a bucket into the well and found him.",
+          "source": {
+            "text": "Qur'an 12:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-al-aziz",
+          "canonical": "Al-'Aziz",
+          "variants": [
+            "Aziz",
+            "The Aziz",
+            "Potiphar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Egyptian official who bought him and told his wife to honour him.",
+          "source": {
+            "text": "Qur'an 12:21,30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-the-women-who-cut-their-hands",
+          "canonical": "The women who cut their hands",
+          "variants": [
+            "Knives",
+            "Cut hands",
+            "Women cut their hands",
+            "Banquet",
+            "Women of the city",
+            "Cutting hands"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Guests given knives were so struck by his beauty that they cut their hands.",
+          "source": {
+            "text": "Qur'an 12:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-the-kings-dream-of-seven-cows",
+          "canonical": "The king's dream of seven cows",
+          "variants": [
+            "Seven cows",
+            "Cows",
+            "King's dream",
+            "Seven fat cows",
+            "Seven lean cows",
+            "Ears of corn",
+            "Seven years of famine",
+            "Famine"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He interpreted the king's dream of seven fat and seven lean cows as years of plenty and famine.",
+          "source": {
+            "text": "Qur'an 12:43-49",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-the-two-prisoners",
+          "canonical": "The two prisoners",
+          "variants": [
+            "Two prisoners",
+            "Two young men",
+            "Baker",
+            "Cupbearer",
+            "Prisoners dreams",
+            "Two men in prison"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He interpreted the dreams of two young men in prison with him.",
+          "source": {
+            "text": "Qur'an 12:36-41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-sold-for-a-few-dirhams",
+          "canonical": "Sold for a few dirhams",
+          "variants": [
+            "Dirhams",
+            "Few dirhams",
+            "Sold as a slave",
+            "Slave",
+            "Sold"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He was sold for a small price, a few dirhams.",
+          "source": {
+            "text": "Qur'an 12:20",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-binyamin",
+          "canonical": "Binyamin",
+          "variants": [
+            "Benjamin",
+            "Binyameen",
+            "Bunyamin",
+            "Binyamin",
+            "Younger brother"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His younger full brother, kept in Egypt by a plan; named in tradition.",
+          "source": {
+            "text": "Qur'an 12:59-79 (named in tafsir)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-the-kings-cup",
+          "canonical": "The king's cup",
+          "variants": [
+            "Cup",
+            "Measuring cup",
+            "Drinking cup",
+            "Goblet",
+            "Golden cup",
+            "Siqayah",
+            "King's measure"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The king's drinking cup was placed in Binyamin's bag so Yusuf could keep him.",
+          "source": {
+            "text": "Qur'an 12:70-72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-yaqubs-lost-sight",
+          "canonical": "Ya'qub's lost sight",
+          "variants": [
+            "Blindness",
+            "Lost his sight",
+            "Sight restored",
+            "White eyes",
+            "Blind",
+            "Eyes"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "His father's eyes turned white with grief and his sight returned when the shirt was cast over his face.",
+          "source": {
+            "text": "Qur'an 12:84,96",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-in-charge-of-the-storehouses",
+          "canonical": "In charge of the storehouses",
+          "variants": [
+            "Storehouses",
+            "Treasurer",
+            "Granaries",
+            "Minister",
+            "Treasury",
+            "Store houses"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He asked to be put in charge of the storehouses of the land.",
+          "source": {
+            "text": "Qur'an 12:55",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-story-beautiful-patience",
+          "canonical": "Beautiful patience",
+          "variants": [
+            "Sabrun jamil",
+            "Sabr jamil",
+            "Patience",
+            "Sabr",
+            "Fitting patience"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ya'qub said, \"Patience is most fitting\" — sabrun jamil.",
+          "source": {
+            "text": "Qur'an 12:18,83",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-yusuf-family",
+      "number": 2,
+      "prompt": "Name a member of Prophet Yusuf's (AS) family.",
+      "answers": [
+        {
+          "id": "prophet-yusuf-family-yaqub",
+          "canonical": "Ya'qub",
+          "variants": [
+            "Yaqub",
+            "Yakub",
+            "Yaqoob",
+            "Jacob",
+            "Father",
+            "His father"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His father, a prophet.",
+          "source": {
+            "text": "Qur'an 12:4",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-yusuf-family-his-brothers",
+          "canonical": "His brothers",
+          "variants": [
+            "Brothers",
+            "His brothers",
+            "Eleven brothers",
+            "Ten brothers"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Ten older brothers who were jealous of him.",
+          "source": {
+            "text": "Qur'an 12:7-8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-family-binyamin",
+          "canonical": "Binyamin",
+          "variants": [
+            "Benjamin",
+            "Binyamin",
+            "Binyameen",
+            "Bunyamin",
+            "Younger brother"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His younger full brother; named in tradition.",
+          "source": {
+            "text": "Qur'an 12:8,69 (named in tafsir)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-yusuf-family-ishaq",
+          "canonical": "Ishaq",
+          "variants": [
+            "Ishaq",
+            "Isaac",
+            "Ishak",
+            "Grandfather"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His grandfather: \"as He completed it on your fathers before, Ibrahim and Ishaq\".",
+          "source": {
+            "text": "Qur'an 12:6",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-yusuf-family-ibrahim",
+          "canonical": "Ibrahim",
+          "variants": [
+            "Ibrahim",
+            "Abraham",
+            "Ibraheem",
+            "Great-grandfather"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His great-grandfather, whose way Yusuf said he followed.",
+          "source": {
+            "text": "Qur'an 12:6,38",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-yusuf-family-rahil",
+          "canonical": "Rahil",
+          "variants": [
+            "Rahil",
+            "Raheel",
+            "Rachel",
+            "Mother",
+            "His mother"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His mother, Rachel, according to tradition.",
+          "source": {
+            "text": "Qur'an 12:99-100 (named in tafsir)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-yusuf-family-the-eldest-brother",
+          "canonical": "The eldest brother",
+          "variants": [
+            "Eldest brother",
+            "Rubil",
+            "Reuben",
+            "Yahudha",
+            "Judah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The eldest stayed behind in Egypt rather than face his father; tafsir names him Rubil or Yahudha.",
+          "source": {
+            "text": "Qur'an 12:80 (named in tafsir)",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-yusuf-dreams",
+      "number": 3,
+      "prompt": "Name a dream from Surah Yusuf.",
+      "answers": [
+        {
+          "id": "prophet-yusuf-dreams-eleven-stars-the-sun-and-the-moon",
+          "canonical": "Eleven stars, the sun and the moon",
+          "variants": [
+            "Eleven stars",
+            "11 stars",
+            "Stars",
+            "Sun and moon",
+            "Sun moon and stars",
+            "Stars sun and moon",
+            "Yusuf's dream"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Yusuf saw them prostrating to him.",
+          "source": {
+            "text": "Qur'an 12:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-dreams-seven-fat-cows-and-seven-lean-cows",
+          "canonical": "Seven fat cows and seven lean cows",
+          "variants": [
+            "Seven cows",
+            "Cows",
+            "Fat cows",
+            "Lean cows",
+            "Seven fat cows",
+            "King's dream"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The king's dream: seven lean cows eating seven fat ones.",
+          "source": {
+            "text": "Qur'an 12:43",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-dreams-seven-green-ears-of-corn-and-seven-dry",
+          "canonical": "Seven green ears of corn and seven dry",
+          "variants": [
+            "Ears of corn",
+            "Corn",
+            "Seven ears",
+            "Green and dry ears",
+            "Wheat",
+            "Grain"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The second half of the king's dream.",
+          "source": {
+            "text": "Qur'an 12:43",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-dreams-pressing-wine",
+          "canonical": "Pressing wine",
+          "variants": [
+            "Pressing wine",
+            "Wine",
+            "Pressing grapes",
+            "Grapes",
+            "Cupbearer dream"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One prisoner dreamt he was pressing wine — he would serve the king again.",
+          "source": {
+            "text": "Qur'an 12:36,41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-dreams-bread-on-his-head",
+          "canonical": "Bread on his head",
+          "variants": [
+            "Bread",
+            "Bread on head",
+            "Birds eating bread",
+            "Carrying bread",
+            "Baker dream"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The other prisoner dreamt birds ate bread from his head — he would be crucified.",
+          "source": {
+            "text": "Qur'an 12:36,41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-dreams-the-dream-fulfilled",
+          "canonical": "The dream fulfilled",
+          "variants": [
+            "Dream fulfilled",
+            "Parents prostrating",
+            "Family bowing",
+            "Parents on the throne",
+            "Brothers bowed"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Years later his parents and brothers fell down in prostration: \"This is the interpretation of my dream of before.\"",
+          "source": {
+            "text": "Qur'an 12:100",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-yusuf-animals",
+      "number": 4,
+      "prompt": "Name an animal mentioned in Surah Yusuf.",
+      "answers": [
+        {
+          "id": "prophet-yusuf-animals-wolf",
+          "canonical": "Wolf",
+          "variants": [
+            "Wolf",
+            "Wolves"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The brothers claimed a wolf had eaten him.",
+          "source": {
+            "text": "Qur'an 12:13,17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-animals-cows",
+          "canonical": "Cows",
+          "variants": [
+            "Cow",
+            "Cows",
+            "Cattle"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Seven fat and seven lean, in the king's dream.",
+          "source": {
+            "text": "Qur'an 12:43",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-animals-birds",
+          "canonical": "Birds",
+          "variants": [
+            "Bird",
+            "Birds"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Birds eating bread from the prisoner's head.",
+          "source": {
+            "text": "Qur'an 12:36,41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-animals-camel",
+          "canonical": "Camel",
+          "variants": [
+            "Camel",
+            "Camels",
+            "Camel load"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"A camel's load\" of grain was promised for the king's cup.",
+          "source": {
+            "text": "Qur'an 12:65,72",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-yusuf-places",
+      "number": 5,
+      "prompt": "Name a place in the story of Prophet Yusuf (AS).",
+      "answers": [
+        {
+          "id": "prophet-yusuf-places-egypt",
+          "canonical": "Egypt",
+          "variants": [
+            "Egypt",
+            "Misr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Where he was sold and later ruled.",
+          "source": {
+            "text": "Qur'an 12:21,99",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-places-the-well",
+          "canonical": "The well",
+          "variants": [
+            "Well",
+            "The well",
+            "Pit"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Where his brothers threw him.",
+          "source": {
+            "text": "Qur'an 12:10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-places-prison",
+          "canonical": "Prison",
+          "variants": [
+            "Prison",
+            "Jail",
+            "Dungeon"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Where he spent several years.",
+          "source": {
+            "text": "Qur'an 12:35,42",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-places-al-azizs-house",
+          "canonical": "Al-'Aziz's house",
+          "variants": [
+            "Palace",
+            "House",
+            "Aziz's house",
+            "House of al-Aziz",
+            "Aziz's palace"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Where the wife of al-'Aziz closed the doors on him.",
+          "source": {
+            "text": "Qur'an 12:21-23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-places-the-city-gates",
+          "canonical": "The city gates",
+          "variants": [
+            "Gates",
+            "City gates",
+            "Different gates",
+            "Many gates"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ya'qub told his sons to enter by different gates.",
+          "source": {
+            "text": "Qur'an 12:67",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-places-the-storehouses",
+          "canonical": "The storehouses",
+          "variants": [
+            "Storehouses",
+            "Granaries",
+            "Treasury",
+            "Stores"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He was put in charge of the storehouses of the land.",
+          "source": {
+            "text": "Qur'an 12:55",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-places-the-desert",
+          "canonical": "The desert (Canaan)",
+          "variants": [
+            "Desert",
+            "Badiyah",
+            "Badw",
+            "Canaan",
+            "Kan'an",
+            "Palestine"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"He brought you out of the desert\" — the family's home, Canaan in tradition.",
+          "source": {
+            "text": "Qur'an 12:100",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-yusuf-places-the-throne",
+          "canonical": "The throne",
+          "variants": [
+            "Throne",
+            "Arsh"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He raised his parents onto the throne.",
+          "source": {
+            "text": "Qur'an 12:100",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-yusuf-qualities",
+      "number": 6,
+      "prompt": "Name a quality Prophet Yusuf (AS) is praised for.",
+      "answers": [
+        {
+          "id": "prophet-yusuf-qualities-chastity",
+          "canonical": "Chastity",
+          "variants": [
+            "Chastity",
+            "Modesty",
+            "Purity",
+            "Self control",
+            "Resisting temptation",
+            "Self-restraint"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He refused the wife of al-'Aziz: \"I seek refuge in Allah.\"",
+          "source": {
+            "text": "Qur'an 12:23-24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-qualities-beauty",
+          "canonical": "Beauty",
+          "variants": [
+            "Beauty",
+            "Beautiful",
+            "Handsome",
+            "Good looks",
+            "Half of beauty"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He was given half of all beauty.",
+          "source": {
+            "text": "Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-yusuf-qualities-forgiveness",
+          "canonical": "Forgiveness",
+          "variants": [
+            "Forgiveness",
+            "Forgiving",
+            "Forgave his brothers",
+            "No blame on you today",
+            "Mercy"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"No blame on you today; Allah will forgive you.\"",
+          "source": {
+            "text": "Qur'an 12:92",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-qualities-truthfulness",
+          "canonical": "Truthfulness",
+          "variants": [
+            "Truthful",
+            "Truthfulness",
+            "Siddiq",
+            "Honesty",
+            "Honest"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The prisoner called him \"Yusuf, O man of truth\".",
+          "source": {
+            "text": "Qur'an 12:46",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-qualities-interpreting-dreams",
+          "canonical": "Interpreting dreams",
+          "variants": [
+            "Interpreting dreams",
+            "Dream interpretation",
+            "Tawil",
+            "Ta'wil al-ahadith"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Allah taught him the interpretation of events and dreams.",
+          "source": {
+            "text": "Qur'an 12:6,21",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-qualities-trustworthiness",
+          "canonical": "Trustworthiness",
+          "variants": [
+            "Trustworthy",
+            "Trustworthiness",
+            "Amin",
+            "Trust"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The king said: \"Today you are with us firmly established and trusted.\"",
+          "source": {
+            "text": "Qur'an 12:54",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-qualities-patience",
+          "canonical": "Patience",
+          "variants": [
+            "Patience",
+            "Patient",
+            "Sabr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Whoever fears Allah and is patient — Allah does not let the reward of the good-doers be lost.\"",
+          "source": {
+            "text": "Qur'an 12:90",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-qualities-wisdom-and-knowledge",
+          "canonical": "Wisdom and knowledge",
+          "variants": [
+            "Wisdom",
+            "Knowledge",
+            "Hikmah",
+            "Judgement"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"We gave him judgement and knowledge.\"",
+          "source": {
+            "text": "Qur'an 12:22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-qualities-ihsan",
+          "canonical": "Ihsan",
+          "variants": [
+            "Ihsan",
+            "Muhsin",
+            "Doing good",
+            "Good-doer",
+            "Excellence"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Thus We reward the doers of good (muhsinin).\"",
+          "source": {
+            "text": "Qur'an 12:22,36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-qualities-one-of-the-chosen-servants",
+          "canonical": "One of the chosen servants",
+          "variants": [
+            "Chosen",
+            "Mukhlas",
+            "Sincere",
+            "Sincerity",
+            "Chosen servant"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"He was of Our chosen (mukhlasin) servants.\"",
+          "source": {
+            "text": "Qur'an 12:24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-qualities-the-noblest-of-people",
+          "canonical": "The noblest of people",
+          "variants": [
+            "Noble",
+            "Karim",
+            "Noblest",
+            "Noble son of the noble"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"The noble son of the noble son of the noble son of the noble: Yusuf son of Ya'qub son of Ishaq son of Ibrahim.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3390",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-yusuf-brothers",
+      "number": 7,
+      "prompt": "Name something Prophet Yusuf's (AS) brothers did.",
+      "answers": [
+        {
+          "id": "prophet-yusuf-brothers-threw-him-into-the-well",
+          "canonical": "Threw him into the well",
+          "variants": [
+            "Threw him in the well",
+            "Threw him into the well",
+            "Well",
+            "Put him in a well"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Throw him into the bottom of the well.\"",
+          "source": {
+            "text": "Qur'an 12:10,15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-brothers-plotted-to-kill-him",
+          "canonical": "Plotted to kill him",
+          "variants": [
+            "Plotted to kill him",
+            "Plot",
+            "Wanted to kill him",
+            "Plotted against him"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Kill Yusuf or cast him out to some land.\"",
+          "source": {
+            "text": "Qur'an 12:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-brothers-said-a-wolf-ate-him",
+          "canonical": "Said a wolf ate him",
+          "variants": [
+            "Wolf",
+            "Lied",
+            "Lying",
+            "Lied to their father",
+            "Said a wolf ate him"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "They came weeping at night and said a wolf had eaten him.",
+          "source": {
+            "text": "Qur'an 12:16-17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-brothers-brought-the-shirt-with-false-blood",
+          "canonical": "Brought the shirt with false blood",
+          "variants": [
+            "Shirt",
+            "False blood",
+            "Bloody shirt",
+            "Bloodstained shirt"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "They brought his shirt stained with false blood.",
+          "source": {
+            "text": "Qur'an 12:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-brothers-came-to-egypt-for-grain",
+          "canonical": "Came to Egypt for grain",
+          "variants": [
+            "Came for grain",
+            "Grain",
+            "Food",
+            "Buying food",
+            "Came to Egypt"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In the famine they came to buy food and did not recognise him.",
+          "source": {
+            "text": "Qur'an 12:58",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-brothers-swore-to-bring-binyamin-back",
+          "canonical": "Swore to bring Binyamin back",
+          "variants": [
+            "Oath",
+            "Promise",
+            "Swore an oath",
+            "Pledge"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Their father made them swear an oath by Allah.",
+          "source": {
+            "text": "Qur'an 12:66",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-brothers-found-their-money-returned",
+          "canonical": "Found their money returned",
+          "variants": [
+            "Money returned",
+            "Money in their bags",
+            "Merchandise returned",
+            "Goods returned"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Their goods had been put back in their saddlebags.",
+          "source": {
+            "text": "Qur'an 12:62,65",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-brothers-said-his-brother-had-stolen-before",
+          "canonical": "Said his brother had stolen before",
+          "variants": [
+            "Accused him of stealing",
+            "Said Yusuf stole",
+            "His brother stole before",
+            "Stealing"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"If he steals — a brother of his has stolen before.\"",
+          "source": {
+            "text": "Qur'an 12:77",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-brothers-asked-their-father-to-seek-forgiveness",
+          "canonical": "Asked their father to seek forgiveness",
+          "variants": [
+            "Asked forgiveness",
+            "Repented",
+            "Ask forgiveness for us",
+            "Sought forgiveness"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"O our father, ask forgiveness for us of our sins.\"",
+          "source": {
+            "text": "Qur'an 12:97",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-brothers-fell-down-in-prostration",
+          "canonical": "Fell down in prostration",
+          "variants": [
+            "Prostrated",
+            "Bowed down",
+            "Prostration",
+            "Bowed"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "They fell down before him in prostration, fulfilling the dream.",
+          "source": {
+            "text": "Qur'an 12:100",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-yusuf-yaqub",
+      "number": 8,
+      "prompt": "Name something Prophet Ya'qub (AS) said or did in Surah Yusuf.",
+      "answers": [
+        {
+          "id": "prophet-yusuf-yaqub-beautiful-patience",
+          "canonical": "\"Beautiful patience\"",
+          "variants": [
+            "Sabrun jamil",
+            "Sabr jamil",
+            "Beautiful patience",
+            "Patience"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Sabrun jamil — his answer to the news of Yusuf and later of Binyamin.",
+          "source": {
+            "text": "Qur'an 12:18,83",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-yaqub-told-yusuf-to-keep-the-dream-secret",
+          "canonical": "Told Yusuf to keep the dream secret",
+          "variants": [
+            "Keep the dream secret",
+            "Don't tell your brothers",
+            "Do not tell your brothers",
+            "Secret"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Do not relate your vision to your brothers.\"",
+          "source": {
+            "text": "Qur'an 12:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-yaqub-feared-a-wolf-would-eat-him",
+          "canonical": "Feared a wolf would eat him",
+          "variants": [
+            "Wolf",
+            "Feared a wolf",
+            "Afraid of the wolf"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"I fear that a wolf would eat him.\"",
+          "source": {
+            "text": "Qur'an 12:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-yaqub-wept-until-his-eyes-turned-white",
+          "canonical": "Wept until his eyes turned white",
+          "variants": [
+            "Wept",
+            "Cried",
+            "Crying",
+            "Eyes turned white",
+            "Became blind",
+            "Grief"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His eyes became white from grief.",
+          "source": {
+            "text": "Qur'an 12:84",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-yaqub-complained-only-to-allah",
+          "canonical": "Complained only to Allah",
+          "variants": [
+            "Complained only to Allah",
+            "Innama ashku bathi wa huzni ilallah",
+            "Grief to Allah",
+            "Complain to Allah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"I only complain of my suffering and my grief to Allah.\"",
+          "source": {
+            "text": "Qur'an 12:86",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-yaqub-do-not-despair-of-allahs-mercy",
+          "canonical": "\"Do not despair of Allah's mercy\"",
+          "variants": [
+            "Don't despair",
+            "Do not despair",
+            "Hope",
+            "Mercy of Allah",
+            "Search for Yusuf",
+            "Go and search"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Go and find out about Yusuf and his brother, and do not despair of relief from Allah.\"",
+          "source": {
+            "text": "Qur'an 12:87",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-yaqub-sent-them-through-different-gates",
+          "canonical": "Sent them through different gates",
+          "variants": [
+            "Different gates",
+            "Gates",
+            "Enter by different gates"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Do not enter from one gate, but from different gates.\"",
+          "source": {
+            "text": "Qur'an 12:67",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-yaqub-sensed-the-scent-of-yusuf",
+          "canonical": "Sensed the scent of Yusuf",
+          "variants": [
+            "Smell",
+            "Scent",
+            "Smell of Yusuf",
+            "Scent of Yusuf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"I find the smell of Yusuf.\"",
+          "source": {
+            "text": "Qur'an 12:94",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-yaqub-promised-to-seek-forgiveness-for-his-sons",
+          "canonical": "Promised to seek forgiveness for his sons",
+          "variants": [
+            "Asked forgiveness for them",
+            "I will ask forgiveness for you",
+            "Forgave his sons"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"I will ask forgiveness for you from my Lord.\"",
+          "source": {
+            "text": "Qur'an 12:98",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-yusuf-egypt-people",
+      "number": 9,
+      "prompt": "Name someone Prophet Yusuf (AS) met in Egypt.",
+      "answers": [
+        {
+          "id": "prophet-yusuf-egypt-people-al-aziz",
+          "canonical": "Al-'Aziz",
+          "variants": [
+            "Aziz",
+            "Al Aziz",
+            "The Aziz",
+            "Potiphar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The official who bought him.",
+          "source": {
+            "text": "Qur'an 12:21",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-egypt-people-the-wife-of-al-aziz",
+          "canonical": "The wife of al-'Aziz",
+          "variants": [
+            "Zulaikha",
+            "Zulaykha",
+            "Zuleikha",
+            "Wife of Aziz",
+            "Aziz's wife",
+            "Wife of al-Aziz"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "She tried to seduce him; tradition names her Zulaykha.",
+          "source": {
+            "text": "Qur'an 12:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-egypt-people-the-king",
+          "canonical": "The king",
+          "variants": [
+            "King",
+            "The king",
+            "Malik"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He freed Yusuf and gave him authority.",
+          "source": {
+            "text": "Qur'an 12:43,54",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-egypt-people-the-two-prisoners",
+          "canonical": "The two prisoners",
+          "variants": [
+            "Two prisoners",
+            "Prisoners",
+            "Two young men",
+            "Baker",
+            "Cupbearer"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Two young men who entered prison with him.",
+          "source": {
+            "text": "Qur'an 12:36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-egypt-people-the-women-of-the-city",
+          "canonical": "The women of the city",
+          "variants": [
+            "Women",
+            "Women of the city",
+            "Ladies",
+            "City women"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "They gossiped, then cut their hands at the sight of him.",
+          "source": {
+            "text": "Qur'an 12:30-31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-egypt-people-the-witness-from-her-family",
+          "canonical": "The witness from her family",
+          "variants": [
+            "Witness",
+            "Family witness",
+            "Witness from her family",
+            "Baby witness",
+            "Baby"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A witness from her household judged by the torn shirt; some narrations say it was a baby.",
+          "source": {
+            "text": "Qur'an 12:26-27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-egypt-people-the-prisoner-who-forgot-him",
+          "canonical": "The prisoner who forgot him",
+          "variants": [
+            "Prisoner who forgot",
+            "The one who forgot",
+            "Forgot him",
+            "Freed prisoner"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The freed cupbearer forgot to mention him to the king for years.",
+          "source": {
+            "text": "Qur'an 12:42,45",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-yusuf-objects",
+      "number": 10,
+      "prompt": "Name an object mentioned in Surah Yusuf.",
+      "answers": [
+        {
+          "id": "prophet-yusuf-objects-shirt",
+          "canonical": "Shirt",
+          "variants": [
+            "Shirt",
+            "Qamis",
+            "Kurta",
+            "Torn shirt"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His shirt: with false blood, torn from behind, and cast over his father's face.",
+          "source": {
+            "text": "Qur'an 12:18,25,93",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-objects-cup",
+          "canonical": "Cup",
+          "variants": [
+            "Cup",
+            "King's cup",
+            "Goblet",
+            "Siqayah",
+            "Measuring cup"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The king's cup, hidden in Binyamin's bag.",
+          "source": {
+            "text": "Qur'an 12:70-72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-objects-throne",
+          "canonical": "Throne",
+          "variants": [
+            "Throne",
+            "Arsh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He raised his parents on the throne.",
+          "source": {
+            "text": "Qur'an 12:100",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-objects-bucket",
+          "canonical": "Bucket",
+          "variants": [
+            "Bucket",
+            "Pail"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A water-drawer let down his bucket and found him.",
+          "source": {
+            "text": "Qur'an 12:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-objects-knives",
+          "canonical": "Knives",
+          "variants": [
+            "Knife",
+            "Knives"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Each woman at the banquet was given a knife.",
+          "source": {
+            "text": "Qur'an 12:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-objects-doors",
+          "canonical": "Doors",
+          "variants": [
+            "Door",
+            "Doors",
+            "Closed doors"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She closed the doors; they raced to the door.",
+          "source": {
+            "text": "Qur'an 12:23,25",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-objects-bread",
+          "canonical": "Bread",
+          "variants": [
+            "Bread",
+            "Loaf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Carried on a prisoner's head in his dream.",
+          "source": {
+            "text": "Qur'an 12:36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-objects-cushions",
+          "canonical": "Cushions",
+          "variants": [
+            "Cushions",
+            "Couches",
+            "Seats",
+            "Banquet"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She prepared a banquet with cushions for the women.",
+          "source": {
+            "text": "Qur'an 12:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-objects-saddlebags",
+          "canonical": "Saddlebags",
+          "variants": [
+            "Saddlebags",
+            "Bags",
+            "Sacks",
+            "Baggage"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Their goods were put back in their saddlebags.",
+          "source": {
+            "text": "Qur'an 12:62,70",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yusuf-objects-dirhams",
+          "canonical": "Dirhams",
+          "variants": [
+            "Dirhams",
+            "Dirham",
+            "Coins",
+            "Silver coins"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He was sold for a few dirhams.",
+          "source": {
+            "text": "Qur'an 12:20",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

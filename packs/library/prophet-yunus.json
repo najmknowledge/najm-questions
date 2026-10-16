@@ -1,0 +1,290 @@
+{
+  "id": "prophet-yunus",
+  "title": "Prophet Yunus",
+  "description": "The ship, the whale and the du'a in the darkness.",
+  "emoji": "🐋",
+  "color": "#5aa9ff",
+  "questions": [
+    {
+      "id": "prophet-yunus-story",
+      "number": 1,
+      "prompt": "Name something from the story of Prophet Yunus (AS).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Yunus",
+            "Younus",
+            "Jonah",
+            "Yunis"
+          ],
+          "message": "That's in the question — name something else from the story!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-yunus-story-the-whale",
+          "canonical": "The whale",
+          "variants": [
+            "Whale",
+            "Big fish",
+            "Fish",
+            "Great fish",
+            "Belly of the whale",
+            "Hut",
+            "Inside the whale"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He was swallowed by a great fish.",
+          "source": {
+            "text": "Qur'an 37:142",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-his-dua-in-the-darkness",
+          "canonical": "His du'a in the darkness",
+          "variants": [
+            "Dua",
+            "Dua of Yunus",
+            "La ilaha illa anta",
+            "La ilaha illa anta subhanaka inni kuntu minaz zalimin",
+            "Subhanaka inni kuntu minaz zalimin",
+            "Ayat e Karima",
+            "Ayat al-Karimah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"There is no god but You, glory be to You; I was among the wrongdoers.\"",
+          "source": {
+            "text": "Qur'an 21:87",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-the-ship",
+          "canonical": "The ship",
+          "variants": [
+            "Ship",
+            "Boat",
+            "Laden ship",
+            "Overloaded ship"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He boarded a laden ship.",
+          "source": {
+            "text": "Qur'an 37:140",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-the-darknesses",
+          "canonical": "The darknesses",
+          "variants": [
+            "Darkness",
+            "Darknesses",
+            "Three darknesses",
+            "Dark"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He called out from within the darknesses.",
+          "source": {
+            "text": "Qur'an 21:87",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-leaving-in-anger",
+          "canonical": "Leaving in anger",
+          "variants": [
+            "Anger",
+            "Left in anger",
+            "Angry",
+            "Left his people",
+            "Ran away",
+            "Leaving his people"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He went off angry with his people before Allah's permission.",
+          "source": {
+            "text": "Qur'an 21:87; 37:140",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-thrown-on-the-shore",
+          "canonical": "Thrown on the shore",
+          "variants": [
+            "Shore",
+            "Beach",
+            "Coast",
+            "Thrown on the shore",
+            "Barren land",
+            "Sick on the shore"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He was cast onto a bare shore, ill.",
+          "source": {
+            "text": "Qur'an 37:145",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-drawing-lots",
+          "canonical": "Drawing lots",
+          "variants": [
+            "Lots",
+            "Casting lots",
+            "Drawing lots",
+            "Lottery",
+            "Thrown overboard",
+            "Thrown into the sea"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Lots were drawn on the ship and he was among the losers.",
+          "source": {
+            "text": "Qur'an 37:141",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-the-gourd-plant",
+          "canonical": "The gourd plant",
+          "variants": [
+            "Gourd",
+            "Plant",
+            "Yaqtin",
+            "Squash",
+            "Pumpkin",
+            "Vine",
+            "Gourd tree",
+            "Tree"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Allah caused a gourd plant to grow over him.",
+          "source": {
+            "text": "Qur'an 37:146",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-his-people-believed",
+          "canonical": "His people believed",
+          "variants": [
+            "People believed",
+            "His people repented",
+            "Whole town believed",
+            "Punishment lifted",
+            "Town saved"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His people believed and the punishment was lifted — the only town to be saved this way.",
+          "source": {
+            "text": "Qur'an 10:98",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-a-hundred-thousand-or-more",
+          "canonical": "A hundred thousand or more",
+          "variants": [
+            "100000",
+            "100,000",
+            "Hundred thousand",
+            "A hundred thousand or more",
+            "100,000 people"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He was sent to a hundred thousand or more.",
+          "source": {
+            "text": "Qur'an 37:147",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-nineveh",
+          "canonical": "Nineveh",
+          "variants": [
+            "Nineveh",
+            "Ninawa",
+            "Niniveh",
+            "Nainawa",
+            "Ninevah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His town, according to the Hadith and tafsir.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah (story of 'Addas); tafsir",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-dhun-nun",
+          "canonical": "Dhun-Nun",
+          "variants": [
+            "Dhun Nun",
+            "Dhunnun",
+            "Zun Nun",
+            "Dhul Nun",
+            "Companion of the fish",
+            "Sahib al-Hut",
+            "Man of the fish"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"The man of the fish\" — his title in the Qur'an.",
+          "source": {
+            "text": "Qur'an 21:87; 68:48",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-yunus-ibn-matta",
+          "canonical": "Yunus ibn Matta",
+          "variants": [
+            "Matta",
+            "Mattai",
+            "Amittai",
+            "Son of Matta",
+            "Yunus ibn Matta"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Prophet ﷺ named him with his father: Yunus son of Matta.",
+          "source": {
+            "text": "Sahih al-Bukhari 3395",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-yunus-story-glorifying-allah-saved-him",
+          "canonical": "Glorifying Allah saved him",
+          "variants": [
+            "Tasbih",
+            "Glorifying Allah",
+            "Glorification",
+            "Subhanallah",
+            "Remembering Allah",
+            "Dhikr"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Had he not been of those who glorify Allah, he would have stayed in its belly until the Day they are raised.\"",
+          "source": {
+            "text": "Qur'an 37:143-144",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

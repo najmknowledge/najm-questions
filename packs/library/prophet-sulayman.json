@@ -1,0 +1,369 @@
+{
+  "id": "prophet-sulayman",
+  "title": "Prophet Sulayman",
+  "description": "The ant, the hoopoe, the jinn and the Queen of Saba'.",
+  "emoji": "👑",
+  "color": "#f4c542",
+  "questions": [
+    {
+      "id": "prophet-sulayman-story",
+      "number": 1,
+      "prompt": "Name something from the story of Prophet Sulayman (AS).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Sulayman",
+            "Sulaiman",
+            "Solomon"
+          ],
+          "message": "That's in the question — name something else from the story!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-sulayman-story-the-ant",
+          "canonical": "The ant",
+          "variants": [
+            "Ant",
+            "Ants",
+            "Valley of the ants",
+            "Talking ant",
+            "Queen ant"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "An ant warned the others to get into their homes before his army crushed them, and he smiled.",
+          "source": {
+            "text": "Qur'an 27:18-19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-hoopoe",
+          "canonical": "The hoopoe",
+          "variants": [
+            "Hoopoe",
+            "Hudhud",
+            "Hud hud",
+            "Bird"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The hoopoe brought him news of the Queen of Saba'.",
+          "source": {
+            "text": "Qur'an 27:20-22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-queen-of-saba",
+          "canonical": "The Queen of Saba'",
+          "variants": [
+            "Bilqis",
+            "Balqis",
+            "Bilkis",
+            "Queen of Sheba",
+            "Queen of Saba",
+            "Queen"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She ruled Saba' and came to submit to Allah; tradition names her Bilqis.",
+          "source": {
+            "text": "Qur'an 27:23-44",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-jinn",
+          "canonical": "The jinn",
+          "variants": [
+            "Jinn",
+            "Jinns",
+            "Djinn",
+            "Genie",
+            "Ifrit",
+            "Afreet"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Jinn worked for him by Allah's permission.",
+          "source": {
+            "text": "Qur'an 27:39; 34:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-dawud",
+          "canonical": "Dawud",
+          "variants": [
+            "Dawud",
+            "Dawood",
+            "David",
+            "His father",
+            "Father"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His father, the Prophet Dawud, whom he inherited.",
+          "source": {
+            "text": "Qur'an 27:16",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-sulayman-story-the-wind",
+          "canonical": "The wind",
+          "variants": [
+            "Wind",
+            "Winds",
+            "Control of the wind",
+            "Controlling the wind"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The wind was made to blow at his command.",
+          "source": {
+            "text": "Qur'an 21:81; 34:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-speech-of-the-birds",
+          "canonical": "Speech of the birds",
+          "variants": [
+            "Language of birds",
+            "Speech of birds",
+            "Talking to animals",
+            "Understanding animals",
+            "Language of animals",
+            "Talking to birds"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"We have been taught the language of the birds.\"",
+          "source": {
+            "text": "Qur'an 27:16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-queens-throne",
+          "canonical": "The queen's throne",
+          "variants": [
+            "Throne",
+            "Queen's throne",
+            "Bilqis's throne",
+            "Throne moved",
+            "Blink of an eye"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Her throne was brought to him in the blink of an eye.",
+          "source": {
+            "text": "Qur'an 27:38-42",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-saba",
+          "canonical": "Saba'",
+          "variants": [
+            "Saba",
+            "Sheba",
+            "Yemen"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The kingdom of the queen, in Yemen.",
+          "source": {
+            "text": "Qur'an 27:22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-glass-floor",
+          "canonical": "The glass floor",
+          "variants": [
+            "Glass floor",
+            "Floor of glass",
+            "Palace of glass",
+            "Glass palace",
+            "Crystal palace",
+            "Glass"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She thought the palace floor of glass was water and lifted her skirt.",
+          "source": {
+            "text": "Qur'an 27:44",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-his-death-and-the-staff",
+          "canonical": "His death and the staff",
+          "variants": [
+            "Staff",
+            "Death",
+            "Termite",
+            "Termites",
+            "Woodworm",
+            "Worm",
+            "Leaning on his staff"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He died leaning on his staff; only a creature eating it showed the jinn he had died.",
+          "source": {
+            "text": "Qur'an 34:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-horses",
+          "canonical": "The horses",
+          "variants": [
+            "Horses",
+            "Fine horses",
+            "Steeds"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He admired his fine horses, which were paraded before him.",
+          "source": {
+            "text": "Qur'an 38:31-33",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-his-army",
+          "canonical": "His army",
+          "variants": [
+            "Army",
+            "Armies",
+            "Soldiers",
+            "Army of jinn men and birds"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His army of jinn, people and birds marched in ranks.",
+          "source": {
+            "text": "Qur'an 27:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-letter-to-the-queen",
+          "canonical": "The letter to the queen",
+          "variants": [
+            "Letter",
+            "Letter to the queen",
+            "Bismillah letter",
+            "Gift",
+            "Gifts"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His letter began \"In the name of Allah, the Most Merciful\".",
+          "source": {
+            "text": "Qur'an 27:28-31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-a-kingdom-like-no-other",
+          "canonical": "A kingdom like no other",
+          "variants": [
+            "Kingdom",
+            "Dua for a kingdom",
+            "Kingdom like no other",
+            "Mulk"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Grant me a kingdom such as no one after me will have.\"",
+          "source": {
+            "text": "Qur'an 38:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-spring-of-molten-copper",
+          "canonical": "The spring of molten copper",
+          "variants": [
+            "Copper",
+            "Molten copper",
+            "Fountain of copper",
+            "Brass",
+            "Spring of copper"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Allah made a spring of molten copper flow for him.",
+          "source": {
+            "text": "Qur'an 34:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-man-with-knowledge-of-the-book",
+          "canonical": "The man with knowledge of the Book",
+          "variants": [
+            "Man with knowledge of the Book",
+            "Asif",
+            "Asaf",
+            "Asif ibn Barkhiya"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He brought the throne before Sulayman's glance returned; named Asif in tradition.",
+          "source": {
+            "text": "Qur'an 27:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-judgement-over-the-field",
+          "canonical": "The judgement over the field",
+          "variants": [
+            "Field",
+            "Sheep in the field",
+            "Crops",
+            "Sheep",
+            "Vineyard",
+            "Judgement"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He and Dawud judged the case of sheep that grazed in a field at night.",
+          "source": {
+            "text": "Qur'an 21:78-79",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-sulayman-story-the-builders-and-divers",
+          "canonical": "The builders and divers",
+          "variants": [
+            "Divers",
+            "Builders",
+            "Basins",
+            "Cauldrons",
+            "Prayer niches",
+            "Mihrabs",
+            "Building"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Jinn built for him prayer niches, statues, great basins and cauldrons, and dived for him.",
+          "source": {
+            "text": "Qur'an 34:13; 38:37",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

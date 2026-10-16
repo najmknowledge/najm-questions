@@ -1,0 +1,2040 @@
+{
+  "id": "mosques-of-the-world",
+  "title": "Mosques of the World",
+  "description": "From Madinah and al-Aqsa to Istanbul, Timbuktu and Xi'an.",
+  "emoji": "🕌",
+  "color": "#5aa9ff",
+  "questions": [
+    {
+      "id": "mosques-madinah",
+      "number": 1,
+      "prompt": "Name a mosque in Madinah.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Masjid al-Haram",
+            "Haram",
+            "Kaaba",
+            "Masjid al-Aqsa",
+            "Aqsa"
+          ],
+          "message": "That one isn't in Madinah. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "mosques-madinah-al-masjid-an-nabawi",
+          "canonical": "Al-Masjid an-Nabawi",
+          "variants": [
+            "Masjid an-Nabawi",
+            "Masjid Nabawi",
+            "Prophet's Mosque",
+            "Masjid al-Nabawi",
+            "Haram of Madinah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Prophet's ﷺ Mosque.",
+          "source": {
+            "text": "Sahih al-Bukhari 1190",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-madinah-masjid-quba",
+          "canonical": "Masjid Quba",
+          "variants": [
+            "Quba",
+            "Masjid Quba",
+            "Quba Mosque",
+            "Kuba"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first mosque, built on the Hijrah.",
+          "source": {
+            "text": "Qur'an 9:108; Sahih al-Bukhari 1193",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mosques-madinah-masjid-al-qiblatayn",
+          "canonical": "Masjid al-Qiblatayn",
+          "variants": [
+            "Qiblatayn",
+            "Masjid al-Qiblatayn",
+            "Two Qiblas",
+            "Qiblatain"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The mosque of the two qiblas.",
+          "source": {
+            "text": "Sahih al-Bukhari 403",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-madinah-masjid-al-jumuah",
+          "canonical": "Masjid al-Jumu'ah",
+          "variants": [
+            "Masjid al-Jumuah",
+            "Jumuah Mosque",
+            "Masjid Juma",
+            "Friday Mosque"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Where the first Friday prayer was led on the Hijrah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-madinah-masjid-al-ghamamah",
+          "canonical": "Masjid al-Ghamamah",
+          "variants": [
+            "Ghamamah",
+            "Masjid al-Ghamama",
+            "Ghamama",
+            "Cloud Mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Where the Eid and rain prayers were held.",
+          "source": {
+            "text": "Local history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-madinah-masjid-al-fath",
+          "canonical": "Masjid al-Fath (the Seven Mosques)",
+          "variants": [
+            "Masjid al-Fath",
+            "Seven Mosques",
+            "Sab Masajid",
+            "Fath Mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "At the site of the Battle of the Trench.",
+          "source": {
+            "text": "Musnad Ahmad 14563",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-madinah-masjid-al-ijabah",
+          "canonical": "Masjid al-Ijabah",
+          "variants": [
+            "Ijabah",
+            "Masjid al-Ijabah",
+            "Masjid Bani Muawiyah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Where the Prophet ﷺ made three du'as and two were answered.",
+          "source": {
+            "text": "Sahih Muslim 2890",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-madinah-masjid-abu-bakr",
+          "canonical": "Masjid Abu Bakr",
+          "variants": [
+            "Masjid Abu Bakr",
+            "Abu Bakr Mosque"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A small mosque near the Prophet's Mosque.",
+          "source": {
+            "text": "Local history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-madinah-masjid-umar",
+          "canonical": "Masjid 'Umar",
+          "variants": [
+            "Masjid Umar",
+            "Umar Mosque"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A small mosque near the Prophet's Mosque.",
+          "source": {
+            "text": "Local history",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mosques-makkah",
+      "number": 2,
+      "prompt": "Name a mosque in or around Makkah.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Dhul Hulayfah",
+            "Masjid ash-Shajarah",
+            "Abyar Ali",
+            "Quba"
+          ],
+          "message": "That one is in or near Madinah. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "mosques-makkah-al-masjid-al-haram",
+          "canonical": "Al-Masjid al-Haram",
+          "variants": [
+            "Masjid al-Haram",
+            "Haram",
+            "Grand Mosque",
+            "Sacred Mosque",
+            "Masjid Haram"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Sacred Mosque around the Ka'bah.",
+          "source": {
+            "text": "Qur'an 2:144",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mosques-makkah-masjid-nimrah",
+          "canonical": "Masjid Nimrah",
+          "variants": [
+            "Nimrah",
+            "Masjid Nimra",
+            "Namirah",
+            "Arafat mosque"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "At 'Arafah, where the Hajj sermon is given.",
+          "source": {
+            "text": "Sahih Muslim 1218",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-makkah-masjid-at-tanim",
+          "canonical": "Masjid at-Tan'im",
+          "variants": [
+            "Tanim",
+            "Tan'eem",
+            "Masjid Aisha",
+            "Aisha Mosque",
+            "Masjid at-Taneem"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Where 'A'ishah entered ihram for 'Umrah — also called Masjid 'A'ishah.",
+          "source": {
+            "text": "Sahih al-Bukhari 1785",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-makkah-masjid-al-khayf",
+          "canonical": "Masjid al-Khayf",
+          "variants": [
+            "Khayf",
+            "Masjid al-Khaif",
+            "Khaif",
+            "Mina mosque"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In Mina, where seventy prophets prayed.",
+          "source": {
+            "text": "Al-Tabarani, al-Awsat 5407",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-makkah-masjid-al-mashar-al-haram",
+          "canonical": "Masjid al-Mash'ar al-Haram",
+          "variants": [
+            "Mashar al-Haram",
+            "Mash'ar",
+            "Muzdalifah mosque"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "At Muzdalifah.",
+          "source": {
+            "text": "Qur'an 2:198",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mosques-makkah-masjid-al-jinn",
+          "canonical": "Masjid al-Jinn",
+          "variants": [
+            "Masjid al-Jinn",
+            "Jinn Mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Where the jinn listened to the Qur'an.",
+          "source": {
+            "text": "Sahih al-Bukhari 3859",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-makkah-masjid-al-jiranah",
+          "canonical": "Masjid al-Ji'ranah",
+          "variants": [
+            "Jiranah",
+            "Ji'ranah",
+            "Jirana"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Where the Prophet ﷺ entered ihram for 'Umrah after Hunayn.",
+          "source": {
+            "text": "Sahih al-Bukhari 1778",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-makkah-masjid-al-bayah",
+          "canonical": "Masjid al-Bay'ah",
+          "variants": [
+            "Masjid al-Bayah",
+            "Bayah Mosque",
+            "Aqabah mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "At the site of the Pledges of al-'Aqabah, near Mina.",
+          "source": {
+            "text": "Local history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-makkah-masjid-ar-rayah",
+          "canonical": "Masjid ar-Rayah",
+          "variants": [
+            "Masjid ar-Rayah",
+            "Rayah",
+            "Banner mosque"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Where the Prophet's ﷺ banner was planted at the Conquest.",
+          "source": {
+            "text": "Local history",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mosques-nabawi",
+      "number": 3,
+      "prompt": "Name something found in al-Masjid an-Nabawi.",
+      "answers": [
+        {
+          "id": "mosques-nabawi-the-green-dome",
+          "canonical": "The Green Dome",
+          "variants": [
+            "Green Dome",
+            "Dome",
+            "Qubbat al-Khadra"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Over the grave of the Prophet ﷺ.",
+          "source": {
+            "text": "Ottoman era",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-nabawi-the-rawdah",
+          "canonical": "The Rawdah",
+          "variants": [
+            "Rawdah",
+            "Riyadh ul Jannah",
+            "Riyad al-Jannah",
+            "Garden of Paradise",
+            "Rawda"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Between my house and my minbar is a garden of Paradise.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1196",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-nabawi-the-prophets-grave",
+          "canonical": "The Prophet's ﷺ grave",
+          "variants": [
+            "Prophet's grave",
+            "Grave",
+            "Tomb",
+            "Hujrah",
+            "Room of Aisha"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "In what was 'A'ishah's room.",
+          "source": {
+            "text": "Sahih al-Bukhari 1390",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-nabawi-the-minbar",
+          "canonical": "The minbar",
+          "variants": [
+            "Minbar",
+            "Pulpit"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"My minbar is over my pool.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1196",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-nabawi-the-umbrellas",
+          "canonical": "The umbrellas",
+          "variants": [
+            "Umbrellas",
+            "Giant umbrellas",
+            "Canopies"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Giant umbrellas shade the courtyards.",
+          "source": {
+            "text": "Modern expansion",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-nabawi-the-prophets-mihrab",
+          "canonical": "The Prophet's ﷺ mihrab",
+          "variants": [
+            "Mihrab",
+            "Prophet's mihrab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Marking where he stood to lead the prayer.",
+          "source": {
+            "text": "Local history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-nabawi-as-suffah",
+          "canonical": "As-Suffah",
+          "variants": [
+            "Suffah",
+            "Ahl al-Suffah",
+            "Platform",
+            "Suffa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The shaded platform where poor Companions lived.",
+          "source": {
+            "text": "Sahih al-Bukhari 6452",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-nabawi-graves-of-abu-bakr-and-umar",
+          "canonical": "Graves of Abu Bakr and 'Umar",
+          "variants": [
+            "Abu Bakr and Umar",
+            "Graves of Abu Bakr and Umar",
+            "Abu Bakr",
+            "Umar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Buried beside the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari 1392",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-nabawi-the-named-pillars",
+          "canonical": "The named pillars",
+          "variants": [
+            "Pillars",
+            "Pillar of Abu Lubabah",
+            "Pillar of repentance",
+            "Pillar of Aisha",
+            "Ustuwanah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Pillars such as Abu Lubabah's (of repentance) and 'A'ishah's.",
+          "source": {
+            "text": "Local history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-nabawi-bab-as-salam",
+          "canonical": "Bab as-Salam",
+          "variants": [
+            "Bab as-Salam",
+            "Bab al-Salam",
+            "Gate of Peace",
+            "Bab Jibril",
+            "Gates"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Gate of Peace, through which visitors approach the grave.",
+          "source": {
+            "text": "Local history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-nabawi-the-sliding-domes",
+          "canonical": "The sliding domes",
+          "variants": [
+            "Sliding domes",
+            "Moving domes",
+            "Retractable domes"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Roof domes that slide open.",
+          "source": {
+            "text": "Modern expansion",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mosques-aqsa",
+      "number": 4,
+      "prompt": "Name something in the al-Aqsa Mosque compound in Jerusalem.",
+      "answers": [
+        {
+          "id": "mosques-aqsa-the-dome-of-the-rock",
+          "canonical": "The Dome of the Rock",
+          "variants": [
+            "Dome of the Rock",
+            "Qubbat as-Sakhrah",
+            "Golden Dome"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Built by 'Abd al-Malik in 691–692.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-aqsa-al-qibli-mosque",
+          "canonical": "Al-Qibli Mosque",
+          "variants": [
+            "Qibli",
+            "Qibli Mosque",
+            "Jami al-Aqsa",
+            "Silver dome",
+            "Grey dome"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The prayer hall with the silver-grey dome, at the south of the compound.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-aqsa-the-rock",
+          "canonical": "The Rock",
+          "variants": [
+            "Rock",
+            "Sakhrah",
+            "Foundation Stone",
+            "Foundation Rock"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The rock beneath the Dome.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-aqsa-the-buraq-wall",
+          "canonical": "The Buraq Wall",
+          "variants": [
+            "Buraq Wall",
+            "Al-Buraq",
+            "Western Wall",
+            "Wailing Wall"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Where the Buraq was tied on the Night Journey, according to tradition.",
+          "source": {
+            "text": "Sahih Muslim 162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-aqsa-the-marwani-prayer-hall",
+          "canonical": "The Marwani prayer hall",
+          "variants": [
+            "Marwani",
+            "Marwani Musalla",
+            "Solomon's Stables"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Underground vaults at the south-east corner.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-aqsa-the-dome-of-the-chain",
+          "canonical": "The Dome of the Chain",
+          "variants": [
+            "Dome of the Chain",
+            "Qubbat as-Silsilah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A small open dome beside the Dome of the Rock.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-aqsa-bab-ar-rahmah",
+          "canonical": "Bab ar-Rahmah",
+          "variants": [
+            "Bab ar-Rahmah",
+            "Golden Gate",
+            "Gate of Mercy"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Golden Gate in the eastern wall.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-aqsa-the-dome-of-the-ascension",
+          "canonical": "The Dome of the Ascension",
+          "variants": [
+            "Dome of the Ascension",
+            "Qubbat al-Mi'raj",
+            "Miraj dome"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Qubbat al-Mi'raj, marking the Ascension in tradition.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-aqsa-al-kas-fountain",
+          "canonical": "Al-Kas fountain",
+          "variants": [
+            "Al-Kas",
+            "Kas fountain",
+            "Fountain",
+            "Wudu fountain"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The ablution fountain between the Dome and al-Qibli.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-aqsa-salah-al-dins-minbar",
+          "canonical": "Salah al-Din's minbar",
+          "variants": [
+            "Minbar of Salahuddin",
+            "Salah al-Din's minbar",
+            "Nur al-Din minbar",
+            "Minbar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Made for Nur al-Din and installed by Salah al-Din; burnt in 1969 and rebuilt.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mosques-cities",
+      "number": 5,
+      "prompt": "Name a city famous for its historic mosques.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Makkah",
+            "Mecca",
+            "Madinah",
+            "Medina",
+            "Jerusalem"
+          ],
+          "message": "True — but try a city outside the three holy cities!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "mosques-cities-istanbul",
+          "canonical": "Istanbul",
+          "variants": [
+            "Istanbul",
+            "Constantinople"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Blue Mosque, Süleymaniye and many more.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-cairo",
+          "canonical": "Cairo",
+          "variants": [
+            "Cairo",
+            "Al-Qahirah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The city of a thousand minarets.\"",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-damascus",
+          "canonical": "Damascus",
+          "variants": [
+            "Damascus",
+            "Dimashq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Umayyad Mosque.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-cordoba",
+          "canonical": "Cordoba",
+          "variants": [
+            "Cordoba",
+            "Cordova",
+            "Qurtubah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Great Mosque of Córdoba.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-abu-dhabi",
+          "canonical": "Abu Dhabi",
+          "variants": [
+            "Abu Dhabi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Sheikh Zayed Grand Mosque.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-isfahan",
+          "canonical": "Isfahan",
+          "variants": [
+            "Isfahan",
+            "Esfahan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Shah and Jameh mosques.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-delhi",
+          "canonical": "Delhi",
+          "variants": [
+            "Delhi",
+            "New Delhi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Jama Masjid.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-lahore",
+          "canonical": "Lahore",
+          "variants": [
+            "Lahore"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Badshahi and Wazir Khan mosques.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-casablanca",
+          "canonical": "Casablanca",
+          "variants": [
+            "Casablanca"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Hassan II Mosque.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-kuala-lumpur",
+          "canonical": "Kuala Lumpur",
+          "variants": [
+            "Kuala Lumpur",
+            "KL"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The National and Federal Territory mosques.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-kairouan",
+          "canonical": "Kairouan",
+          "variants": [
+            "Kairouan",
+            "Qayrawan",
+            "Kairwan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Great Mosque of 'Uqba.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-timbuktu",
+          "canonical": "Timbuktu",
+          "variants": [
+            "Timbuktu",
+            "Tombouctou"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Djinguereber and Sankore.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-fez",
+          "canonical": "Fez",
+          "variants": [
+            "Fez",
+            "Fes",
+            "Fas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Al-Qarawiyyin.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-bukhara",
+          "canonical": "Bukhara",
+          "variants": [
+            "Bukhara",
+            "Bukhoro"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Kalyan Mosque.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-samarkand",
+          "canonical": "Samarkand",
+          "variants": [
+            "Samarkand",
+            "Samarqand"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Bibi-Khanym.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-samarra",
+          "canonical": "Samarra",
+          "variants": [
+            "Samarra",
+            "Samara"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The spiral minaret of the Great Mosque.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-djenn",
+          "canonical": "Djenné",
+          "variants": [
+            "Djenne",
+            "Jenne",
+            "Jenné"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Great Mosque of mud brick.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-xian",
+          "canonical": "Xi'an",
+          "variants": [
+            "Xi'an",
+            "Xian",
+            "Xi an"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Great Mosque in Chinese style.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-cities-herat",
+          "canonical": "Herat",
+          "variants": [
+            "Herat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Friday Mosque.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mosques-church",
+      "number": 6,
+      "prompt": "Name a building that has been both a church and a mosque.",
+      "answers": [
+        {
+          "id": "mosques-church-hagia-sophia",
+          "canonical": "Hagia Sophia",
+          "variants": [
+            "Hagia Sophia",
+            "Ayasofya",
+            "Aya Sofia",
+            "Aya Sofya"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A church for 900 years, a mosque from 1453, a museum from 1934, and a mosque again from 2020.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-church-the-great-mosque-of-c-rdoba",
+          "canonical": "The Great Mosque of Córdoba",
+          "variants": [
+            "Cordoba Mosque",
+            "Mezquita",
+            "Great Mosque of Cordoba",
+            "Mosque-Cathedral of Cordoba"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Built as a mosque from 785, made a cathedral in 1236.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-church-the-umayyad-mosque",
+          "canonical": "The Umayyad Mosque",
+          "variants": [
+            "Umayyad Mosque",
+            "Great Mosque of Damascus",
+            "Masjid Umawi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Built on the site of the Basilica of John the Baptist.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-church-the-chora",
+          "canonical": "The Chora (Kariye)",
+          "variants": [
+            "Chora",
+            "Kariye",
+            "Kariye Mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Byzantine church, then a mosque, a museum and a mosque again.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-church-the-giralda",
+          "canonical": "The Giralda",
+          "variants": [
+            "Giralda",
+            "Seville",
+            "Seville Cathedral"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The minaret of the Great Mosque of Seville, now a bell tower.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-church-palermo-cathedral",
+          "canonical": "Palermo Cathedral",
+          "variants": [
+            "Palermo",
+            "Palermo Cathedral"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Built on a site that was a church, then a mosque, then a church again.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-church-bab-al-mardum",
+          "canonical": "Bab al-Mardum",
+          "variants": [
+            "Bab al-Mardum",
+            "Cristo de la Luz",
+            "Toledo"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A mosque in Toledo that became the church of Cristo de la Luz.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-church-fethiye-mosque",
+          "canonical": "Fethiye Mosque",
+          "variants": [
+            "Fethiye",
+            "Fethiye Mosque",
+            "Pammakaristos"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The name of several former churches in Greece and Turkey.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mosques-ottoman",
+      "number": 7,
+      "prompt": "Name a mosque built by the Ottomans.",
+      "answers": [
+        {
+          "id": "mosques-ottoman-the-blue-mosque",
+          "canonical": "The Blue Mosque",
+          "variants": [
+            "Blue Mosque",
+            "Sultan Ahmed Mosque",
+            "Sultanahmet"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Sultan Ahmed Mosque, Istanbul, 1616.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-s-leymaniye",
+          "canonical": "Süleymaniye",
+          "variants": [
+            "Suleymaniye",
+            "Süleymaniye",
+            "Suleymaniye Mosque",
+            "Sulaymaniyah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "By Sinan for Süleyman the Magnificent.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-selimiye",
+          "canonical": "Selimiye",
+          "variants": [
+            "Selimiye",
+            "Selimiye Mosque",
+            "Edirne"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sinan's masterpiece in Edirne.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-fatih-mosque",
+          "canonical": "Fatih Mosque",
+          "variants": [
+            "Fatih",
+            "Fatih Mosque",
+            "Conqueror Mosque"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Built for Mehmed the Conqueror.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-ey-p-sultan",
+          "canonical": "Eyüp Sultan",
+          "variants": [
+            "Eyup",
+            "Eyüp Sultan",
+            "Eyup Sultan",
+            "Abu Ayyub mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Beside the grave of Abu Ayyub al-Ansari.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-r-stem-pasha",
+          "canonical": "Rüstem Pasha",
+          "variants": [
+            "Rustem Pasha",
+            "Rüstem Pasha",
+            "Rustem Pasa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Famous for its Iznik tiles.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-the-new-mosque",
+          "canonical": "The New Mosque (Yeni Cami)",
+          "variants": [
+            "Yeni Cami",
+            "New Mosque",
+            "Yeni Valide"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "At Eminönü, Istanbul.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-mihrimah-sultan",
+          "canonical": "Mihrimah Sultan",
+          "variants": [
+            "Mihrimah",
+            "Mihrimah Sultan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "By Sinan for Süleyman's daughter.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-ortak-y",
+          "canonical": "Ortaköy",
+          "variants": [
+            "Ortakoy",
+            "Ortaköy",
+            "Ortakoy Mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "On the Bosphorus.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-muhammad-ali-mosque",
+          "canonical": "Muhammad Ali Mosque",
+          "variants": [
+            "Muhammad Ali",
+            "Muhammad Ali Mosque",
+            "Alabaster Mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In Cairo's citadel, built in the Ottoman style.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-green-mosque-bursa",
+          "canonical": "Green Mosque, Bursa",
+          "variants": [
+            "Green Mosque",
+            "Yesil Cami",
+            "Yeşil Camii",
+            "Bursa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Yeşil Camii, early Ottoman.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-gazi-husrev-beg",
+          "canonical": "Gazi Husrev-beg",
+          "variants": [
+            "Gazi Husrev Beg",
+            "Husrev Beg",
+            "Sarajevo"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "In Sarajevo.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-ottoman-ehzade",
+          "canonical": "Şehzade",
+          "variants": [
+            "Sehzade",
+            "Şehzade",
+            "Shehzade"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Sinan's first great imperial mosque.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mosques-africa",
+      "number": 8,
+      "prompt": "Name a famous mosque in Africa.",
+      "answers": [
+        {
+          "id": "mosques-africa-al-azhar",
+          "canonical": "Al-Azhar",
+          "variants": [
+            "Azhar",
+            "Al Azhar",
+            "Al-Azhar Mosque"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Cairo, 970.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-hassan-ii-mosque",
+          "canonical": "Hassan II Mosque",
+          "variants": [
+            "Hassan II",
+            "Hassan 2",
+            "Hassan II Mosque",
+            "Casablanca"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Casablanca, with a minaret over 200 m tall.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-al-qarawiyyin",
+          "canonical": "Al-Qarawiyyin",
+          "variants": [
+            "Qarawiyyin",
+            "Al Qarawiyyin",
+            "Karaouine",
+            "Qarawiyin"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Fez, founded by Fatimah al-Fihri in 859.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-koutoubia",
+          "canonical": "Koutoubia",
+          "variants": [
+            "Koutoubia",
+            "Kutubiyya"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Marrakesh.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-the-great-mosque-of-djenn",
+          "canonical": "The Great Mosque of Djenné",
+          "variants": [
+            "Djenne",
+            "Great Mosque of Djenne",
+            "Jenne"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The largest mud-brick building in the world.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-the-great-mosque-of-kairouan",
+          "canonical": "The Great Mosque of Kairouan",
+          "variants": [
+            "Kairouan",
+            "Mosque of Uqba",
+            "Uqba Mosque",
+            "Qayrawan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Founded by 'Uqba ibn Nafi'.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-ibn-tulun",
+          "canonical": "Ibn Tulun",
+          "variants": [
+            "Ibn Tulun",
+            "Mosque of Ibn Tulun"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Cairo, 879, with its spiral minaret.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-muhammad-ali-mosque",
+          "canonical": "Muhammad Ali Mosque",
+          "variants": [
+            "Muhammad Ali",
+            "Muhammad Ali Mosque",
+            "Alabaster Mosque"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Cairo's citadel.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-djinguereber",
+          "canonical": "Djinguereber",
+          "variants": [
+            "Djinguereber",
+            "Djingareyber",
+            "Jingereber",
+            "Timbuktu"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Timbuktu, built for Mansa Musa.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-sankore",
+          "canonical": "Sankore",
+          "variants": [
+            "Sankore",
+            "Sankoré"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Timbuktu, a centre of learning.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-sultan-hasan",
+          "canonical": "Sultan Hasan",
+          "variants": [
+            "Sultan Hasan",
+            "Sultan Hassan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Mamluk mosque-madrasah in Cairo.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-al-hussein-mosque",
+          "canonical": "Al-Hussein Mosque",
+          "variants": [
+            "Al-Hussein",
+            "Hussein Mosque",
+            "Sayyidna al-Husayn"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Cairo, beside Khan el-Khalili.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-az-zaytuna",
+          "canonical": "Az-Zaytuna",
+          "variants": [
+            "Zaytuna",
+            "Zitouna",
+            "Az-Zaytunah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Tunis, one of the oldest centres of learning.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-djamaa-el-djaza-r",
+          "canonical": "Djamaa el Djazaïr",
+          "variants": [
+            "Djamaa el Djazair",
+            "Great Mosque of Algiers",
+            "Algiers"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Great Mosque of Algiers, with the tallest minaret in the world.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-abuja-national-mosque",
+          "canonical": "Abuja National Mosque",
+          "variants": [
+            "Abuja",
+            "Abuja National Mosque",
+            "Nigeria National Mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Nigeria.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-africa-larabanga",
+          "canonical": "Larabanga",
+          "variants": [
+            "Larabanga",
+            "Larabanga Mosque"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ghana, one of the oldest mosques in West Africa.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mosques-asia",
+      "number": 9,
+      "prompt": "Name a famous mosque in South, Central or East Asia.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Blue Mosque",
+            "Sheikh Zayed",
+            "Sheikh Zayed Mosque",
+            "Hagia Sophia",
+            "Umayyad Mosque",
+            "Masjid al-Haram"
+          ],
+          "message": "Try one further east — South, Central or East Asia!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "mosques-asia-faisal-mosque",
+          "canonical": "Faisal Mosque",
+          "variants": [
+            "Faisal",
+            "Faisal Mosque",
+            "Shah Faisal Mosque"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Islamabad.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-badshahi-mosque",
+          "canonical": "Badshahi Mosque",
+          "variants": [
+            "Badshahi",
+            "Badshahi Mosque"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Lahore, built by Aurangzeb.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-jama-masjid-delhi",
+          "canonical": "Jama Masjid, Delhi",
+          "variants": [
+            "Jama Masjid",
+            "Jama Masjid Delhi",
+            "Jami Masjid"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Built by Shah Jahan.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-istiqlal-mosque",
+          "canonical": "Istiqlal Mosque",
+          "variants": [
+            "Istiqlal",
+            "Istiqlal Mosque",
+            "Jakarta"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Jakarta, one of the largest in the world.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-sultan-omar-ali-saifuddien",
+          "canonical": "Sultan Omar Ali Saifuddien",
+          "variants": [
+            "Omar Ali Saifuddien",
+            "Sultan Omar Ali Saifuddin",
+            "Brunei mosque"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Brunei.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-putra-mosque",
+          "canonical": "Putra Mosque",
+          "variants": [
+            "Putra",
+            "Putra Mosque",
+            "Pink Mosque"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Putrajaya, Malaysia, with its pink dome.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-wazir-khan",
+          "canonical": "Wazir Khan",
+          "variants": [
+            "Wazir Khan",
+            "Wazir Khan Mosque"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Lahore, famous for its tilework.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-bibi-khanym",
+          "canonical": "Bibi-Khanym",
+          "variants": [
+            "Bibi Khanym",
+            "Bibi Khanum",
+            "Bibi-Khanym"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Samarkand, built for Timur.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-kalyan-mosque",
+          "canonical": "Kalyan Mosque",
+          "variants": [
+            "Kalyan",
+            "Kalon",
+            "Poi Kalyan",
+            "Kalyan Mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Bukhara, beside the Kalyan Minaret.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-taj-ul-masajid",
+          "canonical": "Taj-ul-Masajid",
+          "variants": [
+            "Taj ul Masajid",
+            "Taj-ul-Masajid",
+            "Bhopal"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Bhopal.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-niujie-mosque",
+          "canonical": "Niujie Mosque",
+          "variants": [
+            "Niujie",
+            "Niujie Mosque",
+            "Beijing"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Beijing.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-great-mosque-of-xian",
+          "canonical": "Great Mosque of Xi'an",
+          "variants": [
+            "Xi'an",
+            "Xian",
+            "Great Mosque of Xi'an"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Built in Chinese style.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-baiturrahman",
+          "canonical": "Baiturrahman",
+          "variants": [
+            "Baiturrahman",
+            "Baiturrahman Grand Mosque",
+            "Aceh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Banda Aceh, which survived the 2004 tsunami.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-mecca-masjid",
+          "canonical": "Mecca Masjid",
+          "variants": [
+            "Mecca Masjid",
+            "Makkah Masjid",
+            "Hyderabad"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Hyderabad.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-crystal-mosque",
+          "canonical": "Crystal Mosque",
+          "variants": [
+            "Crystal Mosque",
+            "Masjid Kristal",
+            "Terengganu"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Kuala Terengganu, Malaysia.",
+          "source": {
+            "text": "Modern",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-asia-hazratbal",
+          "canonical": "Hazratbal",
+          "variants": [
+            "Hazratbal",
+            "Srinagar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Srinagar, Kashmir.",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mosques-scripture",
+      "number": 10,
+      "prompt": "Name a mosque mentioned in the Qur'an or Hadith.",
+      "answers": [
+        {
+          "id": "mosques-scripture-al-masjid-al-haram",
+          "canonical": "Al-Masjid al-Haram",
+          "variants": [
+            "Masjid al-Haram",
+            "Haram",
+            "Sacred Mosque",
+            "Grand Mosque"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Turn your face towards al-Masjid al-Haram.\"",
+          "source": {
+            "text": "Qur'an 2:144",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mosques-scripture-al-masjid-al-aqsa",
+          "canonical": "Al-Masjid al-Aqsa",
+          "variants": [
+            "Masjid al-Aqsa",
+            "Aqsa",
+            "Al Aqsa",
+            "Bayt al-Maqdis"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…from al-Masjid al-Haram to al-Masjid al-Aqsa.\"",
+          "source": {
+            "text": "Qur'an 17:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mosques-scripture-al-masjid-an-nabawi",
+          "canonical": "Al-Masjid an-Nabawi",
+          "variants": [
+            "Masjid an-Nabawi",
+            "Masjid Nabawi",
+            "Prophet's Mosque",
+            "My mosque"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of the three mosques journeys are made to.",
+          "source": {
+            "text": "Sahih al-Bukhari 1189",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-scripture-masjid-quba",
+          "canonical": "Masjid Quba",
+          "variants": [
+            "Quba",
+            "Masjid Quba",
+            "Founded on taqwa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"A mosque founded on piety from the first day.\"",
+          "source": {
+            "text": "Qur'an 9:108; Sahih al-Bukhari 1193",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mosques-scripture-masjid-ad-dirar",
+          "canonical": "Masjid ad-Dirar",
+          "variants": [
+            "Dirar",
+            "Masjid ad-Dirar",
+            "Mosque of harm",
+            "Mosque of the hypocrites"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The mosque of harm built by the hypocrites.",
+          "source": {
+            "text": "Qur'an 9:107",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "mosques-scripture-masjid-al-khayf",
+          "canonical": "Masjid al-Khayf",
+          "variants": [
+            "Khayf",
+            "Masjid al-Khaif",
+            "Khaif"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Seventy prophets prayed in Masjid al-Khayf.\"",
+          "source": {
+            "text": "Al-Tabarani, al-Awsat 5407",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-scripture-masjid-al-qiblatayn",
+          "canonical": "Masjid al-Qiblatayn",
+          "variants": [
+            "Qiblatayn",
+            "Two Qiblas",
+            "Masjid al-Qiblatayn"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Where people turned to the new qibla mid-prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 403",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "mosques-scripture-the-mosque-over-the-people-of-the-cave",
+          "canonical": "The mosque over the People of the Cave",
+          "variants": [
+            "Mosque over the cave",
+            "People of the Cave",
+            "Cave mosque"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"We will surely build over them a place of worship.\"",
+          "source": {
+            "text": "Qur'an 18:21",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

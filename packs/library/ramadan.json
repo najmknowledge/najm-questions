@@ -1,0 +1,2079 @@
+{
+  "id": "ramadan",
+  "title": "Ramadan Basics",
+  "description": "Fasting, the last ten nights and the history of the blessed month.",
+  "emoji": "🌙",
+  "color": "#a855f7",
+  "questions": [
+    {
+      "id": "ramadan-words",
+      "number": 1,
+      "prompt": "Name an Arabic word linked to Ramadan and fasting.",
+      "answers": [
+        {
+          "id": "ramadan-words-sawm",
+          "canonical": "Sawm",
+          "variants": [
+            "Sawm",
+            "Saum",
+            "Siyam",
+            "Siyaam",
+            "Roza",
+            "Rozah",
+            "Fasting",
+            "Fast"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Fasting — \"fasting has been prescribed for you\".",
+          "source": {
+            "text": "Qur'an 2:183",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-words-suhur",
+          "canonical": "Suhur",
+          "variants": [
+            "Suhoor",
+            "Suhur",
+            "Sahur",
+            "Sehri",
+            "Sahari",
+            "Pre-dawn meal"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The pre-dawn meal: \"eat suhur, for in suhur there is blessing\".",
+          "source": {
+            "text": "Sahih al-Bukhari 1923",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-words-iftar",
+          "canonical": "Iftar",
+          "variants": [
+            "Iftar",
+            "Iftaar",
+            "Iftari",
+            "Breaking the fast"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The meal that breaks the fast at sunset.",
+          "source": {
+            "text": "Sahih al-Bukhari 1957",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-words-tarawih",
+          "canonical": "Tarawih",
+          "variants": [
+            "Taraweeh",
+            "Tarawih",
+            "Taraveeh",
+            "Taravih",
+            "Qiyam Ramadan"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The night prayers of Ramadan.",
+          "source": {
+            "text": "Sahih al-Bukhari 2009",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-words-laylat-al-qadr",
+          "canonical": "Laylat al-Qadr",
+          "variants": [
+            "Laylatul Qadr",
+            "Lailatul Qadr",
+            "Laylat ul Qadr",
+            "Laylat al-Qadr",
+            "Night of Power",
+            "Night of Decree",
+            "Shab e Qadr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Night of Decree, better than a thousand months.",
+          "source": {
+            "text": "Qur'an 97:1-3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-words-eid-al-fitr",
+          "canonical": "Eid al-Fitr",
+          "variants": [
+            "Eid",
+            "Eid al-Fitr",
+            "Eid ul Fitr",
+            "Eidul Fitr",
+            "Id"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The festival that ends Ramadan.",
+          "source": {
+            "text": "Sahih al-Bukhari 1990",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-words-itikaf",
+          "canonical": "I'tikaf",
+          "variants": [
+            "Itikaf",
+            "Itikaaf",
+            "I'tikaaf",
+            "Etikaf",
+            "Aitikaf"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Staying in the mosque for worship, especially in the last ten nights.",
+          "source": {
+            "text": "Qur'an 2:187; Sahih al-Bukhari 2026",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-words-zakat-al-fitr",
+          "canonical": "Zakat al-Fitr",
+          "variants": [
+            "Zakat ul Fitr",
+            "Zakatul Fitr",
+            "Zakat al-Fitr",
+            "Fitrana",
+            "Fitra",
+            "Sadaqat al-Fitr",
+            "Sadaqatul Fitr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The charity paid before the Eid prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 1503",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-words-niyyah",
+          "canonical": "Niyyah",
+          "variants": [
+            "Niyyah",
+            "Niyah",
+            "Niyat",
+            "Niyya",
+            "Intention"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The intention to fast, made before Fajr.",
+          "source": {
+            "text": "Sunan Abi Dawud 2454",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-words-qiyam-al-layl",
+          "canonical": "Qiyam al-Layl",
+          "variants": [
+            "Qiyam al-Layl",
+            "Qiyamul Layl",
+            "Qiyam",
+            "Tahajjud",
+            "Night prayer"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Standing in prayer at night.",
+          "source": {
+            "text": "Sahih al-Bukhari 2009",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-words-fidyah",
+          "canonical": "Fidyah",
+          "variants": [
+            "Fidya",
+            "Fidyah",
+            "Fidiya"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Feeding a poor person for each fast that someone cannot make up.",
+          "source": {
+            "text": "Qur'an 2:184",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-words-kaffarah",
+          "canonical": "Kaffarah",
+          "variants": [
+            "Kaffara",
+            "Kaffarah",
+            "Kafarah",
+            "Expiation"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The expiation for deliberately breaking a fast.",
+          "source": {
+            "text": "Sahih al-Bukhari 1936",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-words-qada",
+          "canonical": "Qada'",
+          "variants": [
+            "Qada",
+            "Qadaa",
+            "Qaza",
+            "Making up fasts",
+            "Make up fasts"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Making up missed fasts on other days.",
+          "source": {
+            "text": "Qur'an 2:184",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-words-hilal",
+          "canonical": "Hilal",
+          "variants": [
+            "Hilal",
+            "Hilaal",
+            "Crescent",
+            "New moon",
+            "Moon sighting"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The new crescent: \"fast when you see it, and break your fast when you see it\".",
+          "source": {
+            "text": "Sahih al-Bukhari 1909",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-words-imsak",
+          "canonical": "Imsak",
+          "variants": [
+            "Imsak",
+            "Imsaak"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The time to stop eating before Fajr, used on Ramadan timetables.",
+          "source": {
+            "text": "Fiqh term",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ramadan-excused",
+      "number": 2,
+      "prompt": "Name someone who is allowed not to fast in Ramadan.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Non-Muslims",
+            "Non Muslim",
+            "Kafir"
+          ],
+          "message": "True, but we're looking for Muslims who are excused. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "ramadan-excused-the-sick",
+          "canonical": "The sick",
+          "variants": [
+            "Sick",
+            "Ill",
+            "Sick person",
+            "Sick people",
+            "Illness",
+            "Unwell",
+            "The ill"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Whoever of you is ill or on a journey, then an equal number of other days.\"",
+          "source": {
+            "text": "Qur'an 2:184",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-excused-travellers",
+          "canonical": "Travellers",
+          "variants": [
+            "Traveller",
+            "Traveler",
+            "Travellers",
+            "Travelers",
+            "Travelling",
+            "Musafir",
+            "People on a journey"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A traveller may break the fast and make it up later.",
+          "source": {
+            "text": "Qur'an 2:184",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-excused-children",
+          "canonical": "Children",
+          "variants": [
+            "Children",
+            "Child",
+            "Kids",
+            "Young children",
+            "Minors",
+            "Before puberty"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Fasting is not required before puberty: \"the pen is lifted from the child until he matures\".",
+          "source": {
+            "text": "Sunan Abi Dawud 4403",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-excused-the-elderly",
+          "canonical": "The elderly",
+          "variants": [
+            "Elderly",
+            "Old people",
+            "Old",
+            "Old age",
+            "Very old",
+            "Elderly people",
+            "Old person"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The very old who cannot fast feed a poor person for each day instead.",
+          "source": {
+            "text": "Qur'an 2:184; Sahih al-Bukhari 4505",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-excused-pregnant-women",
+          "canonical": "Pregnant women",
+          "variants": [
+            "Pregnant",
+            "Pregnant women",
+            "Pregnancy",
+            "Expecting mothers"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Allah has relieved the pregnant and nursing woman of fasting.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 715",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-excused-breastfeeding-mothers",
+          "canonical": "Breastfeeding mothers",
+          "variants": [
+            "Breastfeeding",
+            "Breastfeeding mothers",
+            "Breastfeeding women",
+            "Nursing mothers",
+            "Nursing",
+            "Suckling"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Named with pregnant women in the same hadith.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 715",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-excused-women-during-their-period",
+          "canonical": "Women during their period",
+          "variants": [
+            "Menstruating women",
+            "Menstruation",
+            "Period",
+            "Periods",
+            "Hayd",
+            "Haid",
+            "Women on their period"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A woman does not fast during her period and makes the days up later.",
+          "source": {
+            "text": "Sahih al-Bukhari 304",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-excused-women-after-childbirth",
+          "canonical": "Women after childbirth",
+          "variants": [
+            "Nifas",
+            "Nifaas",
+            "Postnatal bleeding",
+            "After childbirth",
+            "Postpartum",
+            "New mothers"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Postnatal bleeding (nifas) is treated like a period.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-excused-the-insane",
+          "canonical": "The insane",
+          "variants": [
+            "Insane",
+            "Mentally ill",
+            "Majnun",
+            "Not sane",
+            "Mentally disabled",
+            "Lost their mind"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The pen is lifted from the insane until they recover.",
+          "source": {
+            "text": "Sunan Abi Dawud 4403",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-excused-the-chronically-ill",
+          "canonical": "The chronically ill",
+          "variants": [
+            "Chronic illness",
+            "Chronically ill",
+            "Terminally ill",
+            "Long-term illness",
+            "Long term illness"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Those with a lasting illness who can never make up the days pay fidyah instead.",
+          "source": {
+            "text": "Qur'an 2:184",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-excused-soldiers-facing-battle",
+          "canonical": "Soldiers facing battle",
+          "variants": [
+            "Soldiers",
+            "Fighters",
+            "Army",
+            "Before battle",
+            "People in battle"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Before meeting the enemy at the conquest of Makkah, the Prophet ﷺ told the army to break their fast for strength.",
+          "source": {
+            "text": "Sahih Muslim 1120",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ramadan-breaks",
+      "number": 3,
+      "prompt": "Name something that breaks the fast.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Eating by mistake",
+            "Forgetting and eating",
+            "Eating forgetfully",
+            "Forgetting",
+            "Drinking by mistake"
+          ],
+          "message": "Eating or drinking out of forgetfulness doesn't break the fast — Allah fed them! Try another."
+        },
+        {
+          "inputs": [
+            "Vomiting by accident",
+            "Accidental vomiting"
+          ],
+          "message": "Vomiting by accident doesn't break the fast — only doing it on purpose. Try another!"
+        },
+        {
+          "inputs": [
+            "Cupping",
+            "Hijama",
+            "Hijamah"
+          ],
+          "message": "Scholars differ on cupping (hijamah). Try one that's agreed on!"
+        },
+        {
+          "inputs": [
+            "Brushing teeth",
+            "Toothbrush",
+            "Miswak",
+            "Siwak",
+            "Swallowing saliva",
+            "Saliva",
+            "Shower",
+            "Swimming",
+            "Bathing",
+            "Eye drops",
+            "Kohl",
+            "Blood test"
+          ],
+          "message": "That doesn't break the fast according to most scholars. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "ramadan-breaks-eating",
+          "canonical": "Eating",
+          "variants": [
+            "Eating",
+            "Eat",
+            "Food",
+            "Eating food",
+            "Eating on purpose"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Eating on purpose between Fajr and sunset.",
+          "source": {
+            "text": "Qur'an 2:187",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-breaks-drinking",
+          "canonical": "Drinking",
+          "variants": [
+            "Drinking",
+            "Drink",
+            "Water",
+            "Drinking water"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Drinking on purpose between Fajr and sunset.",
+          "source": {
+            "text": "Qur'an 2:187",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-breaks-marital-relations",
+          "canonical": "Marital relations",
+          "variants": [
+            "Intercourse",
+            "Sex",
+            "Sexual intercourse",
+            "Marital relations",
+            "Relations with spouse",
+            "Jima'"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Intimacy during the fasting day breaks the fast and requires expiation.",
+          "source": {
+            "text": "Sahih al-Bukhari 1936",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-breaks-vomiting-on-purpose",
+          "canonical": "Vomiting on purpose",
+          "variants": [
+            "Vomiting",
+            "Deliberate vomiting",
+            "Making yourself vomit",
+            "Throwing up on purpose",
+            "Intentional vomiting",
+            "Vomiting on purpose"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Whoever makes himself vomit must make up the fast; vomiting by accident does not break it.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 720",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-breaks-the-start-of-a-period",
+          "canonical": "The start of a period",
+          "variants": [
+            "Period",
+            "Menstruation",
+            "Starting period",
+            "Hayd",
+            "Haid",
+            "Periods",
+            "Menstrual bleeding"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A period beginning during the day ends that day's fast.",
+          "source": {
+            "text": "Sahih al-Bukhari 304",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-breaks-smoking",
+          "canonical": "Smoking",
+          "variants": [
+            "Smoking",
+            "Cigarettes",
+            "Cigarette",
+            "Vaping",
+            "Shisha",
+            "Smoke"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Inhaling smoke breaks the fast according to the scholars.",
+          "source": {
+            "text": "Scholarly consensus (contemporary fatwas)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-breaks-a-nutritional-drip",
+          "canonical": "A nutritional drip",
+          "variants": [
+            "IV drip",
+            "Drip",
+            "Nutritional injection",
+            "Feeding tube",
+            "Glucose drip"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A drip or injection that feeds the body breaks the fast.",
+          "source": {
+            "text": "International Islamic Fiqh Academy, resolution 93 (1997)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-breaks-postnatal-bleeding",
+          "canonical": "Postnatal bleeding",
+          "variants": [
+            "Nifas",
+            "Postnatal bleeding",
+            "Childbirth bleeding",
+            "Childbirth"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Nifas, like a period, means not fasting.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-breaks-deliberate-ejaculation",
+          "canonical": "Deliberate ejaculation",
+          "variants": [
+            "Deliberate ejaculation",
+            "Ejaculation",
+            "Masturbation"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The fasting person \"leaves his food, drink and desire for My sake\".",
+          "source": {
+            "text": "Sahih al-Bukhari 1894",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-breaks-leaving-islam",
+          "canonical": "Leaving Islam",
+          "variants": [
+            "Apostasy",
+            "Leaving Islam",
+            "Riddah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Apostasy invalidates the fast, as it does all worship.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ramadan-sunnah",
+      "number": 4,
+      "prompt": "Name a sunnah of fasting or of Ramadan.",
+      "answers": [
+        {
+          "id": "ramadan-sunnah-eating-suhur",
+          "canonical": "Eating suhur",
+          "variants": [
+            "Suhur",
+            "Suhoor",
+            "Sehri",
+            "Sahur",
+            "Eating suhur",
+            "Pre-dawn meal"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Eat suhur, for in suhur there is blessing.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1923",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-breaking-the-fast-with-dates",
+          "canonical": "Breaking the fast with dates",
+          "variants": [
+            "Dates",
+            "Date",
+            "Breaking fast with dates",
+            "Eating dates",
+            "Tamr",
+            "Rutab",
+            "Fresh dates"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He ﷺ broke his fast with fresh dates, or dry dates if there were none.",
+          "source": {
+            "text": "Sunan Abi Dawud 2356",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-hastening-iftar",
+          "canonical": "Hastening iftar",
+          "variants": [
+            "Hastening iftar",
+            "Breaking fast quickly",
+            "Breaking the fast on time",
+            "Not delaying iftar",
+            "Hurrying to break the fast",
+            "Quick iftar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"People will remain upon good as long as they hasten to break the fast.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1957",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-dua-at-iftar",
+          "canonical": "Du'a at iftar",
+          "variants": [
+            "Dua at iftar",
+            "Dua when breaking fast",
+            "Making dua",
+            "Dua",
+            "Dhahaba al-zama",
+            "Allahumma laka sumtu"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He ﷺ would say when breaking his fast, \"Thirst has gone, the veins are moistened…\"",
+          "source": {
+            "text": "Sunan Abi Dawud 2357",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-tarawih",
+          "canonical": "Tarawih",
+          "variants": [
+            "Tarawih",
+            "Taraweeh",
+            "Night prayer",
+            "Qiyam",
+            "Tahajjud"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Whoever stands in prayer in Ramadan with faith and hope of reward, his past sins are forgiven.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2009",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-delaying-suhur",
+          "canonical": "Delaying suhur",
+          "variants": [
+            "Delaying suhur",
+            "Late suhur",
+            "Eating suhur late",
+            "Suhur close to Fajr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "There was the time of fifty verses between their suhur and the Fajr prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 1921",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-breaking-the-fast-with-water",
+          "canonical": "Breaking the fast with water",
+          "variants": [
+            "Water",
+            "Breaking fast with water",
+            "Drinking water",
+            "Sips of water"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "If he ﷺ found no dates, he took a few sips of water.",
+          "source": {
+            "text": "Sunan Abi Dawud 2356",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-feeding-a-fasting-person",
+          "canonical": "Feeding a fasting person",
+          "variants": [
+            "Feeding others",
+            "Giving iftar",
+            "Feeding a fasting person",
+            "Feeding someone",
+            "Feeding people"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Whoever gives iftar to a fasting person has a reward like his.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 807",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-reciting-the-quran",
+          "canonical": "Reciting the Qur'an",
+          "variants": [
+            "Reading Quran",
+            "Reciting Quran",
+            "Quran",
+            "Reading the Quran",
+            "Reciting the Quran"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Jibril met the Prophet ﷺ every night of Ramadan to review the Qur'an.",
+          "source": {
+            "text": "Sahih al-Bukhari 6",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-being-generous",
+          "canonical": "Being generous",
+          "variants": [
+            "Charity",
+            "Sadaqah",
+            "Giving charity",
+            "Generosity",
+            "Being generous"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He ﷺ was most generous in Ramadan, \"more generous than the blowing wind\".",
+          "source": {
+            "text": "Sahih al-Bukhari 6",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-saying-i-am-fasting",
+          "canonical": "Saying \"I am fasting\"",
+          "variants": [
+            "Saying I am fasting",
+            "I am fasting",
+            "Inni saim",
+            "Inni sa'im",
+            "Not arguing",
+            "Avoiding fights"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"If someone fights or insults him, let him say: I am fasting.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1904",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-using-the-siwak",
+          "canonical": "Using the siwak",
+          "variants": [
+            "Siwak",
+            "Miswak",
+            "Brushing teeth",
+            "Tooth stick"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He ﷺ was seen using the siwak while fasting more times than could be counted.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 725",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-sunnah-gentle-rinsing-of-the-nose",
+          "canonical": "Gentle rinsing of the nose",
+          "variants": [
+            "Not sniffing water deeply",
+            "Gentle rinsing of the nose",
+            "Rinsing the nose gently",
+            "Istinshaq gently"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Sniff water deeply, unless you are fasting.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 2366",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ramadan-voluntary",
+      "number": 5,
+      "prompt": "Name a voluntary fast the Prophet ﷺ encouraged.",
+      "answers": [
+        {
+          "id": "ramadan-voluntary-mondays-and-thursdays",
+          "canonical": "Mondays and Thursdays",
+          "variants": [
+            "Monday",
+            "Thursday",
+            "Mondays",
+            "Thursdays",
+            "Mondays and Thursdays",
+            "Monday and Thursday"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Deeds are shown to Allah on Mondays and Thursdays, \"and I love that my deeds are shown while I am fasting\".",
+          "source": {
+            "text": "Jami' at-Tirmidhi 747",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-voluntary-the-day-of-arafah",
+          "canonical": "The Day of 'Arafah",
+          "variants": [
+            "Arafah",
+            "Arafat",
+            "Day of Arafah",
+            "Yawm Arafah",
+            "9th Dhul Hijjah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Fasting it expiates the sins of the year before and the year after.",
+          "source": {
+            "text": "Sahih Muslim 1162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-voluntary-ashura",
+          "canonical": "'Ashura",
+          "variants": [
+            "Ashura",
+            "Ashoora",
+            "Aashura",
+            "10th Muharram",
+            "Day of Ashura"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Fasting it expiates the sins of the year before.",
+          "source": {
+            "text": "Sahih Muslim 1162",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-voluntary-six-days-of-shawwal",
+          "canonical": "Six days of Shawwal",
+          "variants": [
+            "Six of Shawwal",
+            "Shawwal",
+            "Shawal",
+            "6 days of Shawwal",
+            "Six days of Shawal"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Ramadan followed by six days of Shawwal is like fasting for ever.",
+          "source": {
+            "text": "Sahih Muslim 1164",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-voluntary-the-white-days",
+          "canonical": "The White Days",
+          "variants": [
+            "White Days",
+            "Ayyam al-Bid",
+            "Ayyam ul Beed",
+            "13th 14th and 15th",
+            "Three days a month",
+            "Middle of the month",
+            "Full moon days"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The 13th, 14th and 15th of each lunar month.",
+          "source": {
+            "text": "Sunan an-Nasa'i 2420",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-voluntary-the-fast-of-dawud",
+          "canonical": "The fast of Dawud",
+          "variants": [
+            "Fast of Dawud",
+            "Dawud's fast",
+            "Every other day",
+            "Alternate days"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Fasting every other day, \"the most beloved fasting to Allah\".",
+          "source": {
+            "text": "Sahih al-Bukhari 1131",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-voluntary-shaban",
+          "canonical": "Sha'ban",
+          "variants": [
+            "Shaban",
+            "Sha'baan",
+            "Month of Shaban"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He ﷺ fasted more in Sha'ban than in any month other than Ramadan.",
+          "source": {
+            "text": "Sahih al-Bukhari 1969",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-voluntary-muharram",
+          "canonical": "Muharram",
+          "variants": [
+            "Muharram",
+            "Muharam",
+            "Month of Muharram"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The best fasting after Ramadan is in Allah's month, al-Muharram.\"",
+          "source": {
+            "text": "Sahih Muslim 1163",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-voluntary-the-first-days-of-dhul-hijjah",
+          "canonical": "The first days of Dhul-Hijjah",
+          "variants": [
+            "Dhul Hijjah",
+            "Dhul Hijja",
+            "First ten days of Dhul Hijjah",
+            "Nine days of Dhul Hijjah",
+            "First nine days of Dhul Hijjah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He ﷺ fasted the first nine days of Dhul-Hijjah.",
+          "source": {
+            "text": "Sunan Abi Dawud 2437",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-voluntary-tasua",
+          "canonical": "Tasu'a (9th Muharram)",
+          "variants": [
+            "Tasua",
+            "Tasu'a",
+            "9th Muharram",
+            "Ninth of Muharram"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"If I live until next year, I will fast the ninth as well.\"",
+          "source": {
+            "text": "Sahih Muslim 1134",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ramadan-qadr-nights",
+      "number": 6,
+      "prompt": "Name one of the odd nights of the last ten of Ramadan, when Laylat al-Qadr is sought.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "20",
+            "22",
+            "24",
+            "26",
+            "28",
+            "30",
+            "20th",
+            "22nd",
+            "24th",
+            "26th",
+            "28th",
+            "30th"
+          ],
+          "message": "Look in the odd nights of the last ten. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "ramadan-qadr-nights-the-27th-night",
+          "canonical": "The 27th night",
+          "variants": [
+            "27",
+            "27th",
+            "Twenty seventh",
+            "Twenty-seventh night",
+            "27th night"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Ubayy ibn Ka'b swore it was the 27th.",
+          "source": {
+            "text": "Sahih Muslim 762",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-qadr-nights-the-23rd-night",
+          "canonical": "The 23rd night",
+          "variants": [
+            "23",
+            "23rd",
+            "Twenty third",
+            "23rd night",
+            "Twenty-third night"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet ﷺ told 'Abdullah ibn Unays to seek it on the 23rd.",
+          "source": {
+            "text": "Sahih Muslim 1168",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-qadr-nights-the-21st-night",
+          "canonical": "The 21st night",
+          "variants": [
+            "21",
+            "21st",
+            "Twenty first",
+            "21st night",
+            "Twenty-first night"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One year the Prophet ﷺ prostrated in water and mud on the morning of the 21st.",
+          "source": {
+            "text": "Sahih al-Bukhari 2018",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-qadr-nights-the-25th-night",
+          "canonical": "The 25th night",
+          "variants": [
+            "25",
+            "25th",
+            "Twenty fifth",
+            "25th night",
+            "Twenty-fifth night"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Seek it in the odd nights of the last ten.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2017",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-qadr-nights-the-29th-night",
+          "canonical": "The 29th night",
+          "variants": [
+            "29",
+            "29th",
+            "Twenty ninth",
+            "29th night",
+            "Twenty-ninth night"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Seek it in the odd nights of the last ten.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2017",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ramadan-history",
+      "number": 7,
+      "prompt": "Name an event from Islamic history that happened in Ramadan.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Battle of Uhud",
+            "Uhud",
+            "Battle of the Trench",
+            "Khandaq",
+            "Hijrah",
+            "Hijra"
+          ],
+          "message": "That didn't happen in Ramadan. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "ramadan-history-the-first-revelation",
+          "canonical": "The first revelation",
+          "variants": [
+            "First revelation",
+            "Revelation of the Quran",
+            "Quran revealed",
+            "Revelation",
+            "Cave Hira",
+            "Iqra",
+            "Quran sent down"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The month of Ramadan in which the Qur'an was revealed.\"",
+          "source": {
+            "text": "Qur'an 2:185",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-history-the-battle-of-badr",
+          "canonical": "The Battle of Badr",
+          "variants": [
+            "Badr",
+            "Battle of Badr",
+            "Ghazwa Badr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Fought on 17 Ramadan, 2 AH.",
+          "source": {
+            "text": "Qur'an 8:41; Sirah",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-history-the-conquest-of-makkah",
+          "canonical": "The Conquest of Makkah",
+          "variants": [
+            "Conquest of Makkah",
+            "Conquest of Mecca",
+            "Fath Makkah",
+            "Opening of Makkah",
+            "Fath Makkah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet ﷺ set out in Ramadan, 8 AH.",
+          "source": {
+            "text": "Sahih al-Bukhari 4275",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-history-the-death-of-ali",
+          "canonical": "The death of 'Ali",
+          "variants": [
+            "Death of Ali",
+            "Ali martyred",
+            "Assassination of Ali",
+            "Martyrdom of Ali"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'Ali ibn Abi Talib was struck in Ramadan, 40 AH.",
+          "source": {
+            "text": "Ibn Kathir, al-Bidayah wa al-Nihayah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-history-the-death-of-khadijah",
+          "canonical": "The death of Khadijah",
+          "variants": [
+            "Death of Khadijah",
+            "Khadijah died",
+            "Khadija's death",
+            "Death of Khadija"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Most historians place it in Ramadan, three years before the Hijrah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-history-the-conquest-of-al-andalus",
+          "canonical": "The conquest of al-Andalus",
+          "variants": [
+            "Andalusia",
+            "Andalus",
+            "Conquest of Spain",
+            "Battle of Guadalete",
+            "Tariq ibn Ziyad",
+            "Conquest of Andalus"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Tariq ibn Ziyad's victory at Guadalete, Ramadan 92 AH (711 CE).",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-history-the-battle-of-ayn-jalut",
+          "canonical": "The Battle of 'Ayn Jalut",
+          "variants": [
+            "Ayn Jalut",
+            "Ain Jalut",
+            "Battle of Ain Jalut",
+            "Defeat of the Mongols",
+            "Qutuz"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Mamluks defeated the Mongols on 25 Ramadan 658 AH (1260 CE).",
+          "source": {
+            "text": "Islamic history",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-history-the-birth-of-al-hasan",
+          "canonical": "The birth of al-Hasan",
+          "variants": [
+            "Birth of Hasan",
+            "Hasan born",
+            "Al-Hasan's birth",
+            "Birth of al-Hasan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Prophet's ﷺ grandson was born in Ramadan, 3 AH.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-history-the-death-of-aishah",
+          "canonical": "The death of 'A'ishah",
+          "variants": [
+            "Death of Aisha",
+            "Aisha died",
+            "Aishah's death",
+            "Death of Aishah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Mother of the Believers died on 17 Ramadan, 58 AH.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-history-the-conquest-of-amorium",
+          "canonical": "The conquest of Amorium",
+          "variants": [
+            "Amorium",
+            "Ammuriyah",
+            "Ammuriya",
+            "Battle of Amorium"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Al-Mu'tasim took Amorium in Ramadan, 223 AH (838 CE).",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-history-the-earlier-scriptures-revealed",
+          "canonical": "The earlier scriptures revealed",
+          "variants": [
+            "Torah revealed",
+            "Injil revealed",
+            "Scriptures revealed",
+            "Suhuf of Ibrahim",
+            "Tawrat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Suhuf of Ibrahim, the Torah and the Injil were also sent down in Ramadan.",
+          "source": {
+            "text": "Musnad Ahmad 16984",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ramadan-last-ten",
+      "number": 8,
+      "prompt": "Name something Muslims do in the last ten nights of Ramadan.",
+      "answers": [
+        {
+          "id": "ramadan-last-ten-seeking-laylat-al-qadr",
+          "canonical": "Seeking Laylat al-Qadr",
+          "variants": [
+            "Seeking Laylat al-Qadr",
+            "Laylat al-Qadr",
+            "Laylatul Qadr",
+            "Lailatul Qadr",
+            "Night of Power",
+            "Looking for Laylat al-Qadr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Seek Laylat al-Qadr in the odd nights of the last ten.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2017",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-itikaf",
+          "canonical": "I'tikaf",
+          "variants": [
+            "Itikaf",
+            "I'tikaf",
+            "Etikaf",
+            "Staying in the mosque",
+            "Retreat in the mosque"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He ﷺ stayed in the mosque in the last ten days until he passed away.",
+          "source": {
+            "text": "Sahih al-Bukhari 2026",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-praying-through-the-night",
+          "canonical": "Praying through the night",
+          "variants": [
+            "Qiyam",
+            "Tahajjud",
+            "Night prayer",
+            "Praying at night",
+            "Staying up praying",
+            "Qiyam al-Layl",
+            "Tarawih",
+            "Taraweeh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He ﷺ would stay up the whole night in worship.",
+          "source": {
+            "text": "Sahih al-Bukhari 2024",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-reciting-the-quran",
+          "canonical": "Reciting the Qur'an",
+          "variants": [
+            "Reciting Quran",
+            "Reading Quran",
+            "Quran",
+            "Khatm",
+            "Completing the Quran",
+            "Finishing the Quran"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Many aim to complete the Qur'an in Ramadan.",
+          "source": {
+            "text": "Sahih al-Bukhari 6",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-giving-charity",
+          "canonical": "Giving charity",
+          "variants": [
+            "Charity",
+            "Sadaqah",
+            "Giving charity",
+            "Donating"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Following the Prophet's ﷺ generosity in Ramadan.",
+          "source": {
+            "text": "Sahih al-Bukhari 6",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-making-dua",
+          "canonical": "Making du'a",
+          "variants": [
+            "Dua",
+            "Making dua",
+            "Supplication",
+            "Duas"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Supplication, especially on the nights that may be Laylat al-Qadr.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3513",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-waking-the-family",
+          "canonical": "Waking the family",
+          "variants": [
+            "Waking the family",
+            "Waking family",
+            "Waking up family",
+            "Waking the family for prayer"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He ﷺ woke his family for worship.",
+          "source": {
+            "text": "Sahih al-Bukhari 2024",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-allahumma-innaka-afuwwun",
+          "canonical": "\"Allahumma innaka 'afuwwun…\"",
+          "variants": [
+            "Allahumma innaka afuwwun",
+            "Allahumma innaka afuwwun tuhibbul afwa fafu anni",
+            "Dua for forgiveness",
+            "Afuww",
+            "Seeking pardon"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The du'a he ﷺ taught 'A'ishah for Laylat al-Qadr: \"O Allah, You are Pardoning and love to pardon, so pardon me.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3513",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-giving-zakat-al-fitr",
+          "canonical": "Giving Zakat al-Fitr",
+          "variants": [
+            "Zakat al-Fitr",
+            "Zakatul Fitr",
+            "Zakat ul Fitr",
+            "Fitrana",
+            "Fitra",
+            "Sadaqat al-Fitr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Paid a day or two before Eid.",
+          "source": {
+            "text": "Sahih al-Bukhari 1511",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-striving-harder",
+          "canonical": "Striving harder",
+          "variants": [
+            "Tightening the izar",
+            "Tightening the waist wrap",
+            "Striving harder",
+            "Working harder",
+            "Strive more",
+            "Worshipping more"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He ﷺ \"tightened his waist-wrap\" — strove harder than at any other time.",
+          "source": {
+            "text": "Sahih al-Bukhari 2024",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-dhikr",
+          "canonical": "Dhikr",
+          "variants": [
+            "Dhikr",
+            "Zikr",
+            "Remembrance of Allah",
+            "Tasbih"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Remembering Allah through the night.",
+          "source": {
+            "text": "General practice",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-last-ten-looking-for-the-new-moon",
+          "canonical": "Looking for the new moon",
+          "variants": [
+            "Moon sighting",
+            "Looking for the moon",
+            "Sighting the moon",
+            "Chand raat",
+            "Hilal",
+            "Crescent"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Watching for the crescent that marks Eid.",
+          "source": {
+            "text": "Sahih al-Bukhari 1909",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ramadan-rewards",
+      "number": 9,
+      "prompt": "Name a reward or virtue of fasting or Ramadan, from the Qur'an or Hadith.",
+      "answers": [
+        {
+          "id": "ramadan-rewards-past-sins-forgiven",
+          "canonical": "Past sins forgiven",
+          "variants": [
+            "Sins forgiven",
+            "Forgiveness",
+            "Past sins forgiven",
+            "Forgiveness of sins"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Whoever fasts Ramadan with faith and hope of reward, his past sins are forgiven.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 38",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-rewards-the-gate-of-ar-rayyan",
+          "canonical": "The gate of ar-Rayyan",
+          "variants": [
+            "Rayyan",
+            "Ar-Rayyan",
+            "Al-Rayyan",
+            "Gate of Rayyan",
+            "Door of Rayyan",
+            "Special gate"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A gate of Paradise through which only those who fasted will enter.",
+          "source": {
+            "text": "Sahih al-Bukhari 1896",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-rewards-fasting-is-for-me",
+          "canonical": "\"Fasting is for Me\"",
+          "variants": [
+            "Fasting is for Allah",
+            "Fasting is for Me",
+            "Allah rewards it himself",
+            "Reward from Allah",
+            "Unlimited reward"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Allah says: \"Fasting is for Me and I will reward it.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1904",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-rewards-gates-of-paradise-opened",
+          "canonical": "Gates of Paradise opened",
+          "variants": [
+            "Gates of Paradise opened",
+            "Devils chained",
+            "Shayatin chained",
+            "Gates of Hell closed",
+            "Shaytan locked up",
+            "Devils locked up"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "When Ramadan comes the gates of Paradise are opened, the gates of Hell closed and the devils chained.",
+          "source": {
+            "text": "Sahih al-Bukhari 1899",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-rewards-better-than-a-thousand-months",
+          "canonical": "Better than a thousand months",
+          "variants": [
+            "Better than a thousand months",
+            "Thousand months",
+            "1000 months",
+            "Night better than 1000 months"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Laylat al-Qadr is better than a thousand months.",
+          "source": {
+            "text": "Qur'an 97:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-rewards-fasting-is-a-shield",
+          "canonical": "Fasting is a shield",
+          "variants": [
+            "Shield",
+            "Fasting is a shield",
+            "Junnah",
+            "Protection",
+            "Protection from Hell"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Fasting is a shield.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1894",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-rewards-breath-better-than-musk",
+          "canonical": "Breath better than musk",
+          "variants": [
+            "Smell of the mouth",
+            "Breath",
+            "Musk",
+            "Breath better than musk",
+            "Smell better than musk"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The smell of the fasting person's mouth is better to Allah than musk.",
+          "source": {
+            "text": "Sahih al-Bukhari 1894",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-rewards-two-joys",
+          "canonical": "Two joys",
+          "variants": [
+            "Two joys",
+            "Two moments of joy",
+            "Joy at iftar",
+            "Joy when meeting Allah",
+            "Two happinesses"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One when he breaks his fast and one when he meets his Lord.",
+          "source": {
+            "text": "Sahih al-Bukhari 1904",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-rewards-taqwa",
+          "canonical": "Taqwa",
+          "variants": [
+            "Taqwa",
+            "God-consciousness",
+            "God consciousness",
+            "Piety",
+            "Righteousness"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Fasting has been prescribed for you… so that you may become mindful of Allah.\"",
+          "source": {
+            "text": "Qur'an 2:183",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "ramadan-rewards-fasting-intercedes",
+          "canonical": "Fasting intercedes",
+          "variants": [
+            "Intercession",
+            "Fasting intercedes",
+            "Shafa'ah",
+            "Fasting will intercede"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Fasting and the Qur'an will intercede for the servant on the Day of Resurrection.",
+          "source": {
+            "text": "Musnad Ahmad 6626",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-rewards-dua-answered",
+          "canonical": "Du'a answered",
+          "variants": [
+            "Dua accepted",
+            "Dua answered",
+            "Dua of the fasting person",
+            "Supplication accepted"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The du'a of the fasting person is not rejected.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3598",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-rewards-seventy-years-from-the-fire",
+          "canonical": "Seventy years from the Fire",
+          "variants": [
+            "Seventy years from Hell",
+            "70 years from the Fire",
+            "Far from Hellfire",
+            "Seventy autumns",
+            "Seventy years"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Whoever fasts a day for Allah's sake, Allah keeps his face seventy years from the Fire.",
+          "source": {
+            "text": "Sahih al-Bukhari 2840",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-rewards-umrah-equal-to-hajj",
+          "canonical": "'Umrah equal to Hajj",
+          "variants": [
+            "Umrah equals Hajj",
+            "Umrah in Ramadan",
+            "Umrah like Hajj"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"'Umrah in Ramadan is equal to Hajj.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1782",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ramadan-fitr-foods",
+      "number": 10,
+      "prompt": "Name a food the Hadith names for paying Zakat al-Fitr.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Rice",
+            "Money",
+            "Cash",
+            "Corn",
+            "Lentils",
+            "Pasta",
+            "Maize"
+          ],
+          "message": "Scholars allow other staples (and some allow money) today, but the Hadith names other foods. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "ramadan-fitr-foods-dates",
+          "canonical": "Dates",
+          "variants": [
+            "Dates",
+            "Date",
+            "Tamr",
+            "Khajoor",
+            "Khajur"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A sa' of dates.",
+          "source": {
+            "text": "Sahih al-Bukhari 1503",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-fitr-foods-barley",
+          "canonical": "Barley",
+          "variants": [
+            "Barley",
+            "Sha'ir",
+            "Shaeer",
+            "Jau"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A sa' of barley.",
+          "source": {
+            "text": "Sahih al-Bukhari 1503",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-fitr-foods-raisins",
+          "canonical": "Raisins",
+          "variants": [
+            "Raisins",
+            "Raisin",
+            "Zabib",
+            "Dried grapes",
+            "Kishmish",
+            "Sultanas"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A sa' of raisins.",
+          "source": {
+            "text": "Sahih al-Bukhari 1506",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-fitr-foods-food",
+          "canonical": "Food (wheat)",
+          "variants": [
+            "Wheat",
+            "Food",
+            "Ta'am",
+            "Grain",
+            "Flour"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"A sa' of food\" — later paid in wheat.",
+          "source": {
+            "text": "Sahih al-Bukhari 1506, 1508",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "ramadan-fitr-foods-dried-cheese",
+          "canonical": "Dried cheese (aqit)",
+          "variants": [
+            "Cheese",
+            "Aqit",
+            "Dried cheese",
+            "Dried yoghurt",
+            "Dried yogurt",
+            "Curd",
+            "Dried curd",
+            "Yoghurt",
+            "Yogurt"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A sa' of aqit — dried curd cheese.",
+          "source": {
+            "text": "Sahih al-Bukhari 1506",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

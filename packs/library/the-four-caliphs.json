@@ -1,0 +1,1940 @@
+{
+  "id": "the-four-caliphs",
+  "title": "The Four Caliphs",
+  "description": "Abu Bakr, 'Umar, 'Uthman and 'Ali — the thirty years after the Prophet ﷺ.",
+  "emoji": "🏛️",
+  "color": "#5aa9ff",
+  "questions": [
+    {
+      "id": "caliphs-who",
+      "number": 1,
+      "prompt": "Name one of the four Rightly Guided Caliphs.",
+      "answers": [
+        {
+          "id": "caliphs-who-abu-bakr-as-siddiq",
+          "canonical": "Abu Bakr as-Siddiq",
+          "variants": [
+            "Abu Bakr",
+            "Abu Bakar",
+            "Abubakr",
+            "Siddiq",
+            "As-Siddiq"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first caliph, 11–13 AH.",
+          "source": {
+            "text": "Sahih al-Bukhari 3668",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-who-umar-ibn-al-khattab",
+          "canonical": "'Umar ibn al-Khattab",
+          "variants": [
+            "Umar",
+            "Omar",
+            "Umar ibn al-Khattab",
+            "Umar bin Khattab",
+            "Farooq",
+            "Faruq"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The second caliph, 13–23 AH.",
+          "source": {
+            "text": "Sahih al-Bukhari 3692",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-who-uthman-ibn-affan",
+          "canonical": "'Uthman ibn 'Affan",
+          "variants": [
+            "Uthman",
+            "Usman",
+            "Othman",
+            "Osman",
+            "Uthman ibn Affan",
+            "Usman bin Affan"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The third caliph, 23–35 AH.",
+          "source": {
+            "text": "Sahih al-Bukhari 3698",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-who-ali-ibn-abi-talib",
+          "canonical": "'Ali ibn Abi Talib",
+          "variants": [
+            "Ali",
+            "Aly",
+            "Ali ibn Abi Talib",
+            "Ali bin Abi Talib",
+            "Hazrat Ali"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The fourth caliph, 35–40 AH.",
+          "source": {
+            "text": "Sahih al-Bukhari 3701",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-who-al-hasan-ibn-ali",
+          "canonical": "Al-Hasan ibn 'Ali",
+          "variants": [
+            "Hasan",
+            "Al Hasan",
+            "Hassan",
+            "Hasan ibn Ali"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Some scholars count his six months as caliph as completing the \"thirty years\" of caliphate after the Prophet ﷺ.",
+          "source": {
+            "text": "Sunan Abi Dawud 4646",
+            "status": "needs-review"
+          },
+          "honorific": "RA",
+          "note": "He is not usually counted among \"the four\", but completes the thirty years in the hadith."
+        }
+      ]
+    },
+    {
+      "id": "caliphs-abu-bakr",
+      "number": 2,
+      "prompt": "Name something Abu Bakr (RA) is known for.",
+      "answers": [
+        {
+          "id": "caliphs-abu-bakr-first-man-to-accept-islam",
+          "canonical": "First man to accept Islam",
+          "variants": [
+            "First man to accept Islam",
+            "First Muslim man",
+            "First to believe",
+            "First adult male Muslim"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first free adult man to believe.",
+          "source": {
+            "text": "Sirat Ibn Hisham",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-companion-in-the-cave",
+          "canonical": "Companion in the cave",
+          "variants": [
+            "Cave",
+            "Cave of Thawr",
+            "Thawr",
+            "Companion in the cave",
+            "Hijrah",
+            "Second of the two"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The second of the two, when they were in the cave.\"",
+          "source": {
+            "text": "Qur'an 9:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-believing-the-night-journey",
+          "canonical": "Believing the Night Journey",
+          "variants": [
+            "Siddiq",
+            "As-Siddiq",
+            "Believed the Isra",
+            "Night Journey",
+            "Isra"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He believed the Isra' at once and was called as-Siddiq.",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak 4407",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-freeing-bilal",
+          "canonical": "Freeing Bilal",
+          "variants": [
+            "Freed Bilal",
+            "Bilal",
+            "Freeing slaves",
+            "Freed slaves"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He bought and freed Bilal and other tortured Muslims.",
+          "source": {
+            "text": "Sahih al-Bukhari 3754",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-father-of-aishah",
+          "canonical": "Father of 'A'ishah",
+          "variants": [
+            "Father of Aisha",
+            "Aisha",
+            "Aishah",
+            "Father-in-law"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His daughter 'A'ishah married the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari 3894",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-led-the-prayer-in-the-prophets-last-illness",
+          "canonical": "Led the prayer in the Prophet's ﷺ last illness",
+          "variants": [
+            "Led the prayer",
+            "Imam",
+            "Leading prayer",
+            "Led salah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Tell Abu Bakr to lead the people in prayer.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 664",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-gave-all-his-wealth",
+          "canonical": "Gave all his wealth",
+          "variants": [
+            "All his wealth",
+            "Gave all his wealth",
+            "Generosity",
+            "Tabuk",
+            "Charity"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "For the army of Tabuk he brought everything he had.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3675",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-whoever-worshipped-muhammad",
+          "canonical": "\"Whoever worshipped Muhammad…\"",
+          "variants": [
+            "Whoever worshipped Muhammad",
+            "Speech when the Prophet died",
+            "Muhammad has died",
+            "Speech"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "When the Prophet ﷺ died he said: \"…Muhammad has died; whoever worshipped Allah, Allah is alive and does not die.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3668",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-the-ridda-wars",
+          "canonical": "The Ridda wars",
+          "variants": [
+            "Ridda wars",
+            "Riddah",
+            "Wars of apostasy",
+            "Apostasy wars",
+            "Refusers of zakah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "As caliph he fought the tribes that refused zakah and the false prophets.",
+          "source": {
+            "text": "Sahih al-Bukhari 1399",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-collecting-the-quran",
+          "canonical": "Collecting the Qur'an",
+          "variants": [
+            "Compiling the Quran",
+            "Collecting the Quran",
+            "Quran compiled",
+            "Gathered the Quran"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He had Zayd ibn Thabit gather the Qur'an into one copy.",
+          "source": {
+            "text": "Sahih al-Bukhari 4986",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-leading-the-hajj-of-9-ah",
+          "canonical": "Leading the Hajj of 9 AH",
+          "variants": [
+            "Led Hajj",
+            "Amir of Hajj",
+            "Hajj 9 AH",
+            "Leader of Hajj"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Prophet ﷺ sent him as leader of the pilgrimage.",
+          "source": {
+            "text": "Sahih al-Bukhari 369",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-saqifah",
+          "canonical": "Saqifah",
+          "variants": [
+            "Saqifah",
+            "Saqifa",
+            "Saqifah of Banu Saidah",
+            "Chosen as caliph"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He was chosen as caliph at the Saqifah of Banu Sa'idah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3668",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-merchant",
+          "canonical": "Merchant",
+          "variants": [
+            "Merchant",
+            "Trader",
+            "Cloth merchant",
+            "Businessman"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A cloth merchant of Quraysh.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-sending-usamahs-army",
+          "canonical": "Sending Usamah's army",
+          "variants": [
+            "Usamah's army",
+            "Army of Usamah",
+            "Jaysh Usamah",
+            "Usama"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He sent the army the Prophet ﷺ had prepared under Usamah ibn Zayd.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "caliphs-abu-bakr-events",
+      "number": 3,
+      "prompt": "Name a battle or event from Abu Bakr's (RA) caliphate.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Yarmuk",
+            "Yarmouk",
+            "Qadisiyyah",
+            "Qadisiya"
+          ],
+          "message": "That came after Abu Bakr died, under 'Umar. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "caliphs-abu-bakr-events-the-ridda-wars",
+          "canonical": "The Ridda wars",
+          "variants": [
+            "Ridda wars",
+            "Riddah",
+            "Wars of apostasy",
+            "Apostasy wars"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Wars against the tribes that left Islam or refused zakah.",
+          "source": {
+            "text": "Sahih al-Bukhari 1399",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-events-the-battle-of-yamamah",
+          "canonical": "The Battle of Yamamah",
+          "variants": [
+            "Yamamah",
+            "Yamama",
+            "Battle of Yamamah",
+            "Battle of Yamama"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Against Musaylimah the Liar; many reciters of the Qur'an were killed.",
+          "source": {
+            "text": "Sahih al-Bukhari 4986",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-events-collecting-the-quran",
+          "canonical": "Collecting the Qur'an",
+          "variants": [
+            "Compiling the Quran",
+            "Collecting the Quran",
+            "Quran compiled"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "After Yamamah, 'Umar urged him to collect the Qur'an.",
+          "source": {
+            "text": "Sahih al-Bukhari 4986",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-events-musaylimah-killed",
+          "canonical": "Musaylimah killed",
+          "variants": [
+            "Musaylimah",
+            "Musaylima",
+            "Musailama",
+            "Death of Musaylimah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The false prophet was killed at Yamamah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-events-usamahs-army",
+          "canonical": "Usamah's army",
+          "variants": [
+            "Usamah's army",
+            "Army of Usamah",
+            "Jaysh Usamah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He sent the army to Syria the Prophet ﷺ had prepared.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-events-khalids-campaign-in-iraq",
+          "canonical": "Khalid's campaign in Iraq",
+          "variants": [
+            "Iraq",
+            "Khalid in Iraq",
+            "Campaign in Iraq",
+            "Conquest of Iraq"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Khalid ibn al-Walid marched into Iraq against the Persians.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-events-the-battle-of-ajnadayn",
+          "canonical": "The Battle of Ajnadayn",
+          "variants": [
+            "Ajnadayn",
+            "Ajnadain",
+            "Battle of Ajnadayn"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The first major battle against the Byzantines in Palestine, 13 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-events-the-battle-of-the-chains",
+          "canonical": "The Battle of the Chains",
+          "variants": [
+            "Battle of the Chains",
+            "Dhat al-Salasil",
+            "Kazima",
+            "Chains"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Khalid's first battle against the Persians, 12 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-abu-bakr-events-the-battle-of-walaja",
+          "canonical": "The Battle of Walaja",
+          "variants": [
+            "Walaja",
+            "Walajah",
+            "Battle of Walaja"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Khalid defeated the Persians with a double envelopment, 12 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "caliphs-umar-introduced",
+      "number": 4,
+      "prompt": "Name something introduced during 'Umar's (RA) caliphate.",
+      "answers": [
+        {
+          "id": "caliphs-umar-introduced-the-hijri-calendar",
+          "canonical": "The Hijri calendar",
+          "variants": [
+            "Hijri calendar",
+            "Islamic calendar",
+            "Hijrah calendar",
+            "Calendar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Dating years from the Hijrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3934",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-introduced-tarawih-in-congregation",
+          "canonical": "Tarawih in congregation",
+          "variants": [
+            "Tarawih",
+            "Taraweeh",
+            "Tarawih in congregation",
+            "Congregational tarawih"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He gathered people behind one imam, Ubayy ibn Ka'b.",
+          "source": {
+            "text": "Sahih al-Bukhari 2010",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-introduced-amir-al-muminin",
+          "canonical": "Amir al-Mu'minin",
+          "variants": [
+            "Amir al-Muminin",
+            "Ameer ul Momineen",
+            "Commander of the Faithful",
+            "Commander of the Believers"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He was the first to be called Commander of the Believers.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-introduced-the-diwan",
+          "canonical": "The diwan",
+          "variants": [
+            "Diwan",
+            "Registers",
+            "Stipends",
+            "Payroll",
+            "Pensions"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Registers of soldiers and stipends.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-introduced-new-cities-basra-and-kufa",
+          "canonical": "New cities: Basra and Kufa",
+          "variants": [
+            "Basra",
+            "Kufa",
+            "Basrah",
+            "Kufah",
+            "Founding cities",
+            "Fustat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Garrison cities founded in Iraq.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-introduced-appointing-judges",
+          "canonical": "Appointing judges",
+          "variants": [
+            "Judges",
+            "Qadis",
+            "Qadi",
+            "Courts"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Judges were appointed to the provinces, separate from governors.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-introduced-night-patrols",
+          "canonical": "Night patrols",
+          "variants": [
+            "Night patrol",
+            "Patrols",
+            "Police",
+            "Shurta",
+            "Patrolling at night"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He patrolled Madinah at night to check on its people.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-introduced-allowances-for-children",
+          "canonical": "Allowances for children",
+          "variants": [
+            "Child allowance",
+            "Allowances for children",
+            "Child benefit",
+            "Welfare"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Stipends were given for every newborn.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-introduced-prisons",
+          "canonical": "Prisons",
+          "variants": [
+            "Prison",
+            "Prisons",
+            "Jail"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He bought a house in Makkah to use as a prison.",
+          "source": {
+            "text": "Sahih al-Bukhari, chapter before 2423",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-introduced-expanding-the-prophets-mosque",
+          "canonical": "Expanding the Prophet's Mosque",
+          "variants": [
+            "Expanding the mosque",
+            "Mosque expansion",
+            "Enlarged the mosque"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He enlarged al-Masjid an-Nabawi.",
+          "source": {
+            "text": "Sahih al-Bukhari 446",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "caliphs-umar-conquests",
+      "number": 5,
+      "prompt": "Name a land or city conquered during 'Umar's (RA) caliphate.",
+      "answers": [
+        {
+          "id": "caliphs-umar-conquests-jerusalem",
+          "canonical": "Jerusalem",
+          "variants": [
+            "Jerusalem",
+            "Al-Quds",
+            "Quds",
+            "Bayt al-Maqdis",
+            "Aelia"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'Umar came in person to receive the city.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-conquests-egypt",
+          "canonical": "Egypt",
+          "variants": [
+            "Egypt",
+            "Misr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Conquered under 'Amr ibn al-'As.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-conquests-persia",
+          "canonical": "Persia",
+          "variants": [
+            "Persia",
+            "Iran",
+            "Persian Empire",
+            "Sasanian Empire"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Sasanian empire fell.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-conquests-syria",
+          "canonical": "Syria",
+          "variants": [
+            "Syria",
+            "Sham",
+            "Levant",
+            "Al-Sham"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Al-Sham, taken from the Byzantines.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-conquests-iraq",
+          "canonical": "Iraq",
+          "variants": [
+            "Iraq",
+            "Mesopotamia"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Taken from the Persians.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-conquests-damascus",
+          "canonical": "Damascus",
+          "variants": [
+            "Damascus",
+            "Dimashq"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Taken in 14 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-conquests-alexandria",
+          "canonical": "Alexandria",
+          "variants": [
+            "Alexandria",
+            "Iskandariyah",
+            "Iskandariya"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Taken by 'Amr ibn al-'As.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-conquests-al-madain",
+          "canonical": "Al-Mada'in",
+          "variants": [
+            "Madain",
+            "Al-Mada'in",
+            "Ctesiphon"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ctesiphon, the Persian capital.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-conquests-antioch",
+          "canonical": "Antioch",
+          "variants": [
+            "Antioch",
+            "Antakya",
+            "Antakiyah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Taken after Yarmuk.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-conquests-barqa-and-tripoli",
+          "canonical": "Barqa and Tripoli",
+          "variants": [
+            "Libya",
+            "Barqa",
+            "Tripoli",
+            "Cyrenaica"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Libya, taken by 'Amr ibn al-'As.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-conquests-khuzistan",
+          "canonical": "Khuzistan",
+          "variants": [
+            "Khuzistan",
+            "Ahwaz",
+            "Tustar",
+            "Shushtar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Including Ahwaz and Tustar.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "caliphs-umar-battles",
+      "number": 6,
+      "prompt": "Name a battle fought during 'Umar's (RA) caliphate.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Badr",
+            "Uhud",
+            "Khandaq",
+            "Yamamah"
+          ],
+          "message": "That wasn't in 'Umar's caliphate. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "caliphs-umar-battles-yarmuk",
+          "canonical": "Yarmuk",
+          "variants": [
+            "Yarmuk",
+            "Yarmouk",
+            "Battle of Yarmuk",
+            "Battle of Yarmouk"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The great victory over the Byzantines, 15 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-battles-al-qadisiyyah",
+          "canonical": "Al-Qadisiyyah",
+          "variants": [
+            "Qadisiyyah",
+            "Qadisiya",
+            "Qadisiyya",
+            "Battle of Qadisiyyah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Sa'd ibn Abi Waqqas defeated the Persians, 15 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-battles-nahawand",
+          "canonical": "Nahawand",
+          "variants": [
+            "Nahawand",
+            "Nihawand",
+            "Battle of Nahawand"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The \"victory of victories\" against the Persians, 21 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-battles-the-battle-of-the-bridge",
+          "canonical": "The Battle of the Bridge",
+          "variants": [
+            "Battle of the Bridge",
+            "Bridge",
+            "Jisr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A defeat on the Euphrates where Abu 'Ubayd al-Thaqafi was killed.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-battles-jalula",
+          "canonical": "Jalula",
+          "variants": [
+            "Jalula",
+            "Jalawla",
+            "Battle of Jalula"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A victory after the fall of Ctesiphon.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-battles-buwayb",
+          "canonical": "Buwayb",
+          "variants": [
+            "Buwayb",
+            "Buwaib",
+            "Battle of Buwayb"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A victory on the Euphrates after the Bridge.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-battles-fahl",
+          "canonical": "Fahl",
+          "variants": [
+            "Fahl",
+            "Fihl",
+            "Pella",
+            "Battle of Fahl"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Fought near Pella in the Jordan valley.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-umar-battles-heliopolis",
+          "canonical": "Heliopolis",
+          "variants": [
+            "Heliopolis",
+            "Ayn Shams",
+            "Battle of Heliopolis"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "'Amr ibn al-'As defeated the Byzantines in Egypt.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "caliphs-uthman",
+      "number": 7,
+      "prompt": "Name something 'Uthman (RA) is known for.",
+      "answers": [
+        {
+          "id": "caliphs-uthman-the-standard-mushaf",
+          "canonical": "The standard Mushaf",
+          "variants": [
+            "Mushaf",
+            "Standard Mushaf",
+            "Compiling the Quran",
+            "Copies of the Quran",
+            "Uthmani Mushaf"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He had copies of one Mushaf sent to the provinces.",
+          "source": {
+            "text": "Sahih al-Bukhari 4987",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-uthman-married-two-daughters-of-the-prophet",
+          "canonical": "Married two daughters of the Prophet ﷺ",
+          "variants": [
+            "Dhun Nurayn",
+            "Dhul Nurain",
+            "Possessor of two lights",
+            "Married two daughters",
+            "Ruqayyah",
+            "Umm Kulthum"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Ruqayyah, then Umm Kulthum — hence \"Dhun-Nurayn\".",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-uthman-bought-the-well-of-rumah",
+          "canonical": "Bought the well of Rumah",
+          "variants": [
+            "Well of Rumah",
+            "Bir Rumah",
+            "Bought a well",
+            "Rumah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He bought the well and gave it to the Muslims.",
+          "source": {
+            "text": "Sahih al-Bukhari, chapter before 2351",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-uthman-equipped-the-army-of-tabuk",
+          "canonical": "Equipped the army of Tabuk",
+          "variants": [
+            "Tabuk",
+            "Army of Tabuk",
+            "Jaysh al-Usrah",
+            "Army of hardship",
+            "Equipped the army"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Nothing he does after today will harm 'Uthman.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3701",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-uthman-modesty",
+          "canonical": "Modesty",
+          "variants": [
+            "Modesty",
+            "Haya",
+            "Shyness",
+            "Angels were shy of him"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Should I not be shy of a man the angels are shy of?\"",
+          "source": {
+            "text": "Sahih Muslim 2401",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-uthman-emigrated-to-abyssinia",
+          "canonical": "Emigrated to Abyssinia",
+          "variants": [
+            "Abyssinia",
+            "Habasha",
+            "Ethiopia",
+            "Hijrah to Abyssinia"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He emigrated with his wife Ruqayyah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-uthman-expanded-the-prophets-mosque",
+          "canonical": "Expanded the Prophet's Mosque",
+          "variants": [
+            "Expanded the mosque",
+            "Mosque expansion",
+            "Rebuilt the mosque"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He rebuilt it in stone.",
+          "source": {
+            "text": "Sahih al-Bukhari 446",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-uthman-wealthy-merchant",
+          "canonical": "Wealthy merchant",
+          "variants": [
+            "Merchant",
+            "Wealthy",
+            "Rich",
+            "Trader"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A rich trader who spent his wealth for Islam.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-uthman-the-pledge-of-ridwan",
+          "canonical": "The Pledge of Ridwan",
+          "variants": [
+            "Bay'at al-Ridwan",
+            "Pledge of Ridwan",
+            "Hudaybiyah",
+            "Envoy at Hudaybiyyah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The pledge at al-Hudaybiyah was taken when he was rumoured killed; the Prophet ﷺ pledged on his behalf.",
+          "source": {
+            "text": "Sahih al-Bukhari 3698",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-uthman-martyred-reading-the-quran",
+          "canonical": "Martyred reading the Qur'an",
+          "variants": [
+            "Martyred",
+            "Martyrdom",
+            "Killed while reading Quran",
+            "Siege of his house"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He was killed in his house in 35 AH.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-uthman-the-first-muslim-navy",
+          "canonical": "The first Muslim navy",
+          "variants": [
+            "Navy",
+            "First navy",
+            "Battle of the Masts",
+            "Dhat al-Sawari",
+            "Cyprus"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Under him the Muslims fought the Battle of the Masts at sea.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "caliphs-ali-events",
+      "number": 8,
+      "prompt": "Name a battle or event from 'Ali's (RA) caliphate.",
+      "answers": [
+        {
+          "id": "caliphs-ali-events-the-battle-of-the-camel",
+          "canonical": "The Battle of the Camel",
+          "variants": [
+            "Battle of the Camel",
+            "Camel",
+            "Jamal",
+            "Battle of Jamal"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Fought near Basra in 36 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-ali-events-siffin",
+          "canonical": "Siffin",
+          "variants": [
+            "Siffin",
+            "Battle of Siffin"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Fought against the army of Syria in 37 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-ali-events-the-arbitration",
+          "canonical": "The arbitration",
+          "variants": [
+            "Arbitration",
+            "Tahkim",
+            "Arbitration at Adhruh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Siffin ended in an agreement to arbitrate.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-ali-events-nahrawan",
+          "canonical": "Nahrawan",
+          "variants": [
+            "Nahrawan",
+            "Khawarij",
+            "Kharijites",
+            "Battle of Nahrawan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He fought the Khawarij in 38 AH.",
+          "source": {
+            "text": "Sahih Muslim 1066",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-ali-events-moving-the-capital-to-kufa",
+          "canonical": "Moving the capital to Kufa",
+          "variants": [
+            "Kufa",
+            "Kufah",
+            "Capital to Kufa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He governed from Kufa.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-ali-events-assassinated-by-ibn-muljam",
+          "canonical": "Assassinated by Ibn Muljam",
+          "variants": [
+            "Ibn Muljam",
+            "Assassination",
+            "Martyrdom of Ali",
+            "Killed by a Kharijite"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Struck at the Fajr prayer in Ramadan, 40 AH.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-ali-events-mushafs-raised-on-spears",
+          "canonical": "Mushafs raised on spears",
+          "variants": [
+            "Qurans on spears",
+            "Mushaf on spears",
+            "Raising the Quran"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "At Siffin copies of the Qur'an were raised to call for arbitration.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-ali-events-ammar-ibn-yasir-killed",
+          "canonical": "'Ammar ibn Yasir killed",
+          "variants": [
+            "Death of Ammar",
+            "Ammar ibn Yasir",
+            "Ammar killed"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"The transgressing party will kill 'Ammar\" — he fell at Siffin with 'Ali.",
+          "source": {
+            "text": "Sahih al-Bukhari 447",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "caliphs-children",
+      "number": 9,
+      "prompt": "Name a child of one of the four caliphs.",
+      "clarifications": [
+        {
+          "inputs": [
+            "Abdullah",
+            "Muhammad",
+            "Abdur Rahman",
+            "Umm Kulthum"
+          ],
+          "message": "Which one? Add their father, e.g. \"ibn Abi Bakr\"."
+        }
+      ],
+      "answers": [
+        {
+          "id": "caliphs-children-aishah-bint-abi-bakr",
+          "canonical": "'A'ishah bint Abi Bakr",
+          "variants": [
+            "Aisha",
+            "Aishah",
+            "Ayesha",
+            "Aisha bint Abi Bakr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Daughter of Abu Bakr, wife of the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari 3894",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-children-hafsah-bint-umar",
+          "canonical": "Hafsah bint 'Umar",
+          "variants": [
+            "Hafsa",
+            "Hafsah",
+            "Hafsa bint Umar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Daughter of 'Umar, wife of the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari 4005",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-children-al-hasan",
+          "canonical": "Al-Hasan",
+          "variants": [
+            "Hasan",
+            "Al Hasan",
+            "Hassan",
+            "Hasan ibn Ali"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Son of 'Ali and Fatimah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3746",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-children-al-husayn",
+          "canonical": "Al-Husayn",
+          "variants": [
+            "Husayn",
+            "Hussain",
+            "Husain",
+            "Al Husayn",
+            "Husayn ibn Ali"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Son of 'Ali and Fatimah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3753",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-children-abdullah-ibn-umar",
+          "canonical": "'Abdullah ibn 'Umar",
+          "variants": [
+            "Ibn Umar",
+            "Abdullah ibn Umar",
+            "Abdullah bin Umar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A great scholar and narrator.",
+          "source": {
+            "text": "Sahih al-Bukhari 3738",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-children-asma-bint-abi-bakr",
+          "canonical": "Asma' bint Abi Bakr",
+          "variants": [
+            "Asma",
+            "Asma'",
+            "Asma bint Abi Bakr",
+            "Asma bint Abu Bakr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"She of the two belts\", who carried food to the cave.",
+          "source": {
+            "text": "Sahih al-Bukhari 3907",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-children-zaynab-bint-ali",
+          "canonical": "Zaynab bint 'Ali",
+          "variants": [
+            "Zaynab bint Ali",
+            "Zainab bint Ali",
+            "Zaynab",
+            "Zainab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Daughter of 'Ali and Fatimah, present at Karbala.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-children-muhammad-ibn-al-hanafiyyah",
+          "canonical": "Muhammad ibn al-Hanafiyyah",
+          "variants": [
+            "Muhammad ibn al-Hanafiyyah",
+            "Ibn al-Hanafiyyah",
+            "Ibn Hanafiya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Son of 'Ali, named after his mother's tribe.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-children-abd-al-rahman-ibn-abi-bakr",
+          "canonical": "'Abd al-Rahman ibn Abi Bakr",
+          "variants": [
+            "Abdur Rahman ibn Abi Bakr",
+            "Abd al-Rahman ibn Abi Bakr",
+            "Abdul Rahman ibn Abu Bakr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Fought at Badr against the Muslims, later became Muslim.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-children-abdullah-ibn-abi-bakr",
+          "canonical": "'Abdullah ibn Abi Bakr",
+          "variants": [
+            "Abdullah ibn Abi Bakr",
+            "Abdullah ibn Abu Bakr",
+            "Abdullah bin Abi Bakr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Brought news to the cave during the Hijrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3905",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-children-umm-kulthum-bint-ali",
+          "canonical": "Umm Kulthum bint 'Ali",
+          "variants": [
+            "Umm Kulthum bint Ali",
+            "Umm Kalthum bint Ali"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Daughter of 'Ali and Fatimah; she married 'Umar.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-children-al-abbas-ibn-ali",
+          "canonical": "Al-'Abbas ibn 'Ali",
+          "variants": [
+            "Abbas ibn Ali",
+            "Al-Abbas ibn Ali",
+            "Abbas bin Ali"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Killed at Karbala with his brother al-Husayn.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-children-muhammad-ibn-abi-bakr",
+          "canonical": "Muhammad ibn Abi Bakr",
+          "variants": [
+            "Muhammad ibn Abi Bakr",
+            "Muhammad ibn Abu Bakr",
+            "Muhammad bin Abi Bakr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Raised by 'Ali; later governor of Egypt.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-children-aban-ibn-uthman",
+          "canonical": "Aban ibn 'Uthman",
+          "variants": [
+            "Aban",
+            "Aban ibn Uthman",
+            "Aban bin Uthman"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A scholar of the Seerah and governor of Madinah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-children-asim-ibn-umar",
+          "canonical": "'Asim ibn 'Umar",
+          "variants": [
+            "Asim",
+            "Asim ibn Umar",
+            "Asim bin Umar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Grandfather of the caliph 'Umar ibn 'Abd al-'Aziz.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-children-abdullah-ibn-uthman",
+          "canonical": "'Abdullah ibn 'Uthman",
+          "variants": [
+            "Abdullah ibn Uthman",
+            "Abdullah bin Uthman"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Son of 'Uthman and Ruqayyah, who died as a child.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "caliphs-governors",
+      "number": 10,
+      "prompt": "Name a Companion who served as a governor under the four caliphs.",
+      "answers": [
+        {
+          "id": "caliphs-governors-amr-ibn-al-as",
+          "canonical": "'Amr ibn al-'As",
+          "variants": [
+            "Amr ibn al-As",
+            "Amr ibn al-Aas",
+            "Amr bin As",
+            "Amr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Conqueror and governor of Egypt.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-muawiyah-ibn-abi-sufyan",
+          "canonical": "Mu'awiyah ibn Abi Sufyan",
+          "variants": [
+            "Muawiyah",
+            "Muawiya",
+            "Mu'awiya",
+            "Muawiyah ibn Abi Sufyan"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Governor of Syria under 'Umar and 'Uthman.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-abu-ubaydah-ibn-al-jarrah",
+          "canonical": "Abu 'Ubaydah ibn al-Jarrah",
+          "variants": [
+            "Abu Ubaydah",
+            "Abu Ubaidah",
+            "Abu Ubayda ibn al-Jarrah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Commander and governor of Syria under 'Umar.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-abu-musa-al-ashari",
+          "canonical": "Abu Musa al-Ash'ari",
+          "variants": [
+            "Abu Musa",
+            "Abu Musa al-Ashari",
+            "Abu Moosa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Governor of Basra and Kufa.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-sad-ibn-abi-waqqas",
+          "canonical": "Sa'd ibn Abi Waqqas",
+          "variants": [
+            "Sad ibn Abi Waqqas",
+            "Saad ibn Abi Waqqas",
+            "Sad bin Abi Waqas",
+            "Saad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Founded and governed Kufa.",
+          "source": {
+            "text": "Sahih al-Bukhari 755",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-salman-al-farisi",
+          "canonical": "Salman al-Farisi",
+          "variants": [
+            "Salman",
+            "Salman al-Farsi",
+            "Salman the Persian"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Governor of al-Mada'in.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-ammar-ibn-yasir",
+          "canonical": "'Ammar ibn Yasir",
+          "variants": [
+            "Ammar",
+            "Ammar ibn Yasir",
+            "Ammar bin Yasir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Governor of Kufa under 'Umar.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-al-mughirah-ibn-shubah",
+          "canonical": "Al-Mughirah ibn Shu'bah",
+          "variants": [
+            "Mughirah",
+            "Mughira",
+            "Al-Mughira ibn Shu'ba"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Governor of Basra, then Kufa.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-abdullah-ibn-abbas",
+          "canonical": "'Abdullah ibn 'Abbas",
+          "variants": [
+            "Ibn Abbas",
+            "Abdullah ibn Abbas",
+            "Abdullah bin Abbas"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Governor of Basra under 'Ali.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-hudhayfah-ibn-al-yaman",
+          "canonical": "Hudhayfah ibn al-Yaman",
+          "variants": [
+            "Hudhayfah",
+            "Huzaifa",
+            "Hudhaifa ibn al-Yaman"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Governor of al-Mada'in.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-yazid-ibn-abi-sufyan",
+          "canonical": "Yazid ibn Abi Sufyan",
+          "variants": [
+            "Yazid ibn Abi Sufyan",
+            "Yazid bin Abi Sufyan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Governor of Damascus under 'Umar.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-utbah-ibn-ghazwan",
+          "canonical": "'Utbah ibn Ghazwan",
+          "variants": [
+            "Utbah ibn Ghazwan",
+            "Utba ibn Ghazwan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Founder and first governor of Basra.",
+          "source": {
+            "text": "Al-Baladhuri, Futuh al-Buldan",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-muhammad-ibn-abi-bakr",
+          "canonical": "Muhammad ibn Abi Bakr",
+          "variants": [
+            "Muhammad ibn Abi Bakr",
+            "Muhammad ibn Abu Bakr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Governor of Egypt under 'Ali.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "caliphs-governors-said-ibn-al-as",
+          "canonical": "Sa'id ibn al-'As",
+          "variants": [
+            "Sa'id ibn al-As",
+            "Said ibn al-As",
+            "Saeed ibn al-Aas"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Governor of Kufa under 'Uthman.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-abdullah-ibn-sad-ibn-abi-sarh",
+          "canonical": "'Abdullah ibn Sa'd ibn Abi Sarh",
+          "variants": [
+            "Ibn Abi Sarh",
+            "Abdullah ibn Sa'd",
+            "Abdullah ibn Saad ibn Abi Sarh"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Governor of Egypt under 'Uthman; led the Battle of the Masts.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "caliphs-governors-shurahbil-ibn-hasanah",
+          "canonical": "Shurahbil ibn Hasanah",
+          "variants": [
+            "Shurahbil",
+            "Shurahbil ibn Hasana"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Commander and governor in Jordan under 'Umar.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        }
+      ]
+    }
+  ]
+}

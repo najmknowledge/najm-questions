@@ -1,0 +1,366 @@
+{
+  "id": "prophet-adam",
+  "title": "Prophet Adam",
+  "description": "The first human, the Garden and the first repentance.",
+  "emoji": "🌳",
+  "color": "#31c46c",
+  "questions": [
+    {
+      "id": "prophet-adam-story",
+      "number": 1,
+      "prompt": "Name something from the story of Prophet Adam (AS).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Adam",
+            "Aadam"
+          ],
+          "message": "That's in the question — name something else from the story!"
+        },
+        {
+          "inputs": [
+            "Apple"
+          ],
+          "message": "The Qur'an doesn't say what the tree's fruit was. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-adam-story-iblis",
+          "canonical": "Iblis",
+          "variants": [
+            "Iblis",
+            "Iblees",
+            "Shaytan",
+            "Shaitan",
+            "Satan",
+            "Devil",
+            "Iblis refused to bow"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Iblis refused to prostrate to Adam out of pride.",
+          "source": {
+            "text": "Qur'an 2:34; 7:11-12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-hawwa",
+          "canonical": "Hawwa'",
+          "variants": [
+            "Hawwa",
+            "Hawa",
+            "Hauwa",
+            "Eve",
+            "His wife",
+            "Wife"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His wife, created for him; named in the Hadith.",
+          "source": {
+            "text": "Qur'an 2:35; 7:189",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-the-tree",
+          "canonical": "The tree",
+          "variants": [
+            "Tree",
+            "Forbidden tree",
+            "Forbidden fruit",
+            "Fruit",
+            "Tree of immortality"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "They were told not to approach a tree, and Iblis tempted them to eat from it.",
+          "source": {
+            "text": "Qur'an 2:35; 20:120",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-paradise",
+          "canonical": "Paradise",
+          "variants": [
+            "Paradise",
+            "Garden",
+            "Jannah",
+            "Garden of Eden",
+            "Eden"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Adam and his wife lived in the Garden.",
+          "source": {
+            "text": "Qur'an 2:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-the-angels-prostrated",
+          "canonical": "The angels prostrated",
+          "variants": [
+            "Angels bowed",
+            "Prostration",
+            "Sajdah",
+            "Sujud",
+            "Bowing",
+            "Angels prostrated",
+            "Angels"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Allah commanded the angels to prostrate to Adam.",
+          "source": {
+            "text": "Qur'an 2:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-created-from-clay",
+          "canonical": "Created from clay",
+          "variants": [
+            "Clay",
+            "Dust",
+            "Soil",
+            "Mud",
+            "Sounding clay",
+            "Created from clay",
+            "Created from dust"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He was created from clay, from dust.",
+          "source": {
+            "text": "Qur'an 3:59; 15:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-taught-the-names",
+          "canonical": "Taught the names",
+          "variants": [
+            "Names",
+            "Names of all things",
+            "Taught the names",
+            "Knowledge of names"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Allah taught Adam the names of all things.",
+          "source": {
+            "text": "Qur'an 2:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-sent-down-to-earth",
+          "canonical": "Sent down to earth",
+          "variants": [
+            "Earth",
+            "Sent to earth",
+            "Sent down to earth",
+            "Descent",
+            "Expelled",
+            "Coming down to earth"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "They were sent down to the earth for a time.",
+          "source": {
+            "text": "Qur'an 2:36; 7:24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-habil-and-qabil",
+          "canonical": "Habil and Qabil",
+          "variants": [
+            "Habil",
+            "Qabil",
+            "Abel",
+            "Cain",
+            "Two sons",
+            "Sons",
+            "Habil and Qabil",
+            "Cain and Abel"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One of his two sons killed the other; tradition names them Habil and Qabil.",
+          "source": {
+            "text": "Qur'an 5:27-31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-father-of-mankind",
+          "canonical": "Father of mankind",
+          "variants": [
+            "Abul Bashar",
+            "Abu al-Bashar",
+            "Father of mankind",
+            "First man",
+            "First human",
+            "First prophet"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In the hadith of intercession people call him the father of mankind.",
+          "source": {
+            "text": "Sahih al-Bukhari 4712",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-adam-story-khalifah",
+          "canonical": "Khalifah",
+          "variants": [
+            "Khalifah",
+            "Khalifa",
+            "Vicegerent",
+            "Caliph",
+            "Successor",
+            "Steward"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"I am placing a successor on the earth.\"",
+          "source": {
+            "text": "Qur'an 2:30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-his-repentance",
+          "canonical": "His repentance",
+          "variants": [
+            "Repentance",
+            "Tawbah",
+            "Words from his Lord",
+            "Rabbana zalamna anfusana",
+            "Dua of Adam",
+            "Forgiven"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Adam received words from his Lord: \"Our Lord, we have wronged ourselves…\"",
+          "source": {
+            "text": "Qur'an 2:37; 7:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-covering-with-leaves",
+          "canonical": "Covering with leaves",
+          "variants": [
+            "Leaves",
+            "Leaves of Paradise",
+            "Covering with leaves",
+            "Nakedness",
+            "Clothes"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "They began to cover themselves with leaves of the Garden.",
+          "source": {
+            "text": "Qur'an 7:22; 20:121",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-the-crow",
+          "canonical": "The crow",
+          "variants": [
+            "Crow",
+            "Burying",
+            "Burial",
+            "Raven"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A crow showed the son how to bury his brother.",
+          "source": {
+            "text": "Qur'an 5:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-the-spirit-breathed-into-him",
+          "canonical": "The spirit breathed into him",
+          "variants": [
+            "Spirit",
+            "Ruh",
+            "Soul",
+            "Breathed his spirit",
+            "Breath"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"When I have proportioned him and breathed into him of My spirit…\"",
+          "source": {
+            "text": "Qur'an 15:29; 38:72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-the-covenant",
+          "canonical": "The covenant",
+          "variants": [
+            "Covenant",
+            "Alastu",
+            "Am I not your Lord",
+            "Mithaq",
+            "Day of Alast",
+            "Children from his back"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Allah took the covenant from the children of Adam: \"Am I not your Lord?\"",
+          "source": {
+            "text": "Qur'an 7:172",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-adam-story-created-on-a-friday",
+          "canonical": "Created on a Friday",
+          "variants": [
+            "Friday",
+            "Jumuah",
+            "Created on Friday"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Adam was created on a Friday, entered Paradise on it and left it on it.",
+          "source": {
+            "text": "Sahih Muslim 854",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-adam-story-sixty-cubits-tall",
+          "canonical": "Sixty cubits tall",
+          "variants": [
+            "60 cubits",
+            "Sixty cubits",
+            "Tall",
+            "Height",
+            "60 arms"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Allah created Adam sixty cubits tall.",
+          "source": {
+            "text": "Sahih al-Bukhari 3326",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

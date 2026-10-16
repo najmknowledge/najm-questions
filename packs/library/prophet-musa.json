@@ -1,0 +1,423 @@
+{
+  "id": "prophet-musa",
+  "title": "Prophet Musa",
+  "description": "Pharaoh, the staff, the sea and the mountain.",
+  "emoji": "🌊",
+  "color": "#5aa9ff",
+  "questions": [
+    {
+      "id": "prophet-musa-story",
+      "number": 1,
+      "prompt": "Name something from the story of Prophet Musa (AS) and Pharaoh.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Musa",
+            "Moses",
+            "Pharaoh",
+            "Firawn",
+            "Firaun",
+            "Fir'awn"
+          ],
+          "message": "That's in the question — name something else from the story!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-musa-story-the-staff",
+          "canonical": "The staff",
+          "variants": [
+            "Staff",
+            "Stick",
+            "Rod",
+            "Asa",
+            "Musa's staff",
+            "Snake",
+            "Serpent",
+            "Staff turned into a snake"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His staff turned into a snake and later struck the sea.",
+          "source": {
+            "text": "Qur'an 20:17-21; 26:63",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-the-parting-of-the-sea",
+          "canonical": "The parting of the sea",
+          "variants": [
+            "Sea parting",
+            "Parting of the sea",
+            "Splitting the sea",
+            "Red Sea",
+            "The sea",
+            "Sea",
+            "Parting the sea",
+            "Crossing the sea"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The sea split into two great walls and Bani Isra'il crossed.",
+          "source": {
+            "text": "Qur'an 26:63",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-pharaoh-drowned",
+          "canonical": "Pharaoh drowned",
+          "variants": [
+            "Drowning",
+            "Drowning of Pharaoh",
+            "Pharaoh drowning",
+            "Pharaoh drowned",
+            "Army drowned"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Pharaoh and his army drowned as they followed.",
+          "source": {
+            "text": "Qur'an 10:90; 2:50",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-harun",
+          "canonical": "Harun",
+          "variants": [
+            "Haroon",
+            "Harun",
+            "Aaron",
+            "His brother",
+            "Brother"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His brother, made a prophet to help him.",
+          "source": {
+            "text": "Qur'an 20:29-36",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-musa-story-the-magicians",
+          "canonical": "The magicians",
+          "variants": [
+            "Magicians",
+            "Sorcerers",
+            "Magic",
+            "Ropes",
+            "Ropes and sticks",
+            "Sihr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Pharaoh's magicians threw ropes and staffs, then fell down in prostration and believed.",
+          "source": {
+            "text": "Qur'an 20:65-70",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-mount-tur",
+          "canonical": "Mount Tur",
+          "variants": [
+            "Tur",
+            "Mount Tur",
+            "Sinai",
+            "Mount Sinai",
+            "Mountain"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Allah spoke to Musa at the mountain, Tur (Sinai).",
+          "source": {
+            "text": "Qur'an 19:52; 28:46",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-the-shining-hand",
+          "canonical": "The shining hand",
+          "variants": [
+            "White hand",
+            "Hand",
+            "Shining hand",
+            "Glowing hand",
+            "Yad bayda"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His hand came out shining white without harm.",
+          "source": {
+            "text": "Qur'an 20:22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-the-basket-on-the-river",
+          "canonical": "The basket on the river",
+          "variants": [
+            "Basket",
+            "Box",
+            "Chest",
+            "River",
+            "Nile",
+            "River Nile",
+            "Floating on the river",
+            "Baby in a basket"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "As a baby his mother placed him in a chest on the river.",
+          "source": {
+            "text": "Qur'an 20:39; 28:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-asiyah",
+          "canonical": "Asiyah",
+          "variants": [
+            "Asiya",
+            "Asiyah",
+            "Aasiya",
+            "Asia",
+            "Pharaoh's wife",
+            "Wife of Pharaoh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Pharaoh's believing wife who adopted him; named in the Hadith.",
+          "source": {
+            "text": "Qur'an 28:9; 66:11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-musas-mother",
+          "canonical": "Musa's mother",
+          "variants": [
+            "Mother",
+            "His mother",
+            "Musa's mother",
+            "Yukabid",
+            "Jochebed"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Allah inspired her to cast him into the river and returned him to her to nurse.",
+          "source": {
+            "text": "Qur'an 28:7,13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-the-burning-bush",
+          "canonical": "The burning bush",
+          "variants": [
+            "Burning bush",
+            "Fire",
+            "Bush",
+            "Tuwa",
+            "Valley of Tuwa",
+            "Sacred valley",
+            "Blessed tree"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He saw a fire and was called from the blessed tree in the sacred valley of Tuwa.",
+          "source": {
+            "text": "Qur'an 20:10-12; 28:29-30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-the-plagues",
+          "canonical": "The plagues",
+          "variants": [
+            "Nine signs",
+            "Plagues",
+            "Locusts",
+            "Lice",
+            "Frogs",
+            "Blood",
+            "Flood",
+            "Ten plagues"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Pharaoh's people were struck with flood, locusts, lice, frogs and blood — nine clear signs in all.",
+          "source": {
+            "text": "Qur'an 7:133; 17:101",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-haman",
+          "canonical": "Haman",
+          "variants": [
+            "Haman",
+            "Hamaan",
+            "Tower"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Pharaoh's minister, told to build a tower to the heavens.",
+          "source": {
+            "text": "Qur'an 28:6,38; 40:36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-qarun",
+          "canonical": "Qarun",
+          "variants": [
+            "Qarun",
+            "Karun",
+            "Qaroon",
+            "Korah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The rich man of Musa's people whom the earth swallowed.",
+          "source": {
+            "text": "Qur'an 28:76-81",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-striking-the-egyptian",
+          "canonical": "Striking the Egyptian",
+          "variants": [
+            "Killed a man",
+            "Killing the Egyptian",
+            "Punched a man",
+            "Struck the Egyptian",
+            "Egyptian man"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He struck a man who was fighting an Israelite and the man died.",
+          "source": {
+            "text": "Qur'an 28:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-madyan",
+          "canonical": "Madyan",
+          "variants": [
+            "Madyan",
+            "Midian",
+            "Two daughters",
+            "Watering the flock",
+            "Well of Madyan",
+            "Two women"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He fled to Madyan, watered the flocks of two women and married one of them.",
+          "source": {
+            "text": "Qur'an 28:22-28",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-musas-sister",
+          "canonical": "Musa's sister",
+          "variants": [
+            "Sister",
+            "His sister",
+            "Musa's sister",
+            "Miriam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She followed the chest along the river and led them to his mother.",
+          "source": {
+            "text": "Qur'an 28:11-12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-refusing-the-wet-nurses",
+          "canonical": "Refusing the wet nurses",
+          "variants": [
+            "Wet nurse",
+            "Wet nurses",
+            "Refused to nurse",
+            "Refusing wet nurses",
+            "Nursing"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He refused every wet nurse until he was returned to his own mother.",
+          "source": {
+            "text": "Qur'an 28:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-the-believer-of-pharaohs-family",
+          "canonical": "The believer of Pharaoh's family",
+          "variants": [
+            "Believing man",
+            "Believer from Pharaohs family",
+            "Man who hid his faith",
+            "Mu'min Al Firawn",
+            "Hizqil",
+            "Secret believer"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A man of Pharaoh's family who hid his faith spoke up for Musa.",
+          "source": {
+            "text": "Qur'an 40:28",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-the-knot-in-his-tongue",
+          "canonical": "The knot in his tongue",
+          "variants": [
+            "Knot in his tongue",
+            "Tongue",
+            "Stammer",
+            "Speech",
+            "Lisp",
+            "Hot coal",
+            "Coal"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Musa asked Allah to untie the knot from his tongue so they would understand him.",
+          "source": {
+            "text": "Qur'an 20:27-28",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-musa-story-pharaohs-body-preserved",
+          "canonical": "Pharaoh's body preserved",
+          "variants": [
+            "Pharaoh's body",
+            "Body preserved",
+            "Body saved",
+            "Mummy"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Today We will save your body, so you may be a sign to those after you.\"",
+          "source": {
+            "text": "Qur'an 10:92",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

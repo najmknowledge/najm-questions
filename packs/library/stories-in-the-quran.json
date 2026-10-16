@@ -1,0 +1,318 @@
+{
+  "id": "stories-in-the-quran",
+  "title": "Stories in the Qur'an",
+  "description": "The People of the Cave, the two gardens, Qarun and more.",
+  "emoji": "📜",
+  "color": "#f4c542",
+  "questions": [
+    {
+      "id": "stories-cave",
+      "number": 1,
+      "prompt": "Name something from the story of the People of the Cave (Ashab al-Kahf).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Cave",
+            "Kahf",
+            "Al-Kahf",
+            "People of the Cave",
+            "Ashab al-Kahf",
+            "Companions of the Cave"
+          ],
+          "message": "That's in the question — name something else from the story!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "stories-cave-their-dog",
+          "canonical": "Their dog",
+          "variants": [
+            "Dog",
+            "Their dog",
+            "The dog",
+            "Dog at the entrance"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Their dog lay stretching its forelegs at the entrance.",
+          "source": {
+            "text": "Qur'an 18:18,22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-their-long-sleep",
+          "canonical": "Their long sleep",
+          "variants": [
+            "Sleep",
+            "Sleeping",
+            "Slept",
+            "Long sleep",
+            "Asleep"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Allah made them sleep in the cave for years.",
+          "source": {
+            "text": "Qur'an 18:11,18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-young-men",
+          "canonical": "Young men",
+          "variants": [
+            "Young men",
+            "Youths",
+            "Youth",
+            "Boys",
+            "Fityah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "They were young men who believed in their Lord.",
+          "source": {
+            "text": "Qur'an 18:10,13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-309-years",
+          "canonical": "309 years",
+          "variants": [
+            "309",
+            "309 years",
+            "300 years",
+            "Three hundred years",
+            "Three hundred and nine years"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "They stayed in their cave three hundred years, and added nine.",
+          "source": {
+            "text": "Qur'an 18:25",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-the-silver-coin",
+          "canonical": "The silver coin",
+          "variants": [
+            "Coin",
+            "Coins",
+            "Silver coin",
+            "Money",
+            "Old coins",
+            "Wariq"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "They sent one of them to the city with their silver coin.",
+          "source": {
+            "text": "Qur'an 18:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-buying-food",
+          "canonical": "Buying food",
+          "variants": [
+            "Food",
+            "Buying food",
+            "Pure food",
+            "Going to the city",
+            "Sent to buy food"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "They sent one of them to bring the purest food, quietly.",
+          "source": {
+            "text": "Qur'an 18:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-the-tyrant-king",
+          "canonical": "The tyrant king",
+          "variants": [
+            "King",
+            "Tyrant king",
+            "Unjust king",
+            "Daqyanus",
+            "Decius",
+            "Emperor",
+            "Persecution"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "They fled a people who worshipped others besides Allah; tradition names the ruler Daqyanus (Decius).",
+          "source": {
+            "text": "Qur'an 18:15-16; tafsir",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "stories-cave-their-number",
+          "canonical": "Their number",
+          "variants": [
+            "Their number",
+            "Number",
+            "Three",
+            "Five",
+            "Seven",
+            "Seven sleepers",
+            "Number of sleepers"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"They will say three… five… seven… Say: my Lord knows best their number.\"",
+          "source": {
+            "text": "Qur'an 18:22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-turned-left-and-right",
+          "canonical": "Turned left and right",
+          "variants": [
+            "Turning",
+            "Turned left and right",
+            "Turned over",
+            "Turning sides",
+            "Turning in sleep"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Allah turned them to the right and the left as they slept.",
+          "source": {
+            "text": "Qur'an 18:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-the-sun-passing-them-by",
+          "canonical": "The sun passing them by",
+          "variants": [
+            "Sun",
+            "Sunlight",
+            "Sun turning away",
+            "Sun passing by"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The rising sun inclined away from their cave and the setting sun passed them by.",
+          "source": {
+            "text": "Qur'an 18:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-a-place-of-worship-over-them",
+          "canonical": "A place of worship over them",
+          "variants": [
+            "Mosque",
+            "Masjid",
+            "Place of worship",
+            "Building over them",
+            "Monument"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Those who prevailed said, \"We will surely build over them a place of worship.\"",
+          "source": {
+            "text": "Qur'an 18:21",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-they-looked-awake",
+          "canonical": "They looked awake",
+          "variants": [
+            "Looked awake",
+            "Seemed awake",
+            "Eyes open",
+            "Fear",
+            "Terror",
+            "Fled in fear"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "You would think them awake while they were asleep; anyone seeing them would flee in terror.",
+          "source": {
+            "text": "Qur'an 18:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-al-raqim",
+          "canonical": "Al-Raqim",
+          "variants": [
+            "Raqim",
+            "Al Raqim",
+            "Ar Raqim",
+            "Inscription",
+            "Tablet"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"The companions of the cave and al-Raqim\" — often explained as an inscription.",
+          "source": {
+            "text": "Qur'an 18:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-saying-in-sha-allah",
+          "canonical": "Saying \"in sha Allah\"",
+          "variants": [
+            "In sha Allah",
+            "Insha Allah",
+            "Inshallah",
+            "If Allah wills",
+            "Saying in sha Allah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Prophet ﷺ was taught: never say \"I will do it tomorrow\" without \"if Allah wills\".",
+          "source": {
+            "text": "Qur'an 18:23-24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-their-ears-sealed",
+          "canonical": "Their ears sealed",
+          "variants": [
+            "Ears",
+            "Ears sealed",
+            "Sealed their ears",
+            "Cover over their ears"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"We cast a cover over their ears in the cave for a number of years.\"",
+          "source": {
+            "text": "Qur'an 18:11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "stories-cave-qitmir",
+          "canonical": "Qitmir",
+          "variants": [
+            "Qitmir",
+            "Kitmir",
+            "Qitmeer"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The name tradition gives their dog.",
+          "source": {
+            "text": "Tafsir (e.g. Ibn Kathir on 18:18)",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

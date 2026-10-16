@@ -1,0 +1,382 @@
+{
+  "id": "prophet-isa",
+  "title": "Prophet 'Isa",
+  "description": "Maryam, the cradle, the miracles and his return.",
+  "emoji": "🕊️",
+  "color": "#c8cdd6",
+  "questions": [
+    {
+      "id": "prophet-isa-story",
+      "number": 1,
+      "prompt": "Name something from the story of Prophet 'Isa (AS) in the Qur'an.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "'Isa",
+            "Isa",
+            "Eesa",
+            "Jesus"
+          ],
+          "message": "That's in the question — name something else from the story!"
+        },
+        {
+          "inputs": [
+            "Crucifixion",
+            "Crucified",
+            "Cross",
+            "Christmas"
+          ],
+          "message": "The Qur'an says he was not crucified — Allah raised him up. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-isa-story-maryam",
+          "canonical": "Maryam",
+          "variants": [
+            "Maryam",
+            "Mary",
+            "Mariam",
+            "Mariyam",
+            "His mother",
+            "Mother"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His mother, chosen above the women of the worlds.",
+          "source": {
+            "text": "Qur'an 3:42; 19:16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-born-without-a-father",
+          "canonical": "Born without a father",
+          "variants": [
+            "No father",
+            "Virgin birth",
+            "Born without a father",
+            "Miraculous birth"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"How can I have a son when no man has touched me?\"",
+          "source": {
+            "text": "Qur'an 3:47; 19:20",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-speaking-in-the-cradle",
+          "canonical": "Speaking in the cradle",
+          "variants": [
+            "Cradle",
+            "Speaking in the cradle",
+            "Spoke as a baby",
+            "Talked as a baby",
+            "Baby speaking"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "As a baby he spoke: \"I am the servant of Allah.\"",
+          "source": {
+            "text": "Qur'an 19:29-30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-raised-up-to-allah",
+          "canonical": "Raised up to Allah",
+          "variants": [
+            "Raised to heaven",
+            "Raised up",
+            "Taken up",
+            "Lifted up",
+            "Not crucified",
+            "Ascension"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He was not killed or crucified; Allah raised him up to Himself.",
+          "source": {
+            "text": "Qur'an 4:157-158",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-the-messiah",
+          "canonical": "The Messiah",
+          "variants": [
+            "Messiah",
+            "Masih",
+            "Al-Masih",
+            "Christ"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Qur'an calls him al-Masih, the Messiah.",
+          "source": {
+            "text": "Qur'an 3:45; 4:171",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-bani-israil",
+          "canonical": "Bani Isra'il",
+          "variants": [
+            "Bani Israel",
+            "Bani Isra'il",
+            "Banu Israil",
+            "Children of Israel",
+            "Israelites"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He was sent as a messenger to the Children of Israel.",
+          "source": {
+            "text": "Qur'an 3:49; 61:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-birds-of-clay",
+          "canonical": "Birds of clay",
+          "variants": [
+            "Clay birds",
+            "Birds of clay",
+            "Clay bird",
+            "Bird",
+            "Birds"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He shaped birds from clay and they became birds by Allah's permission.",
+          "source": {
+            "text": "Qur'an 3:49; 5:110",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-healing-the-blind-and-the-leper",
+          "canonical": "Healing the blind and the leper",
+          "variants": [
+            "Healing the blind",
+            "Healing lepers",
+            "Leper",
+            "Lepers",
+            "Blind",
+            "Healing",
+            "Healing the sick",
+            "Cured the blind"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He healed the blind and the leper by Allah's permission.",
+          "source": {
+            "text": "Qur'an 3:49",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-bringing-the-dead-to-life",
+          "canonical": "Bringing the dead to life",
+          "variants": [
+            "Raising the dead",
+            "Bringing the dead to life",
+            "Gave life to the dead",
+            "Dead"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He gave life to the dead by Allah's permission.",
+          "source": {
+            "text": "Qur'an 3:49",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-the-disciples",
+          "canonical": "The disciples",
+          "variants": [
+            "Disciples",
+            "Hawariyyun",
+            "Hawariyun",
+            "Apostles",
+            "Followers",
+            "Helpers of Allah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His disciples said, \"We are the helpers of Allah.\"",
+          "source": {
+            "text": "Qur'an 3:52; 61:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-the-injil",
+          "canonical": "The Injil",
+          "variants": [
+            "Injil",
+            "Injeel",
+            "Gospel"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Allah gave him the Injil.",
+          "source": {
+            "text": "Qur'an 5:46",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-the-table-spread",
+          "canonical": "The table spread",
+          "variants": [
+            "Table",
+            "Table spread",
+            "Maidah",
+            "Ma'idah",
+            "Food from heaven",
+            "Feast"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His disciples asked for a table spread with food from the sky.",
+          "source": {
+            "text": "Qur'an 5:112-115",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-the-palm-tree",
+          "canonical": "The palm tree",
+          "variants": [
+            "Palm tree",
+            "Date palm",
+            "Dates",
+            "Fresh dates",
+            "Palm trunk",
+            "Stream"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In labour, Maryam was told to shake the palm trunk for fresh dates, with a stream beneath her.",
+          "source": {
+            "text": "Qur'an 19:23-26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-jibril",
+          "canonical": "Jibril",
+          "variants": [
+            "Jibril",
+            "Jibreel",
+            "Gabriel",
+            "Angel",
+            "Angel Jibril",
+            "Ruh al-Qudus"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The angel came to Maryam in the form of a man.",
+          "source": {
+            "text": "Qur'an 19:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-zakariyya",
+          "canonical": "Zakariyya",
+          "variants": [
+            "Zakariyya",
+            "Zakariya",
+            "Zakaria",
+            "Zechariah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Maryam's guardian, who found her provided with food.",
+          "source": {
+            "text": "Qur'an 3:37",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-isa-story-a-sign-of-the-hour",
+          "canonical": "A sign of the Hour",
+          "variants": [
+            "Second coming",
+            "Return",
+            "Coming back",
+            "Sign of the Hour",
+            "Will return",
+            "Descent"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"And indeed, he is a sign of the Hour\" — understood as his return before the end.",
+          "source": {
+            "text": "Qur'an 43:61",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-isa-story-the-good-news-of-ahmad",
+          "canonical": "The good news of Ahmad",
+          "variants": [
+            "Ahmad",
+            "Prophecy of Ahmad",
+            "Good news of Ahmad",
+            "Glad tidings of Ahmad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He gave glad tidings of a messenger to come after him named Ahmad.",
+          "source": {
+            "text": "Qur'an 61:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-a-word-from-allah",
+          "canonical": "A word from Allah",
+          "variants": [
+            "Word of Allah",
+            "Kalimatullah",
+            "Kalimah",
+            "Ruhullah",
+            "Spirit from Allah",
+            "Spirit from Him"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He is called a word from Allah and a spirit from Him.",
+          "source": {
+            "text": "Qur'an 3:45; 4:171",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-isa-story-telling-what-they-stored",
+          "canonical": "Telling what they stored",
+          "variants": [
+            "What they ate",
+            "What they store in their houses",
+            "Telling what they ate",
+            "Knowing what was in their houses"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He told people what they ate and what they stored in their houses.",
+          "source": {
+            "text": "Qur'an 3:49",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

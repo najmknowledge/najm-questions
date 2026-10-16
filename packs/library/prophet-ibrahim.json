@@ -1,0 +1,2386 @@
+{
+  "id": "prophet-ibrahim",
+  "title": "Prophet Ibrahim",
+  "description": "The fire, the idols, the Ka'bah and the friend of Allah.",
+  "emoji": "🔥",
+  "color": "#ff8a3d",
+  "questions": [
+    {
+      "id": "prophet-ibrahim-story",
+      "number": 1,
+      "prompt": "Name something from the story of Prophet Ibrahim (AS).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Ibrahim",
+            "Abraham",
+            "Ibraheem"
+          ],
+          "message": "That's in the question — name something else from the story!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-ibrahim-story-the-fire",
+          "canonical": "The fire",
+          "variants": [
+            "Fire",
+            "Thrown into the fire",
+            "Fire became cool",
+            "Fire turned cool",
+            "Bonfire"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He was thrown into a great fire, which Allah made cool and safe.",
+          "source": {
+            "text": "Qur'an 21:68-69",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-ismail",
+          "canonical": "Isma'il",
+          "variants": [
+            "Ismail",
+            "Ismael",
+            "Ishmael",
+            "Ismaeel"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His son, who helped him raise the Ka'bah and submitted to the sacrifice.",
+          "source": {
+            "text": "Qur'an 2:127; 37:101-107",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-story-building-the-kabah",
+          "canonical": "Building the Ka'bah",
+          "variants": [
+            "Kaaba",
+            "Kabah",
+            "Ka'bah",
+            "Building the Kaaba",
+            "The House",
+            "Raising the Kaaba"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He and Isma'il raised the foundations of the House.",
+          "source": {
+            "text": "Qur'an 2:127",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-the-sacrifice-and-the-ram",
+          "canonical": "The sacrifice and the ram",
+          "variants": [
+            "Ram",
+            "Sacrifice",
+            "Sheep",
+            "Dream of sacrifice",
+            "Qurbani",
+            "Sacrificing his son",
+            "Great sacrifice"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He saw in a dream that he was sacrificing his son; a great sacrifice was given in his place.",
+          "source": {
+            "text": "Qur'an 37:102-107",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-breaking-the-idols",
+          "canonical": "Breaking the idols",
+          "variants": [
+            "Idols",
+            "Broke the idols",
+            "Smashing idols",
+            "Big idol",
+            "Biggest idol",
+            "Axe",
+            "Statues"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He broke his people's idols and left the biggest one.",
+          "source": {
+            "text": "Qur'an 21:57-63",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-hajar",
+          "canonical": "Hajar",
+          "variants": [
+            "Hagar",
+            "Hajar",
+            "Hajra",
+            "Hajrah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Mother of Isma'il, left with him in the valley of Makkah; named in the Hadith.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364 (Qur'an 14:37)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-sarah",
+          "canonical": "Sarah",
+          "variants": [
+            "Sara",
+            "Sarah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His wife, given the good news of Ishaq in old age.",
+          "source": {
+            "text": "Qur'an 11:71-72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-ishaq",
+          "canonical": "Ishaq",
+          "variants": [
+            "Isaac",
+            "Ishaq",
+            "Ishak",
+            "Is-haq"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His son born to Sarah in old age.",
+          "source": {
+            "text": "Qur'an 11:71",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-story-zamzam",
+          "canonical": "Zamzam",
+          "variants": [
+            "Zamzam",
+            "Zam zam",
+            "Zamzam water",
+            "Spring of Zamzam"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The spring that gushed for Hajar and baby Isma'il.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-the-stars-moon-and-sun",
+          "canonical": "The stars, moon and sun",
+          "variants": [
+            "Star",
+            "Stars",
+            "Moon",
+            "Sun",
+            "Stars moon and sun",
+            "Looking at the stars"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He showed his people that the star, moon and sun set, so none is a god.",
+          "source": {
+            "text": "Qur'an 6:76-78",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-azar",
+          "canonical": "Azar",
+          "variants": [
+            "Azar",
+            "Aazar",
+            "His father",
+            "Father",
+            "Terah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His father, who worshipped idols.",
+          "source": {
+            "text": "Qur'an 6:74",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-the-king-who-argued-with-him",
+          "canonical": "The king who argued with him",
+          "variants": [
+            "Namrud",
+            "Nimrod",
+            "Nimrud",
+            "King",
+            "Debate with the king",
+            "Sun from the west",
+            "Tyrant king"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He told the king that Allah brings the sun from the east, \"so bring it from the west\".",
+          "source": {
+            "text": "Qur'an 2:258",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-the-angel-guests",
+          "canonical": "The angel guests",
+          "variants": [
+            "Guests",
+            "Angel guests",
+            "Angels",
+            "Roasted calf",
+            "Calf",
+            "Visitors",
+            "Honoured guests"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He served angels a roasted calf, not knowing who they were.",
+          "source": {
+            "text": "Qur'an 11:69-70; 51:24-27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-safa-and-marwah",
+          "canonical": "Safa and Marwah",
+          "variants": [
+            "Safa",
+            "Marwah",
+            "Marwa",
+            "Safa and Marwa",
+            "Sa'i",
+            "Running between the hills"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Hajar ran between the two hills looking for water.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-the-barren-valley",
+          "canonical": "The barren valley",
+          "variants": [
+            "Barren valley",
+            "Valley",
+            "Desert",
+            "Makkah",
+            "Mecca",
+            "Left in Makkah",
+            "Uncultivated valley"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He left his family in an uncultivated valley by the Sacred House.",
+          "source": {
+            "text": "Qur'an 14:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-lut",
+          "canonical": "Lut",
+          "variants": [
+            "Lut",
+            "Loot",
+            "Lot"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His nephew, who believed in him and emigrated with him.",
+          "source": {
+            "text": "Qur'an 29:26",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-story-the-four-birds",
+          "canonical": "The four birds",
+          "variants": [
+            "Four birds",
+            "Birds",
+            "Bird",
+            "Birds brought back to life",
+            "4 birds"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He asked to see how Allah gives life to the dead and was shown four birds brought back to life.",
+          "source": {
+            "text": "Qur'an 2:260",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-khalilullah",
+          "canonical": "Khalilullah",
+          "variants": [
+            "Khalil",
+            "Khalilullah",
+            "Friend of Allah",
+            "Friend of God",
+            "Khaleel"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"And Allah took Ibrahim as an intimate friend.\"",
+          "source": {
+            "text": "Qur'an 4:125",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-maqam-ibrahim",
+          "canonical": "Maqam Ibrahim",
+          "variants": [
+            "Maqam Ibrahim",
+            "Station of Ibrahim",
+            "Footprint",
+            "Footprints",
+            "Maqam"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The stone he stood on while building, now beside the Ka'bah.",
+          "source": {
+            "text": "Qur'an 2:125",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-story-hanif",
+          "canonical": "Hanif",
+          "variants": [
+            "Hanif",
+            "Haneef",
+            "Upright",
+            "Millat Ibrahim",
+            "Way of Ibrahim"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He was \"upright\", turning away from all false gods.",
+          "source": {
+            "text": "Qur'an 3:67; 16:120",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-ibrahim-family",
+      "number": 2,
+      "prompt": "Name a member of Prophet Ibrahim's (AS) family.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Ibrahim",
+            "Abraham"
+          ],
+          "message": "That's in the question — name someone from his family!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-ibrahim-family-ismail",
+          "canonical": "Isma'il",
+          "variants": [
+            "Ismail",
+            "Ismael",
+            "Ishmael",
+            "Ismaeel"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His elder son, by Hajar.",
+          "source": {
+            "text": "Qur'an 14:39",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-family-ishaq",
+          "canonical": "Ishaq",
+          "variants": [
+            "Ishaq",
+            "Isaac",
+            "Ishak"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His son by Sarah.",
+          "source": {
+            "text": "Qur'an 14:39",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-family-hajar",
+          "canonical": "Hajar",
+          "variants": [
+            "Hajar",
+            "Hagar",
+            "Hajra",
+            "Hajrah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Mother of Isma'il.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-family-sarah",
+          "canonical": "Sarah",
+          "variants": [
+            "Sarah",
+            "Sara"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His wife, mother of Ishaq.",
+          "source": {
+            "text": "Qur'an 11:71",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-family-azar",
+          "canonical": "Azar",
+          "variants": [
+            "Azar",
+            "Aazar",
+            "Father",
+            "His father",
+            "Terah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His father.",
+          "source": {
+            "text": "Qur'an 6:74",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-family-lut",
+          "canonical": "Lut",
+          "variants": [
+            "Lut",
+            "Loot",
+            "Lot",
+            "Nephew"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His nephew, who believed in him.",
+          "source": {
+            "text": "Qur'an 29:26",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-family-yaqub",
+          "canonical": "Ya'qub",
+          "variants": [
+            "Yaqub",
+            "Yakub",
+            "Jacob",
+            "Grandson"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His grandson.",
+          "source": {
+            "text": "Qur'an 11:71; 21:72",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-family-yusuf",
+          "canonical": "Yusuf",
+          "variants": [
+            "Yusuf",
+            "Yousuf",
+            "Joseph"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His great-grandson.",
+          "source": {
+            "text": "Qur'an 12:6,38",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-family-muhammad",
+          "canonical": "Muhammad ﷺ",
+          "variants": [
+            "Muhammad",
+            "Prophet Muhammad",
+            "Muhammed"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His descendant through Isma'il — the answer to his du'a for a messenger.",
+          "source": {
+            "text": "Qur'an 2:129",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-family-qaydar-or-nabit",
+          "canonical": "Qaydar or Nabit",
+          "variants": [
+            "Qaydar",
+            "Kedar",
+            "Nabit",
+            "Nebaioth"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Sons of Isma'il, ancestors of the Arabs; named in the genealogies.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-ibrahim-duas",
+      "number": 3,
+      "prompt": "Name a du'a of Prophet Ibrahim (AS) in the Qur'an.",
+      "answers": [
+        {
+          "id": "prophet-ibrahim-duas-make-this-city-safe",
+          "canonical": "Make this city safe",
+          "variants": [
+            "Make this city safe",
+            "Make Makkah safe",
+            "Safe city",
+            "Security for Makkah",
+            "Rabbi ijal hadha al-balada aminan"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"My Lord, make this city secure.\"",
+          "source": {
+            "text": "Qur'an 2:126; 14:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-accept-from-us",
+          "canonical": "Accept from us",
+          "variants": [
+            "Accept from us",
+            "Rabbana taqabbal minna",
+            "Taqabbal minna"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Our Lord, accept this from us\" — while raising the Ka'bah.",
+          "source": {
+            "text": "Qur'an 2:127",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-send-them-a-messenger",
+          "canonical": "Send them a messenger",
+          "variants": [
+            "Send a messenger",
+            "Raise a messenger",
+            "A messenger from among them"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Our Lord, raise up among them a messenger from themselves.\"",
+          "source": {
+            "text": "Qur'an 2:129",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-make-me-establish-prayer",
+          "canonical": "Make me establish prayer",
+          "variants": [
+            "Establish prayer",
+            "Make me establish prayer",
+            "Rabbij alni muqimas salah",
+            "Rabbijalni muqimas salati"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"My Lord, make me one who establishes prayer, and from my descendants.\"",
+          "source": {
+            "text": "Qur'an 14:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-forgive-me-and-my-parents",
+          "canonical": "Forgive me and my parents",
+          "variants": [
+            "Forgive my parents",
+            "Forgive me and my parents",
+            "Rabbanaghfirli wa liwalidayya",
+            "Forgiveness"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Our Lord, forgive me and my parents and the believers on the Day the account is established.\"",
+          "source": {
+            "text": "Qur'an 14:41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-grant-me-a-righteous-son",
+          "canonical": "Grant me a righteous son",
+          "variants": [
+            "Righteous child",
+            "Righteous son",
+            "Rabbi hab li minas salihin",
+            "Children"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"My Lord, grant me one of the righteous.\"",
+          "source": {
+            "text": "Qur'an 37:100",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-keep-me-from-worshipping-idols",
+          "canonical": "Keep me from worshipping idols",
+          "variants": [
+            "Keep me from idols",
+            "Protect from idols",
+            "Keep us away from idols"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Keep me and my sons away from worshipping idols.\"",
+          "source": {
+            "text": "Qur'an 14:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-provide-its-people-with-fruits",
+          "canonical": "Provide its people with fruits",
+          "variants": [
+            "Fruits",
+            "Provision",
+            "Provide fruits",
+            "Provide for them"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Provide its people with fruits.\"",
+          "source": {
+            "text": "Qur'an 2:126; 14:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-make-hearts-incline-to-them",
+          "canonical": "Make hearts incline to them",
+          "variants": [
+            "Hearts incline",
+            "Make hearts incline towards them",
+            "People's hearts"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Make the hearts of people incline towards them.\"",
+          "source": {
+            "text": "Qur'an 14:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-show-me-how-you-give-life-to-the-dead",
+          "canonical": "Show me how You give life to the dead",
+          "variants": [
+            "Show me how you give life",
+            "Life to the dead",
+            "Raising the dead"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"My Lord, show me how You give life to the dead.\"",
+          "source": {
+            "text": "Qur'an 2:260",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-make-us-muslims-to-you",
+          "canonical": "Make us Muslims to You",
+          "variants": [
+            "Make us Muslims",
+            "Make us submit",
+            "Muslimayni laka",
+            "Submission"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Our Lord, make us submissive to You, and from our descendants a nation submissive to You.\"",
+          "source": {
+            "text": "Qur'an 2:128",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-show-us-our-rites",
+          "canonical": "Show us our rites",
+          "variants": [
+            "Show us our rites",
+            "Manasik",
+            "Rites"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"And show us our rites.\"",
+          "source": {
+            "text": "Qur'an 2:128",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-a-good-mention-among-later-people",
+          "canonical": "A good mention among later people",
+          "variants": [
+            "Good reputation",
+            "Honourable mention",
+            "Lisana sidqin",
+            "Good mention"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Grant me a reputation of truth among later generations.\"",
+          "source": {
+            "text": "Qur'an 26:84",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-make-me-an-heir-of-the-garden-of-bliss",
+          "canonical": "Make me an heir of the Garden of Bliss",
+          "variants": [
+            "Garden of Bliss",
+            "Jannat al-Naim",
+            "Heir of Paradise",
+            "Paradise"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Place me among the inheritors of the Garden of Bliss.\"",
+          "source": {
+            "text": "Qur'an 26:85",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-duas-do-not-disgrace-me-on-the-day",
+          "canonical": "Do not disgrace me on the Day",
+          "variants": [
+            "Do not disgrace me",
+            "Don't disgrace me",
+            "Day of Resurrection"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Do not disgrace me on the Day they are resurrected.\"",
+          "source": {
+            "text": "Qur'an 26:87",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-ibrahim-arguments",
+      "number": 4,
+      "prompt": "Name an argument Prophet Ibrahim (AS) used against idol worship.",
+      "answers": [
+        {
+          "id": "prophet-ibrahim-arguments-the-star-moon-and-sun-set",
+          "canonical": "The star, moon and sun set",
+          "variants": [
+            "Stars",
+            "Star",
+            "Moon",
+            "Sun",
+            "Stars moon and sun",
+            "They set"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"I do not like those that set.\"",
+          "source": {
+            "text": "Qur'an 6:76-79",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-arguments-idols-cannot-hear-or-help",
+          "canonical": "Idols cannot hear or help",
+          "variants": [
+            "Idols can't hear",
+            "They cannot hear",
+            "They cannot help",
+            "No benefit or harm",
+            "Cannot benefit"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Do they hear you when you call? Or benefit you, or harm?\"",
+          "source": {
+            "text": "Qur'an 26:72-73",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-arguments-ask-the-biggest-idol",
+          "canonical": "Ask the biggest idol",
+          "variants": [
+            "Ask them",
+            "Ask the idols",
+            "Big idol",
+            "Biggest idol",
+            "Ask the big idol"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He left the biggest idol and said: \"Ask them, if they can speak.\"",
+          "source": {
+            "text": "Qur'an 21:63",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-arguments-bring-the-sun-from-the-west",
+          "canonical": "Bring the sun from the west",
+          "variants": [
+            "Sun from the west",
+            "Sunrise",
+            "Bring the sun from the west"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Allah brings the sun from the east, so bring it from the west.\"",
+          "source": {
+            "text": "Qur'an 2:258",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-arguments-allah-gives-life-and-death",
+          "canonical": "Allah gives life and death",
+          "variants": [
+            "Life and death",
+            "Gives life and death",
+            "Gives life"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"My Lord is the one who gives life and causes death.\"",
+          "source": {
+            "text": "Qur'an 2:258",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-arguments-you-worship-what-you-carve",
+          "canonical": "You worship what you carve",
+          "variants": [
+            "Carving",
+            "You worship what you carve",
+            "Carved idols",
+            "Made with their hands"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Do you worship what you carve, while Allah created you and what you do?\"",
+          "source": {
+            "text": "Qur'an 37:95-96",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-arguments-blindly-following-forefathers",
+          "canonical": "Blindly following forefathers",
+          "variants": [
+            "Forefathers",
+            "Following our fathers",
+            "Blind following",
+            "Our fathers"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "They said, \"We found our fathers worshipping them.\"",
+          "source": {
+            "text": "Qur'an 21:52-54",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-arguments-his-lord-created-guides-feeds-and-heals",
+          "canonical": "His Lord created, guides, feeds and heals",
+          "variants": [
+            "He feeds me",
+            "He heals me",
+            "Allah created me",
+            "He guides me",
+            "Created me and guides me"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"He created me and guides me… feeds me… and when I am ill, He heals me.\"",
+          "source": {
+            "text": "Qur'an 26:78-80",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-arguments-why-worship-what-cannot-see-or-hear",
+          "canonical": "Why worship what cannot see or hear?",
+          "variants": [
+            "Can't see or hear",
+            "Neither hears nor sees",
+            "Cannot see"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "To his father: \"Why do you worship what neither hears nor sees?\"",
+          "source": {
+            "text": "Qur'an 19:42",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-ibrahim-titles",
+      "number": 5,
+      "prompt": "Name a title or description Allah gives Prophet Ibrahim (AS) in the Qur'an.",
+      "answers": [
+        {
+          "id": "prophet-ibrahim-titles-khalil",
+          "canonical": "Khalil",
+          "variants": [
+            "Khalil",
+            "Khaleel",
+            "Khalilullah",
+            "Friend of Allah",
+            "Friend of God"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Allah took Ibrahim as an intimate friend.\"",
+          "source": {
+            "text": "Qur'an 4:125",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-hanif",
+          "canonical": "Hanif",
+          "variants": [
+            "Hanif",
+            "Haneef",
+            "Upright",
+            "True in faith"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Upright, turning away from falsehood.",
+          "source": {
+            "text": "Qur'an 3:67; 16:120",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-imam-for-mankind",
+          "canonical": "Imam for mankind",
+          "variants": [
+            "Imam",
+            "Leader",
+            "Leader for mankind",
+            "Imam for mankind"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"I will make you a leader for mankind.\"",
+          "source": {
+            "text": "Qur'an 2:124",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-a-good-example",
+          "canonical": "A good example",
+          "variants": [
+            "Good example",
+            "Example",
+            "Uswah hasanah",
+            "Role model"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"There is a good example for you in Ibrahim.\"",
+          "source": {
+            "text": "Qur'an 60:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-siddiq",
+          "canonical": "Siddiq",
+          "variants": [
+            "Siddiq",
+            "Truthful",
+            "Man of truth"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"He was a man of truth, a prophet.\"",
+          "source": {
+            "text": "Qur'an 19:41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-awwah",
+          "canonical": "Awwah",
+          "variants": [
+            "Awwah",
+            "Tender-hearted",
+            "Tender hearted",
+            "Oft-sighing"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Ibrahim was tender-hearted and forbearing.\"",
+          "source": {
+            "text": "Qur'an 9:114",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-halim",
+          "canonical": "Halim",
+          "variants": [
+            "Halim",
+            "Haleem",
+            "Forbearing"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Forbearing.",
+          "source": {
+            "text": "Qur'an 11:75",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-munib",
+          "canonical": "Munib",
+          "variants": [
+            "Munib",
+            "Muneeb",
+            "Turning to Allah",
+            "Repentant"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Always turning back to Allah.",
+          "source": {
+            "text": "Qur'an 11:75",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-grateful",
+          "canonical": "Grateful",
+          "variants": [
+            "Grateful",
+            "Thankful",
+            "Shakir"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Grateful for His blessings.\"",
+          "source": {
+            "text": "Qur'an 16:121",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-a-nation-in-himself",
+          "canonical": "A nation in himself",
+          "variants": [
+            "Ummah",
+            "A nation",
+            "Nation in himself"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Ibrahim was a nation (ummah), devoutly obedient to Allah.\"",
+          "source": {
+            "text": "Qur'an 16:120",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-qanit",
+          "canonical": "Qanit",
+          "variants": [
+            "Qanit",
+            "Devoutly obedient",
+            "Obedient"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Devoutly obedient.",
+          "source": {
+            "text": "Qur'an 16:120",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-titles-the-one-who-fulfilled",
+          "canonical": "The one who fulfilled",
+          "variants": [
+            "Fulfilled",
+            "The one who fulfilled",
+            "Faithful",
+            "Wafa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"And Ibrahim, who fulfilled [his obligations].\"",
+          "source": {
+            "text": "Qur'an 53:37",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-ibrahim-tests",
+      "number": 6,
+      "prompt": "Name a test Prophet Ibrahim (AS) faced.",
+      "answers": [
+        {
+          "id": "prophet-ibrahim-tests-thrown-into-the-fire",
+          "canonical": "Thrown into the fire",
+          "variants": [
+            "Fire",
+            "Thrown into the fire",
+            "Burnt"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His people threw him into a great fire.",
+          "source": {
+            "text": "Qur'an 21:68-69",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-tests-sacrificing-his-son",
+          "canonical": "Sacrificing his son",
+          "variants": [
+            "Sacrifice",
+            "Sacrificing his son",
+            "Sacrifice of Ismail",
+            "Slaughtering his son"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"This was the clear trial.\"",
+          "source": {
+            "text": "Qur'an 37:102-106",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-tests-leaving-his-family-in-the-desert",
+          "canonical": "Leaving his family in the desert",
+          "variants": [
+            "Leaving his family",
+            "Leaving Hajar",
+            "Barren valley",
+            "Desert",
+            "Left them in Makkah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He left Hajar and baby Isma'il in a barren valley.",
+          "source": {
+            "text": "Qur'an 14:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-tests-his-fathers-disbelief",
+          "canonical": "His father's disbelief",
+          "variants": [
+            "Father",
+            "His father",
+            "Disbelieving father",
+            "Azar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His father threatened to stone him.",
+          "source": {
+            "text": "Qur'an 19:42-48",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-tests-rejected-by-his-people",
+          "canonical": "Rejected by his people",
+          "variants": [
+            "His people",
+            "People rejected him",
+            "Rejection"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His people rejected him and plotted against him.",
+          "source": {
+            "text": "Qur'an 21:52-70",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-tests-leaving-his-homeland",
+          "canonical": "Leaving his homeland",
+          "variants": [
+            "Migration",
+            "Hijrah",
+            "Leaving his homeland",
+            "Exile",
+            "Emigration"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"I will emigrate to my Lord.\"",
+          "source": {
+            "text": "Qur'an 29:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-tests-old-age-without-children",
+          "canonical": "Old age without children",
+          "variants": [
+            "No children",
+            "Childless",
+            "Old age",
+            "Waiting for a child"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He was given children only in old age.",
+          "source": {
+            "text": "Qur'an 14:39; 11:72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-tests-debate-with-the-king",
+          "canonical": "Debate with the king",
+          "variants": [
+            "King",
+            "Debate with the king",
+            "Namrud",
+            "Nimrod"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A king argued with him about his Lord.",
+          "source": {
+            "text": "Qur'an 2:258",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-tests-the-words-of-command",
+          "canonical": "The words of command",
+          "variants": [
+            "Words",
+            "Commands",
+            "Kalimat",
+            "Tested with commands"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"When his Lord tried him with commands and he fulfilled them.\"",
+          "source": {
+            "text": "Qur'an 2:124",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-tests-sarah-and-the-tyrant",
+          "canonical": "Sarah and the tyrant",
+          "variants": [
+            "Tyrant",
+            "Sarah and the tyrant",
+            "Tyrant king",
+            "Pharaoh of Egypt"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A tyrant tried to take Sarah; Allah protected her and she was given Hajar.",
+          "source": {
+            "text": "Sahih al-Bukhari 2217",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-ibrahim-descendants",
+      "number": 7,
+      "prompt": "Name a prophet who was a descendant of Prophet Ibrahim (AS).",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Lut",
+            "Lot"
+          ],
+          "message": "Lut was his nephew, not his descendant. Try another!"
+        },
+        {
+          "inputs": [
+            "Nuh",
+            "Noah",
+            "Adam",
+            "Idris",
+            "Hud",
+            "Salih"
+          ],
+          "message": "That prophet came before Ibrahim. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "prophet-ibrahim-descendants-ismail",
+          "canonical": "Isma'il",
+          "variants": [
+            "Ismail",
+            "Ismael",
+            "Ishmael"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His son.",
+          "source": {
+            "text": "Qur'an 14:39",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-ishaq",
+          "canonical": "Ishaq",
+          "variants": [
+            "Ishaq",
+            "Isaac",
+            "Ishak"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "His son.",
+          "source": {
+            "text": "Qur'an 14:39",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-muhammad",
+          "canonical": "Muhammad ﷺ",
+          "variants": [
+            "Muhammad",
+            "Muhammed",
+            "Prophet Muhammad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Through Isma'il.",
+          "source": {
+            "text": "Qur'an 2:129",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-descendants-yaqub",
+          "canonical": "Ya'qub",
+          "variants": [
+            "Yaqub",
+            "Yakub",
+            "Jacob"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His grandson.",
+          "source": {
+            "text": "Qur'an 6:84",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-yusuf",
+          "canonical": "Yusuf",
+          "variants": [
+            "Yusuf",
+            "Yousuf",
+            "Joseph"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of Ya'qub.",
+          "source": {
+            "text": "Qur'an 6:84",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-musa",
+          "canonical": "Musa",
+          "variants": [
+            "Musa",
+            "Moosa",
+            "Moses"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "From the Children of Isra'il (Ya'qub).",
+          "source": {
+            "text": "Qur'an 6:84",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-harun",
+          "canonical": "Harun",
+          "variants": [
+            "Harun",
+            "Haroon",
+            "Aaron"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Brother of Musa.",
+          "source": {
+            "text": "Qur'an 6:84",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-dawud",
+          "canonical": "Dawud",
+          "variants": [
+            "Dawud",
+            "Dawood",
+            "David"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From the Children of Isra'il.",
+          "source": {
+            "text": "Qur'an 6:84",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-sulayman",
+          "canonical": "Sulayman",
+          "variants": [
+            "Sulayman",
+            "Sulaiman",
+            "Solomon"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Son of Dawud.",
+          "source": {
+            "text": "Qur'an 6:84",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-isa",
+          "canonical": "'Isa",
+          "variants": [
+            "Isa",
+            "Eesa",
+            "Jesus"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Through his mother Maryam.",
+          "source": {
+            "text": "Qur'an 6:85",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-zakariyya",
+          "canonical": "Zakariyya",
+          "variants": [
+            "Zakariyya",
+            "Zakariya",
+            "Zakaria",
+            "Zechariah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "From the Children of Isra'il.",
+          "source": {
+            "text": "Qur'an 6:85",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-yahya",
+          "canonical": "Yahya",
+          "variants": [
+            "Yahya",
+            "Yahyaa",
+            "John"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Son of Zakariyya.",
+          "source": {
+            "text": "Qur'an 6:85",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-ilyas",
+          "canonical": "Ilyas",
+          "variants": [
+            "Ilyas",
+            "Elias",
+            "Elijah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named in the same passage.",
+          "source": {
+            "text": "Qur'an 6:85",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-al-yasa",
+          "canonical": "Al-Yasa'",
+          "variants": [
+            "Al Yasa",
+            "Alyasa",
+            "Yasa",
+            "Elisha"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named in the same passage.",
+          "source": {
+            "text": "Qur'an 6:86",
+            "status": "quran-reference"
+          },
+          "honorific": "AS"
+        },
+        {
+          "id": "prophet-ibrahim-descendants-ayyub",
+          "canonical": "Ayyub",
+          "variants": [
+            "Ayyub",
+            "Ayub",
+            "Job"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Named among \"his descendants\" in 6:84.",
+          "source": {
+            "text": "Qur'an 6:84",
+            "status": "quran-reference"
+          },
+          "honorific": "AS",
+          "note": "Some scholars read \"his descendants\" in 6:84 as referring to Nuh."
+        }
+      ]
+    },
+    {
+      "id": "prophet-ibrahim-surahs",
+      "number": 8,
+      "prompt": "Name a surah that mentions Prophet Ibrahim (AS) by name.",
+      "answers": [
+        {
+          "id": "prophet-ibrahim-surahs-al-baqarah",
+          "canonical": "Al-Baqarah",
+          "variants": [
+            "Baqarah",
+            "Baqara",
+            "Al Baqarah",
+            "The Cow",
+            "Cow"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Ibrahim is named many times, including building the Ka'bah.",
+          "source": {
+            "text": "Qur'an 2:124-136",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-ibrahim",
+          "canonical": "Ibrahim",
+          "variants": [
+            "Ibrahim",
+            "Abraham",
+            "Surah Ibrahim"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 14 is named after him.",
+          "source": {
+            "text": "Qur'an 14:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-al-anam",
+          "canonical": "Al-An'am",
+          "variants": [
+            "Anam",
+            "An'aam",
+            "Al Anam",
+            "Cattle",
+            "Livestock"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His argument with the star, moon and sun.",
+          "source": {
+            "text": "Qur'an 6:74-83",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-al-anbiya",
+          "canonical": "Al-Anbiya'",
+          "variants": [
+            "Anbiya",
+            "Anbiya'",
+            "Anbiyaa",
+            "The Prophets",
+            "Prophets"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Breaking the idols and the fire.",
+          "source": {
+            "text": "Qur'an 21:51-73",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-maryam",
+          "canonical": "Maryam",
+          "variants": [
+            "Maryam",
+            "Mary",
+            "Mariam"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His call to his father.",
+          "source": {
+            "text": "Qur'an 19:41-50",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-as-saffat",
+          "canonical": "As-Saffat",
+          "variants": [
+            "Saffat",
+            "Saaffaat",
+            "As Saffat",
+            "Those Ranged in Ranks",
+            "Those Who Set the Ranks"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The sacrifice of his son.",
+          "source": {
+            "text": "Qur'an 37:83-113",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-al-imran",
+          "canonical": "Al 'Imran",
+          "variants": [
+            "Al Imran",
+            "Ali Imran",
+            "Aal Imran",
+            "Al-i-Imran",
+            "Imran",
+            "Family of Imran"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Ibrahim was neither a Jew nor a Christian.\"",
+          "source": {
+            "text": "Qur'an 3:65-68",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-hud",
+          "canonical": "Hud",
+          "variants": [
+            "Hud",
+            "Hood"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The angel guests and the good news.",
+          "source": {
+            "text": "Qur'an 11:69-76",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-al-hijr",
+          "canonical": "Al-Hijr",
+          "variants": [
+            "Hijr",
+            "Al Hijr",
+            "Rocky Tract",
+            "Stoneland"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The angel guests.",
+          "source": {
+            "text": "Qur'an 15:51-60",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-an-nahl",
+          "canonical": "An-Nahl",
+          "variants": [
+            "Nahl",
+            "The Bee",
+            "Bee"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Ibrahim was a nation in himself.\"",
+          "source": {
+            "text": "Qur'an 16:120-123",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-ash-shuara",
+          "canonical": "Ash-Shu'ara'",
+          "variants": [
+            "Shuara",
+            "Shu'ara",
+            "Shu'araa",
+            "The Poets",
+            "Poets"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His du'as and argument with his people.",
+          "source": {
+            "text": "Qur'an 26:69-89",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-al-ankabut",
+          "canonical": "Al-'Ankabut",
+          "variants": [
+            "Ankabut",
+            "Ankaboot",
+            "Al Ankabut",
+            "The Spider",
+            "Spider"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His call to his people and his emigration.",
+          "source": {
+            "text": "Qur'an 29:16-31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-al-mumtahanah",
+          "canonical": "Al-Mumtahanah",
+          "variants": [
+            "Mumtahanah",
+            "Mumtahana",
+            "Mumtahinah",
+            "Mumtahina",
+            "The Woman Tested",
+            "She That Is Examined"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"A good example for you in Ibrahim.\"",
+          "source": {
+            "text": "Qur'an 60:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-al-hajj",
+          "canonical": "Al-Hajj",
+          "variants": [
+            "Hajj",
+            "Al Hajj",
+            "Pilgrimage"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Calling people to Hajj.",
+          "source": {
+            "text": "Qur'an 22:26-27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-adh-dhariyat",
+          "canonical": "Adh-Dhariyat",
+          "variants": [
+            "Dhariyat",
+            "Zariyat",
+            "Adh Dhariyat",
+            "Winnowing Winds"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The honoured guests.",
+          "source": {
+            "text": "Qur'an 51:24-30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-at-tawbah",
+          "canonical": "At-Tawbah",
+          "variants": [
+            "Tawbah",
+            "Taubah",
+            "Tawba",
+            "Tauba",
+            "Bara'ah",
+            "Baraah",
+            "Repentance"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His du'a for his father.",
+          "source": {
+            "text": "Qur'an 9:114",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-an-nisa",
+          "canonical": "An-Nisa'",
+          "variants": [
+            "Nisa",
+            "Nisaa",
+            "An Nisa",
+            "Women",
+            "The Women"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Allah took him as a friend.",
+          "source": {
+            "text": "Qur'an 4:125",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-az-zukhruf",
+          "canonical": "Az-Zukhruf",
+          "variants": [
+            "Zukhruf",
+            "Az Zukhruf",
+            "Ornaments of Gold",
+            "Gold Adornments"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"I am free of what you worship.\"",
+          "source": {
+            "text": "Qur'an 43:26-28",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-an-najm",
+          "canonical": "An-Najm",
+          "variants": [
+            "Najm",
+            "An Najm",
+            "The Star"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Ibrahim, who fulfilled.\"",
+          "source": {
+            "text": "Qur'an 53:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-al-ala",
+          "canonical": "Al-A'la",
+          "variants": [
+            "Ala",
+            "A'la",
+            "Al Ala",
+            "The Most High",
+            "Most High",
+            "Sabbihisma"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"The scriptures of Ibrahim and Musa.\"",
+          "source": {
+            "text": "Qur'an 87:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-sad",
+          "canonical": "Sad",
+          "variants": [
+            "Sad",
+            "Saad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Remember Our servants Ibrahim, Ishaq and Ya'qub.\"",
+          "source": {
+            "text": "Qur'an 38:45",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-surahs-al-hadid",
+          "canonical": "Al-Hadid",
+          "variants": [
+            "Hadid",
+            "Hadeed",
+            "Iron",
+            "The Iron"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"We sent Nuh and Ibrahim.\"",
+          "source": {
+            "text": "Qur'an 57:26",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-ibrahim-hajar-ismail",
+      "number": 9,
+      "prompt": "Name something from the story of Ibrahim (AS), Hajar and Isma'il (AS).",
+      "answers": [
+        {
+          "id": "prophet-ibrahim-hajar-ismail-building-the-kabah",
+          "canonical": "Building the Ka'bah",
+          "variants": [
+            "Kaaba",
+            "Kabah",
+            "Building the Kaaba",
+            "Raising the foundations"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Ibrahim and Isma'il raised its foundations.",
+          "source": {
+            "text": "Qur'an 2:127",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hajar-ismail-zamzam",
+          "canonical": "Zamzam",
+          "variants": [
+            "Zamzam",
+            "Zam zam",
+            "Spring",
+            "Water"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Water gushed for Hajar and her baby.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hajar-ismail-the-sacrifice",
+          "canonical": "The sacrifice",
+          "variants": [
+            "Sacrifice",
+            "Ram",
+            "Dream of sacrifice",
+            "Do as you are commanded"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Isma'il said: \"Father, do as you are commanded.\"",
+          "source": {
+            "text": "Qur'an 37:102",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hajar-ismail-left-in-the-valley",
+          "canonical": "Left in the valley",
+          "variants": [
+            "Left in the valley",
+            "Barren valley",
+            "Desert",
+            "Allah will not abandon us",
+            "Left in Makkah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Hajar asked, \"Has Allah commanded you this?\" and said, \"Then He will not abandon us.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hajar-ismail-running-between-safa-and-marwah",
+          "canonical": "Running between Safa and Marwah",
+          "variants": [
+            "Safa and Marwah",
+            "Safa",
+            "Marwah",
+            "Sa'i",
+            "Running between the hills"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Hajar ran seven times looking for water.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hajar-ismail-the-tribe-of-jurhum",
+          "canonical": "The tribe of Jurhum",
+          "variants": [
+            "Jurhum",
+            "Banu Jurhum",
+            "Tribe of Jurhum"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A tribe settled by the water and Isma'il grew up and married among them.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hajar-ismail-passing-up-the-stones",
+          "canonical": "Passing up the stones",
+          "variants": [
+            "Passing stones",
+            "Bringing stones",
+            "Stones"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Isma'il brought stones while Ibrahim built.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hajar-ismail-change-the-threshold-of-your-door",
+          "canonical": "\"Change the threshold of your door\"",
+          "variants": [
+            "Change the threshold",
+            "Threshold",
+            "Threshold of the door",
+            "Isma'il's wife"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ibrahim visited, found Isma'il's wife ungrateful, and left this message.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hajar-ismail-calling-people-to-hajj",
+          "canonical": "Calling people to Hajj",
+          "variants": [
+            "Call to Hajj",
+            "Proclaim Hajj",
+            "Calling to Hajj",
+            "Hajj"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Proclaim the pilgrimage to the people.\"",
+          "source": {
+            "text": "Qur'an 22:27",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prophet-ibrahim-hadith",
+      "number": 10,
+      "prompt": "Name something the Hadith says about Prophet Ibrahim (AS).",
+      "answers": [
+        {
+          "id": "prophet-ibrahim-hadith-blessings-on-ibrahim-in-the-salah",
+          "canonical": "Blessings on Ibrahim in the salah",
+          "variants": [
+            "Salawat",
+            "Durood Ibrahim",
+            "Darood Ibrahimi",
+            "As you blessed Ibrahim",
+            "Salat Ibrahimiyyah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…as You sent blessings upon Ibrahim and the family of Ibrahim.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3370",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hadith-hajars-story-and-zamzam",
+          "canonical": "Hajar's story and Zamzam",
+          "variants": [
+            "Zamzam",
+            "Hajar",
+            "Story of Hajar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The long hadith of Hajar, Isma'il and the spring.",
+          "source": {
+            "text": "Sahih al-Bukhari 3364",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hadith-in-the-seventh-heaven",
+          "canonical": "In the seventh heaven",
+          "variants": [
+            "Seventh heaven",
+            "Bayt al-Mamur",
+            "Miraj",
+            "Seen in the heavens"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "On the Mi'raj, the Prophet ﷺ saw him leaning against al-Bayt al-Ma'mur.",
+          "source": {
+            "text": "Sahih al-Bukhari 3207",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hadith-the-prophet-resembled-him",
+          "canonical": "The Prophet ﷺ resembled him",
+          "variants": [
+            "Resembled him",
+            "Looked like him",
+            "Resemblance"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Look at your companion\" — the Prophet ﷺ said he resembled Ibrahim most.",
+          "source": {
+            "text": "Sahih al-Bukhari 3355",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hadith-first-to-honour-guests",
+          "canonical": "First to honour guests",
+          "variants": [
+            "Hospitality",
+            "Generous host",
+            "Honouring guests",
+            "Guests"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Known for his hospitality to guests.",
+          "source": {
+            "text": "Qur'an 51:24-27; Muwatta' 1708",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hadith-first-to-be-clothed-on-the-day",
+          "canonical": "First to be clothed on the Day",
+          "variants": [
+            "First to be clothed",
+            "Clothed first",
+            "Day of Resurrection"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The first to be clothed on the Day of Resurrection will be Ibrahim.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3349",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hadith-circumcised-at-eighty",
+          "canonical": "Circumcised at eighty",
+          "variants": [
+            "Circumcision",
+            "Circumcised",
+            "Khitan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He circumcised himself at the age of eighty.",
+          "source": {
+            "text": "Sahih al-Bukhari 3356",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hadith-caring-for-children-in-paradise",
+          "canonical": "Caring for children in Paradise",
+          "variants": [
+            "Children in Paradise",
+            "Children who died",
+            "Garden with children"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In a dream the Prophet ﷺ saw him in a garden with the children who died young.",
+          "source": {
+            "text": "Sahih al-Bukhari 7047",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hadith-sarah-and-the-tyrant",
+          "canonical": "Sarah and the tyrant",
+          "variants": [
+            "Tyrant",
+            "Sarah and the tyrant",
+            "Sarah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A tyrant tried to take Sarah and Allah protected her.",
+          "source": {
+            "text": "Sahih al-Bukhari 2217",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "prophet-ibrahim-hadith-the-three-statements",
+          "canonical": "The three statements",
+          "variants": [
+            "Three lies",
+            "Three statements",
+            "I am sick",
+            "The biggest one did it"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He said three things that were not literally true, all for Allah's sake.",
+          "source": {
+            "text": "Sahih al-Bukhari 3358",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}
