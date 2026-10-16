@@ -1,0 +1,2001 @@
+{
+  "date": "2026-11-20",
+  "questions": [
+    {
+      "id": "d1120-damascus-scholars",
+      "number": 1,
+      "prompt": "Name a famous scholar who lived in Damascus.",
+      "answers": [
+        {
+          "id": "d1120-damascus-scholars-ibn-taymiyyah",
+          "canonical": "Ibn Taymiyyah",
+          "variants": [
+            "Ibn Taymiyyah",
+            "Ibn Taymiya"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He taught and was imprisoned in Damascus.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-ibn-kathir",
+          "canonical": "Ibn Kathir",
+          "variants": [
+            "Ibn Kathir"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The great mufassir and historian.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-ibn-al-qayyim",
+          "canonical": "Ibn al-Qayyim",
+          "variants": [
+            "Ibn al-Qayyim",
+            "Ibn Qayyim"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Student of Ibn Taymiyyah.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-al-nawawi",
+          "canonical": "Al-Nawawi",
+          "variants": [
+            "Nawawi",
+            "An-Nawawi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He taught at Dar al-Hadith al-Ashrafiyyah.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-al-dhahabi",
+          "canonical": "Al-Dhahabi",
+          "variants": [
+            "Dhahabi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Historian and hadith critic.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-ibn-asakir",
+          "canonical": "Ibn 'Asakir",
+          "variants": [
+            "Ibn 'Asakir",
+            "Ibn Asakir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The History of Damascus.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-ibn-qudamah",
+          "canonical": "Ibn Qudamah",
+          "variants": [
+            "Ibn Qudamah",
+            "Ibn Qudama"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Author of al-Mughni.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-ibn-abidin",
+          "canonical": "Ibn 'Abidin",
+          "variants": [
+            "Ibn 'Abidin",
+            "Ibn Abidin"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Hanafi jurist.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-al-mizzi",
+          "canonical": "Al-Mizzi",
+          "variants": [
+            "Mizzi",
+            "Al-Mizzi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Tahdhib al-Kamal.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-ibn-arabi",
+          "canonical": "Ibn 'Arabi",
+          "variants": [
+            "Ibn 'Arabi",
+            "Ibn Arabi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He died and is buried in Damascus.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-abu-al-darda",
+          "canonical": "Abu al-Darda'",
+          "variants": [
+            "Abu al-Darda'",
+            "Abu Darda"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Companion who taught in its mosque.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-ibn-al-salah",
+          "canonical": "Ibn al-Salah",
+          "variants": [
+            "Ibn al-Salah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Hadith scholar.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-al-awzai",
+          "canonical": "Al-Awza'i",
+          "variants": [
+            "Awza'i",
+            "Al-Awzai"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The great jurist of Syria (buried in Beirut).",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-al-albani",
+          "canonical": "Al-Albani",
+          "variants": [
+            "Albani",
+            "Al-Albani"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He lived and taught in Damascus for many years.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-ibn-rajab",
+          "canonical": "Ibn Rajab",
+          "variants": [
+            "Ibn Rajab"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Jami' al-'Ulum wa al-Hikam.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-damascus-scholars-said-ramadan-al-buti",
+          "canonical": "Sa'id Ramadan al-Buti",
+          "variants": [
+            "Buti",
+            "Al-Buti"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A 20th-century scholar.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1120-ukhdud",
+      "number": 2,
+      "prompt": "Name something from the story of the People of the Ditch (the boy, the monk and the king).",
+      "answers": [
+        {
+          "id": "d1120-ukhdud-the-ditch-of-fire",
+          "canonical": "The ditch of fire",
+          "variants": [
+            "Ditch",
+            "Trench",
+            "Fire",
+            "Ukhdud"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Believers were thrown into a fiery ditch.",
+          "source": {
+            "text": "Qur'an 85:4-7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-the-boy",
+          "canonical": "The boy",
+          "variants": [
+            "Boy",
+            "Young man",
+            "Ghulam"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A boy who learned the truth and would not give it up.",
+          "source": {
+            "text": "Sahih Muslim 3005",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-the-tyrant-king",
+          "canonical": "The tyrant king",
+          "variants": [
+            "King",
+            "Tyrant"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He claimed lordship.",
+          "source": {
+            "text": "Sahih Muslim 3005",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-the-monk",
+          "canonical": "The monk",
+          "variants": [
+            "Monk"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He taught the boy.",
+          "source": {
+            "text": "Sahih Muslim 3005",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-the-magician",
+          "canonical": "The magician",
+          "variants": [
+            "Magician",
+            "Sorcerer"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The king had the boy trained by a magician.",
+          "source": {
+            "text": "Sahih Muslim 3005",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-in-the-name-of-allah-lord-of-the-boy",
+          "canonical": "\"In the name of Allah, Lord of the boy\"",
+          "variants": [
+            "Lord of the boy",
+            "Bismillah rabbil ghulam"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Only with these words could the arrow kill him.",
+          "source": {
+            "text": "Sahih Muslim 3005",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-the-people-believed",
+          "canonical": "The people believed",
+          "variants": [
+            "People believed"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Seeing it, the people declared their faith.",
+          "source": {
+            "text": "Sahih Muslim 3005",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-the-beast-blocking-the-road",
+          "canonical": "The beast blocking the road",
+          "variants": [
+            "Beast",
+            "Stone"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The boy killed it with a stone after praying.",
+          "source": {
+            "text": "Sahih Muslim 3005",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-the-baby-who-spoke",
+          "canonical": "The baby who spoke",
+          "variants": [
+            "Baby spoke",
+            "Mother and baby"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A mother hesitated and her baby said: \"Be patient, you are on the truth.\"",
+          "source": {
+            "text": "Sahih Muslim 3005",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-healing-the-blind-courtier",
+          "canonical": "Healing the blind courtier",
+          "variants": [
+            "Blind courtier",
+            "Healing"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Allah cured him through the boy's du'a.",
+          "source": {
+            "text": "Sahih Muslim 3005",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-surah-al-buruj",
+          "canonical": "Surah al-Buruj",
+          "variants": [
+            "Buruj"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Qur'an tells of them.",
+          "source": {
+            "text": "Qur'an 85:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-ukhdud-thrown-from-a-mountain-and-the-sea",
+          "canonical": "Thrown from a mountain and the sea",
+          "variants": [
+            "Mountain",
+            "Sea",
+            "Boat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The king tried to kill the boy but failed.",
+          "source": {
+            "text": "Sahih Muslim 3005",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1120-poets",
+      "number": 3,
+      "prompt": "Name a Companion known as a poet.",
+      "answers": [
+        {
+          "id": "d1120-poets-hassan-ibn-thabit",
+          "canonical": "Hassan ibn Thabit",
+          "variants": [
+            "Hassan ibn Thabit",
+            "Hassan"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The poet of the Prophet ﷺ.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 453",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1120-poets-abdullah-ibn-rawahah",
+          "canonical": "'Abdullah ibn Rawahah",
+          "variants": [
+            "Abdullah ibn Rawahah",
+            "Ibn Rawahah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Poet and commander at Mu'tah.",
+          "source": {
+            "text": "Sahih al-Bukhari 1155",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1120-poets-kab-ibn-malik",
+          "canonical": "Ka'b ibn Malik",
+          "variants": [
+            "Ka'b ibn Malik",
+            "Kab ibn Malik"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of the three poets of the Ansar.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1120-poets-kab-ibn-zuhayr",
+          "canonical": "Ka'b ibn Zuhayr",
+          "variants": [
+            "Ka'b ibn Zuhayr",
+            "Kab ibn Zuhair"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Banat Su'ad\" — the Prophet ﷺ gave him his cloak.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1120-poets-al-khansa",
+          "canonical": "Al-Khansa'",
+          "variants": [
+            "Al-Khansa'",
+            "Khansa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The great elegist, who lost four sons at al-Qadisiyyah.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1120-poets-labid-ibn-rabiah",
+          "canonical": "Labid ibn Rabi'ah",
+          "variants": [
+            "Labid",
+            "Labid ibn Rabi'ah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Poet of a Mu'allaqah; \"the truest word a poet said\".",
+          "source": {
+            "text": "Sahih al-Bukhari 3841",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1120-poets-al-nabighah-al-jadi",
+          "canonical": "Al-Nabighah al-Ja'di",
+          "variants": [
+            "Nabighah al-Ja'di",
+            "Nabigha"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A long-lived poet.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-poets-al-abbas-ibn-mirdas",
+          "canonical": "Al-'Abbas ibn Mirdas",
+          "variants": [
+            "'Abbas ibn Mirdas",
+            "Abbas ibn Mirdas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Poet of Banu Sulaym.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1120-poets-abdullah-ibn-al-zibara",
+          "canonical": "'Abdullah ibn al-Zib'ara",
+          "variants": [
+            "Ibn al-Zib'ara"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Once opposed Islam in verse, later praised the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1120-poets-abu-sufyan-ibn-al-harith",
+          "canonical": "Abu Sufyan ibn al-Harith",
+          "variants": [
+            "Abu Sufyan ibn al-Harith"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A poet who once satirised the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1120-poets-al-hutayah",
+          "canonical": "Al-Hutay'ah",
+          "variants": [
+            "Hutay'ah",
+            "Hutaya"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A famous satirist.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-poets-abu-dhuayb-al-hudhali",
+          "canonical": "Abu Dhu'ayb al-Hudhali",
+          "variants": [
+            "Abu Dhu'ayb"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Of Hudhayl.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1120-slaughter",
+      "number": 4,
+      "prompt": "Name a condition or sunnah of halal slaughter.",
+      "answers": [
+        {
+          "id": "d1120-slaughter-saying-bismillah",
+          "canonical": "Saying Bismillah",
+          "variants": [
+            "Bismillah",
+            "Allah's name",
+            "Tasmiyah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Eat of that over which Allah's name has been mentioned.\"",
+          "source": {
+            "text": "Qur'an 6:118",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-slaughter-a-sharp-knife",
+          "canonical": "A sharp knife",
+          "variants": [
+            "Sharp knife",
+            "Sharp blade"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Let him sharpen his blade.\"",
+          "source": {
+            "text": "Sahih Muslim 1955",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-slaughter-cutting-the-throat",
+          "canonical": "Cutting the throat",
+          "variants": [
+            "Throat",
+            "Windpipe",
+            "Jugular"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The windpipe, gullet and blood vessels.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-slaughter-draining-the-blood",
+          "canonical": "Draining the blood",
+          "variants": [
+            "Blood flows",
+            "Draining blood"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Whatever makes the blood flow…\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5503",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-slaughter-by-a-muslim-or-one-of-the-people-of-the-book",
+          "canonical": "By a Muslim or one of the People of the Book",
+          "variants": [
+            "Muslim",
+            "People of the Book"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The food of those given the Book is lawful for you.\"",
+          "source": {
+            "text": "Qur'an 5:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-slaughter-spare-the-animal-suffering",
+          "canonical": "Spare the animal suffering",
+          "variants": [
+            "Kindness",
+            "No suffering"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Let him spare his animal.\"",
+          "source": {
+            "text": "Sahih Muslim 1955",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-slaughter-not-in-front-of-other-animals",
+          "canonical": "Not in front of other animals",
+          "variants": [
+            "Hide the knife",
+            "Not in front of others"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Hide the knife from the animal.",
+          "source": {
+            "text": "Musnad Ahmad 5864",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-slaughter-facing-the-qiblah",
+          "canonical": "Facing the qiblah",
+          "variants": [
+            "Qiblah",
+            "Facing qiblah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A recommended practice.",
+          "source": {
+            "text": "Sunan Abi Dawud 2795",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-slaughter-saying-allahu-akbar",
+          "canonical": "Saying Allahu akbar",
+          "variants": [
+            "Allahu akbar",
+            "Takbir"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Prophet ﷺ said \"Bismillah, Allahu akbar.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5565",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-slaughter-not-for-other-than-allah",
+          "canonical": "Not for other than Allah",
+          "variants": [
+            "Only for Allah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"…what is sacrificed to other than Allah\" is forbidden.",
+          "source": {
+            "text": "Qur'an 5:3",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1120-falaq-nas",
+      "number": 5,
+      "prompt": "Name a word or thing mentioned in Surah al-Falaq or an-Nas.",
+      "answers": [
+        {
+          "id": "d1120-falaq-nas-the-daybreak",
+          "canonical": "The daybreak",
+          "variants": [
+            "Daybreak",
+            "Falaq",
+            "Dawn"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Say: I seek refuge in the Lord of daybreak.\"",
+          "source": {
+            "text": "Qur'an 113:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-mankind",
+          "canonical": "Mankind",
+          "variants": [
+            "Mankind",
+            "Nas",
+            "People"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…the Lord of mankind.\"",
+          "source": {
+            "text": "Qur'an 114:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-the-whisperer",
+          "canonical": "The whisperer",
+          "variants": [
+            "Whisperer",
+            "Waswas",
+            "Khannas"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…from the evil of the retreating whisperer.\"",
+          "source": {
+            "text": "Qur'an 114:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-the-envier",
+          "canonical": "The envier",
+          "variants": [
+            "Envier",
+            "Envy",
+            "Hasid"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and from the evil of an envier when he envies.\"",
+          "source": {
+            "text": "Qur'an 113:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-the-darkness-of-night",
+          "canonical": "The darkness of night",
+          "variants": [
+            "Darkness",
+            "Night",
+            "Ghasiq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…from the evil of darkness when it settles.\"",
+          "source": {
+            "text": "Qur'an 113:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-king-of-mankind",
+          "canonical": "King of mankind",
+          "variants": [
+            "King",
+            "Malik",
+            "King of mankind"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The King of mankind.\"",
+          "source": {
+            "text": "Qur'an 114:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-god-of-mankind",
+          "canonical": "God of mankind",
+          "variants": [
+            "God of mankind",
+            "Ilah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The God of mankind.\"",
+          "source": {
+            "text": "Qur'an 114:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-blowers-in-knots",
+          "canonical": "Blowers in knots",
+          "variants": [
+            "Knots",
+            "Blowers in knots",
+            "Magic"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…from the evil of those who blow on knots.\"",
+          "source": {
+            "text": "Qur'an 113:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-jinn-and-men",
+          "canonical": "Jinn and men",
+          "variants": [
+            "Jinn",
+            "Jinn and men"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…from among the jinn and mankind.\"",
+          "source": {
+            "text": "Qur'an 114:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-the-chests",
+          "canonical": "The chests",
+          "variants": [
+            "Chests",
+            "Hearts",
+            "Sudur"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…who whispers into the chests of people.\"",
+          "source": {
+            "text": "Qur'an 114:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-everything-he-created",
+          "canonical": "Everything He created",
+          "variants": [
+            "What He created"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"From the evil of what He created.\"",
+          "source": {
+            "text": "Qur'an 113:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-falaq-nas-audhu-i-seek-refuge",
+          "canonical": "A'udhu — I seek refuge",
+          "variants": [
+            "A'udhu",
+            "Audhu",
+            "Seek refuge"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Qul a'udhu.\"",
+          "source": {
+            "text": "Qur'an 113:1",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1120-after-prayer",
+      "number": 6,
+      "prompt": "Name a dhikr said after the obligatory prayer.",
+      "answers": [
+        {
+          "id": "d1120-after-prayer-astaghfirullah-three-times",
+          "canonical": "Astaghfirullah three times",
+          "variants": [
+            "Astaghfirullah",
+            "Istighfar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Seeking forgiveness first.",
+          "source": {
+            "text": "Sahih Muslim 591",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-subhanallah-33-times",
+          "canonical": "SubhanAllah 33 times",
+          "variants": [
+            "SubhanAllah",
+            "33 tasbih",
+            "Tasbih"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "With Alhamdulillah and Allahu akbar.",
+          "source": {
+            "text": "Sahih Muslim 597",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-alhamdulillah-33-times",
+          "canonical": "Alhamdulillah 33 times",
+          "variants": [
+            "Alhamdulillah",
+            "Tahmid"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "With SubhanAllah and Allahu akbar.",
+          "source": {
+            "text": "Sahih Muslim 597",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-allahu-akbar-33-or-34-times",
+          "canonical": "Allahu akbar 33 or 34 times",
+          "variants": [
+            "Allahu akbar",
+            "Takbir"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Completing a hundred with la ilaha illallah, or 34 times.",
+          "source": {
+            "text": "Sahih Muslim 597",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-ayat-al-kursi",
+          "canonical": "Ayat al-Kursi",
+          "variants": [
+            "Ayat al-Kursi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Nothing stands between him and Paradise but death.",
+          "source": {
+            "text": "Al-Nasa'i al-Kubra 9928",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-allahumma-antas-salam",
+          "canonical": "Allahumma antas-salam",
+          "variants": [
+            "Allahumma antas salam",
+            "Antas-salam"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…wa minkas-salam, tabarakta ya dhal-jalali wal-ikram.\"",
+          "source": {
+            "text": "Sahih Muslim 591",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-la-ilaha-illallah-wahdahu-la-sharika-lah",
+          "canonical": "La ilaha illallah wahdahu la sharika lah",
+          "variants": [
+            "La ilaha illallah wahdahu",
+            "Tahlil"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Completing the hundred.",
+          "source": {
+            "text": "Sahih Muslim 597",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-the-three-quls",
+          "canonical": "The three Quls",
+          "variants": [
+            "Quls",
+            "Ikhlas",
+            "Falaq",
+            "Nas"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Recite the Mu'awwidhat after every prayer.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 1523",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-allahumma-ainni-ala-dhikrika",
+          "canonical": "Allahumma a'inni 'ala dhikrika",
+          "variants": [
+            "Allahumma ainni",
+            "Help me remember you"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Taught to Mu'adh.",
+          "source": {
+            "text": "Sunan Abi Dawud 1522",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-allahumma-la-mania-lima-atayt",
+          "canonical": "Allahumma la mani'a lima a'tayt",
+          "variants": [
+            "La mania lima ataita",
+            "None can withhold"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"O Allah, none can withhold what You give…\"",
+          "source": {
+            "text": "Sahih al-Bukhari 844",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-la-hawla-wa-la-quwwata-illa-billah",
+          "canonical": "La hawla wa la quwwata illa billah",
+          "variants": [
+            "La hawla"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In the longer tahlil of Ibn al-Zubayr.",
+          "source": {
+            "text": "Sahih Muslim 594",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-after-prayer-rabbi-qini-adhabak",
+          "canonical": "Rabbi qini 'adhabak",
+          "variants": [
+            "Rabbi qini adhabak"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"My Lord, protect me from Your punishment…\"",
+          "source": {
+            "text": "Sahih Muslim 709",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ],
+  "bonus": [
+    {
+      "id": "d1120-bonus-mumtahanah",
+      "number": 7,
+      "prompt": "Name something mentioned in Surah al-Mumtahanah.",
+      "answers": [
+        {
+          "id": "d1120-bonus-mumtahanah-testing-the-emigrant-women",
+          "canonical": "Testing the emigrant women",
+          "variants": [
+            "Testing the women",
+            "Examine them"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"When believing women come to you as emigrants, examine them.\"",
+          "source": {
+            "text": "Qur'an 60:10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-mumtahanah-the-example-of-ibrahim",
+          "canonical": "The example of Ibrahim",
+          "variants": [
+            "Ibrahim",
+            "Good example"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"There is a good example for you in Ibrahim.\"",
+          "source": {
+            "text": "Qur'an 60:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-mumtahanah-do-not-take-enemies-as-allies",
+          "canonical": "Do not take enemies as allies",
+          "variants": [
+            "Enemies as allies",
+            "Allies"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Do not take My enemy and yours as allies.\"",
+          "source": {
+            "text": "Qur'an 60:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-mumtahanah-the-womens-pledge",
+          "canonical": "The women's pledge",
+          "variants": [
+            "Pledge",
+            "Women's pledge"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…pledging not to associate anything with Allah, nor steal…\"",
+          "source": {
+            "text": "Qur'an 60:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-mumtahanah-kindness-to-peaceful-non-muslims",
+          "canonical": "Kindness to peaceful non-Muslims",
+          "variants": [
+            "Kindness",
+            "Justice",
+            "Non-Muslims"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Allah does not forbid you from those who do not fight you… to be kind and just to them.\"",
+          "source": {
+            "text": "Qur'an 60:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-mumtahanah-hatibs-letter",
+          "canonical": "Hatib's letter",
+          "variants": [
+            "Hatib",
+            "Letter"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He wrote to Quraysh before the Conquest.",
+          "source": {
+            "text": "Sahih al-Bukhari 3007",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1120-bonus-mumtahanah-love-may-come-between-enemies",
+          "canonical": "Love may come between enemies",
+          "variants": [
+            "Love",
+            "Reconciliation"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Perhaps Allah will put love between you and those you are enemies with.\"",
+          "source": {
+            "text": "Qur'an 60:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-mumtahanah-our-lord-upon-you-we-rely",
+          "canonical": "\"Our Lord, upon You we rely\"",
+          "variants": [
+            "Upon you we rely",
+            "Alayka tawakkalna"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The du'a of Ibrahim and those with him.",
+          "source": {
+            "text": "Qur'an 60:4",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1120-bonus-jinn-surah",
+      "number": 8,
+      "prompt": "Name something mentioned in Surah al-Jinn.",
+      "answers": [
+        {
+          "id": "d1120-bonus-jinn-surah-jinn-listened-to-the-quran",
+          "canonical": "Jinn listened to the Qur'an",
+          "variants": [
+            "Jinn listened"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"A group of the jinn listened…\"",
+          "source": {
+            "text": "Qur'an 72:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-jinn-surah-a-wonderful-quran",
+          "canonical": "\"A wonderful Qur'an\"",
+          "variants": [
+            "Wonderful Quran",
+            "Amazing Quran"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Indeed, we have heard an amazing Qur'an.\"",
+          "source": {
+            "text": "Qur'an 72:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-jinn-surah-some-jinn-are-muslim",
+          "canonical": "Some jinn are Muslim",
+          "variants": [
+            "Muslim jinn"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Among us are Muslims, and among us are the unjust.\"",
+          "source": {
+            "text": "Qur'an 72:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-jinn-surah-the-sky-guarded-with-flames",
+          "canonical": "The sky guarded with flames",
+          "variants": [
+            "Guarded sky",
+            "Flames",
+            "Shooting stars"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"We found it filled with powerful guards and burning flames.\"",
+          "source": {
+            "text": "Qur'an 72:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-jinn-surah-mosques-are-for-allah",
+          "canonical": "Mosques are for Allah",
+          "variants": [
+            "Mosques",
+            "Masajid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The mosques are for Allah, so do not invoke anyone with Allah.\"",
+          "source": {
+            "text": "Qur'an 72:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-jinn-surah-knower-of-the-unseen",
+          "canonical": "Knower of the unseen",
+          "variants": [
+            "Unseen",
+            "Ghayb"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Knower of the unseen, He does not disclose it except to a messenger He approves.\"",
+          "source": {
+            "text": "Qur'an 72:26-27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-jinn-surah-he-has-no-wife-or-son",
+          "canonical": "He has no wife or son",
+          "variants": [
+            "No son",
+            "No wife"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…He has not taken a wife or a son.\"",
+          "source": {
+            "text": "Qur'an 72:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-jinn-surah-men-seeking-refuge-in-jinn",
+          "canonical": "Men seeking refuge in jinn",
+          "variants": [
+            "Seeking refuge in jinn"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…men who sought refuge in men from the jinn — it increased them in burden.\"",
+          "source": {
+            "text": "Qur'an 72:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-jinn-surah-straight-on-the-way-abundant-water",
+          "canonical": "Straight on the way — abundant water",
+          "variants": [
+            "Abundant water"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Had they remained straight on the way, We would have given them abundant water.\"",
+          "source": {
+            "text": "Qur'an 72:16",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1120-bonus-fussilat",
+      "number": 9,
+      "prompt": "Name something mentioned in Surah Fussilat.",
+      "answers": [
+        {
+          "id": "d1120-bonus-fussilat-skins-testify",
+          "canonical": "Skins testify",
+          "variants": [
+            "Skins",
+            "Skins testify"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Their hearing, sight and skins will testify against them.\"",
+          "source": {
+            "text": "Qur'an 41:20",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-fussilat-repel-evil-with-what-is-better",
+          "canonical": "Repel evil with what is better",
+          "variants": [
+            "Repel evil with good",
+            "Good and evil not equal"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…and your enemy will become a devoted friend.\"",
+          "source": {
+            "text": "Qur'an 41:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-fussilat-angels-descend-on-the-steadfast",
+          "canonical": "Angels descend on the steadfast",
+          "variants": [
+            "Steadfast",
+            "Istiqamah",
+            "Angels descend"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Those who say 'our Lord is Allah' and then remain steadfast — angels descend upon them.\"",
+          "source": {
+            "text": "Qur'an 41:30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-fussilat-come-willingly-or-unwillingly",
+          "canonical": "\"Come willingly or unwillingly\"",
+          "variants": [
+            "Willingly or unwillingly"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Said to the heavens and the earth.",
+          "source": {
+            "text": "Qur'an 41:11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-fussilat-ads-screaming-wind",
+          "canonical": "'Ad's screaming wind",
+          "variants": [
+            "Ad",
+            "Wind"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"A screaming wind in days of misfortune.\"",
+          "source": {
+            "text": "Qur'an 41:16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-fussilat-signs-in-the-horizons-and-themselves",
+          "canonical": "Signs in the horizons and themselves",
+          "variants": [
+            "Signs in the horizons"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"We will show them Our signs in the horizons and within themselves.\"",
+          "source": {
+            "text": "Qur'an 41:53",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-fussilat-ha-mim",
+          "canonical": "Ha Mim",
+          "variants": [
+            "Ha Mim",
+            "Hamim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "It opens with these letters.",
+          "source": {
+            "text": "Qur'an 41:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-fussilat-do-not-listen-to-this-quran",
+          "canonical": "\"Do not listen to this Qur'an\"",
+          "variants": [
+            "Do not listen",
+            "Making noise"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The disbelievers told people to make noise during it.",
+          "source": {
+            "text": "Qur'an 41:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-fussilat-creation-in-days",
+          "canonical": "Creation in days",
+          "variants": [
+            "Two days",
+            "Four days"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The earth in two days, its provisions in four.",
+          "source": {
+            "text": "Qur'an 41:9-10",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1120-bonus-naml",
+      "number": 10,
+      "prompt": "Name a creature mentioned in Surah an-Naml.",
+      "answers": [
+        {
+          "id": "d1120-bonus-naml-the-ant",
+          "canonical": "The ant",
+          "variants": [
+            "Ant",
+            "Ants"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "It warned the other ants.",
+          "source": {
+            "text": "Qur'an 27:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-naml-the-hoopoe",
+          "canonical": "The hoopoe",
+          "variants": [
+            "Hoopoe",
+            "Hudhud"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "It brought news of Saba'.",
+          "source": {
+            "text": "Qur'an 27:20",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-naml-jinn",
+          "canonical": "Jinn",
+          "variants": [
+            "Jinn"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "In Sulayman's army.",
+          "source": {
+            "text": "Qur'an 27:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-naml-birds",
+          "canonical": "Birds",
+          "variants": [
+            "Birds"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "In Sulayman's army.",
+          "source": {
+            "text": "Qur'an 27:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-naml-an-ifrit",
+          "canonical": "An ifrit",
+          "variants": [
+            "Ifrit",
+            "Afreet"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"I will bring it before you rise from your place.\"",
+          "source": {
+            "text": "Qur'an 27:39",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-naml-the-beast-of-the-earth",
+          "canonical": "The Beast of the earth",
+          "variants": [
+            "Beast",
+            "Dabbah",
+            "Creature"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"We will bring forth for them a creature from the earth.\"",
+          "source": {
+            "text": "Qur'an 27:82",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-naml-musas-staff-as-a-snake",
+          "canonical": "Musa's staff as a snake",
+          "variants": [
+            "Snake",
+            "Jann"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "It moved like a jann (small snake).",
+          "source": {
+            "text": "Qur'an 27:10",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1120-bonus-muddaththir",
+      "number": 11,
+      "prompt": "Name something mentioned in Surah al-Muddaththir.",
+      "answers": [
+        {
+          "id": "d1120-bonus-muddaththir-the-cloaked-one",
+          "canonical": "The cloaked one",
+          "variants": [
+            "Cloaked one",
+            "Muddaththir"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"O you who covers himself.\"",
+          "source": {
+            "text": "Qur'an 74:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-muddaththir-arise-and-warn",
+          "canonical": "Arise and warn",
+          "variants": [
+            "Warn",
+            "Arise"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Arise and warn.\"",
+          "source": {
+            "text": "Qur'an 74:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-muddaththir-purify-your-clothing",
+          "canonical": "Purify your clothing",
+          "variants": [
+            "Purify clothes",
+            "Clothing"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"And your clothing purify.\"",
+          "source": {
+            "text": "Qur'an 74:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-muddaththir-glorify-your-lord",
+          "canonical": "Glorify your Lord",
+          "variants": [
+            "Glorify",
+            "Takbir"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"And your Lord glorify.\"",
+          "source": {
+            "text": "Qur'an 74:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-muddaththir-saqar",
+          "canonical": "Saqar",
+          "variants": [
+            "Saqar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"I will drive him into Saqar.\"",
+          "source": {
+            "text": "Qur'an 74:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-muddaththir-nineteen-keepers",
+          "canonical": "Nineteen keepers",
+          "variants": [
+            "Nineteen",
+            "19"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Over it are nineteen.\"",
+          "source": {
+            "text": "Qur'an 74:30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-muddaththir-this-is-only-magic",
+          "canonical": "\"This is only magic\"",
+          "variants": [
+            "Magic",
+            "Sihr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The verdict of the disbeliever who thought and calculated.",
+          "source": {
+            "text": "Qur'an 74:24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-muddaththir-what-brought-you-into-saqar",
+          "canonical": "\"What brought you into Saqar?\"",
+          "variants": [
+            "Did not pray",
+            "Did not feed the poor"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"We were not of those who prayed, nor fed the poor.\"",
+          "source": {
+            "text": "Qur'an 74:42-44",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-muddaththir-fleeing-like-frightened-donkeys",
+          "canonical": "Fleeing like frightened donkeys",
+          "variants": [
+            "Donkeys",
+            "Lion"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…as if they were alarmed donkeys fleeing from a lion.\"",
+          "source": {
+            "text": "Qur'an 74:50-51",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-muddaththir-every-soul-held-by-what-it-earned",
+          "canonical": "Every soul held by what it earned",
+          "variants": [
+            "Every soul",
+            "What it earned"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Every soul, for what it has earned, will be retained.\"",
+          "source": {
+            "text": "Qur'an 74:38",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-muddaththir-avoid-uncleanliness",
+          "canonical": "Avoid uncleanliness (idols)",
+          "variants": [
+            "Avoid uncleanliness",
+            "Rujz"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"And uncleanliness avoid.\"",
+          "source": {
+            "text": "Qur'an 74:5",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1120-bonus-shura",
+      "number": 12,
+      "prompt": "Name something mentioned in Surah ash-Shura.",
+      "answers": [
+        {
+          "id": "d1120-bonus-shura-consultation",
+          "canonical": "Consultation (shura)",
+          "variants": [
+            "Shura",
+            "Consultation"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…and whose affair is consultation among themselves.\"",
+          "source": {
+            "text": "Qur'an 42:38",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-shura-there-is-nothing-like-him",
+          "canonical": "\"There is nothing like Him\"",
+          "variants": [
+            "Nothing like Him",
+            "Laysa kamithlihi shay"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…and He is the Hearing, the Seeing.\"",
+          "source": {
+            "text": "Qur'an 42:11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-shura-forgiving-when-angry",
+          "canonical": "Forgiving when angry",
+          "variants": [
+            "Forgive when angry"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and when they are angry, they forgive.\"",
+          "source": {
+            "text": "Qur'an 42:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-shura-patience-and-forgiveness",
+          "canonical": "Patience and forgiveness",
+          "variants": [
+            "Patience and forgiveness"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Whoever is patient and forgives — that is of the matters of determination.\"",
+          "source": {
+            "text": "Qur'an 42:43",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-shura-the-reward-of-evil-is-evil-like-it",
+          "canonical": "The reward of evil is evil like it",
+          "variants": [
+            "Pardon",
+            "Reconciliation"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…but whoever pardons and makes reconciliation, his reward is with Allah.\"",
+          "source": {
+            "text": "Qur'an 42:40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-shura-daughters-and-sons-as-he-wills",
+          "canonical": "Daughters and sons as He wills",
+          "variants": [
+            "Daughters",
+            "Sons",
+            "Children"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"He gives to whom He wills females, and to whom He wills males.\"",
+          "source": {
+            "text": "Qur'an 42:49",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-shura-ships-like-mountains",
+          "canonical": "Ships like mountains",
+          "variants": [
+            "Ships"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Among His signs are the ships in the sea like mountains.\"",
+          "source": {
+            "text": "Qur'an 42:32",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-shura-ha-mim-ayn-sin-qaf",
+          "canonical": "Ha Mim, 'Ayn Sin Qaf",
+          "variants": [
+            "Ha Mim",
+            "Ayn Sin Qaf"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Its opening letters.",
+          "source": {
+            "text": "Qur'an 42:1-2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1120-bonus-shura-allah-speaks-only-by-revelation-or-from-behind-a-veil",
+          "canonical": "Allah speaks only by revelation or from behind a veil",
+          "variants": [
+            "Revelation",
+            "Behind a veil"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"…or by sending a messenger.\"",
+          "source": {
+            "text": "Qur'an 42:51",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

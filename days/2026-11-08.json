@@ -1,0 +1,2342 @@
+{
+  "date": "2026-11-08",
+  "questions": [
+    {
+      "id": "d1108-women-battle",
+      "number": 1,
+      "prompt": "Name a woman who took part in battles in the early years of Islam (fighting, nursing or bringing water).",
+      "answers": [
+        {
+          "id": "d1108-women-battle-nusaybah-bint-kab",
+          "canonical": "Nusaybah bint Ka'b",
+          "variants": [
+            "Nusaybah",
+            "Umm Umarah",
+            "Nusayba"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "She defended the Prophet ﷺ at Uhud.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-khawlah-bint-al-azwar",
+          "canonical": "Khawlah bint al-Azwar",
+          "variants": [
+            "Khawlah bint al-Azwar",
+            "Khawla"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Famous in the conquest of Syria.",
+          "source": {
+            "text": "Al-Waqidi, Futuh al-Sham",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-women-battle-safiyyah-bint-abd-al-muttalib",
+          "canonical": "Safiyyah bint 'Abd al-Muttalib",
+          "variants": [
+            "Safiyyah bint Abd al-Muttalib",
+            "Safiyyah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She killed a spy at the fort during the Trench.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-umm-sulaym",
+          "canonical": "Umm Sulaym",
+          "variants": [
+            "Umm Sulaym",
+            "Umm Sulaim"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She carried a dagger at Hunayn.",
+          "source": {
+            "text": "Sahih Muslim 1809",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-aishah",
+          "canonical": "'A'ishah",
+          "variants": [
+            "Aisha",
+            "Aishah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She carried water to the wounded at Uhud.",
+          "source": {
+            "text": "Sahih al-Bukhari 2880",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-rufaydah-al-aslamiyyah",
+          "canonical": "Rufaydah al-Aslamiyyah",
+          "variants": [
+            "Rufaydah",
+            "Rufaida"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She ran a tent for the wounded.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-umm-atiyyah",
+          "canonical": "Umm 'Atiyyah",
+          "variants": [
+            "Umm 'Atiyyah",
+            "Umm Atiyya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She went on seven expeditions to nurse the wounded.",
+          "source": {
+            "text": "Sahih Muslim 1812",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-asma-bint-yazid",
+          "canonical": "Asma' bint Yazid",
+          "variants": [
+            "Asma bint Yazid",
+            "Asma' bint Yazid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She killed nine Byzantine soldiers at Yarmuk with a tent pole.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-umm-haram",
+          "canonical": "Umm Haram",
+          "variants": [
+            "Umm Haram"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She joined the first naval expedition.",
+          "source": {
+            "text": "Sahih al-Bukhari 2788",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-hind-bint-utbah",
+          "canonical": "Hind bint 'Utbah",
+          "variants": [
+            "Hind",
+            "Hind bint Utbah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She urged the Muslims on at Yarmuk.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-al-rubayyi-bint-muawwidh",
+          "canonical": "Al-Rubayyi' bint Mu'awwidh",
+          "variants": [
+            "Rubayyi'",
+            "Rubayyi bint Muawwidh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She brought water and carried the wounded home.",
+          "source": {
+            "text": "Sahih al-Bukhari 2882",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-umm-ayman",
+          "canonical": "Umm Ayman",
+          "variants": [
+            "Umm Ayman"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She brought water at Uhud.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-fatimah",
+          "canonical": "Fatimah",
+          "variants": [
+            "Fatimah",
+            "Fatima"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "She treated the Prophet's ﷺ wound at Uhud.",
+          "source": {
+            "text": "Sahih al-Bukhari 2911",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1108-women-battle-layla-al-ghifariyyah",
+          "canonical": "Layla al-Ghifariyyah",
+          "variants": [
+            "Layla al-Ghifariyyah",
+            "Layla"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "She went out to nurse the wounded.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        }
+      ]
+    },
+    {
+      "id": "d1108-mutah",
+      "number": 2,
+      "prompt": "Name something from the Battle of Mu'tah.",
+      "answers": [
+        {
+          "id": "d1108-mutah-zayd-ibn-harithah",
+          "canonical": "Zayd ibn Harithah",
+          "variants": [
+            "Zayd",
+            "Zayd ibn Harithah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first commander, who fell first.",
+          "source": {
+            "text": "Sahih al-Bukhari 4261",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-jafar-ibn-abi-talib",
+          "canonical": "Ja'far ibn Abi Talib",
+          "variants": [
+            "Ja'far",
+            "Jafar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The second commander, who lost both arms.",
+          "source": {
+            "text": "Sahih al-Bukhari 4261",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-abdullah-ibn-rawahah",
+          "canonical": "'Abdullah ibn Rawahah",
+          "variants": [
+            "Abdullah ibn Rawahah",
+            "Ibn Rawahah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The third commander.",
+          "source": {
+            "text": "Sahih al-Bukhari 4261",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-khalid-ibn-al-walid",
+          "canonical": "Khalid ibn al-Walid",
+          "variants": [
+            "Khalid",
+            "Khalid ibn al-Walid"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He took command and saved the army.",
+          "source": {
+            "text": "Sahih al-Bukhari 4262",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-the-byzantines",
+          "canonical": "The Byzantines",
+          "variants": [
+            "Byzantines",
+            "Romans",
+            "Rum"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A huge Byzantine and Arab Christian army.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-3-000-muslims",
+          "canonical": "3,000 Muslims",
+          "variants": [
+            "3000",
+            "Three thousand",
+            "Small army"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Muslim army numbered about three thousand.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-nine-swords-broke",
+          "canonical": "Nine swords broke",
+          "variants": [
+            "Nine swords",
+            "Swords broke"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Khalid said nine swords broke in his hand.",
+          "source": {
+            "text": "Sahih al-Bukhari 4265",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-the-prophet-announced-their-deaths",
+          "canonical": "The Prophet ﷺ announced their deaths",
+          "variants": [
+            "Announced their deaths",
+            "Prophet wept"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In Madinah, with tears in his eyes, as it happened.",
+          "source": {
+            "text": "Sahih al-Bukhari 4262",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-jafars-two-wings",
+          "canonical": "Ja'far's two wings",
+          "variants": [
+            "Two wings",
+            "Tayyar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Given in place of his arms.",
+          "source": {
+            "text": "Sahih al-Bukhari 3709",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-sword-of-allah",
+          "canonical": "\"Sword of Allah\"",
+          "variants": [
+            "Sword of Allah",
+            "Sayfullah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Khalid was given the title here.",
+          "source": {
+            "text": "Sahih al-Bukhari 4262",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-jordan",
+          "canonical": "Jordan",
+          "variants": [
+            "Jordan",
+            "Karak",
+            "Syria"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Near al-Karak in Jordan.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-8-ah",
+          "canonical": "8 AH",
+          "variants": [
+            "8 AH",
+            "Year 8"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In Jumada al-Ula, 8 AH.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-the-killing-of-the-envoy",
+          "canonical": "The killing of the envoy",
+          "variants": [
+            "Envoy killed",
+            "Al-Harith ibn 'Umayr"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Al-Harith ibn 'Umayr, the Prophet's ﷺ messenger, was killed.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-mutah-not-deserters-but-returners",
+          "canonical": "\"Not deserters but returners\"",
+          "variants": [
+            "Returners",
+            "Karrar",
+            "Not deserters"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Prophet ﷺ defended the returning army.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1108-iran",
+      "number": 3,
+      "prompt": "Name a city in Iran.",
+      "answers": [
+        {
+          "id": "d1108-iran-tehran",
+          "canonical": "Tehran",
+          "variants": [
+            "Tehran"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The capital.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-isfahan",
+          "canonical": "Isfahan",
+          "variants": [
+            "Isfahan",
+            "Esfahan"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Half the world.\"",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-shiraz",
+          "canonical": "Shiraz",
+          "variants": [
+            "Shiraz"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "City of the poets Hafez and Saadi.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-mashhad",
+          "canonical": "Mashhad",
+          "variants": [
+            "Mashhad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The second-largest city.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-tabriz",
+          "canonical": "Tabriz",
+          "variants": [
+            "Tabriz"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Its bazaar is a World Heritage site.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-qom",
+          "canonical": "Qom",
+          "variants": [
+            "Qom",
+            "Qum"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A centre of learning.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-yazd",
+          "canonical": "Yazd",
+          "variants": [
+            "Yazd"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A desert city of windcatchers.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-kerman",
+          "canonical": "Kerman",
+          "variants": [
+            "Kerman"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In the south-east.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-nishapur",
+          "canonical": "Nishapur",
+          "variants": [
+            "Nishapur",
+            "Neyshabur"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Home of Imam Muslim and 'Umar Khayyam.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-hamadan",
+          "canonical": "Hamadan",
+          "variants": [
+            "Hamadan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Where Ibn Sina is buried.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-qazvin",
+          "canonical": "Qazvin",
+          "variants": [
+            "Qazvin"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Birthplace of Ibn Majah.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-kashan",
+          "canonical": "Kashan",
+          "variants": [
+            "Kashan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Famous for its tiles and rosewater.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-tus",
+          "canonical": "Tus",
+          "variants": [
+            "Tus",
+            "Toos"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Birthplace of al-Ghazali.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-rayy",
+          "canonical": "Rayy",
+          "variants": [
+            "Rayy",
+            "Ray",
+            "Rey"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Birthplace of al-Razi.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-ahvaz",
+          "canonical": "Ahvaz",
+          "variants": [
+            "Ahvaz",
+            "Ahwaz"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "In Khuzestan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-bandar-abbas",
+          "canonical": "Bandar Abbas",
+          "variants": [
+            "Bandar Abbas"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A port on the Gulf.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-zanjan",
+          "canonical": "Zanjan",
+          "variants": [
+            "Zanjan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "In the north-west.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-iran-rasht",
+          "canonical": "Rasht",
+          "variants": [
+            "Rasht"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Near the Caspian Sea.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1108-asma",
+      "number": 4,
+      "prompt": "Name something from the life of Asma' bint Abi Bakr (RA).",
+      "answers": [
+        {
+          "id": "d1108-asma-she-of-the-two-belts",
+          "canonical": "\"She of the two belts\"",
+          "variants": [
+            "Two belts",
+            "Dhat al-Nitaqayn",
+            "Belt"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Dhat al-Nitaqayn — she tore her belt to tie the food bag on the Hijrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 2979",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-asma-took-food-to-the-cave",
+          "canonical": "Took food to the cave",
+          "variants": [
+            "Food to the cave",
+            "Cave of Thawr",
+            "Hijrah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "She carried food to the Prophet ﷺ and her father in Thawr.",
+          "source": {
+            "text": "Sahih al-Bukhari 3905",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-asma-daughter-of-abu-bakr",
+          "canonical": "Daughter of Abu Bakr",
+          "variants": [
+            "Daughter of Abu Bakr",
+            "Abu Bakr",
+            "Sister of Aisha"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Sister of 'A'ishah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3905",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-asma-wife-of-al-zubayr",
+          "canonical": "Wife of al-Zubayr",
+          "variants": [
+            "Zubayr",
+            "Wife of Zubayr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She married al-Zubayr ibn al-'Awwam.",
+          "source": {
+            "text": "Sahih al-Bukhari 5224",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-asma-mother-of-abdullah-ibn-al-zubayr",
+          "canonical": "Mother of 'Abdullah ibn al-Zubayr",
+          "variants": [
+            "Abdullah ibn al-Zubayr",
+            "Her son"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The first child born to the Muhajirun in Madinah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3909",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-asma-slapped-by-abu-jahl",
+          "canonical": "Slapped by Abu Jahl",
+          "variants": [
+            "Abu Jahl",
+            "Slapped"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He struck her for not revealing where her father was.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-asma-lived-to-about-a-hundred",
+          "canonical": "Lived to about a hundred",
+          "variants": [
+            "100 years",
+            "Long life",
+            "Hundred"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She kept her teeth and her mind.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-asma-her-words-to-al-hajjaj",
+          "canonical": "Her words to al-Hajjaj",
+          "variants": [
+            "Hajjaj",
+            "Spoke to Hajjaj"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She stood firm after her son was killed.",
+          "source": {
+            "text": "Sahih Muslim 2545",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-asma-stones-in-the-money-bag",
+          "canonical": "Stones in the money bag",
+          "variants": [
+            "Stones",
+            "Abu Quhafah",
+            "Grandfather"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She filled a bag with stones to calm her blind grandfather.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-asma-hard-work-at-home",
+          "canonical": "Hard work at home",
+          "variants": [
+            "Hard work",
+            "Date stones",
+            "Horse"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She carried date stones on her head and cared for the horse.",
+          "source": {
+            "text": "Sahih al-Bukhari 5224",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-asma-keep-ties-with-your-mother",
+          "canonical": "\"Keep ties with your mother\"",
+          "variants": [
+            "Mother",
+            "Non-Muslim mother",
+            "Kindness to mother"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Prophet ﷺ told her to be kind to her non-Muslim mother.",
+          "source": {
+            "text": "Sahih al-Bukhari 2620",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1108-grooming",
+      "number": 5,
+      "prompt": "Name a sunnah of grooming or personal care.",
+      "answers": [
+        {
+          "id": "d1108-grooming-siwak",
+          "canonical": "Siwak",
+          "variants": [
+            "Siwak",
+            "Miswak",
+            "Brushing teeth"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Were it not hard on my Ummah, I would order them to use the siwak at every prayer.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 887",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-trimming-the-nails",
+          "canonical": "Trimming the nails",
+          "variants": [
+            "Nails",
+            "Cutting nails",
+            "Trimming nails"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "From the fitrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 5889",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-perfume",
+          "canonical": "Perfume",
+          "variants": [
+            "Perfume",
+            "Itr",
+            "Scent"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He never refused perfume.",
+          "source": {
+            "text": "Sahih al-Bukhari 2582",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-trimming-the-moustache",
+          "canonical": "Trimming the moustache",
+          "variants": [
+            "Moustache",
+            "Trimming the moustache"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "From the fitrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 5889",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-letting-the-beard-grow",
+          "canonical": "Letting the beard grow",
+          "variants": [
+            "Beard",
+            "Growing the beard"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Trim the moustache and let the beard grow.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5892",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-combing-and-oiling-the-hair",
+          "canonical": "Combing and oiling the hair",
+          "variants": [
+            "Combing",
+            "Oiling hair",
+            "Hair care"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Whoever has hair, let him honour it.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 4163",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-ghusl-on-friday",
+          "canonical": "Ghusl on Friday",
+          "variants": [
+            "Friday ghusl",
+            "Bath on Friday"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Ghusl on Friday is a duty on every adult.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 858",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-kohl",
+          "canonical": "Kohl",
+          "variants": [
+            "Kohl",
+            "Ithmid",
+            "Surma"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He applied ithmid before sleeping.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 1757",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-dyeing-grey-hair",
+          "canonical": "Dyeing grey hair",
+          "variants": [
+            "Dyeing hair",
+            "Henna",
+            "Changing grey hair"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Change grey hair, but avoid black.\"",
+          "source": {
+            "text": "Sahih Muslim 2102",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-starting-with-the-right",
+          "canonical": "Starting with the right",
+          "variants": [
+            "Starting with the right",
+            "Right side"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He liked to start with the right in grooming.",
+          "source": {
+            "text": "Sahih al-Bukhari 168",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-circumcision",
+          "canonical": "Circumcision",
+          "variants": [
+            "Circumcision",
+            "Khitan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "From the fitrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 5889",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-removing-armpit-hair",
+          "canonical": "Removing armpit hair",
+          "variants": [
+            "Armpit hair",
+            "Plucking armpits"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "From the fitrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 5889",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-rinsing-the-mouth-and-nose",
+          "canonical": "Rinsing the mouth and nose",
+          "variants": [
+            "Rinsing the mouth",
+            "Nose",
+            "Istinshaq"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "From the fitrah.",
+          "source": {
+            "text": "Sahih Muslim 261",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-washing-the-knuckles",
+          "canonical": "Washing the knuckles",
+          "variants": [
+            "Knuckles",
+            "Washing knuckles"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "From the fitrah.",
+          "source": {
+            "text": "Sahih Muslim 261",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-grooming-clean-clothes",
+          "canonical": "Clean clothes",
+          "variants": [
+            "Clean clothes",
+            "Looking good",
+            "Beauty"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Allah is beautiful and loves beauty.\"",
+          "source": {
+            "text": "Sahih Muslim 91",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1108-adjectives-arabic",
+      "number": 6,
+      "prompt": "Name an Arabic word describing something (an adjective).",
+      "answers": [
+        {
+          "id": "d1108-adjectives-arabic-kabir",
+          "canonical": "Kabir (big)",
+          "variants": [
+            "Kabir",
+            "Kabeer",
+            "Big",
+            "Great"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Big; Allahu akbar — Allah is greater.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-saghir",
+          "canonical": "Saghir (small)",
+          "variants": [
+            "Saghir",
+            "Sagheer",
+            "Small"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Small.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-jamil",
+          "canonical": "Jamil (beautiful)",
+          "variants": [
+            "Jamil",
+            "Jameel",
+            "Beautiful"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Beautiful.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-jadid",
+          "canonical": "Jadid (new)",
+          "variants": [
+            "Jadid",
+            "Jadeed",
+            "New"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "New.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-qadim",
+          "canonical": "Qadim (old)",
+          "variants": [
+            "Qadim",
+            "Qadeem",
+            "Old"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Old, ancient.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-tawil",
+          "canonical": "Tawil (tall, long)",
+          "variants": [
+            "Tawil",
+            "Taweel",
+            "Tall",
+            "Long"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Tall, long.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-qasir",
+          "canonical": "Qasir (short)",
+          "variants": [
+            "Qasir",
+            "Qaseer",
+            "Short"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Short.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-hasan",
+          "canonical": "Hasan (good)",
+          "variants": [
+            "Hasan",
+            "Good"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Good, fine.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-sab",
+          "canonical": "Sa'b (difficult)",
+          "variants": [
+            "Saab",
+            "Sa'b",
+            "Difficult",
+            "Hard"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Difficult.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-sahl",
+          "canonical": "Sahl (easy)",
+          "variants": [
+            "Sahl",
+            "Easy"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Easy.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-harr",
+          "canonical": "Harr (hot)",
+          "variants": [
+            "Harr",
+            "Hot"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Hot.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-barid",
+          "canonical": "Barid (cold)",
+          "variants": [
+            "Barid",
+            "Bard",
+            "Cold"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Cold.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-sari",
+          "canonical": "Sari' (fast)",
+          "variants": [
+            "Sari'",
+            "Sari",
+            "Fast",
+            "Quick"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Fast.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-thaqil",
+          "canonical": "Thaqil (heavy)",
+          "variants": [
+            "Thaqil",
+            "Heavy"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Heavy.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-khafif",
+          "canonical": "Khafif (light)",
+          "variants": [
+            "Khafif",
+            "Light"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Light.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-ghani",
+          "canonical": "Ghani (rich)",
+          "variants": [
+            "Ghani",
+            "Rich"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Rich — al-Ghani, the Self-Sufficient.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-faqir",
+          "canonical": "Faqir (poor)",
+          "variants": [
+            "Faqir",
+            "Faqeer",
+            "Poor"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Poor.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-qawi",
+          "canonical": "Qawi (strong)",
+          "variants": [
+            "Qawi",
+            "Qawiyy",
+            "Strong"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Strong.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-daif",
+          "canonical": "Da'if (weak)",
+          "variants": [
+            "Da'if",
+            "Daif",
+            "Weak"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Weak.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-adjectives-arabic-nadhif",
+          "canonical": "Nadhif (clean)",
+          "variants": [
+            "Nadhif",
+            "Nazif",
+            "Clean"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Clean.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ],
+  "bonus": [
+    {
+      "id": "d1108-bonus-shams",
+      "number": 7,
+      "prompt": "Name something mentioned in Surah ash-Shams.",
+      "answers": [
+        {
+          "id": "d1108-bonus-shams-the-sun",
+          "canonical": "The sun",
+          "variants": [
+            "Sun",
+            "Shams"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"By the sun and its brightness.\"",
+          "source": {
+            "text": "Qur'an 91:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-the-moon",
+          "canonical": "The moon",
+          "variants": [
+            "Moon"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…and the moon when it follows it.\"",
+          "source": {
+            "text": "Qur'an 91:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-the-day",
+          "canonical": "The day",
+          "variants": [
+            "Day"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and the day when it reveals it.\"",
+          "source": {
+            "text": "Qur'an 91:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-the-night",
+          "canonical": "The night",
+          "variants": [
+            "Night"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and the night when it covers it.\"",
+          "source": {
+            "text": "Qur'an 91:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-the-sky",
+          "canonical": "The sky",
+          "variants": [
+            "Sky",
+            "Heaven"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and the sky and He who built it.\"",
+          "source": {
+            "text": "Qur'an 91:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-the-earth",
+          "canonical": "The earth",
+          "variants": [
+            "Earth"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and the earth and He who spread it.\"",
+          "source": {
+            "text": "Qur'an 91:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-the-soul",
+          "canonical": "The soul",
+          "variants": [
+            "Soul",
+            "Nafs"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and the soul and He who proportioned it.\"",
+          "source": {
+            "text": "Qur'an 91:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-its-wickedness-and-its-righteousness",
+          "canonical": "Its wickedness and its righteousness",
+          "variants": [
+            "Wickedness and righteousness",
+            "Fujur",
+            "Taqwa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and inspired it with its wickedness and its righteousness.\"",
+          "source": {
+            "text": "Qur'an 91:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-successful-is-he-who-purifies-it",
+          "canonical": "\"Successful is he who purifies it\"",
+          "variants": [
+            "Purifies it",
+            "Tazkiyah",
+            "Success"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and failed is he who corrupts it.\"",
+          "source": {
+            "text": "Qur'an 91:9-10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-thamud",
+          "canonical": "Thamud",
+          "variants": [
+            "Thamud"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Thamud denied out of their transgression.\"",
+          "source": {
+            "text": "Qur'an 91:11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-the-she-camel-of-allah",
+          "canonical": "The she-camel of Allah",
+          "variants": [
+            "She-camel",
+            "Camel",
+            "Naqah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The she-camel of Allah and her drink!\"",
+          "source": {
+            "text": "Qur'an 91:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-the-most-wretched-of-them",
+          "canonical": "The most wretched of them",
+          "variants": [
+            "Most wretched",
+            "Camel killer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The one who rose to hamstring the camel.",
+          "source": {
+            "text": "Qur'an 91:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-their-land-levelled",
+          "canonical": "Their land levelled",
+          "variants": [
+            "Destroyed",
+            "Levelled"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Their Lord destroyed them and levelled it.\"",
+          "source": {
+            "text": "Qur'an 91:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-shams-he-does-not-fear-its-consequence",
+          "canonical": "\"He does not fear its consequence\"",
+          "variants": [
+            "Consequence",
+            "Does not fear"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The last verse.",
+          "source": {
+            "text": "Qur'an 91:15",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1108-bonus-tashahhud",
+      "number": 8,
+      "prompt": "Name a phrase from the tashahhud in the prayer.",
+      "answers": [
+        {
+          "id": "d1108-bonus-tashahhud-at-tahiyyatu-lillah",
+          "canonical": "At-tahiyyatu lillah",
+          "variants": [
+            "At-tahiyyatu lillah",
+            "Attahiyyatu lillahi",
+            "Tahiyyat"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"All greetings are for Allah.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-tashahhud-ashhadu-an-la-ilaha-illallah",
+          "canonical": "Ashhadu an la ilaha illallah",
+          "variants": [
+            "Ashhadu an la ilaha illallah",
+            "Shahadah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"I bear witness that there is no god but Allah.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-tashahhud-as-salamu-alayka-ayyuha-al-nabiyy",
+          "canonical": "As-salamu 'alayka ayyuha al-nabiyy",
+          "variants": [
+            "Assalamu alayka ayyuhan nabiyy",
+            "Peace be upon you O Prophet"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Peace be upon you, O Prophet.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-tashahhud-wa-ashhadu-anna-muhammadan-abduhu-wa-rasuluh",
+          "canonical": "Wa ashhadu anna Muhammadan 'abduhu wa rasuluh",
+          "variants": [
+            "Muhammadan abduhu wa rasuluh",
+            "Abduhu wa rasuluh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and that Muhammad is His servant and messenger.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-tashahhud-was-salawatu-wat-tayyibat",
+          "canonical": "Was-salawatu wat-tayyibat",
+          "variants": [
+            "Was-salawatu wat-tayyibat",
+            "Salawat",
+            "Tayyibat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and prayers and good things.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-tashahhud-wa-rahmatullahi-wa-barakatuh",
+          "canonical": "Wa rahmatullahi wa barakatuh",
+          "variants": [
+            "Wa rahmatullahi wa barakatuh",
+            "Rahmatullah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and the mercy of Allah and His blessings.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-tashahhud-as-salamu-alayna-wa-ala-ibadillahis-salihin",
+          "canonical": "As-salamu 'alayna wa 'ala 'ibadillahis-salihin",
+          "variants": [
+            "As-salamu 'alayna",
+            "Ibadillahis salihin",
+            "Righteous servants"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Peace be upon us and on the righteous servants of Allah.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-tashahhud-the-salawat-on-ibrahim",
+          "canonical": "The salawat on Ibrahim",
+          "variants": [
+            "Salawat Ibrahimiyyah",
+            "Durood Ibrahim",
+            "Allahumma salli"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…as You sent blessings on Ibrahim and the family of Ibrahim.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3370",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-tashahhud-seeking-refuge-from-four-things",
+          "canonical": "Seeking refuge from four things",
+          "variants": [
+            "Four things",
+            "Refuge from the grave",
+            "Dajjal"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "From Hell, the grave, the trials of life and death, and the Dajjal.",
+          "source": {
+            "text": "Sahih Muslim 588",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1108-bonus-umm-ayman",
+      "number": 9,
+      "prompt": "Name something from the life of Umm Ayman (RA).",
+      "answers": [
+        {
+          "id": "d1108-bonus-umm-ayman-the-prophets-nurse",
+          "canonical": "The Prophet's ﷺ nurse",
+          "variants": [
+            "Nurse",
+            "Nanny",
+            "Looked after the Prophet"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "She cared for him after his mother died.",
+          "source": {
+            "text": "Sahih Muslim 1771",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-umm-ayman-my-mother-after-my-mother",
+          "canonical": "\"My mother after my mother\"",
+          "variants": [
+            "Mother after my mother",
+            "Like a mother"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "How the Prophet ﷺ spoke of her.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-umm-ayman-from-abyssinia",
+          "canonical": "From Abyssinia",
+          "variants": [
+            "Abyssinia",
+            "Barakah",
+            "Ethiopian"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Her name was Barakah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-umm-ayman-mother-of-usamah",
+          "canonical": "Mother of Usamah",
+          "variants": [
+            "Usamah",
+            "Mother of Usamah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "With Zayd ibn Harithah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-umm-ayman-wife-of-zayd-ibn-harithah",
+          "canonical": "Wife of Zayd ibn Harithah",
+          "variants": [
+            "Zayd",
+            "Wife of Zayd"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Married after her first husband.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-umm-ayman-water-at-uhud",
+          "canonical": "Water at Uhud",
+          "variants": [
+            "Uhud",
+            "Water"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She gave water to the wounded.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-umm-ayman-a-bucket-from-heaven",
+          "canonical": "A bucket from heaven",
+          "variants": [
+            "Bucket",
+            "Thirst",
+            "Hijrah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Fasting and thirsty on her Hijrah, a bucket was lowered to her.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-umm-ayman-weeping-that-revelation-had-stopped",
+          "canonical": "Weeping that revelation had stopped",
+          "variants": [
+            "Revelation stopped",
+            "Weeping"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "After his death: \"I weep because revelation has ended.\"",
+          "source": {
+            "text": "Sahih Muslim 2454",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-umm-ayman-with-amina-at-al-abwa",
+          "canonical": "With Amina at al-Abwa'",
+          "variants": [
+            "Abwa'",
+            "Amina"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "She brought the boy home after his mother died.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1108-bonus-muttaqin",
+      "number": 10,
+      "prompt": "Name a quality of the God-fearing in Surah Al 'Imran 3:133–135.",
+      "answers": [
+        {
+          "id": "d1108-bonus-muttaqin-spending-in-ease-and-hardship",
+          "canonical": "Spending in ease and hardship",
+          "variants": [
+            "Spending",
+            "Charity",
+            "Ease and hardship"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Those who spend in prosperity and adversity.\"",
+          "source": {
+            "text": "Qur'an 3:134",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-muttaqin-restraining-anger",
+          "canonical": "Restraining anger",
+          "variants": [
+            "Restraining anger",
+            "Controlling anger"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…who restrain anger…\"",
+          "source": {
+            "text": "Qur'an 3:134",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-muttaqin-pardoning-people",
+          "canonical": "Pardoning people",
+          "variants": [
+            "Pardoning",
+            "Forgiving people"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and pardon people.\"",
+          "source": {
+            "text": "Qur'an 3:134",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-muttaqin-remembering-allah-after-a-sin",
+          "canonical": "Remembering Allah after a sin",
+          "variants": [
+            "Remembering Allah",
+            "Seeking forgiveness after sin"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"When they commit an immorality… they remember Allah and seek forgiveness.\"",
+          "source": {
+            "text": "Qur'an 3:135",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-muttaqin-not-persisting-in-sin",
+          "canonical": "Not persisting in sin",
+          "variants": [
+            "Not persisting",
+            "Stopping sin"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and do not persist in what they have done.\"",
+          "source": {
+            "text": "Qur'an 3:135",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-muttaqin-hastening-to-forgiveness-and-paradise",
+          "canonical": "Hastening to forgiveness and Paradise",
+          "variants": [
+            "Hastening",
+            "Paradise as wide as the heavens"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Hasten to forgiveness and a garden as wide as the heavens and earth.\"",
+          "source": {
+            "text": "Qur'an 3:133",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-muttaqin-doing-good",
+          "canonical": "Doing good (ihsan)",
+          "variants": [
+            "Ihsan",
+            "Doing good"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"…and Allah loves the doers of good.\"",
+          "source": {
+            "text": "Qur'an 3:134",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1108-bonus-seven-jurists",
+      "number": 11,
+      "prompt": "Name one of the seven jurists (fuqaha') of Madinah.",
+      "answers": [
+        {
+          "id": "d1108-bonus-seven-jurists-said-ibn-al-musayyib",
+          "canonical": "Sa'id ibn al-Musayyib",
+          "variants": [
+            "Sa'id ibn al-Musayyib",
+            "Said ibn al-Musayyib"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The most senior of them.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-seven-jurists-urwah-ibn-al-zubayr",
+          "canonical": "'Urwah ibn al-Zubayr",
+          "variants": [
+            "Urwah",
+            "'Urwah ibn al-Zubayr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of Asma'.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-seven-jurists-al-qasim-ibn-muhammad",
+          "canonical": "Al-Qasim ibn Muhammad",
+          "variants": [
+            "Qasim ibn Muhammad",
+            "Al-Qasim"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Grandson of Abu Bakr.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-seven-jurists-kharijah-ibn-zayd",
+          "canonical": "Kharijah ibn Zayd",
+          "variants": [
+            "Kharijah",
+            "Kharijah ibn Zayd"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Son of Zayd ibn Thabit.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-seven-jurists-ubaydullah-ibn-abdullah-ibn-utbah",
+          "canonical": "'Ubaydullah ibn 'Abdullah ibn 'Utbah",
+          "variants": [
+            "'Ubaydullah ibn 'Abdullah",
+            "Ubaydullah ibn Utbah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Teacher of 'Umar ibn 'Abd al-'Aziz.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-seven-jurists-sulayman-ibn-yasar",
+          "canonical": "Sulayman ibn Yasar",
+          "variants": [
+            "Sulayman ibn Yasar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Freed slave of Maymunah.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-seven-jurists-abu-salamah-ibn-abd-al-rahman",
+          "canonical": "Abu Salamah ibn 'Abd al-Rahman",
+          "variants": [
+            "Abu Salamah ibn Abd al-Rahman"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Son of 'Abd al-Rahman ibn 'Awf — counted as the seventh by some.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-seven-jurists-salim-ibn-abdullah",
+          "canonical": "Salim ibn 'Abdullah",
+          "variants": [
+            "Salim ibn Abdullah",
+            "Salim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Grandson of 'Umar — counted as the seventh by some.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-seven-jurists-abu-bakr-ibn-abd-al-rahman",
+          "canonical": "Abu Bakr ibn 'Abd al-Rahman",
+          "variants": [
+            "Abu Bakr ibn Abd al-Rahman"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Counted as the seventh by others.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1108-bonus-qadr-signs",
+      "number": 12,
+      "prompt": "Name a sign of Laylat al-Qadr mentioned in the Hadith.",
+      "answers": [
+        {
+          "id": "d1108-bonus-qadr-signs-the-sun-rises-without-rays",
+          "canonical": "The sun rises without rays",
+          "variants": [
+            "Sun without rays",
+            "No rays",
+            "White sun"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The sun rises on its morning white, without rays.\"",
+          "source": {
+            "text": "Sahih Muslim 762",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-qadr-signs-a-calm-mild-night",
+          "canonical": "A calm, mild night",
+          "variants": [
+            "Calm night",
+            "Mild",
+            "Neither hot nor cold"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"A pleasant night, neither hot nor cold.\"",
+          "source": {
+            "text": "Sahih Ibn Khuzaymah 2190",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-qadr-signs-peace-until-dawn",
+          "canonical": "Peace until dawn",
+          "variants": [
+            "Peace",
+            "Peace until dawn",
+            "Salam"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Peace it is until the emergence of dawn.\"",
+          "source": {
+            "text": "Qur'an 97:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-qadr-signs-angels-descending",
+          "canonical": "Angels descending",
+          "variants": [
+            "Angels descend",
+            "Angels",
+            "Jibril"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The angels and the Spirit descend in it.\"",
+          "source": {
+            "text": "Qur'an 97:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1108-bonus-qadr-signs-a-moon-like-half-a-plate",
+          "canonical": "A moon like half a plate",
+          "variants": [
+            "Half a plate",
+            "Moon"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…when the moon rises like half a plate.\"",
+          "source": {
+            "text": "Sahih Muslim 1170",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-qadr-signs-rain",
+          "canonical": "Rain",
+          "variants": [
+            "Rain",
+            "Mud"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The year the Prophet ﷺ prostrated in water and mud on the 21st.",
+          "source": {
+            "text": "Sahih al-Bukhari 2018",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1108-bonus-qadr-signs-in-an-odd-night-of-the-last-ten",
+          "canonical": "In an odd night of the last ten",
+          "variants": [
+            "Odd nights",
+            "Last ten"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Seek it in the odd nights.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2017",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

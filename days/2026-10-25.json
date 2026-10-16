@@ -1,0 +1,2844 @@
+{
+  "date": "2026-10-25",
+  "questions": [
+    {
+      "id": "d1025-parables",
+      "number": 1,
+      "prompt": "Name something the Qur'an uses in a parable (a comparison).",
+      "answers": [
+        {
+          "id": "d1025-parables-a-spiders-web",
+          "canonical": "A spider's web",
+          "variants": [
+            "Spider",
+            "Spider web",
+            "Spider's web",
+            "Cobweb",
+            "Spider's house"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The weakest of houses is the spider's house.\"",
+          "source": {
+            "text": "Qur'an 29:41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-a-good-tree",
+          "canonical": "A good tree",
+          "variants": [
+            "Good tree",
+            "Tree",
+            "Good word",
+            "Palm tree"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"A good word is like a good tree — its root firm, its branches in the sky.\"",
+          "source": {
+            "text": "Qur'an 14:24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-a-seed-growing-seven-ears",
+          "canonical": "A seed growing seven ears",
+          "variants": [
+            "Seed",
+            "Grain",
+            "Seven ears",
+            "Seven ears of corn",
+            "Seed with seven ears"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Spending in Allah's way is like a grain that grows seven ears, each with a hundred grains.",
+          "source": {
+            "text": "Qur'an 2:261",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-a-donkey-carrying-books",
+          "canonical": "A donkey carrying books",
+          "variants": [
+            "Donkey",
+            "Donkey carrying books"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Those given the Torah who do not act on it.",
+          "source": {
+            "text": "Qur'an 62:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-light-in-a-niche",
+          "canonical": "Light in a niche",
+          "variants": [
+            "Niche",
+            "Lamp",
+            "Light",
+            "Verse of light",
+            "Glass like a star"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"His light is like a niche within which is a lamp…\"",
+          "source": {
+            "text": "Qur'an 24:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-a-mirage",
+          "canonical": "A mirage",
+          "variants": [
+            "Mirage",
+            "Sarab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The deeds of disbelievers are like a mirage in a desert.",
+          "source": {
+            "text": "Qur'an 24:39",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-ashes-in-the-wind",
+          "canonical": "Ashes in the wind",
+          "variants": [
+            "Ashes",
+            "Ashes in the wind"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Deeds blown away like ashes on a stormy day.",
+          "source": {
+            "text": "Qur'an 14:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-a-panting-dog",
+          "canonical": "A panting dog",
+          "variants": [
+            "Dog",
+            "Panting dog"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One who abandoned Allah's signs: whether chased or left, it pants.",
+          "source": {
+            "text": "Qur'an 7:176",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-a-gnat",
+          "canonical": "A gnat",
+          "variants": [
+            "Gnat",
+            "Mosquito",
+            "Baudah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Allah is not shy to give the example of a gnat.\"",
+          "source": {
+            "text": "Qur'an 2:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-a-fly",
+          "canonical": "A fly",
+          "variants": [
+            "Fly",
+            "Flies"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "All their idols together could not create a fly.",
+          "source": {
+            "text": "Qur'an 22:73",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-an-evil-tree",
+          "canonical": "An evil tree",
+          "variants": [
+            "Bad tree",
+            "Evil tree",
+            "Uprooted tree"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"A bad word is like a bad tree, uprooted from the earth.\"",
+          "source": {
+            "text": "Qur'an 14:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-eating-a-dead-brothers-flesh",
+          "canonical": "Eating a dead brother's flesh",
+          "variants": [
+            "Eating flesh",
+            "Dead brother",
+            "Backbiting"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Backbiting is like eating the flesh of your dead brother.",
+          "source": {
+            "text": "Qur'an 49:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-rain-on-a-smooth-rock",
+          "canonical": "Rain on a smooth rock",
+          "variants": [
+            "Rock",
+            "Smooth rock",
+            "Dust on a rock",
+            "Rain on a rock"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Charity done to show off is like dust on a rock washed away by rain.",
+          "source": {
+            "text": "Qur'an 2:264",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-a-garden-on-a-hill",
+          "canonical": "A garden on a hill",
+          "variants": [
+            "Garden on a hill",
+            "Garden",
+            "Hill"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Charity for Allah's pleasure is like a garden on high ground.",
+          "source": {
+            "text": "Qur'an 2:265",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-foam-on-a-torrent",
+          "canonical": "Foam on a torrent",
+          "variants": [
+            "Foam",
+            "Scum",
+            "Torrent",
+            "Froth"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Falsehood is like foam that passes away; what benefits people remains.",
+          "source": {
+            "text": "Qur'an 13:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-a-woman-who-undid-her-yarn",
+          "canonical": "A woman who undid her yarn",
+          "variants": [
+            "Yarn",
+            "Spinning",
+            "Woman who undid her yarn",
+            "Thread"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Do not be like her who unravelled her spinning after it was strong.",
+          "source": {
+            "text": "Qur'an 16:92",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-propped-up-timber",
+          "canonical": "Propped-up timber",
+          "variants": [
+            "Timber",
+            "Propped up wood",
+            "Wood",
+            "Logs"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The hypocrites are like pieces of wood propped up.",
+          "source": {
+            "text": "Qur'an 63:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-parables-one-who-kindled-a-fire",
+          "canonical": "One who kindled a fire",
+          "variants": [
+            "Fire",
+            "Kindled a fire",
+            "Lighting a fire"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The hypocrites lit a fire, then Allah took away their light.",
+          "source": {
+            "text": "Qur'an 2:17",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1025-prophet-loved",
+      "number": 2,
+      "prompt": "Name something the Prophet ﷺ is reported to have loved.",
+      "answers": [
+        {
+          "id": "d1025-prophet-loved-prayer",
+          "canonical": "Prayer",
+          "variants": [
+            "Prayer",
+            "Salah",
+            "Coolness of my eyes"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The coolness of my eyes has been placed in prayer.\"",
+          "source": {
+            "text": "Sunan an-Nasa'i 3939",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-perfume",
+          "canonical": "Perfume",
+          "variants": [
+            "Perfume",
+            "Scent",
+            "Fragrance",
+            "Itr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Women and perfume have been made beloved to me.\"",
+          "source": {
+            "text": "Sunan an-Nasa'i 3939",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-his-family",
+          "canonical": "His family",
+          "variants": [
+            "Wives",
+            "Family",
+            "Women",
+            "His wives"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His wives and children; he was the best to his family.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3895",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-honey-and-sweet-things",
+          "canonical": "Honey and sweet things",
+          "variants": [
+            "Honey",
+            "Sweets",
+            "Sweet things",
+            "Halwa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He loved sweets and honey.",
+          "source": {
+            "text": "Sahih al-Bukhari 5431",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-al-hasan-and-al-husayn",
+          "canonical": "Al-Hasan and al-Husayn",
+          "variants": [
+            "Hasan",
+            "Husayn",
+            "Grandchildren",
+            "Hasan and Husayn"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"O Allah, I love them, so love them.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3747",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-aishah",
+          "canonical": "'A'ishah",
+          "variants": [
+            "Aisha",
+            "Aishah",
+            "Ayesha"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Asked who was most beloved to him: \"'A'ishah.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3662",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-abu-bakr",
+          "canonical": "Abu Bakr",
+          "variants": [
+            "Abu Bakr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and of men, her father.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3662",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-mount-uhud",
+          "canonical": "Mount Uhud",
+          "variants": [
+            "Uhud",
+            "Mount Uhud"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Uhud is a mountain that loves us and we love it.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 4083",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-madinah",
+          "canonical": "Madinah",
+          "variants": [
+            "Madinah",
+            "Medina"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"O Allah, make Madinah beloved to us as You made Makkah, or more.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1889",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-starting-with-the-right",
+          "canonical": "Starting with the right",
+          "variants": [
+            "Right side",
+            "Starting with the right",
+            "Right hand"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He liked to start with the right in everything good.",
+          "source": {
+            "text": "Sahih al-Bukhari 168",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-pumpkin",
+          "canonical": "Pumpkin (gourd)",
+          "variants": [
+            "Pumpkin",
+            "Gourd",
+            "Dubba",
+            "Squash"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He would pick out the pieces of gourd from the dish.",
+          "source": {
+            "text": "Sahih al-Bukhari 5379",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-a-good-omen",
+          "canonical": "A good omen",
+          "variants": [
+            "Good omen",
+            "Optimism",
+            "Fal"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"I like good omens — a good word.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5756",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-consistent-deeds",
+          "canonical": "Consistent deeds",
+          "variants": [
+            "Consistency",
+            "Consistent deeds",
+            "Small regular deeds"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The most beloved deeds to Allah are the most consistent, even if small.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6464",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-the-shoulder-of-meat",
+          "canonical": "The shoulder of meat",
+          "variants": [
+            "Shoulder",
+            "Foreleg",
+            "Shoulder of lamb",
+            "Meat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The foreleg was his favourite cut.",
+          "source": {
+            "text": "Sahih al-Bukhari 3340",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-prophet-loved-usamah-ibn-zayd",
+          "canonical": "Usamah ibn Zayd",
+          "variants": [
+            "Usamah",
+            "Usama",
+            "Usamah ibn Zayd"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"The beloved son of the beloved.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3730",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1025-capitals",
+      "number": 3,
+      "prompt": "Name the capital city of a Muslim-majority country.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Makkah",
+            "Mecca",
+            "Madinah",
+            "Medina",
+            "Jeddah",
+            "Istanbul",
+            "Dubai",
+            "Karachi",
+            "Lahore",
+            "Casablanca"
+          ],
+          "message": "Famous city — but not the capital. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1025-capitals-riyadh",
+          "canonical": "Riyadh",
+          "variants": [
+            "Riyadh",
+            "Riyad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Saudi Arabia.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-cairo",
+          "canonical": "Cairo",
+          "variants": [
+            "Cairo",
+            "Al-Qahirah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Egypt.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-islamabad",
+          "canonical": "Islamabad",
+          "variants": [
+            "Islamabad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Pakistan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-ankara",
+          "canonical": "Ankara",
+          "variants": [
+            "Ankara"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Turkey.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-jakarta",
+          "canonical": "Jakarta",
+          "variants": [
+            "Jakarta",
+            "Nusantara"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Indonesia (moving to Nusantara).",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-dhaka",
+          "canonical": "Dhaka",
+          "variants": [
+            "Dhaka",
+            "Dacca"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Bangladesh.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-tehran",
+          "canonical": "Tehran",
+          "variants": [
+            "Tehran",
+            "Teheran"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Iran.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-kuala-lumpur",
+          "canonical": "Kuala Lumpur",
+          "variants": [
+            "Kuala Lumpur",
+            "KL"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Malaysia.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-abu-dhabi",
+          "canonical": "Abu Dhabi",
+          "variants": [
+            "Abu Dhabi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "United Arab Emirates.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-doha",
+          "canonical": "Doha",
+          "variants": [
+            "Doha"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Qatar.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-amman",
+          "canonical": "Amman",
+          "variants": [
+            "Amman"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Jordan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-baghdad",
+          "canonical": "Baghdad",
+          "variants": [
+            "Baghdad"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Iraq.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-damascus",
+          "canonical": "Damascus",
+          "variants": [
+            "Damascus"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Syria.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-kabul",
+          "canonical": "Kabul",
+          "variants": [
+            "Kabul"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Afghanistan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-rabat",
+          "canonical": "Rabat",
+          "variants": [
+            "Rabat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Morocco.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-algiers",
+          "canonical": "Algiers",
+          "variants": [
+            "Algiers"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Algeria.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-tunis",
+          "canonical": "Tunis",
+          "variants": [
+            "Tunis"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Tunisia.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-muscat",
+          "canonical": "Muscat",
+          "variants": [
+            "Muscat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Oman.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-kuwait-city",
+          "canonical": "Kuwait City",
+          "variants": [
+            "Kuwait City",
+            "Kuwait"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Kuwait.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-manama",
+          "canonical": "Manama",
+          "variants": [
+            "Manama"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Bahrain.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-sanaa",
+          "canonical": "Sana'a",
+          "variants": [
+            "Sanaa",
+            "Sana'a",
+            "Sana"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Yemen.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-tripoli",
+          "canonical": "Tripoli",
+          "variants": [
+            "Tripoli"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Libya.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-khartoum",
+          "canonical": "Khartoum",
+          "variants": [
+            "Khartoum"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Sudan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-mogadishu",
+          "canonical": "Mogadishu",
+          "variants": [
+            "Mogadishu"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Somalia.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-tashkent",
+          "canonical": "Tashkent",
+          "variants": [
+            "Tashkent"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Uzbekistan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-baku",
+          "canonical": "Baku",
+          "variants": [
+            "Baku"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Azerbaijan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-astana",
+          "canonical": "Astana",
+          "variants": [
+            "Astana",
+            "Nur-Sultan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Kazakhstan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-dakar",
+          "canonical": "Dakar",
+          "variants": [
+            "Dakar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Senegal.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-beirut",
+          "canonical": "Beirut",
+          "variants": [
+            "Beirut"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Lebanon.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-mal",
+          "canonical": "Malé",
+          "variants": [
+            "Male",
+            "Malé"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Maldives.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-bandar-seri-begawan",
+          "canonical": "Bandar Seri Begawan",
+          "variants": [
+            "Bandar Seri Begawan",
+            "BSB"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Brunei.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-nouakchott",
+          "canonical": "Nouakchott",
+          "variants": [
+            "Nouakchott"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Mauritania.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-dushanbe",
+          "canonical": "Dushanbe",
+          "variants": [
+            "Dushanbe"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Tajikistan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-bishkek",
+          "canonical": "Bishkek",
+          "variants": [
+            "Bishkek"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Kyrgyzstan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-ashgabat",
+          "canonical": "Ashgabat",
+          "variants": [
+            "Ashgabat"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Turkmenistan.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-sarajevo",
+          "canonical": "Sarajevo",
+          "variants": [
+            "Sarajevo"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Bosnia and Herzegovina.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-tirana",
+          "canonical": "Tirana",
+          "variants": [
+            "Tirana"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Albania.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-pristina",
+          "canonical": "Pristina",
+          "variants": [
+            "Pristina",
+            "Prishtina"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Kosovo.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-djibouti",
+          "canonical": "Djibouti",
+          "variants": [
+            "Djibouti"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Djibouti.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-moroni",
+          "canonical": "Moroni",
+          "variants": [
+            "Moroni"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Comoros.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-niamey",
+          "canonical": "Niamey",
+          "variants": [
+            "Niamey"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Niger.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-bamako",
+          "canonical": "Bamako",
+          "variants": [
+            "Bamako"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Mali.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-ndjamena",
+          "canonical": "N'Djamena",
+          "variants": [
+            "N'Djamena",
+            "Ndjamena"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Chad.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-conakry",
+          "canonical": "Conakry",
+          "variants": [
+            "Conakry"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Guinea.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-capitals-banjul",
+          "canonical": "Banjul",
+          "variants": [
+            "Banjul"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Gambia.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1025-hamzah",
+      "number": 4,
+      "prompt": "Name something from the life of Hamzah ibn 'Abd al-Muttalib (RA).",
+      "answers": [
+        {
+          "id": "d1025-hamzah-the-lion-of-allah",
+          "canonical": "The Lion of Allah",
+          "variants": [
+            "Lion of Allah",
+            "Asadullah",
+            "Lion"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Asadullah — his famous title.",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak 4885",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-martyred-at-uhud",
+          "canonical": "Martyred at Uhud",
+          "variants": [
+            "Uhud",
+            "Battle of Uhud",
+            "Martyred at Uhud"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He was killed at the Battle of Uhud.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-uncle-of-the-prophet",
+          "canonical": "Uncle of the Prophet ﷺ",
+          "variants": [
+            "Uncle",
+            "Uncle of the Prophet",
+            "Prophet's uncle"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His uncle — and only a little older than him.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-wahshi",
+          "canonical": "Wahshi",
+          "variants": [
+            "Wahshi",
+            "Spear",
+            "Wahshi ibn Harb"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Abyssinian slave who killed him with a spear.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-master-of-the-martyrs",
+          "canonical": "Master of the martyrs",
+          "variants": [
+            "Sayyid al-Shuhada",
+            "Master of the martyrs",
+            "Leader of the martyrs"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Sayyid al-Shuhada'.",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak 4884",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-striking-abu-jahl-with-his-bow",
+          "canonical": "Striking Abu Jahl with his bow",
+          "variants": [
+            "Abu Jahl",
+            "Hit Abu Jahl",
+            "Bow",
+            "Struck Abu Jahl"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He struck Abu Jahl for insulting the Prophet ﷺ, then declared his Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-duel-at-badr",
+          "canonical": "Duel at Badr",
+          "variants": [
+            "Badr",
+            "Duel",
+            "Battle of Badr",
+            "Single combat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He fought in the single combats before Badr.",
+          "source": {
+            "text": "Sunan Abi Dawud 2665",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-hind-bint-utbah",
+          "canonical": "Hind bint 'Utbah",
+          "variants": [
+            "Hind",
+            "Hind bint Utbah",
+            "Liver"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "She mutilated his body after Uhud.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-milk-brother",
+          "canonical": "Milk brother",
+          "variants": [
+            "Milk brother",
+            "Foster brother",
+            "Thuwaybah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He was nursed by Thuwaybah, like the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari 5101",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-a-hunter",
+          "canonical": "A hunter",
+          "variants": [
+            "Hunter",
+            "Hunting",
+            "Archer"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He was returning from hunting when he heard of Abu Jahl's insult.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-buried-at-uhud",
+          "canonical": "Buried at Uhud",
+          "variants": [
+            "Buried at Uhud",
+            "Grave at Uhud",
+            "Uhud martyrs"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He is buried at the foot of Uhud with 'Abdullah ibn Jahsh.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-hamzah-the-first-banner",
+          "canonical": "The first banner",
+          "variants": [
+            "First banner",
+            "First expedition",
+            "Sif al-Bahr"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He led the first expedition the Prophet ﷺ sent out.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1025-heart-diseases",
+      "number": 5,
+      "prompt": "Name a disease of the heart (a bad inner quality).",
+      "answers": [
+        {
+          "id": "d1025-heart-diseases-arrogance",
+          "canonical": "Arrogance",
+          "variants": [
+            "Arrogance",
+            "Pride",
+            "Kibr",
+            "Takabbur"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"No one with an atom's weight of arrogance will enter Paradise.\"",
+          "source": {
+            "text": "Sahih Muslim 91",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-envy",
+          "canonical": "Envy",
+          "variants": [
+            "Envy",
+            "Jealousy",
+            "Hasad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Beware of envy — it eats good deeds as fire eats wood.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 4903",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-showing-off",
+          "canonical": "Showing off",
+          "variants": [
+            "Showing off",
+            "Riya",
+            "Riyaa",
+            "Ostentation"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"The minor shirk: showing off.\"",
+          "source": {
+            "text": "Musnad Ahmad 23630",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-hypocrisy",
+          "canonical": "Hypocrisy",
+          "variants": [
+            "Hypocrisy",
+            "Nifaq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Saying with the tongue what is not in the heart.",
+          "source": {
+            "text": "Qur'an 2:10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-greed",
+          "canonical": "Greed",
+          "variants": [
+            "Greed",
+            "Covetousness",
+            "Hirs",
+            "Tama"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Covetousness and love of wealth.",
+          "source": {
+            "text": "Qur'an 102:1-2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-hatred",
+          "canonical": "Hatred",
+          "variants": [
+            "Hatred",
+            "Hate",
+            "Rancour",
+            "Grudge",
+            "Ghill",
+            "Hiqd"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Do not hate one another.\"",
+          "source": {
+            "text": "Sahih Muslim 2563",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-love-of-this-world",
+          "canonical": "Love of this world",
+          "variants": [
+            "Love of the dunya",
+            "Love of this world",
+            "Worldliness",
+            "Hubb al-dunya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Love of the dunya over the Hereafter.",
+          "source": {
+            "text": "Qur'an 87:16-17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-stinginess",
+          "canonical": "Stinginess",
+          "variants": [
+            "Stinginess",
+            "Miserliness",
+            "Bukhl",
+            "Shuhh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Whoever is saved from the stinginess of his soul — they are the successful.\"",
+          "source": {
+            "text": "Qur'an 59:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-self-admiration",
+          "canonical": "Self-admiration",
+          "variants": [
+            "Ujb",
+            "Self-admiration",
+            "Vanity",
+            "Conceit"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "'Ujb — being pleased with oneself.",
+          "source": {
+            "text": "Shu'ab al-Iman (al-Bayhaqi)",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-heedlessness",
+          "canonical": "Heedlessness",
+          "variants": [
+            "Heedlessness",
+            "Ghaflah",
+            "Ghafla",
+            "Negligence"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Do not be among the heedless.\"",
+          "source": {
+            "text": "Qur'an 7:205",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-bad-suspicion",
+          "canonical": "Bad suspicion",
+          "variants": [
+            "Suspicion",
+            "Bad thoughts",
+            "Su al-zann"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Beware of suspicion — it is the most false of speech.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6066",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-anger",
+          "canonical": "Anger",
+          "variants": [
+            "Anger",
+            "Ghadab",
+            "Rage"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Do not become angry.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6116",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-doubt",
+          "canonical": "Doubt",
+          "variants": [
+            "Doubt",
+            "Shakk",
+            "Wavering"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"In their hearts is a disease\" — doubt and wavering.",
+          "source": {
+            "text": "Qur'an 2:10; 9:45",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-heart-diseases-hardness-of-heart",
+          "canonical": "Hardness of heart",
+          "variants": [
+            "Hard heart",
+            "Hardness of heart",
+            "Qaswah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Then your hearts hardened, becoming like stones.\"",
+          "source": {
+            "text": "Qur'an 2:74",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1025-newborn",
+      "number": 6,
+      "prompt": "Name a sunnah or custom when a baby is born.",
+      "answers": [
+        {
+          "id": "d1025-newborn-aqiqah",
+          "canonical": "'Aqiqah",
+          "variants": [
+            "Aqiqah",
+            "Aqiqa",
+            "Akika",
+            "Sacrifice"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Sacrificing animals on the seventh day.",
+          "source": {
+            "text": "Sunan Abi Dawud 2838",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-newborn-choosing-a-good-name",
+          "canonical": "Choosing a good name",
+          "variants": [
+            "Naming",
+            "Good name",
+            "Choosing a name",
+            "Name"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The most beloved names to Allah are 'Abdullah and 'Abd al-Rahman.\"",
+          "source": {
+            "text": "Sahih Muslim 2132",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-newborn-tahnik",
+          "canonical": "Tahnik",
+          "variants": [
+            "Tahnik",
+            "Date",
+            "Chewed date",
+            "Tahneek"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Rubbing a chewed date on the baby's palate.",
+          "source": {
+            "text": "Sahih al-Bukhari 5467",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-newborn-shaving-the-head",
+          "canonical": "Shaving the head",
+          "variants": [
+            "Shaving the head",
+            "Shaving hair",
+            "Haircut"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The baby's head is shaved on the seventh day.",
+          "source": {
+            "text": "Sunan Abi Dawud 2838",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-newborn-adhan-in-the-ear",
+          "canonical": "Adhan in the ear",
+          "variants": [
+            "Adhan",
+            "Adhan in the ear",
+            "Call to prayer in the ear",
+            "Iqamah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet ﷺ called the adhan in al-Hasan's ear.",
+          "source": {
+            "text": "Sunan Abi Dawud 5105",
+            "status": "needs-review"
+          },
+          "note": "Some scholars grade the hadith weak."
+        },
+        {
+          "id": "d1025-newborn-charity-of-the-hairs-weight-in-silver",
+          "canonical": "Charity of the hair's weight in silver",
+          "variants": [
+            "Silver",
+            "Weight of hair in silver",
+            "Charity",
+            "Sadaqah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Fatimah gave the weight of al-Hasan's hair in silver.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 1519",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-newborn-circumcision",
+          "canonical": "Circumcision",
+          "variants": [
+            "Circumcision",
+            "Khitan",
+            "Khatna"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "For boys — part of the fitrah.",
+          "source": {
+            "text": "Sahih al-Bukhari 5889",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-newborn-the-seventh-day",
+          "canonical": "The seventh day",
+          "variants": [
+            "Seventh day",
+            "7th day",
+            "Day seven"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Naming, shaving and 'aqiqah on the seventh day.",
+          "source": {
+            "text": "Sunan Abi Dawud 2838",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-newborn-making-dua-for-the-baby",
+          "canonical": "Making du'a for the baby",
+          "variants": [
+            "Dua",
+            "Barakah",
+            "Praying for the baby"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The Prophet ﷺ made du'a for blessing for the babies brought to him.",
+          "source": {
+            "text": "Sahih al-Bukhari 5467",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-newborn-two-sheep-for-a-boy-one-for-a-girl",
+          "canonical": "Two sheep for a boy, one for a girl",
+          "variants": [
+            "Two sheep",
+            "One sheep",
+            "Two goats"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The usual number of animals for 'aqiqah.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 1513",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-newborn-congratulating-the-parents",
+          "canonical": "Congratulating the parents",
+          "variants": [
+            "Congratulations",
+            "Congratulating",
+            "Barakallah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Wishing them well and blessing in the child.",
+          "source": {
+            "text": "Al-Adhkar (al-Nawawi)",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ],
+  "bonus": [
+    {
+      "id": "d1025-bonus-muminun",
+      "number": 7,
+      "prompt": "Name a quality of the believers at the start of Surah al-Mu'minun.",
+      "answers": [
+        {
+          "id": "d1025-bonus-muminun-humility-in-prayer",
+          "canonical": "Humility in prayer",
+          "variants": [
+            "Khushu",
+            "Humble in prayer",
+            "Humility in prayer",
+            "Concentration in prayer"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Those who are humble in their prayers.\"",
+          "source": {
+            "text": "Qur'an 23:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-muminun-turning-away-from-vain-talk",
+          "canonical": "Turning away from vain talk",
+          "variants": [
+            "Avoid vain talk",
+            "Turning away from idle talk",
+            "No laghw",
+            "Avoiding useless talk"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Those who turn away from idle talk.\"",
+          "source": {
+            "text": "Qur'an 23:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-muminun-paying-zakah",
+          "canonical": "Paying zakah",
+          "variants": [
+            "Zakah",
+            "Zakat",
+            "Paying zakah",
+            "Charity"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Those who are active in giving zakah.\"",
+          "source": {
+            "text": "Qur'an 23:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-muminun-guarding-their-chastity",
+          "canonical": "Guarding their chastity",
+          "variants": [
+            "Chastity",
+            "Guarding chastity",
+            "Modesty",
+            "Guarding private parts"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Those who guard their private parts.\"",
+          "source": {
+            "text": "Qur'an 23:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-muminun-keeping-trusts-and-promises",
+          "canonical": "Keeping trusts and promises",
+          "variants": [
+            "Trusts",
+            "Promises",
+            "Keeping promises",
+            "Amanah",
+            "Trustworthy"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Those who are faithful to their trusts and promises.\"",
+          "source": {
+            "text": "Qur'an 23:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-muminun-guarding-their-prayers",
+          "canonical": "Guarding their prayers",
+          "variants": [
+            "Guarding prayers",
+            "Maintaining prayers",
+            "Praying on time"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Those who carefully maintain their prayers.\"",
+          "source": {
+            "text": "Qur'an 23:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-muminun-inheriting-firdaws",
+          "canonical": "Inheriting Firdaws",
+          "variants": [
+            "Firdaws",
+            "Firdous",
+            "Inheriting Paradise",
+            "Inheritors"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"They are the inheritors who will inherit al-Firdaws.\"",
+          "source": {
+            "text": "Qur'an 23:10-11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-muminun-success",
+          "canonical": "Success",
+          "variants": [
+            "Success",
+            "Falah",
+            "Successful",
+            "Aflaha"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Successful indeed are the believers.\"",
+          "source": {
+            "text": "Qur'an 23:1",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1025-bonus-salah-conditions",
+      "number": 8,
+      "prompt": "Name a condition that must be met before the prayer is valid.",
+      "answers": [
+        {
+          "id": "d1025-bonus-salah-conditions-wudu",
+          "canonical": "Wudu",
+          "variants": [
+            "Wudu",
+            "Purity",
+            "Ablution",
+            "Taharah",
+            "Being clean"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Being in a state of purity.",
+          "source": {
+            "text": "Qur'an 5:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-salah-conditions-facing-the-qiblah",
+          "canonical": "Facing the qiblah",
+          "variants": [
+            "Qiblah",
+            "Qibla",
+            "Facing the Kaaba",
+            "Facing Makkah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Turn your face towards al-Masjid al-Haram.\"",
+          "source": {
+            "text": "Qur'an 2:144",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-salah-conditions-the-time-has-begun",
+          "canonical": "The time has begun",
+          "variants": [
+            "Time",
+            "Prayer time",
+            "Entry of the time",
+            "Waqt"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Prayer has been decreed upon the believers at fixed times.\"",
+          "source": {
+            "text": "Qur'an 4:103",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-salah-conditions-covering-the-awrah",
+          "canonical": "Covering the 'awrah",
+          "variants": [
+            "Covering the awrah",
+            "Awrah",
+            "Covering",
+            "Proper clothing"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Covering what must be covered.",
+          "source": {
+            "text": "Qur'an 7:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-salah-conditions-intention",
+          "canonical": "Intention",
+          "variants": [
+            "Intention",
+            "Niyyah",
+            "Niyah",
+            "Niyat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Actions are only by intentions.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-salah-conditions-a-clean-place-and-clothes",
+          "canonical": "A clean place and clothes",
+          "variants": [
+            "Clean place",
+            "Clean clothes",
+            "No najasah",
+            "Clean body",
+            "Free from impurity"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Free of impurity (najasah).",
+          "source": {
+            "text": "Qur'an 74:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1025-bonus-salah-conditions-being-a-muslim",
+          "canonical": "Being a Muslim",
+          "variants": [
+            "Islam",
+            "Being Muslim",
+            "Muslim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Prayer is only accepted from a Muslim.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-salah-conditions-sanity-and-discernment",
+          "canonical": "Sanity and discernment",
+          "variants": [
+            "Sanity",
+            "Sound mind",
+            "Discernment",
+            "Tamyiz",
+            "Aql"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Being of sound mind and old enough to understand.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1025-bonus-aqabah",
+      "number": 9,
+      "prompt": "Name a Companion from Madinah who gave the Pledge at al-'Aqabah.",
+      "answers": [
+        {
+          "id": "d1025-bonus-aqabah-asad-ibn-zurarah",
+          "canonical": "As'ad ibn Zurarah",
+          "variants": [
+            "Asad ibn Zurarah",
+            "As'ad ibn Zurara",
+            "Asad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Among the very first from Madinah to accept Islam.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-sad-ibn-ubadah",
+          "canonical": "Sa'd ibn 'Ubadah",
+          "variants": [
+            "Sad ibn Ubadah",
+            "Saad ibn Ubadah",
+            "Sa'd ibn Ubada"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Chief of the Khazraj.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-kab-ibn-malik",
+          "canonical": "Ka'b ibn Malik",
+          "variants": [
+            "Kab ibn Malik",
+            "Ka'b ibn Malik"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He narrated the story of the second pledge.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-ubadah-ibn-al-samit",
+          "canonical": "'Ubadah ibn al-Samit",
+          "variants": [
+            "Ubadah ibn al-Samit",
+            "Ubada ibn Samit",
+            "Ubadah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He narrated the words of the pledge.",
+          "source": {
+            "text": "Sahih al-Bukhari 18",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-abdullah-ibn-rawahah",
+          "canonical": "'Abdullah ibn Rawahah",
+          "variants": [
+            "Abdullah ibn Rawahah",
+            "Ibn Rawaha",
+            "Ibn Rawahah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Poet, later killed at Mu'tah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-usayd-ibn-hudayr",
+          "canonical": "Usayd ibn Hudayr",
+          "variants": [
+            "Usayd ibn Hudayr",
+            "Usaid ibn Hudair",
+            "Usayd"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "One of the twelve leaders (nuqaba').",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-jabir-ibn-abdullah",
+          "canonical": "Jabir ibn 'Abdullah",
+          "variants": [
+            "Jabir",
+            "Jabir ibn Abdullah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He went to the second pledge as a boy with his father.",
+          "source": {
+            "text": "Sahih al-Bukhari 3890",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-al-bara-ibn-marur",
+          "canonical": "Al-Bara' ibn Ma'rur",
+          "variants": [
+            "Bara ibn Marur",
+            "Al-Bara' ibn Ma'rur",
+            "Bara"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The first to give the pledge; he died before the Hijrah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-nusaybah-bint-kab",
+          "canonical": "Nusaybah bint Ka'b",
+          "variants": [
+            "Nusaybah",
+            "Nusayba",
+            "Umm Umarah",
+            "Umm Ammara"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "One of the two women at the second pledge.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-muadh-ibn-jabal",
+          "canonical": "Mu'adh ibn Jabal",
+          "variants": [
+            "Muadh",
+            "Mu'adh ibn Jabal",
+            "Muaz"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Present at the second pledge as a young man.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-rafi-ibn-malik",
+          "canonical": "Rafi' ibn Malik",
+          "variants": [
+            "Rafi ibn Malik",
+            "Rafi' ibn Malik"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "One of the twelve leaders.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-abu-al-haytham-ibn-al-tayyihan",
+          "canonical": "Abu al-Haytham ibn al-Tayyihan",
+          "variants": [
+            "Abu al-Haytham",
+            "Abul Haytham",
+            "Ibn al-Tayyihan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "At both pledges.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-abdullah-ibn-amr-ibn-haram",
+          "canonical": "'Abdullah ibn 'Amr ibn Haram",
+          "variants": [
+            "Abdullah ibn Amr ibn Haram",
+            "Father of Jabir"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Father of Jabir; martyred at Uhud.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1025-bonus-aqabah-sad-ibn-al-rabi",
+          "canonical": "Sa'd ibn al-Rabi'",
+          "variants": [
+            "Sa'd ibn al-Rabi'",
+            "Sad ibn al-Rabi",
+            "Saad ibn Rabi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "One of the twelve leaders; martyred at Uhud.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        }
+      ]
+    },
+    {
+      "id": "d1025-bonus-nawawi",
+      "number": 10,
+      "prompt": "Name a book written by Imam al-Nawawi.",
+      "answers": [
+        {
+          "id": "d1025-bonus-nawawi-riyad-al-salihin",
+          "canonical": "Riyad al-Salihin",
+          "variants": [
+            "Riyad al-Salihin",
+            "Riyadh us Saliheen",
+            "Riyadus Salihin",
+            "Gardens of the Righteous"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Gardens of the Righteous — hadith on character and worship.",
+          "source": {
+            "text": "Al-Nawawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-nawawi-the-forty-hadith",
+          "canonical": "The Forty Hadith",
+          "variants": [
+            "Forty Hadith",
+            "40 Hadith",
+            "Arba'in",
+            "Arbain Nawawi",
+            "Al-Arba'in"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Al-Arba'in al-Nawawiyyah.",
+          "source": {
+            "text": "Al-Nawawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-nawawi-al-adhkar",
+          "canonical": "Al-Adhkar",
+          "variants": [
+            "Adhkar",
+            "Al-Adhkar",
+            "Azkar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A collection of du'as and remembrance.",
+          "source": {
+            "text": "Al-Nawawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-nawawi-commentary-on-sahih-muslim",
+          "canonical": "Commentary on Sahih Muslim",
+          "variants": [
+            "Sharh Sahih Muslim",
+            "Commentary on Muslim",
+            "Sharh Muslim"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Al-Minhaj Sharh Sahih Muslim.",
+          "source": {
+            "text": "Al-Nawawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-nawawi-al-majmu",
+          "canonical": "Al-Majmu'",
+          "variants": [
+            "Majmu",
+            "Al-Majmu'",
+            "Al Majmoo"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His great work of Shafi'i fiqh.",
+          "source": {
+            "text": "Al-Nawawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-nawawi-minhaj-al-talibin",
+          "canonical": "Minhaj al-Talibin",
+          "variants": [
+            "Minhaj al-Talibin",
+            "Minhaj",
+            "Minhaj at-Talibin"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A core Shafi'i manual.",
+          "source": {
+            "text": "Al-Nawawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-nawawi-al-tibyan",
+          "canonical": "Al-Tibyan",
+          "variants": [
+            "Tibyan",
+            "Al-Tibyan",
+            "At-Tibyan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "On the etiquette of the people of the Qur'an.",
+          "source": {
+            "text": "Al-Nawawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-nawawi-rawdat-al-talibin",
+          "canonical": "Rawdat al-Talibin",
+          "variants": [
+            "Rawdat al-Talibin",
+            "Rawdah",
+            "Rawda"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A major Shafi'i reference.",
+          "source": {
+            "text": "Al-Nawawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-nawawi-al-taqrib",
+          "canonical": "Al-Taqrib",
+          "variants": [
+            "Taqrib",
+            "Al-Taqrib",
+            "At-Taqrib"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "On the sciences of hadith.",
+          "source": {
+            "text": "Al-Nawawi",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-nawawi-bustan-al-arifin",
+          "canonical": "Bustan al-'Arifin",
+          "variants": [
+            "Bustan al-Arifin",
+            "Bustan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Garden of the Knowers.",
+          "source": {
+            "text": "Al-Nawawi",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1025-bonus-five-before-five",
+      "number": 11,
+      "prompt": "Name one of the 'five before five' the Prophet ﷺ told us to take advantage of.",
+      "answers": [
+        {
+          "id": "d1025-bonus-five-before-five-youth-before-old-age",
+          "canonical": "Youth before old age",
+          "variants": [
+            "Youth",
+            "Youth before old age",
+            "Young"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Your youth before your old age.\"",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak 7846",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-five-before-five-health-before-sickness",
+          "canonical": "Health before sickness",
+          "variants": [
+            "Health",
+            "Health before sickness",
+            "Healthy"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Your health before your sickness.\"",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak 7846",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-five-before-five-wealth-before-poverty",
+          "canonical": "Wealth before poverty",
+          "variants": [
+            "Wealth",
+            "Wealth before poverty",
+            "Riches"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Your wealth before your poverty.\"",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak 7846",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-five-before-five-free-time-before-busyness",
+          "canonical": "Free time before busyness",
+          "variants": [
+            "Free time",
+            "Free time before busyness",
+            "Spare time",
+            "Leisure"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Your free time before you are busy.\"",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak 7846",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-five-before-five-life-before-death",
+          "canonical": "Life before death",
+          "variants": [
+            "Life",
+            "Life before death",
+            "Being alive"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Your life before your death.\"",
+          "source": {
+            "text": "Al-Hakim, al-Mustadrak 7846",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1025-bonus-hadith-animals",
+      "number": 12,
+      "prompt": "Name an animal mentioned in the Hadith but not named in the Qur'an.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Camel",
+            "Horse",
+            "Donkey",
+            "Dog",
+            "Ant",
+            "Bee",
+            "Spider",
+            "Snake",
+            "Cow",
+            "Sheep",
+            "Lion",
+            "Elephant",
+            "Crow",
+            "Wolf",
+            "Hoopoe"
+          ],
+          "message": "That one is named in the Qur'an. Try an animal from the Hadith!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1025-bonus-hadith-animals-cat",
+          "canonical": "Cat",
+          "variants": [
+            "Cat",
+            "Cats",
+            "Kitten",
+            "Hirrah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A woman entered Hell for a cat she locked up; cats are \"among those who go around among you\".",
+          "source": {
+            "text": "Sahih al-Bukhari 3318",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-hadith-animals-rooster",
+          "canonical": "Rooster",
+          "variants": [
+            "Rooster",
+            "Cockerel",
+            "Cock",
+            "Chicken"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"When you hear the rooster crow, ask Allah of His bounty — it has seen an angel.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3303",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-hadith-animals-scorpion",
+          "canonical": "Scorpion",
+          "variants": [
+            "Scorpion"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Among the harmful creatures that may be killed even in the Haram.",
+          "source": {
+            "text": "Sahih al-Bukhari 1829",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-hadith-animals-gecko",
+          "canonical": "Gecko",
+          "variants": [
+            "Gecko",
+            "Lizard",
+            "Wazagh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "It blew on the fire of Ibrahim.",
+          "source": {
+            "text": "Sahih al-Bukhari 3359",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-hadith-animals-mouse",
+          "canonical": "Mouse",
+          "variants": [
+            "Mouse",
+            "Rat",
+            "Mice"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Among the harmful creatures that may be killed in the Haram.",
+          "source": {
+            "text": "Sahih al-Bukhari 1829",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-hadith-animals-dabb",
+          "canonical": "Dabb (desert lizard)",
+          "variants": [
+            "Dabb",
+            "Desert lizard",
+            "Monitor lizard",
+            "Spiny-tailed lizard"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "It was eaten at the Prophet's ﷺ table, though he did not eat it.",
+          "source": {
+            "text": "Sahih al-Bukhari 5391",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-hadith-animals-kite",
+          "canonical": "Kite",
+          "variants": [
+            "Kite",
+            "Hidaah",
+            "Bird of prey"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A bird of prey that may be killed in the Haram.",
+          "source": {
+            "text": "Sahih al-Bukhari 1829",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-hadith-animals-hare",
+          "canonical": "Hare",
+          "variants": [
+            "Hare",
+            "Rabbit"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Anas caught a hare and a leg of it was given to the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari 2572",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-hadith-animals-shrike",
+          "canonical": "Shrike",
+          "variants": [
+            "Shrike",
+            "Surad"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "One of the creatures the Prophet ﷺ forbade killing.",
+          "source": {
+            "text": "Sunan Abi Dawud 5267",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-hadith-animals-gazelle",
+          "canonical": "Gazelle",
+          "variants": [
+            "Gazelle",
+            "Deer",
+            "Antelope"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Hunting it is forbidden in ihram.",
+          "source": {
+            "text": "Muwatta' Malik 931",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1025-bonus-hadith-animals-hyena",
+          "canonical": "Hyena",
+          "variants": [
+            "Hyena"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Asked about it, Jabir said it is game that may be eaten.",
+          "source": {
+            "text": "Sunan Abi Dawud 3801",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

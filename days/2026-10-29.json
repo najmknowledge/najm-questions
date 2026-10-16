@@ -1,0 +1,2575 @@
+{
+  "date": "2026-10-29",
+  "questions": [
+    {
+      "id": "d1029-named-people",
+      "number": 1,
+      "prompt": "Name someone the Qur'an mentions by name who was not a prophet.",
+      "answers": [
+        {
+          "id": "d1029-named-people-maryam",
+          "canonical": "Maryam",
+          "variants": [
+            "Maryam",
+            "Mary",
+            "Mariam"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The only woman named in the Qur'an.",
+          "source": {
+            "text": "Qur'an 19:16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-pharaoh",
+          "canonical": "Pharaoh",
+          "variants": [
+            "Pharaoh",
+            "Firawn",
+            "Firaun",
+            "Fir'awn"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Fir'awn, ruler of Egypt.",
+          "source": {
+            "text": "Qur'an 79:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-iblis",
+          "canonical": "Iblis",
+          "variants": [
+            "Iblis",
+            "Iblees"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He refused to prostrate to Adam.",
+          "source": {
+            "text": "Qur'an 2:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-luqman",
+          "canonical": "Luqman",
+          "variants": [
+            "Luqman",
+            "Lukman"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The wise man who advised his son.",
+          "source": {
+            "text": "Qur'an 31:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-abu-lahab",
+          "canonical": "Abu Lahab",
+          "variants": [
+            "Abu Lahab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet's ﷺ uncle and enemy.",
+          "source": {
+            "text": "Qur'an 111:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-qarun",
+          "canonical": "Qarun",
+          "variants": [
+            "Qarun",
+            "Karun",
+            "Korah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The rich man swallowed by the earth.",
+          "source": {
+            "text": "Qur'an 28:76",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-zayd",
+          "canonical": "Zayd",
+          "variants": [
+            "Zayd",
+            "Zaid",
+            "Zayd ibn Harithah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Zayd ibn Harithah — the only Companion named.",
+          "source": {
+            "text": "Qur'an 33:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-haman",
+          "canonical": "Haman",
+          "variants": [
+            "Haman"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Pharaoh's minister.",
+          "source": {
+            "text": "Qur'an 28:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-jibril",
+          "canonical": "Jibril",
+          "variants": [
+            "Jibril",
+            "Jibreel",
+            "Gabriel"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The angel of revelation.",
+          "source": {
+            "text": "Qur'an 2:97",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-jalut",
+          "canonical": "Jalut",
+          "variants": [
+            "Jalut",
+            "Goliath"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Goliath, killed by Dawud.",
+          "source": {
+            "text": "Qur'an 2:251",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-talut",
+          "canonical": "Talut",
+          "variants": [
+            "Talut",
+            "Saul"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The king chosen for Bani Isra'il.",
+          "source": {
+            "text": "Qur'an 2:247",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-dhul-qarnayn",
+          "canonical": "Dhul-Qarnayn",
+          "variants": [
+            "Dhul Qarnayn",
+            "Zulqarnain"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The righteous traveller-king.",
+          "source": {
+            "text": "Qur'an 18:83",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-mikail",
+          "canonical": "Mika'il",
+          "variants": [
+            "Mikail",
+            "Michael",
+            "Mikael"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The angel named with Jibril.",
+          "source": {
+            "text": "Qur'an 2:98",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-malik",
+          "canonical": "Malik",
+          "variants": [
+            "Malik",
+            "Keeper of Hell"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The keeper of Hell.",
+          "source": {
+            "text": "Qur'an 43:77",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-harut-and-marut",
+          "canonical": "Harut and Marut",
+          "variants": [
+            "Harut",
+            "Marut",
+            "Harut and Marut"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Two angels in Babylon.",
+          "source": {
+            "text": "Qur'an 2:102",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-as-samiri",
+          "canonical": "As-Samiri",
+          "variants": [
+            "Samiri",
+            "As-Samiri"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He made the golden calf.",
+          "source": {
+            "text": "Qur'an 20:85",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-azar",
+          "canonical": "Azar",
+          "variants": [
+            "Azar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Father of Ibrahim.",
+          "source": {
+            "text": "Qur'an 6:74",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-imran",
+          "canonical": "'Imran",
+          "variants": [
+            "Imran"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Father of Maryam.",
+          "source": {
+            "text": "Qur'an 66:12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-tubba",
+          "canonical": "Tubba'",
+          "variants": [
+            "Tubba",
+            "Tubba'"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A king of Yemen whose people were destroyed.",
+          "source": {
+            "text": "Qur'an 44:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-named-people-yajuj-and-majuj",
+          "canonical": "Ya'juj and Ma'juj",
+          "variants": [
+            "Yajuj",
+            "Majuj",
+            "Gog and Magog",
+            "Ya'juj and Ma'juj"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Gog and Magog.",
+          "source": {
+            "text": "Qur'an 18:94",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1029-paradise-deeds",
+      "number": 2,
+      "prompt": "Name a deed the Hadith says leads to Paradise.",
+      "answers": [
+        {
+          "id": "d1029-paradise-deeds-spreading-salam",
+          "canonical": "Spreading salam",
+          "variants": [
+            "Spreading salam",
+            "Salam",
+            "Greeting"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Spread salam, feed people, keep family ties and pray at night — you will enter Paradise in peace.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2485",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-feeding-people",
+          "canonical": "Feeding people",
+          "variants": [
+            "Feeding people",
+            "Feeding others",
+            "Feeding the poor"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "From the same hadith.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2485",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-praying-at-night",
+          "canonical": "Praying at night",
+          "variants": [
+            "Night prayer",
+            "Tahajjud",
+            "Praying at night",
+            "Qiyam"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and pray at night while people sleep.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2485",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-keeping-family-ties",
+          "canonical": "Keeping family ties",
+          "variants": [
+            "Family ties",
+            "Keeping ties",
+            "Silat al-rahim",
+            "Kinship"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and keep the ties of kinship.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2485",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-seeking-knowledge",
+          "canonical": "Seeking knowledge",
+          "variants": [
+            "Seeking knowledge",
+            "Knowledge",
+            "Learning"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Whoever takes a path seeking knowledge, Allah makes easy for him a path to Paradise.\"",
+          "source": {
+            "text": "Sahih Muslim 2699",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-guarding-the-tongue-and-private-parts",
+          "canonical": "Guarding the tongue and private parts",
+          "variants": [
+            "Guarding the tongue",
+            "Guarding chastity",
+            "Controlling the tongue"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Whoever guarantees me what is between his jaws and his legs, I guarantee him Paradise.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6474",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-twelve-sunnah-rakahs-a-day",
+          "canonical": "Twelve sunnah rak'ahs a day",
+          "variants": [
+            "12 rakahs",
+            "Sunnah prayers",
+            "Twelve rakahs",
+            "Rawatib"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A house is built for him in Paradise.",
+          "source": {
+            "text": "Sahih Muslim 728",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-raising-daughters-well",
+          "canonical": "Raising daughters well",
+          "variants": [
+            "Raising daughters",
+            "Daughters",
+            "Raising girls"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Whoever raises two girls till they mature will come on the Day like this\" — with his fingers together.",
+          "source": {
+            "text": "Sahih Muslim 2631",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-sayyid-al-istighfar",
+          "canonical": "Sayyid al-Istighfar",
+          "variants": [
+            "Sayyid al-Istighfar",
+            "Master of forgiveness",
+            "Allahumma anta rabbi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Saying it with certainty in the morning and dying that day — he is of the people of Paradise.",
+          "source": {
+            "text": "Sahih al-Bukhari 6306",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-building-a-mosque",
+          "canonical": "Building a mosque",
+          "variants": [
+            "Building a mosque",
+            "Mosque"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Whoever builds a mosque for Allah, Allah builds for him a house in Paradise.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 450",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-ayat-al-kursi-after-every-prayer",
+          "canonical": "Ayat al-Kursi after every prayer",
+          "variants": [
+            "Ayat al-Kursi after prayer",
+            "Ayatul Kursi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Nothing stands between him and Paradise except death.",
+          "source": {
+            "text": "Sunan an-Nasa'i al-Kubra 9928",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-caring-for-an-orphan",
+          "canonical": "Caring for an orphan",
+          "variants": [
+            "Caring for an orphan",
+            "Orphan",
+            "Sponsoring an orphan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"I and the one who cares for an orphan will be in Paradise like this.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5304",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-visiting-the-sick",
+          "canonical": "Visiting the sick",
+          "variants": [
+            "Visiting the sick",
+            "Visiting the ill"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He is in the harvest of Paradise until he returns.",
+          "source": {
+            "text": "Sahih Muslim 2568",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-good-character",
+          "canonical": "Good character",
+          "variants": [
+            "Good character",
+            "Good manners",
+            "Akhlaq"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "What most often takes people to Paradise: taqwa and good character.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2004",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-leaving-arguments",
+          "canonical": "Leaving arguments",
+          "variants": [
+            "Leaving arguments",
+            "Avoiding arguments"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A house in Paradise for one who leaves arguing even when right.",
+          "source": {
+            "text": "Sunan Abi Dawud 4800",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-paradise-deeds-la-hawla-wa-la-quwwata-illa-billah",
+          "canonical": "\"La hawla wa la quwwata illa billah\"",
+          "variants": [
+            "La hawla wa la quwwata illa billah",
+            "La hawla"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"A treasure from the treasures of Paradise.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6384",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1029-silk-road",
+      "number": 3,
+      "prompt": "Name a city on the Silk Road with a long Muslim history.",
+      "answers": [
+        {
+          "id": "d1029-silk-road-samarkand",
+          "canonical": "Samarkand",
+          "variants": [
+            "Samarkand",
+            "Samarqand"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Registan Square and the tombs of Shah-i-Zinda.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-bukhara",
+          "canonical": "Bukhara",
+          "variants": [
+            "Bukhara",
+            "Bukhoro"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Birthplace of Imam al-Bukhari.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-baghdad",
+          "canonical": "Baghdad",
+          "variants": [
+            "Baghdad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Abbasid capital.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-damascus",
+          "canonical": "Damascus",
+          "variants": [
+            "Damascus"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Western end of many caravan routes.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-merv",
+          "canonical": "Merv",
+          "variants": [
+            "Merv",
+            "Marw"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of the great cities of Khurasan.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-herat",
+          "canonical": "Herat",
+          "variants": [
+            "Herat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A city of art and learning.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-balkh",
+          "canonical": "Balkh",
+          "variants": [
+            "Balkh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The mother of cities.\"",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-nishapur",
+          "canonical": "Nishapur",
+          "variants": [
+            "Nishapur",
+            "Naysabur",
+            "Neyshabur"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Home of Imam Muslim.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-kashgar",
+          "canonical": "Kashgar",
+          "variants": [
+            "Kashgar",
+            "Kashi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A Uyghur city at the edge of China.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-aleppo",
+          "canonical": "Aleppo",
+          "variants": [
+            "Aleppo",
+            "Halab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A great caravan city of Syria.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-tabriz",
+          "canonical": "Tabriz",
+          "variants": [
+            "Tabriz"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A great bazaar city of Iran.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-isfahan",
+          "canonical": "Isfahan",
+          "variants": [
+            "Isfahan",
+            "Esfahan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Isfahan is half the world.\"",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-khiva",
+          "canonical": "Khiva",
+          "variants": [
+            "Khiva",
+            "Xiva"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A walled city in Uzbekistan.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-tashkent",
+          "canonical": "Tashkent",
+          "variants": [
+            "Tashkent"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Capital of Uzbekistan.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-urgench",
+          "canonical": "Urgench",
+          "variants": [
+            "Urgench",
+            "Gurganj",
+            "Kunya-Urgench"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Capital of Khwarazm.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-rayy",
+          "canonical": "Rayy",
+          "variants": [
+            "Rayy",
+            "Ray",
+            "Rey"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Near modern Tehran; home of al-Razi.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-konya",
+          "canonical": "Konya",
+          "variants": [
+            "Konya"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Seljuk capital in Anatolia.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-xian",
+          "canonical": "Xi'an",
+          "variants": [
+            "Xi'an",
+            "Xian",
+            "Chang'an"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The eastern end of the Silk Road.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-turpan",
+          "canonical": "Turpan",
+          "variants": [
+            "Turpan",
+            "Turfan"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An oasis city of Xinjiang.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-silk-road-termez",
+          "canonical": "Termez",
+          "variants": [
+            "Termez",
+            "Tirmidh"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Home of Imam al-Tirmidhi.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1029-zayd",
+      "number": 4,
+      "prompt": "Name something from the life of Zayd ibn Harithah (RA).",
+      "answers": [
+        {
+          "id": "d1029-zayd-named-in-the-quran",
+          "canonical": "Named in the Qur'an",
+          "variants": [
+            "Named in the Quran",
+            "Only companion named in the Quran"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The only Companion mentioned by name.",
+          "source": {
+            "text": "Qur'an 33:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-zayd-the-prophets-adopted-son",
+          "canonical": "The Prophet's ﷺ adopted son",
+          "variants": [
+            "Adopted son",
+            "Zayd ibn Muhammad",
+            "Adoption"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He was called Zayd ibn Muhammad until 33:5 was revealed.",
+          "source": {
+            "text": "Sahih al-Bukhari 4782",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-zayd-chose-the-prophet-over-his-father",
+          "canonical": "Chose the Prophet ﷺ over his father",
+          "variants": [
+            "Chose the Prophet",
+            "Stayed with the Prophet",
+            "Refused to go with his father"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "When his father came to take him back, he chose to stay.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-zayd-killed-at-mutah",
+          "canonical": "Killed at Mu'tah",
+          "variants": [
+            "Mutah",
+            "Mu'tah",
+            "Battle of Mutah",
+            "Martyred"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He was the first commander killed at Mu'tah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4261",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-zayd-father-of-usamah",
+          "canonical": "Father of Usamah",
+          "variants": [
+            "Usamah",
+            "Usama",
+            "Father of Usamah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Usamah, \"the beloved son of the beloved\".",
+          "source": {
+            "text": "Sahih al-Bukhari 3730",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-zayd-sold-as-a-slave-as-a-boy",
+          "canonical": "Sold as a slave as a boy",
+          "variants": [
+            "Slave",
+            "Kidnapped",
+            "Khadijah",
+            "Sold as a slave"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He was kidnapped and sold; Khadijah gave him to the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-zayd-freed-by-the-prophet",
+          "canonical": "Freed by the Prophet ﷺ",
+          "variants": [
+            "Freed",
+            "Freed slave",
+            "Mawla"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet ﷺ freed him.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-zayd-among-the-first-to-accept-islam",
+          "canonical": "Among the first to accept Islam",
+          "variants": [
+            "Early Muslim",
+            "First to accept Islam",
+            "Early convert"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Among the very first believers.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-zayd-married-zaynab-bint-jahsh",
+          "canonical": "Married Zaynab bint Jahsh",
+          "variants": [
+            "Zaynab bint Jahsh",
+            "Zaynab",
+            "Zainab"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Their marriage ended and she married the Prophet ﷺ.",
+          "source": {
+            "text": "Qur'an 33:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-zayd-hibb-rasulillah",
+          "canonical": "\"Hibb Rasulillah\"",
+          "variants": [
+            "Beloved of the Prophet",
+            "Hibb",
+            "Hibb Rasulillah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Known as the beloved of the Messenger of Allah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3730",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-zayd-married-umm-ayman",
+          "canonical": "Married Umm Ayman",
+          "variants": [
+            "Umm Ayman",
+            "Barakah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Usamah's mother was Umm Ayman.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-zayd-went-with-the-prophet-to-taif",
+          "canonical": "Went with the Prophet ﷺ to Ta'if",
+          "variants": [
+            "Ta'if",
+            "Taif",
+            "Journey to Taif"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He shielded him from the stones.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1029-rizq",
+      "number": 5,
+      "prompt": "Name something the Qur'an or Hadith says brings more provision (rizq).",
+      "answers": [
+        {
+          "id": "d1029-rizq-taqwa",
+          "canonical": "Taqwa",
+          "variants": [
+            "Taqwa",
+            "Piety",
+            "Fearing Allah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Whoever fears Allah, He will make a way out for him and provide from where he does not expect.\"",
+          "source": {
+            "text": "Qur'an 65:2-3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-rizq-seeking-forgiveness",
+          "canonical": "Seeking forgiveness",
+          "variants": [
+            "Istighfar",
+            "Seeking forgiveness",
+            "Astaghfirullah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Seek forgiveness… He will send rain and give you wealth and children.\"",
+          "source": {
+            "text": "Qur'an 71:10-12",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-rizq-keeping-family-ties",
+          "canonical": "Keeping family ties",
+          "variants": [
+            "Family ties",
+            "Silat al-rahim",
+            "Kinship",
+            "Keeping ties"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Whoever wants his provision increased, let him keep his family ties.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5986",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-rizq-gratitude",
+          "canonical": "Gratitude",
+          "variants": [
+            "Gratitude",
+            "Shukr",
+            "Being thankful"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"If you are grateful, I will surely increase you.\"",
+          "source": {
+            "text": "Qur'an 14:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-rizq-charity",
+          "canonical": "Charity",
+          "variants": [
+            "Charity",
+            "Sadaqah",
+            "Spending",
+            "Giving"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Whatever you spend, He will replace it.\"",
+          "source": {
+            "text": "Qur'an 34:39",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-rizq-tawakkul",
+          "canonical": "Tawakkul",
+          "variants": [
+            "Tawakkul",
+            "Trust in Allah",
+            "Relying on Allah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…you would be provided for as the birds are provided for.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2344",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-rizq-prayer",
+          "canonical": "Prayer",
+          "variants": [
+            "Prayer",
+            "Salah",
+            "Praying"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Command your family to pray… We provide for you.\"",
+          "source": {
+            "text": "Qur'an 20:132",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-rizq-hajj-and-umrah-one-after-another",
+          "canonical": "Hajj and 'Umrah one after another",
+          "variants": [
+            "Hajj and Umrah",
+            "Umrah",
+            "Hajj"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"They remove poverty and sins.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 810",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-rizq-marriage",
+          "canonical": "Marriage",
+          "variants": [
+            "Marriage",
+            "Getting married",
+            "Nikah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"If they are poor, Allah will enrich them from His bounty.\"",
+          "source": {
+            "text": "Qur'an 24:32",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-rizq-early-mornings",
+          "canonical": "Early mornings",
+          "variants": [
+            "Early morning",
+            "Waking early",
+            "Mornings"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"O Allah, bless my Ummah in its early mornings.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 2606",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-rizq-helping-the-weak",
+          "canonical": "Helping the weak",
+          "variants": [
+            "Helping the weak",
+            "The weak",
+            "Caring for the weak"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"You are helped and provided for because of your weak.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2896",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-rizq-working-and-earning",
+          "canonical": "Working and earning",
+          "variants": [
+            "Working",
+            "Earning",
+            "Hard work"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"No one ever ate better food than what he earned with his own hands.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2072",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1029-first-revelation",
+      "number": 6,
+      "prompt": "Name something from the story of the first revelation.",
+      "answers": [
+        {
+          "id": "d1029-first-revelation-cave-hira",
+          "canonical": "Cave Hira",
+          "variants": [
+            "Hira",
+            "Cave Hira",
+            "Cave of Hira",
+            "Jabal al-Nur"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He was worshipping alone in the cave of Hira.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-jibril",
+          "canonical": "Jibril",
+          "variants": [
+            "Jibril",
+            "Jibreel",
+            "Gabriel",
+            "Angel"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The angel came to him.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-iqra-read",
+          "canonical": "\"Iqra'\" — Read!",
+          "variants": [
+            "Iqra",
+            "Iqra'",
+            "Read",
+            "Recite"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The first word revealed.",
+          "source": {
+            "text": "Qur'an 96:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-khadijah",
+          "canonical": "Khadijah",
+          "variants": [
+            "Khadijah",
+            "Khadija"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She comforted him: \"Allah will never disgrace you.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-waraqah-ibn-nawfal",
+          "canonical": "Waraqah ibn Nawfal",
+          "variants": [
+            "Waraqah",
+            "Waraqa",
+            "Waraqah ibn Nawfal"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He said it was the same angel sent to Musa.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-i-am-not-a-reader",
+          "canonical": "\"I am not a reader\"",
+          "variants": [
+            "I am not a reader",
+            "Ma ana bi qari",
+            "I cannot read"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His reply each time he was told to read.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-squeezed-three-times",
+          "canonical": "Squeezed three times",
+          "variants": [
+            "Squeezed",
+            "Embraced three times",
+            "Pressed",
+            "Squeezed three times"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The angel pressed him tightly three times.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-cover-me",
+          "canonical": "\"Cover me!\"",
+          "variants": [
+            "Zammiluni",
+            "Cover me",
+            "Wrap me",
+            "Trembling"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Zammiluni\" — he came home trembling.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-surah-al-alaq",
+          "canonical": "Surah al-'Alaq",
+          "variants": [
+            "Alaq",
+            "Al-'Alaq",
+            "Surah Alaq",
+            "Clot"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The first five verses.",
+          "source": {
+            "text": "Qur'an 96:1-5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-ramadan",
+          "canonical": "Ramadan",
+          "variants": [
+            "Ramadan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Revelation began in Ramadan.",
+          "source": {
+            "text": "Qur'an 2:185",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-aged-forty",
+          "canonical": "Aged forty",
+          "variants": [
+            "40",
+            "Forty",
+            "Age 40"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He was forty years old.",
+          "source": {
+            "text": "Sahih al-Bukhari 3902",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-true-dreams",
+          "canonical": "True dreams",
+          "variants": [
+            "True dreams",
+            "Dreams",
+            "Good dreams"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Revelation began with true dreams, like the light of dawn.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-the-pen",
+          "canonical": "The pen",
+          "variants": [
+            "Pen",
+            "Qalam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…who taught by the pen.\"",
+          "source": {
+            "text": "Qur'an 96:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-your-people-will-drive-you-out",
+          "canonical": "\"Your people will drive you out\"",
+          "variants": [
+            "Driven out",
+            "Expelled",
+            "Your people will expel you"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Waraqah warned him he would be driven out.",
+          "source": {
+            "text": "Sahih al-Bukhari 3",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-first-revelation-a-pause-in-revelation",
+          "canonical": "A pause in revelation",
+          "variants": [
+            "Pause",
+            "Fatrah",
+            "Break in revelation"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Revelation paused for a time before resuming.",
+          "source": {
+            "text": "Sahih al-Bukhari 4",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ],
+  "bonus": [
+    {
+      "id": "d1029-bonus-yasin",
+      "number": 7,
+      "prompt": "Name something mentioned in Surah Ya-Sin.",
+      "answers": [
+        {
+          "id": "d1029-bonus-yasin-the-town-and-its-messengers",
+          "canonical": "The town and its messengers",
+          "variants": [
+            "Town",
+            "Messengers",
+            "Three messengers",
+            "People of the town"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A town rejected two messengers, then a third.",
+          "source": {
+            "text": "Qur'an 36:13-14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-the-man-from-the-far-end-of-the-city",
+          "canonical": "The man from the far end of the city",
+          "variants": [
+            "Man from the far end of the city",
+            "Habib al-Najjar",
+            "Believing man"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"O my people, follow the messengers!\"",
+          "source": {
+            "text": "Qur'an 36:20",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-the-sun-and-moon-in-orbit",
+          "canonical": "The sun and moon in orbit",
+          "variants": [
+            "Sun",
+            "Moon",
+            "Orbit",
+            "Sun and moon"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Each swimming in an orbit.\"",
+          "source": {
+            "text": "Qur'an 36:38-40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-be-and-it-is",
+          "canonical": "\"Be, and it is\"",
+          "variants": [
+            "Be and it is",
+            "Kun fayakun",
+            "Kun"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"His command is only: Be, and it is.\"",
+          "source": {
+            "text": "Qur'an 36:82",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-mouths-sealed-hands-speak",
+          "canonical": "Mouths sealed, hands speak",
+          "variants": [
+            "Mouths sealed",
+            "Hands speak",
+            "Feet testify"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Today We seal their mouths, and their hands speak to Us.\"",
+          "source": {
+            "text": "Qur'an 36:65",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-the-trumpet",
+          "canonical": "The trumpet",
+          "variants": [
+            "Trumpet",
+            "Sur",
+            "Horn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The trumpet will be blown.\"",
+          "source": {
+            "text": "Qur'an 36:51",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-dead-land-given-life",
+          "canonical": "Dead land given life",
+          "variants": [
+            "Dead land",
+            "Dead earth",
+            "Revived land"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"A sign for them is the dead earth — We gave it life.\"",
+          "source": {
+            "text": "Qur'an 36:33",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-the-laden-ship",
+          "canonical": "The laden ship",
+          "variants": [
+            "Ship",
+            "Laden ship",
+            "Ark"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Their offspring carried in the laden ship.",
+          "source": {
+            "text": "Qur'an 36:41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-crumbled-bones",
+          "canonical": "Crumbled bones",
+          "variants": [
+            "Bones",
+            "Crumbled bones",
+            "Rotten bones"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Who will give life to bones when they have crumbled?\"",
+          "source": {
+            "text": "Qur'an 36:78",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-fire-from-a-green-tree",
+          "canonical": "Fire from a green tree",
+          "variants": [
+            "Green tree",
+            "Fire",
+            "Fire from the green tree"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Who made for you from the green tree fire.\"",
+          "source": {
+            "text": "Qur'an 36:80",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-palms-grapes-and-springs",
+          "canonical": "Palms, grapes and springs",
+          "variants": [
+            "Palms",
+            "Grapes",
+            "Springs",
+            "Gardens"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"We placed in it gardens of palms and grapes.\"",
+          "source": {
+            "text": "Qur'an 36:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-moon-like-an-old-palm-stalk",
+          "canonical": "Moon like an old palm stalk",
+          "variants": [
+            "Old date stalk",
+            "Palm stalk",
+            "Crescent"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…until it returns like the old date stalk.\"",
+          "source": {
+            "text": "Qur'an 36:39",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-cattle-for-riding-and-eating",
+          "canonical": "Cattle for riding and eating",
+          "variants": [
+            "Cattle",
+            "Livestock",
+            "Riding animals"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Some they ride and some they eat.\"",
+          "source": {
+            "text": "Qur'an 36:72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-yasin-a-barrier-before-and-behind-them",
+          "canonical": "A barrier before and behind them",
+          "variants": [
+            "Barrier",
+            "Wall",
+            "Covered their eyes"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"We have put a barrier before them and behind them.\"",
+          "source": {
+            "text": "Qur'an 36:9",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1029-bonus-isra-commands",
+      "number": 8,
+      "prompt": "Name a command from Surah al-Isra', verses 23–39.",
+      "answers": [
+        {
+          "id": "d1029-bonus-isra-commands-worship-none-but-allah",
+          "canonical": "Worship none but Allah",
+          "variants": [
+            "Worship only Allah",
+            "No shirk",
+            "Tawhid"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Your Lord has decreed that you worship none but Him.\"",
+          "source": {
+            "text": "Qur'an 17:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-be-good-to-parents",
+          "canonical": "Be good to parents",
+          "variants": [
+            "Parents",
+            "Be good to parents",
+            "Kindness to parents"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…and to parents, good treatment.\"",
+          "source": {
+            "text": "Qur'an 17:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-do-not-say-uff-to-them",
+          "canonical": "Do not say \"uff\" to them",
+          "variants": [
+            "Uff",
+            "Do not say uff",
+            "No disrespect"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Do not say to them a word of disrespect.\"",
+          "source": {
+            "text": "Qur'an 17:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-do-not-approach-zina",
+          "canonical": "Do not approach zina",
+          "variants": [
+            "Zina",
+            "Do not approach zina",
+            "Adultery"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Do not approach unlawful sexual intercourse.\"",
+          "source": {
+            "text": "Qur'an 17:32",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-do-not-kill-your-children-for-fear-of-poverty",
+          "canonical": "Do not kill your children for fear of poverty",
+          "variants": [
+            "Do not kill children",
+            "Poverty",
+            "Killing children"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"We provide for them and for you.\"",
+          "source": {
+            "text": "Qur'an 17:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-do-not-waste",
+          "canonical": "Do not waste",
+          "variants": [
+            "Do not waste",
+            "Wastefulness",
+            "Extravagance",
+            "Israf"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The wasteful are brothers of the devils.\"",
+          "source": {
+            "text": "Qur'an 17:26-27",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-give-relatives-the-needy-and-travellers-their-right",
+          "canonical": "Give relatives, the needy and travellers their right",
+          "variants": [
+            "Relatives",
+            "Needy",
+            "Traveller",
+            "Give their rights"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Give the relative his right, and the needy and the traveller.\"",
+          "source": {
+            "text": "Qur'an 17:26",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-do-not-touch-the-orphans-wealth",
+          "canonical": "Do not touch the orphan's wealth",
+          "variants": [
+            "Orphan",
+            "Orphan's wealth",
+            "Orphans"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…except in the best way.\"",
+          "source": {
+            "text": "Qur'an 17:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-fulfil-promises",
+          "canonical": "Fulfil promises",
+          "variants": [
+            "Promises",
+            "Keep promises",
+            "Covenant"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The covenant will be questioned about.\"",
+          "source": {
+            "text": "Qur'an 17:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-give-full-measure",
+          "canonical": "Give full measure",
+          "variants": [
+            "Full measure",
+            "Fair weight",
+            "Honest scales"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Weigh with an even balance.\"",
+          "source": {
+            "text": "Qur'an 17:35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-do-not-follow-what-you-have-no-knowledge-of",
+          "canonical": "Do not follow what you have no knowledge of",
+          "variants": [
+            "No knowledge",
+            "Do not follow what you do not know"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Hearing, sight and heart — all will be questioned.\"",
+          "source": {
+            "text": "Qur'an 17:36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-do-not-walk-arrogantly",
+          "canonical": "Do not walk arrogantly",
+          "variants": [
+            "Arrogance",
+            "Walk humbly",
+            "Do not walk proudly"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"You will never tear the earth apart.\"",
+          "source": {
+            "text": "Qur'an 17:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-do-not-kill-unjustly",
+          "canonical": "Do not kill unjustly",
+          "variants": [
+            "Do not kill",
+            "Killing",
+            "Murder"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Do not kill the soul Allah has forbidden, except by right.\"",
+          "source": {
+            "text": "Qur'an 17:33",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-neither-stingy-nor-extravagant",
+          "canonical": "Neither stingy nor extravagant",
+          "variants": [
+            "Moderation",
+            "Not stingy",
+            "Hand chained to neck"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Do not chain your hand to your neck nor extend it completely.\"",
+          "source": {
+            "text": "Qur'an 17:29",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-isra-commands-pray-for-your-parents-mercy",
+          "canonical": "Pray for your parents' mercy",
+          "variants": [
+            "Rabbirhamhuma",
+            "Dua for parents",
+            "Mercy for parents"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"My Lord, have mercy on them as they raised me when I was small.\"",
+          "source": {
+            "text": "Qur'an 17:24",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1029-bonus-abu-dharr",
+      "number": 9,
+      "prompt": "Name something from the life of Abu Dharr al-Ghifari (RA).",
+      "answers": [
+        {
+          "id": "d1029-bonus-abu-dharr-from-the-tribe-of-ghifar",
+          "canonical": "From the tribe of Ghifar",
+          "variants": [
+            "Ghifar",
+            "Ghifari",
+            "Tribe of Ghifar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He brought his tribe to Islam.",
+          "source": {
+            "text": "Sahih al-Bukhari 3522",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-abu-dharr-declared-islam-openly-at-the-kabah",
+          "canonical": "Declared Islam openly at the Ka'bah",
+          "variants": [
+            "Declared Islam openly",
+            "Shouted the shahadah",
+            "Beaten at the Kaaba"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He shouted the shahadah and was beaten.",
+          "source": {
+            "text": "Sahih al-Bukhari 3522",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-abu-dharr-the-most-truthful-tongue",
+          "canonical": "The most truthful tongue",
+          "variants": [
+            "Truthful",
+            "Most truthful",
+            "Truthfulness"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"The sky has not shaded anyone more truthful than Abu Dharr.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3801",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-abu-dharr-zuhd",
+          "canonical": "Zuhd",
+          "variants": [
+            "Zuhd",
+            "Asceticism",
+            "Simple life",
+            "Poverty"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He lived with very little.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-abu-dharr-died-alone-at-al-rabadhah",
+          "canonical": "Died alone at al-Rabadhah",
+          "variants": [
+            "Rabadhah",
+            "Died alone",
+            "Al-Rabadhah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"He walks alone, dies alone and will be raised alone.\"",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-abu-dharr-among-the-first-muslims",
+          "canonical": "Among the first Muslims",
+          "variants": [
+            "Early Muslim",
+            "Fourth Muslim",
+            "Fifth Muslim"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He was the fourth or fifth to accept Islam.",
+          "source": {
+            "text": "Sahih Muslim 2473",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-abu-dharr-you-are-weak-leadership-is-a-trust",
+          "canonical": "\"You are weak; leadership is a trust\"",
+          "variants": [
+            "Leadership",
+            "You are weak",
+            "Trust"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet ﷺ advised him not to seek authority.",
+          "source": {
+            "text": "Sahih Muslim 1825",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-abu-dharr-zamzam-was-his-only-food",
+          "canonical": "Zamzam was his only food",
+          "variants": [
+            "Zamzam",
+            "Drank only Zamzam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He lived on Zamzam water for a month in Makkah.",
+          "source": {
+            "text": "Sahih Muslim 2473",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-abu-dharr-his-name-jundub",
+          "canonical": "His name, Jundub",
+          "variants": [
+            "Jundub",
+            "Jundub ibn Junadah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Jundub ibn Junadah.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-abu-dharr-disagreement-with-muawiyah-in-syria",
+          "canonical": "Disagreement with Mu'awiyah in Syria",
+          "variants": [
+            "Muawiyah",
+            "Syria",
+            "Hoarding wealth"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Over the hoarding of wealth.",
+          "source": {
+            "text": "Sahih al-Bukhari 1406",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1029-bonus-seventy-thousand",
+      "number": 10,
+      "prompt": "Name a quality of the seventy thousand who will enter Paradise without reckoning.",
+      "answers": [
+        {
+          "id": "d1029-bonus-seventy-thousand-they-rely-on-their-lord",
+          "canonical": "They rely on their Lord",
+          "variants": [
+            "Tawakkul",
+            "Trust in their Lord",
+            "Rely on Allah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…and they put their trust in their Lord.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5752",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-seventy-thousand-they-do-not-ask-for-ruqyah",
+          "canonical": "They do not ask for ruqyah",
+          "variants": [
+            "Ruqyah",
+            "Do not ask for ruqyah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"They do not ask others to recite ruqyah over them.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5752",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-seventy-thousand-they-do-not-take-bad-omens",
+          "canonical": "They do not take bad omens",
+          "variants": [
+            "Bad omens",
+            "Tiyarah",
+            "Superstition"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"They do not believe in bad omens.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5752",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-seventy-thousand-they-do-not-use-cauterisation",
+          "canonical": "They do not use cauterisation",
+          "variants": [
+            "Cauterisation",
+            "Branding",
+            "Kayy"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"They do not have themselves cauterised.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5752",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1029-bonus-seventy-thousand-ukkashah-ibn-mihsan",
+          "canonical": "'Ukkashah ibn Mihsan",
+          "variants": [
+            "Ukkashah",
+            "Ukasha",
+            "Ukkashah ibn Mihsan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He asked to be among them: \"You are one of them.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5752",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1029-bonus-banners",
+      "number": 11,
+      "prompt": "Name a Companion who carried the Muslims' banner in a battle.",
+      "answers": [
+        {
+          "id": "d1029-bonus-banners-musab-ibn-umayr",
+          "canonical": "Mus'ab ibn 'Umayr",
+          "variants": [
+            "Mus'ab",
+            "Musab ibn Umair",
+            "Mus'ab ibn 'Umayr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "At Badr and Uhud.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1029-bonus-banners-ali-ibn-abi-talib",
+          "canonical": "'Ali ibn Abi Talib",
+          "variants": [
+            "Ali",
+            "Ali ibn Abi Talib"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "At Khaybar: \"Tomorrow I will give the banner to a man who loves Allah and His Messenger.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3701",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1029-bonus-banners-zayd-ibn-harithah",
+          "canonical": "Zayd ibn Harithah",
+          "variants": [
+            "Zayd ibn Harithah",
+            "Zaid"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The first commander at Mu'tah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4261",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1029-bonus-banners-jafar-ibn-abi-talib",
+          "canonical": "Ja'far ibn Abi Talib",
+          "variants": [
+            "Ja'far",
+            "Jafar ibn Abi Talib",
+            "Jafar al-Tayyar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He took it when Zayd fell at Mu'tah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4261",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1029-bonus-banners-abdullah-ibn-rawahah",
+          "canonical": "'Abdullah ibn Rawahah",
+          "variants": [
+            "Abdullah ibn Rawahah",
+            "Ibn Rawahah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The third commander at Mu'tah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4261",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1029-bonus-banners-khalid-ibn-al-walid",
+          "canonical": "Khalid ibn al-Walid",
+          "variants": [
+            "Khalid",
+            "Khalid ibn al-Walid"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He took the banner at Mu'tah after the three fell.",
+          "source": {
+            "text": "Sahih al-Bukhari 4262",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1029-bonus-banners-hamzah",
+          "canonical": "Hamzah",
+          "variants": [
+            "Hamzah",
+            "Hamza"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He carried the first banner the Prophet ﷺ tied.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1029-bonus-banners-sad-ibn-ubadah",
+          "canonical": "Sa'd ibn 'Ubadah",
+          "variants": [
+            "Sa'd ibn Ubadah",
+            "Saad ibn Ubadah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He carried the Ansar's banner at the Conquest of Makkah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4280",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1029-bonus-banners-al-zubayr",
+          "canonical": "Al-Zubayr",
+          "variants": [
+            "Zubayr",
+            "Al-Zubayr",
+            "Zubair"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He carried a banner at the Conquest of Makkah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4280",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1029-bonus-banners-abu-bakr",
+          "canonical": "Abu Bakr",
+          "variants": [
+            "Abu Bakr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He carried the banner at Khaybar before 'Ali.",
+          "source": {
+            "text": "Musnad Ahmad 23031",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1029-bonus-banners-ubaydah-ibn-al-harith",
+          "canonical": "'Ubaydah ibn al-Harith",
+          "variants": [
+            "'Ubaydah ibn al-Harith",
+            "Ubaydah ibn al-Harith",
+            "Ubayda"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He led an early expedition with a white banner.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        }
+      ]
+    },
+    {
+      "id": "d1029-bonus-makkah-names",
+      "number": 12,
+      "prompt": "Name a name the Qur'an gives to Makkah.",
+      "answers": [
+        {
+          "id": "d1029-bonus-makkah-names-makkah",
+          "canonical": "Makkah",
+          "variants": [
+            "Makkah",
+            "Mecca",
+            "Makka"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…in the valley of Makkah.\"",
+          "source": {
+            "text": "Qur'an 48:24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-makkah-names-bakkah",
+          "canonical": "Bakkah",
+          "variants": [
+            "Bakkah",
+            "Bakka",
+            "Becca"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"The first House established for mankind was that at Bakkah.\"",
+          "source": {
+            "text": "Qur'an 3:96",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-makkah-names-umm-al-qura",
+          "canonical": "Umm al-Qura",
+          "variants": [
+            "Umm al-Qura",
+            "Ummul Qura",
+            "Mother of Cities"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…to warn the Mother of Cities.\"",
+          "source": {
+            "text": "Qur'an 6:92",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-makkah-names-al-balad-al-amin",
+          "canonical": "Al-Balad al-Amin",
+          "variants": [
+            "Al-Balad al-Amin",
+            "Secure city",
+            "Balad al-Amin",
+            "Safe city"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and this secure city.\"",
+          "source": {
+            "text": "Qur'an 95:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-makkah-names-al-balad",
+          "canonical": "Al-Balad",
+          "variants": [
+            "Al-Balad",
+            "Balad",
+            "This city"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"I swear by this city.\"",
+          "source": {
+            "text": "Qur'an 90:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-makkah-names-a-valley-without-crops",
+          "canonical": "A valley without crops",
+          "variants": [
+            "Valley without crops",
+            "Wadin ghayri dhi zar",
+            "Barren valley"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…in a valley without cultivation, by Your Sacred House.\"",
+          "source": {
+            "text": "Qur'an 14:37",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1029-bonus-makkah-names-al-haram",
+          "canonical": "Al-Haram",
+          "variants": [
+            "Haram",
+            "Al-Haram",
+            "Sanctuary",
+            "Haraman aminan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"A secure sanctuary\" (haraman aminan).",
+          "source": {
+            "text": "Qur'an 28:57",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    }
+  ]
+}

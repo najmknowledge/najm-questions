@@ -1,0 +1,2533 @@
+{
+  "date": "2026-11-13",
+  "questions": [
+    {
+      "id": "d1113-buildings",
+      "number": 1,
+      "prompt": "Name a famous building of Islamic architecture that is not a mosque.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Kaaba",
+            "Masjid al-Haram",
+            "Blue Mosque",
+            "Hagia Sophia",
+            "Al-Aqsa",
+            "Sheikh Zayed Mosque"
+          ],
+          "message": "That one is a mosque. Try another kind of building!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1113-buildings-the-taj-mahal",
+          "canonical": "The Taj Mahal",
+          "variants": [
+            "Taj Mahal"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A mausoleum in Agra built by Shah Jahan.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-the-alhambra",
+          "canonical": "The Alhambra",
+          "variants": [
+            "Alhambra",
+            "Al-Hamra"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The Nasrid palace in Granada.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-the-dome-of-the-rock",
+          "canonical": "The Dome of the Rock",
+          "variants": [
+            "Dome of the Rock"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A shrine over the Rock in Jerusalem.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-topkapi-palace",
+          "canonical": "Topkapi Palace",
+          "variants": [
+            "Topkapi",
+            "Topkapi Palace"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Ottoman palace in Istanbul.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-the-red-fort",
+          "canonical": "The Red Fort",
+          "variants": [
+            "Red Fort",
+            "Lal Qila"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Mughal fort in Delhi.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-registan",
+          "canonical": "Registan",
+          "variants": [
+            "Registan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Three madrasahs around a square in Samarkand.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-humayuns-tomb",
+          "canonical": "Humayun's Tomb",
+          "variants": [
+            "Humayun's Tomb",
+            "Humayun Tomb"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In Delhi, a model for the Taj Mahal.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-dolmabah-e-palace",
+          "canonical": "Dolmabahçe Palace",
+          "variants": [
+            "Dolmabahce",
+            "Dolmabahçe"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The later Ottoman palace on the Bosphorus.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-gur-e-amir",
+          "canonical": "Gur-e-Amir",
+          "variants": [
+            "Gur-e-Amir",
+            "Gur Emir"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Timur's mausoleum in Samarkand.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-fatehpur-sikri",
+          "canonical": "Fatehpur Sikri",
+          "variants": [
+            "Fatehpur Sikri"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Akbar's palace city.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-alc-zar-of-seville",
+          "canonical": "Alcázar of Seville",
+          "variants": [
+            "Alcazar",
+            "Alcázar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A royal palace in Mudéjar style.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-medina-azahara",
+          "canonical": "Medina Azahara",
+          "variants": [
+            "Medina Azahara",
+            "Madinat al-Zahra'"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The ruined palace-city near Cordoba.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-the-citadel-of-cairo",
+          "canonical": "The Citadel of Cairo",
+          "variants": [
+            "Citadel of Cairo",
+            "Saladin Citadel"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Salah al-Din's fortress.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-qutb-minar",
+          "canonical": "Qutb Minar",
+          "variants": [
+            "Qutb Minar",
+            "Qutub Minar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A great minaret-tower in Delhi.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-bab-zuwayla",
+          "canonical": "Bab Zuwayla",
+          "variants": [
+            "Bab Zuwayla"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Fatimid gate of Cairo.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-shah-i-zinda",
+          "canonical": "Shah-i-Zinda",
+          "variants": [
+            "Shah-i-Zinda",
+            "Shahi Zinda"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A street of mausoleums in Samarkand.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-samanid-mausoleum",
+          "canonical": "Samanid Mausoleum",
+          "variants": [
+            "Samanid Mausoleum",
+            "Ismail Samani"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A brick tomb in Bukhara.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-ali-qapu",
+          "canonical": "Ali Qapu",
+          "variants": [
+            "Ali Qapu"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A palace on Naqsh-e Jahan Square, Isfahan.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-chehel-sotoun",
+          "canonical": "Chehel Sotoun",
+          "variants": [
+            "Chehel Sotoun",
+            "Forty Columns"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Forty Columns\" pavilion in Isfahan.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-gol-gumbaz",
+          "canonical": "Gol Gumbaz",
+          "variants": [
+            "Gol Gumbaz"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The great dome of Bijapur.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-buildings-qasr-amra",
+          "canonical": "Qasr Amra",
+          "variants": [
+            "Qasr Amra",
+            "Quseir Amra"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An Umayyad desert castle in Jordan.",
+          "source": {
+            "text": "Architectural histories",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1113-abu-talib",
+      "number": 2,
+      "prompt": "Name something from the life of Abu Talib, the Prophet's ﷺ uncle.",
+      "answers": [
+        {
+          "id": "d1113-abu-talib-raised-the-prophet",
+          "canonical": "Raised the Prophet ﷺ",
+          "variants": [
+            "Raised him",
+            "Guardian",
+            "Looked after him"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "After 'Abd al-Muttalib died.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-protected-him-from-quraysh",
+          "canonical": "Protected him from Quraysh",
+          "variants": [
+            "Protected him",
+            "Protection",
+            "Defended him"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He refused to hand him over.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-father-of-ali",
+          "canonical": "Father of 'Ali",
+          "variants": [
+            "Father of Ali",
+            "Ali",
+            "Ja'far",
+            "Aqil"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "And of Ja'far and 'Aqil.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-the-valley-of-the-boycott",
+          "canonical": "The valley of the boycott",
+          "variants": [
+            "Shi'b Abi Talib",
+            "Boycott",
+            "Valley"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Named after him.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-did-not-accept-islam",
+          "canonical": "Did not accept Islam",
+          "variants": [
+            "Did not accept Islam",
+            "Died a non-Muslim",
+            "28:56"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"You cannot guide whom you love.\"",
+          "source": {
+            "text": "Qur'an 28:56; Sahih al-Bukhari 3884",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-the-year-of-sorrow",
+          "canonical": "The Year of Sorrow",
+          "variants": [
+            "Year of Sorrow",
+            "Died",
+            "Am al-Huzn"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He died in the same year as Khadijah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-the-journey-to-syria-and-bahira",
+          "canonical": "The journey to Syria and Bahira",
+          "variants": [
+            "Syria",
+            "Bahira",
+            "Caravan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He took the boy with a caravan; the monk recognised him.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3620",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-by-allah-they-will-not-reach-you",
+          "canonical": "\"By Allah, they will not reach you\"",
+          "variants": [
+            "Poetry",
+            "Defence",
+            "Lamiyyah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His poems and words in defence of the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-his-lightest-punishment",
+          "canonical": "His lightest punishment",
+          "variants": [
+            "Lightest punishment",
+            "Intercession"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The lightest punishment in Hell, due to the Prophet's ﷺ intercession.",
+          "source": {
+            "text": "Sahih Muslim 212",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-chief-of-banu-hashim",
+          "canonical": "Chief of Banu Hashim",
+          "variants": [
+            "Chief of Banu Hashim",
+            "Banu Hashim"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "After his father.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-his-name-abd-manaf",
+          "canonical": "His name, 'Abd Manaf",
+          "variants": [
+            "Abd Manaf"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Abu Talib was his kunya.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-abu-talib-gave-khadijahs-marriage-speech",
+          "canonical": "Gave Khadijah's marriage speech",
+          "variants": [
+            "Marriage sermon",
+            "Khadijah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He delivered the marriage sermon.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1113-uk",
+      "number": 3,
+      "prompt": "Name a city in the UK with a large Muslim community.",
+      "answers": [
+        {
+          "id": "d1113-uk-london",
+          "canonical": "London",
+          "variants": [
+            "London"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Home to more than a million Muslims.",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-birmingham",
+          "canonical": "Birmingham",
+          "variants": [
+            "Birmingham"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Around a third Muslim.",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-bradford",
+          "canonical": "Bradford",
+          "variants": [
+            "Bradford"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Around a third Muslim.",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-manchester",
+          "canonical": "Manchester",
+          "variants": [
+            "Manchester"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-leicester",
+          "canonical": "Leicester",
+          "variants": [
+            "Leicester"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-luton",
+          "canonical": "Luton",
+          "variants": [
+            "Luton"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-blackburn",
+          "canonical": "Blackburn",
+          "variants": [
+            "Blackburn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-leeds",
+          "canonical": "Leeds",
+          "variants": [
+            "Leeds"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-glasgow",
+          "canonical": "Glasgow",
+          "variants": [
+            "Glasgow"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Scotland's largest Muslim community.",
+          "source": {
+            "text": "Scotland Census 2022",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-sheffield",
+          "canonical": "Sheffield",
+          "variants": [
+            "Sheffield"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-oldham",
+          "canonical": "Oldham",
+          "variants": [
+            "Oldham"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-bolton",
+          "canonical": "Bolton",
+          "variants": [
+            "Bolton"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-slough",
+          "canonical": "Slough",
+          "variants": [
+            "Slough"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-cardiff",
+          "canonical": "Cardiff",
+          "variants": [
+            "Cardiff"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Home of one of Britain's oldest Muslim communities.",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-dewsbury",
+          "canonical": "Dewsbury",
+          "variants": [
+            "Dewsbury"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-rochdale",
+          "canonical": "Rochdale",
+          "variants": [
+            "Rochdale"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-burnley",
+          "canonical": "Burnley",
+          "variants": [
+            "Burnley"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-preston",
+          "canonical": "Preston",
+          "variants": [
+            "Preston"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-liverpool",
+          "canonical": "Liverpool",
+          "variants": [
+            "Liverpool"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Site of Britain's first mosque (1889), founded by Abdullah Quilliam.",
+          "source": {
+            "text": "Historical",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-nottingham",
+          "canonical": "Nottingham",
+          "variants": [
+            "Nottingham"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-woking",
+          "canonical": "Woking",
+          "variants": [
+            "Woking"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Shah Jahan Mosque (1889).",
+          "source": {
+            "text": "Historical",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-peterborough",
+          "canonical": "Peterborough",
+          "variants": [
+            "Peterborough"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-coventry",
+          "canonical": "Coventry",
+          "variants": [
+            "Coventry"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-edinburgh",
+          "canonical": "Edinburgh",
+          "variants": [
+            "Edinburgh"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A large Muslim community (2022 Census).",
+          "source": {
+            "text": "Scotland Census 2022",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-huddersfield",
+          "canonical": "Huddersfield",
+          "variants": [
+            "Huddersfield"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-high-wycombe",
+          "canonical": "High Wycombe",
+          "variants": [
+            "High Wycombe"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-uk-stoke-on-trent",
+          "canonical": "Stoke-on-Trent",
+          "variants": [
+            "Stoke",
+            "Stoke-on-Trent"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A large Muslim community (2021 Census).",
+          "source": {
+            "text": "UK Census 2021",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1113-qariah",
+      "number": 4,
+      "prompt": "Name something mentioned in Surah al-Qari'ah.",
+      "answers": [
+        {
+          "id": "d1113-qariah-the-striking-calamity",
+          "canonical": "The striking calamity",
+          "variants": [
+            "Qari'ah",
+            "Striking calamity",
+            "Day of Judgement"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The Striking Calamity — what is the Striking Calamity?\"",
+          "source": {
+            "text": "Qur'an 101:1-2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-qariah-scattered-moths",
+          "canonical": "Scattered moths",
+          "variants": [
+            "Moths",
+            "Scattered moths"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The Day people will be like scattered moths.\"",
+          "source": {
+            "text": "Qur'an 101:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-qariah-carded-wool",
+          "canonical": "Carded wool",
+          "variants": [
+            "Wool",
+            "Carded wool",
+            "Mountains like wool"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and the mountains like carded wool.\"",
+          "source": {
+            "text": "Qur'an 101:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-qariah-heavy-scales",
+          "canonical": "Heavy scales",
+          "variants": [
+            "Heavy scales",
+            "Scales",
+            "Mizan"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"As for one whose scales are heavy…\"",
+          "source": {
+            "text": "Qur'an 101:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-qariah-a-pleasant-life",
+          "canonical": "A pleasant life",
+          "variants": [
+            "Pleasant life",
+            "Satisfaction"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…he will be in a pleasant life.\"",
+          "source": {
+            "text": "Qur'an 101:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-qariah-light-scales",
+          "canonical": "Light scales",
+          "variants": [
+            "Light scales"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"But as for one whose scales are light…\"",
+          "source": {
+            "text": "Qur'an 101:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-qariah-hawiyah",
+          "canonical": "Hawiyah",
+          "variants": [
+            "Hawiyah",
+            "Abyss",
+            "Pit"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…his refuge will be an abyss (Hawiyah).\"",
+          "source": {
+            "text": "Qur'an 101:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-qariah-a-blazing-fire",
+          "canonical": "A blazing fire",
+          "variants": [
+            "Blazing fire",
+            "Fire"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"It is a fire, intensely hot.\"",
+          "source": {
+            "text": "Qur'an 101:11",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1113-numbers",
+      "number": 5,
+      "prompt": "Name a number that counts something well known in Islam (like '114' surahs).",
+      "answers": [
+        {
+          "id": "d1113-numbers-5",
+          "canonical": "5",
+          "variants": [
+            "5",
+            "Five"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Five pillars; five daily prayers.",
+          "source": {
+            "text": "Sahih al-Bukhari 8",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-6",
+          "canonical": "6",
+          "variants": [
+            "6",
+            "Six"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Six articles of faith.",
+          "source": {
+            "text": "Sahih Muslim 8",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-99",
+          "canonical": "99",
+          "variants": [
+            "99",
+            "Ninety-nine",
+            "Ninety nine"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The ninety-nine names of Allah.",
+          "source": {
+            "text": "Sahih al-Bukhari 2736",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-114",
+          "canonical": "114",
+          "variants": [
+            "114",
+            "One hundred and fourteen"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surahs in the Qur'an.",
+          "source": {
+            "text": "Mushaf",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-30",
+          "canonical": "30",
+          "variants": [
+            "30",
+            "Thirty"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Juz' of the Qur'an; days of Ramadan at most.",
+          "source": {
+            "text": "Mushaf",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-7",
+          "canonical": "7",
+          "variants": [
+            "7",
+            "Seven"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Circuits of tawaf; heavens.",
+          "source": {
+            "text": "Qur'an 67:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-numbers-12",
+          "canonical": "12",
+          "variants": [
+            "12",
+            "Twelve"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Months of the year.",
+          "source": {
+            "text": "Qur'an 9:36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-numbers-4",
+          "canonical": "4",
+          "variants": [
+            "4",
+            "Four"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sacred months; rightly guided caliphs.",
+          "source": {
+            "text": "Qur'an 9:36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-numbers-10",
+          "canonical": "10",
+          "variants": [
+            "10",
+            "Ten"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Companions promised Paradise; last ten nights.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3747",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-8",
+          "canonical": "8",
+          "variants": [
+            "8",
+            "Eight"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Gates of Paradise.",
+          "source": {
+            "text": "Sahih al-Bukhari 3257",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-40",
+          "canonical": "40",
+          "variants": [
+            "40",
+            "Forty"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet's ﷺ age at revelation; Nawawi's Forty Hadith.",
+          "source": {
+            "text": "Sahih al-Bukhari 3902",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-3",
+          "canonical": "3",
+          "variants": [
+            "3",
+            "Three"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The three mosques journeys are made to.",
+          "source": {
+            "text": "Sahih al-Bukhari 1189",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-2-5",
+          "canonical": "2.5%",
+          "variants": [
+            "2.5",
+            "2.5%",
+            "Two and a half percent"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The rate of zakah on savings.",
+          "source": {
+            "text": "Sunan Abi Dawud 1572",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-25",
+          "canonical": "25",
+          "variants": [
+            "25",
+            "Twenty-five"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Prophets named in the Qur'an.",
+          "source": {
+            "text": "Qur'an (various)",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-numbers-6236",
+          "canonical": "6236",
+          "variants": [
+            "6236"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Verses of the Qur'an (Kufan count).",
+          "source": {
+            "text": "Mushaf",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-63",
+          "canonical": "63",
+          "variants": [
+            "63",
+            "Sixty-three"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Prophet's ﷺ age when he died.",
+          "source": {
+            "text": "Sahih al-Bukhari 3536",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-numbers-313",
+          "canonical": "313",
+          "variants": [
+            "313"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Muslims at Badr (about).",
+          "source": {
+            "text": "Sahih al-Bukhari 3957",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1113-jobs-arabic",
+      "number": 6,
+      "prompt": "Name a job or profession by its Arabic name.",
+      "answers": [
+        {
+          "id": "d1113-jobs-arabic-muallim",
+          "canonical": "Mu'allim (teacher)",
+          "variants": [
+            "Mu'allim",
+            "Muallim",
+            "Teacher",
+            "Mudarris"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Teacher; mudarris is also used.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-tabib",
+          "canonical": "Tabib (doctor)",
+          "variants": [
+            "Tabib",
+            "Tabeeb",
+            "Doctor"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Doctor.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-imam",
+          "canonical": "Imam",
+          "variants": [
+            "Imam"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Prayer leader.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-muhandis",
+          "canonical": "Muhandis (engineer)",
+          "variants": [
+            "Muhandis",
+            "Engineer"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Engineer.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-tajir",
+          "canonical": "Tajir (merchant)",
+          "variants": [
+            "Tajir",
+            "Merchant",
+            "Trader"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Merchant, trader.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-qadi",
+          "canonical": "Qadi (judge)",
+          "variants": [
+            "Qadi",
+            "Kadi",
+            "Judge"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Judge.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-katib",
+          "canonical": "Katib (writer)",
+          "variants": [
+            "Katib",
+            "Writer",
+            "Clerk"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Writer, clerk.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-fallah",
+          "canonical": "Fallah (farmer)",
+          "variants": [
+            "Fallah",
+            "Farmer"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Farmer.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-najjar",
+          "canonical": "Najjar (carpenter)",
+          "variants": [
+            "Najjar",
+            "Carpenter"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Carpenter.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-khabbaz",
+          "canonical": "Khabbaz (baker)",
+          "variants": [
+            "Khabbaz",
+            "Baker"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Baker.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-jundi",
+          "canonical": "Jundi (soldier)",
+          "variants": [
+            "Jundi",
+            "Soldier"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Soldier.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-muadhdhin",
+          "canonical": "Mu'adhdhin (caller to prayer)",
+          "variants": [
+            "Mu'adhdhin",
+            "Muezzin",
+            "Muadhin"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Caller to prayer.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-tayyar",
+          "canonical": "Tayyar (pilot)",
+          "variants": [
+            "Tayyar",
+            "Pilot"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Pilot.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-saiq",
+          "canonical": "Sa'iq (driver)",
+          "variants": [
+            "Sa'iq",
+            "Saiq",
+            "Driver"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Driver.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-haddad",
+          "canonical": "Haddad (blacksmith)",
+          "variants": [
+            "Haddad",
+            "Blacksmith"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Blacksmith.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-rai",
+          "canonical": "Ra'i (shepherd)",
+          "variants": [
+            "Ra'i",
+            "Rai",
+            "Shepherd"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Shepherd — \"each of you is a shepherd\".",
+          "source": {
+            "text": "Sahih al-Bukhari 893",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-muhami",
+          "canonical": "Muhami (lawyer)",
+          "variants": [
+            "Muhami",
+            "Lawyer"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Lawyer.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-sahafi",
+          "canonical": "Sahafi (journalist)",
+          "variants": [
+            "Sahafi",
+            "Journalist"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Journalist.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-mumarrid",
+          "canonical": "Mumarrid (nurse)",
+          "variants": [
+            "Mumarrid",
+            "Mumarridah",
+            "Nurse"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Nurse.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-jobs-arabic-khayyat",
+          "canonical": "Khayyat (tailor)",
+          "variants": [
+            "Khayyat",
+            "Tailor"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Tailor.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ],
+  "bonus": [
+    {
+      "id": "d1113-bonus-abasa",
+      "number": 7,
+      "prompt": "Name something mentioned in Surah 'Abasa.",
+      "answers": [
+        {
+          "id": "d1113-bonus-abasa-he-frowned-and-turned-away",
+          "canonical": "He frowned and turned away",
+          "variants": [
+            "Frowned",
+            "Abasa",
+            "Turned away"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"He frowned and turned away, because the blind man came to him.\"",
+          "source": {
+            "text": "Qur'an 80:1-2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-the-blind-man",
+          "canonical": "The blind man",
+          "variants": [
+            "Blind man",
+            "Ibn Umm Maktum"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "'Abdullah ibn Umm Maktum.",
+          "source": {
+            "text": "Qur'an 80:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-noble-honoured-scrolls",
+          "canonical": "Noble, honoured scrolls",
+          "variants": [
+            "Scrolls",
+            "Honoured sheets",
+            "Scribes"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…in honoured sheets, exalted, purified, by the hands of scribes.\"",
+          "source": {
+            "text": "Qur'an 80:13-15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-food-and-how-it-grows",
+          "canonical": "Food and how it grows",
+          "variants": [
+            "Food",
+            "Water poured"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Let man look at his food — We poured down water…\"",
+          "source": {
+            "text": "Qur'an 80:24-25",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-grain-grapes-and-olives",
+          "canonical": "Grain, grapes and olives",
+          "variants": [
+            "Grain",
+            "Grapes",
+            "Olives",
+            "Palms"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…grain, grapes and herbage, and olives and palm trees.\"",
+          "source": {
+            "text": "Qur'an 80:27-29",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-a-man-flees-his-brother",
+          "canonical": "A man flees his brother",
+          "variants": [
+            "Flee from his brother",
+            "Flee from family"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The Day a man will flee from his brother, his mother and his father.\"",
+          "source": {
+            "text": "Qur'an 80:34-35",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-the-deafening-blast",
+          "canonical": "The Deafening Blast",
+          "variants": [
+            "Deafening blast",
+            "Sakhkhah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"When there comes the Deafening Blast.\"",
+          "source": {
+            "text": "Qur'an 80:33",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-bright-faces-and-dusty-faces",
+          "canonical": "Bright faces and dusty faces",
+          "variants": [
+            "Bright faces",
+            "Dusty faces"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Faces that Day will be bright… and faces covered with dust.\"",
+          "source": {
+            "text": "Qur'an 80:38-40",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-created-from-a-drop",
+          "canonical": "Created from a drop",
+          "variants": [
+            "Drop",
+            "Nutfah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"From a drop He created him and proportioned him.\"",
+          "source": {
+            "text": "Qur'an 80:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-the-grave",
+          "canonical": "The grave",
+          "variants": [
+            "Grave",
+            "Death"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Then He causes his death and provides a grave for him.\"",
+          "source": {
+            "text": "Qur'an 80:21",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-fruit-and-fodder",
+          "canonical": "Fruit and fodder (abb)",
+          "variants": [
+            "Abb",
+            "Grass",
+            "Fodder",
+            "Fruit"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"…and fruit and grass.\"",
+          "source": {
+            "text": "Qur'an 80:31",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-abasa-gardens-of-dense-trees",
+          "canonical": "Gardens of dense trees",
+          "variants": [
+            "Dense gardens",
+            "Gardens"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"…and gardens of dense shrubbery.\"",
+          "source": {
+            "text": "Qur'an 80:30",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1113-bonus-cousins",
+      "number": 8,
+      "prompt": "Name a cousin of the Prophet ﷺ.",
+      "answers": [
+        {
+          "id": "d1113-bonus-cousins-ali-ibn-abi-talib",
+          "canonical": "'Ali ibn Abi Talib",
+          "variants": [
+            "Ali"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Son of his uncle Abu Talib.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-jafar-ibn-abi-talib",
+          "canonical": "Ja'far ibn Abi Talib",
+          "variants": [
+            "Ja'far",
+            "Jafar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of Abu Talib.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-abdullah-ibn-abbas",
+          "canonical": "'Abdullah ibn 'Abbas",
+          "variants": [
+            "Ibn Abbas",
+            "Abdullah ibn Abbas"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of al-'Abbas.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-al-zubayr-ibn-al-awwam",
+          "canonical": "Al-Zubayr ibn al-'Awwam",
+          "variants": [
+            "Zubayr",
+            "Al-Zubayr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Son of his aunt Safiyyah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-zaynab-bint-jahsh",
+          "canonical": "Zaynab bint Jahsh",
+          "variants": [
+            "Zaynab bint Jahsh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Daughter of his aunt Umaymah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-aqil-ibn-abi-talib",
+          "canonical": "'Aqil ibn Abi Talib",
+          "variants": [
+            "Aqil",
+            "Aqeel"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Son of Abu Talib.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-al-fadl-ibn-al-abbas",
+          "canonical": "Al-Fadl ibn al-'Abbas",
+          "variants": [
+            "Fadl",
+            "Al-Fadl ibn al-'Abbas"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He rode behind the Prophet ﷺ at the Farewell Hajj.",
+          "source": {
+            "text": "Sahih al-Bukhari 1513",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-umm-hani",
+          "canonical": "Umm Hani'",
+          "variants": [
+            "Umm Hani'",
+            "Umm Hani"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Daughter of Abu Talib.",
+          "source": {
+            "text": "Sahih al-Bukhari 357",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-abu-sufyan-ibn-al-harith",
+          "canonical": "Abu Sufyan ibn al-Harith",
+          "variants": [
+            "Abu Sufyan ibn al-Harith"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Son of his uncle al-Harith; also his foster brother.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-abdullah-ibn-jahsh",
+          "canonical": "'Abdullah ibn Jahsh",
+          "variants": [
+            "Abdullah ibn Jahsh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Son of his aunt Umaymah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-qutham-ibn-al-abbas",
+          "canonical": "Qutham ibn al-'Abbas",
+          "variants": [
+            "Qutham"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He was said to resemble the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-rabiah-ibn-al-harith",
+          "canonical": "Rabi'ah ibn al-Harith",
+          "variants": [
+            "Rabi'ah ibn al-Harith"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Son of his uncle al-Harith.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-dubaah-bint-al-zubayr",
+          "canonical": "Duba'ah bint al-Zubayr",
+          "variants": [
+            "Duba'ah",
+            "Dubaah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Daughter of his uncle al-Zubayr.",
+          "source": {
+            "text": "Sahih al-Bukhari 5089",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1113-bonus-cousins-nawfal-ibn-al-harith",
+          "canonical": "Nawfal ibn al-Harith",
+          "variants": [
+            "Nawfal ibn al-Harith"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Son of al-Harith.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        }
+      ]
+    },
+    {
+      "id": "d1113-bonus-wahshi",
+      "number": 9,
+      "prompt": "Name something from the life of Wahshi ibn Harb (RA).",
+      "answers": [
+        {
+          "id": "d1113-bonus-wahshi-killed-hamzah",
+          "canonical": "Killed Hamzah",
+          "variants": [
+            "Hamzah",
+            "Killed Hamzah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "With his spear at Uhud.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-wahshi-killed-musaylimah",
+          "canonical": "Killed Musaylimah",
+          "variants": [
+            "Musaylimah",
+            "Yamamah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "With the same spear at Yamamah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-wahshi-a-spear-thrower",
+          "canonical": "A spear thrower",
+          "variants": [
+            "Spear",
+            "Javelin"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He was a skilled Abyssinian spear thrower.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-wahshi-a-slave-promised-freedom",
+          "canonical": "A slave promised freedom",
+          "variants": [
+            "Freedom",
+            "Slave",
+            "Jubayr ibn Mutim"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Jubayr ibn Mut'im promised to free him for killing Hamzah.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-wahshi-accepted-islam",
+          "canonical": "Accepted Islam",
+          "variants": [
+            "Accepted Islam",
+            "Ta'if"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He came to the Prophet ﷺ from Ta'if.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-wahshi-can-you-keep-your-face-from-me",
+          "canonical": "\"Can you keep your face from me?\"",
+          "variants": [
+            "Keep away",
+            "Face"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet ﷺ found it hard to look at him.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-wahshi-from-abyssinia",
+          "canonical": "From Abyssinia",
+          "variants": [
+            "Abyssinia",
+            "Habashi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An Abyssinian.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-wahshi-lived-in-homs",
+          "canonical": "Lived in Homs",
+          "variants": [
+            "Homs",
+            "Hims"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He settled in Homs, Syria.",
+          "source": {
+            "text": "Sahih al-Bukhari 4072",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1113-bonus-mens-dress",
+      "number": 10,
+      "prompt": "Name something the Hadith forbids men to wear.",
+      "answers": [
+        {
+          "id": "d1113-bonus-mens-dress-gold",
+          "canonical": "Gold",
+          "variants": [
+            "Gold",
+            "Gold ring",
+            "Gold jewellery"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Gold and silk are forbidden to the men of my Ummah.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 1720",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-mens-dress-silk",
+          "canonical": "Silk",
+          "variants": [
+            "Silk"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "In the same hadith.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 1720",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-mens-dress-clothes-dragged-out-of-pride",
+          "canonical": "Clothes dragged out of pride",
+          "variants": [
+            "Dragging clothes",
+            "Isbal",
+            "Below the ankles"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Whatever is below the ankles is in the Fire.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5787",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-mens-dress-womens-clothing",
+          "canonical": "Women's clothing",
+          "variants": [
+            "Women's clothes",
+            "Imitating women"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He cursed men who imitate women.",
+          "source": {
+            "text": "Sahih al-Bukhari 5885",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-mens-dress-saffron-dyed-clothes",
+          "canonical": "Saffron-dyed clothes",
+          "variants": [
+            "Saffron",
+            "Saffron-dyed"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He forbade men from saffron-dyed garments.",
+          "source": {
+            "text": "Sahih al-Bukhari 5846",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-mens-dress-clothes-of-fame",
+          "canonical": "Clothes of fame",
+          "variants": [
+            "Clothes of fame",
+            "Showing off clothes",
+            "Libas al-shuhrah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Whoever wears a garment of fame, Allah dresses him in humiliation.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 4029",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1113-bonus-letter-surahs",
+      "number": 11,
+      "prompt": "Name a surah whose name is just one or two Arabic letters.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Alif Lam Mim",
+            "Ha Mim",
+            "Ta Sin Mim",
+            "Al-Baqarah"
+          ],
+          "message": "Those letters open surahs but aren't surah names. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1113-bonus-letter-surahs-ya-sin",
+          "canonical": "Ya-Sin",
+          "variants": [
+            "Yasin",
+            "Ya Sin",
+            "Yaseen"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 36.",
+          "source": {
+            "text": "Qur'an 36:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-letter-surahs-ta-ha",
+          "canonical": "Ta-Ha",
+          "variants": [
+            "Taha",
+            "Ta Ha"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Surah 20.",
+          "source": {
+            "text": "Qur'an 20:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-letter-surahs-qaf",
+          "canonical": "Qaf",
+          "variants": [
+            "Qaf",
+            "Qaaf"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 50.",
+          "source": {
+            "text": "Qur'an 50:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-letter-surahs-sad",
+          "canonical": "Sad",
+          "variants": [
+            "Sad",
+            "Saad"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Surah 38.",
+          "source": {
+            "text": "Qur'an 38:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1113-bonus-letter-surahs-nun",
+          "canonical": "Nun (al-Qalam)",
+          "variants": [
+            "Nun",
+            "Noon",
+            "Al-Qalam",
+            "Qalam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Surah 68 is also called Nun.",
+          "source": {
+            "text": "Qur'an 68:1",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1113-bonus-intercede",
+      "number": 12,
+      "prompt": "Name someone or something that will intercede on the Day of Judgement.",
+      "answers": [
+        {
+          "id": "d1113-bonus-intercede-the-prophet-muhammad",
+          "canonical": "The Prophet Muhammad ﷺ",
+          "variants": [
+            "Prophet Muhammad",
+            "The Prophet",
+            "Muhammad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The great intercession.",
+          "source": {
+            "text": "Sahih al-Bukhari 4712",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-intercede-the-quran",
+          "canonical": "The Qur'an",
+          "variants": [
+            "Quran"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Read the Qur'an, for it will come as an intercessor for its companions.\"",
+          "source": {
+            "text": "Sahih Muslim 804",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-intercede-fasting",
+          "canonical": "Fasting",
+          "variants": [
+            "Fasting"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Fasting and the Qur'an intercede for the servant.\"",
+          "source": {
+            "text": "Musnad Ahmad 6626",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-intercede-surah-al-mulk",
+          "canonical": "Surah al-Mulk",
+          "variants": [
+            "Mulk",
+            "Surah Mulk"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"A surah of thirty verses interceded for a man until he was forgiven.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2891",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-intercede-al-baqarah-and-al-imran",
+          "canonical": "Al-Baqarah and Al 'Imran",
+          "variants": [
+            "Baqarah",
+            "Al 'Imran",
+            "Two radiant ones"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…they will argue on behalf of their companions.\"",
+          "source": {
+            "text": "Sahih Muslim 804",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-intercede-the-angels",
+          "canonical": "The angels",
+          "variants": [
+            "Angels"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The angels interceded, the prophets interceded…\"",
+          "source": {
+            "text": "Sahih Muslim 183",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-intercede-the-prophets",
+          "canonical": "The prophets",
+          "variants": [
+            "Prophets"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From the same hadith.",
+          "source": {
+            "text": "Sahih Muslim 183",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-intercede-the-believers",
+          "canonical": "The believers",
+          "variants": [
+            "Believers"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and the believers interceded.\"",
+          "source": {
+            "text": "Sahih Muslim 183",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-intercede-the-martyrs",
+          "canonical": "The martyrs",
+          "variants": [
+            "Martyrs",
+            "Shuhada"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "For seventy of their family.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 1663",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-intercede-children-who-died-young",
+          "canonical": "Children who died young",
+          "variants": [
+            "Children",
+            "Children who died"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "They will bring their parents into Paradise.",
+          "source": {
+            "text": "Sahih Muslim 2635",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1113-bonus-intercede-forty-who-pray-the-janazah",
+          "canonical": "Forty who pray the janazah",
+          "variants": [
+            "Forty people",
+            "Janazah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"…Allah accepts their intercession for him.\"",
+          "source": {
+            "text": "Sahih Muslim 948",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

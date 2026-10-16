@@ -1,0 +1,2153 @@
+{
+  "date": "2026-11-14",
+  "questions": [
+    {
+      "id": "d1114-suraqah",
+      "number": 1,
+      "prompt": "Name something from the story of Suraqah ibn Malik (RA).",
+      "answers": [
+        {
+          "id": "d1114-suraqah-chased-the-prophet-on-the-hijrah",
+          "canonical": "Chased the Prophet ﷺ on the Hijrah",
+          "variants": [
+            "Chased the Prophet",
+            "Hijrah",
+            "Chase"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Hoping for the reward Quraysh offered.",
+          "source": {
+            "text": "Sahih al-Bukhari 3906",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-suraqah-his-horse-sank-into-the-sand",
+          "canonical": "His horse sank into the sand",
+          "variants": [
+            "Horse sank",
+            "Sand",
+            "Horse"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Its legs sank each time he came close.",
+          "source": {
+            "text": "Sahih al-Bukhari 3906",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-suraqah-the-bracelets-of-kisra",
+          "canonical": "The bracelets of Kisra",
+          "variants": [
+            "Bracelets",
+            "Kisra",
+            "Bracelets of Kisra"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He was promised the Persian king's bracelets.",
+          "source": {
+            "text": "Al-Bayhaqi, Dala'il",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-suraqah-a-reward-of-a-hundred-camels",
+          "canonical": "A reward of a hundred camels",
+          "variants": [
+            "100 camels",
+            "Reward",
+            "Hundred camels"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Quraysh offered it for the Prophet ﷺ and Abu Bakr.",
+          "source": {
+            "text": "Sahih al-Bukhari 3906",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-suraqah-wore-them-under-umar",
+          "canonical": "Wore them under 'Umar",
+          "variants": [
+            "Wore the bracelets",
+            "Umar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'Umar put the bracelets on him after Persia fell.",
+          "source": {
+            "text": "Al-Bayhaqi, Dala'il",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-suraqah-a-written-promise-of-safety",
+          "canonical": "A written promise of safety",
+          "variants": [
+            "Written promise",
+            "Letter of safety"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'Amir ibn Fuhayrah wrote it for him on leather.",
+          "source": {
+            "text": "Sahih al-Bukhari 3906",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-suraqah-accepted-islam-at-al-jiranah",
+          "canonical": "Accepted Islam at al-Ji'ranah",
+          "variants": [
+            "Ji'ranah",
+            "Accepted Islam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "After Hunayn.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-suraqah-banu-mudlij",
+          "canonical": "Banu Mudlij",
+          "variants": [
+            "Banu Mudlij",
+            "Mudlij"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His tribe.",
+          "source": {
+            "text": "Sahih al-Bukhari 3906",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-suraqah-turned-others-away",
+          "canonical": "Turned others away",
+          "variants": [
+            "Turned others away",
+            "Misled the pursuers"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He told pursuers he had searched that way.",
+          "source": {
+            "text": "Sahih al-Bukhari 3906",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1114-europe",
+      "number": 2,
+      "prompt": "Name a city in mainland Europe with a large Muslim community.",
+      "answers": [
+        {
+          "id": "d1114-europe-paris",
+          "canonical": "Paris",
+          "variants": [
+            "Paris"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "France has Western Europe's largest Muslim population.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-berlin",
+          "canonical": "Berlin",
+          "variants": [
+            "Berlin"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Germany.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-istanbul",
+          "canonical": "Istanbul",
+          "variants": [
+            "Istanbul"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Partly in Europe.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-sarajevo",
+          "canonical": "Sarajevo",
+          "variants": [
+            "Sarajevo"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Capital of Bosnia.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-brussels",
+          "canonical": "Brussels",
+          "variants": [
+            "Brussels"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Belgium.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-marseille",
+          "canonical": "Marseille",
+          "variants": [
+            "Marseille",
+            "Marseilles"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "France.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-amsterdam",
+          "canonical": "Amsterdam",
+          "variants": [
+            "Amsterdam"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Netherlands.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-rotterdam",
+          "canonical": "Rotterdam",
+          "variants": [
+            "Rotterdam"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Netherlands.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-cologne",
+          "canonical": "Cologne",
+          "variants": [
+            "Cologne",
+            "Koln"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Germany — home of a huge central mosque.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-moscow",
+          "canonical": "Moscow",
+          "variants": [
+            "Moscow"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Russia.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-vienna",
+          "canonical": "Vienna",
+          "variants": [
+            "Vienna",
+            "Wien"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Austria.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-stockholm",
+          "canonical": "Stockholm",
+          "variants": [
+            "Stockholm"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sweden.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-tirana",
+          "canonical": "Tirana",
+          "variants": [
+            "Tirana"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Capital of Albania.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-pristina",
+          "canonical": "Pristina",
+          "variants": [
+            "Pristina",
+            "Prishtina"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Capital of Kosovo.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-kazan",
+          "canonical": "Kazan",
+          "variants": [
+            "Kazan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Capital of Tatarstan.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-copenhagen",
+          "canonical": "Copenhagen",
+          "variants": [
+            "Copenhagen"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Denmark.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-oslo",
+          "canonical": "Oslo",
+          "variants": [
+            "Oslo"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Norway.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-frankfurt",
+          "canonical": "Frankfurt",
+          "variants": [
+            "Frankfurt"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Germany.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-hamburg",
+          "canonical": "Hamburg",
+          "variants": [
+            "Hamburg"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Germany.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-lyon",
+          "canonical": "Lyon",
+          "variants": [
+            "Lyon"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "France.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-skopje",
+          "canonical": "Skopje",
+          "variants": [
+            "Skopje"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "North Macedonia.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-grozny",
+          "canonical": "Grozny",
+          "variants": [
+            "Grozny"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Chechnya.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-mostar",
+          "canonical": "Mostar",
+          "variants": [
+            "Mostar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Bosnia.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-antwerp",
+          "canonical": "Antwerp",
+          "variants": [
+            "Antwerp"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Belgium.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-malm",
+          "canonical": "Malmö",
+          "variants": [
+            "Malmo",
+            "Malmö"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Sweden.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-granada",
+          "canonical": "Granada",
+          "variants": [
+            "Granada"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A revived Muslim community near the Alhambra.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-europe-ufa",
+          "canonical": "Ufa",
+          "variants": [
+            "Ufa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Bashkortostan.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1114-adiyat",
+      "number": 3,
+      "prompt": "Name something mentioned in Surah al-'Adiyat.",
+      "answers": [
+        {
+          "id": "d1114-adiyat-charging-horses",
+          "canonical": "Charging horses",
+          "variants": [
+            "Horses",
+            "Charging horses",
+            "Racers",
+            "Adiyat"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"By the racers, panting.\"",
+          "source": {
+            "text": "Qur'an 100:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-adiyat-striking-sparks",
+          "canonical": "Striking sparks",
+          "variants": [
+            "Sparks",
+            "Striking sparks"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…striking sparks of fire.\"",
+          "source": {
+            "text": "Qur'an 100:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-adiyat-a-raid-at-dawn",
+          "canonical": "A raid at dawn",
+          "variants": [
+            "Dawn raid",
+            "Dawn",
+            "Raid"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…charging at dawn.\"",
+          "source": {
+            "text": "Qur'an 100:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-adiyat-clouds-of-dust",
+          "canonical": "Clouds of dust",
+          "variants": [
+            "Dust",
+            "Clouds of dust"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…stirring up clouds of dust.\"",
+          "source": {
+            "text": "Qur'an 100:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-adiyat-man-is-ungrateful",
+          "canonical": "Man is ungrateful",
+          "variants": [
+            "Ungrateful",
+            "Ingratitude",
+            "Kanud"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Indeed man, to his Lord, is ungrateful.\"",
+          "source": {
+            "text": "Qur'an 100:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-adiyat-intense-love-of-wealth",
+          "canonical": "Intense love of wealth",
+          "variants": [
+            "Love of wealth",
+            "Wealth"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and he is intense in love of wealth.\"",
+          "source": {
+            "text": "Qur'an 100:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-adiyat-graves-scattered",
+          "canonical": "Graves scattered",
+          "variants": [
+            "Graves",
+            "Graves scattered"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"When what is in the graves is scattered.\"",
+          "source": {
+            "text": "Qur'an 100:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-adiyat-secrets-of-the-chests",
+          "canonical": "Secrets of the chests",
+          "variants": [
+            "Secrets",
+            "Hearts",
+            "Chests"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…and what is in the breasts is made known.\"",
+          "source": {
+            "text": "Qur'an 100:10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-adiyat-into-the-midst-of-the-enemy",
+          "canonical": "Into the midst of the enemy",
+          "variants": [
+            "Midst",
+            "Centre of the enemy"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…penetrating into the midst collectively.\"",
+          "source": {
+            "text": "Qur'an 100:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-adiyat-he-is-a-witness-to-that",
+          "canonical": "He is a witness to that",
+          "variants": [
+            "Witness"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"…and indeed he is a witness to that.\"",
+          "source": {
+            "text": "Qur'an 100:7",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1114-road-rights",
+      "number": 4,
+      "prompt": "Name one of the rights of the road the Prophet ﷺ taught.",
+      "answers": [
+        {
+          "id": "d1114-road-rights-lowering-the-gaze",
+          "canonical": "Lowering the gaze",
+          "variants": [
+            "Lowering the gaze",
+            "Lower your gaze"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Lower your gaze…\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2465",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-road-rights-removing-harm",
+          "canonical": "Removing harm",
+          "variants": [
+            "Removing harm",
+            "Not harming",
+            "Clearing the road"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…refraining from harm…\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2465",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-road-rights-returning-the-greeting",
+          "canonical": "Returning the greeting",
+          "variants": [
+            "Returning salam",
+            "Greeting"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…returning salam…\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2465",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-road-rights-enjoining-good-and-forbidding-evil",
+          "canonical": "Enjoining good and forbidding evil",
+          "variants": [
+            "Enjoining good",
+            "Forbidding evil"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and enjoining good and forbidding evil.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2465",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-road-rights-guiding-the-lost",
+          "canonical": "Guiding the lost",
+          "variants": [
+            "Guiding the lost",
+            "Giving directions"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In another narration.",
+          "source": {
+            "text": "Sunan Abi Dawud 4817",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-road-rights-helping-the-oppressed",
+          "canonical": "Helping the oppressed",
+          "variants": [
+            "Helping the oppressed"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In another narration.",
+          "source": {
+            "text": "Sunan Abi Dawud 4817",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-road-rights-good-speech",
+          "canonical": "Good speech",
+          "variants": [
+            "Good speech",
+            "Kind words"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and good speech.\"",
+          "source": {
+            "text": "Sahih Muslim 2161",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-road-rights-helping-someone-carry-a-load",
+          "canonical": "Helping someone carry a load",
+          "variants": [
+            "Helping carry",
+            "Carrying loads"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…helping with burdens.\"",
+          "source": {
+            "text": "Musnad al-Bazzar",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-road-rights-saying-yarhamuk-allah",
+          "canonical": "Saying \"yarhamuk Allah\"",
+          "variants": [
+            "Yarhamukallah",
+            "Sneezing"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Replying to the sneezer who praises Allah.",
+          "source": {
+            "text": "Sunan Abi Dawud 4817",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-road-rights-not-sitting-in-the-road-at-all",
+          "canonical": "Not sitting in the road at all",
+          "variants": [
+            "Not sitting in the road",
+            "Avoid sitting in roads"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Beware of sitting in the roads\" — unless you give the road its rights.",
+          "source": {
+            "text": "Sahih al-Bukhari 2465",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1114-jannah-people",
+      "number": 5,
+      "prompt": "Name something the Hadith says about the people of Paradise.",
+      "answers": [
+        {
+          "id": "d1114-jannah-people-they-never-get-ill-or-old",
+          "canonical": "They never get ill or old",
+          "variants": [
+            "Never ill",
+            "Never old",
+            "Eternal youth"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Health and you will never fall ill… youth and you will never grow old.\"",
+          "source": {
+            "text": "Sahih Muslim 2837",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-they-will-see-allah",
+          "canonical": "They will see Allah",
+          "variants": [
+            "Seeing Allah",
+            "See their Lord"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"You will see your Lord as you see the full moon.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 554",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-they-never-die",
+          "canonical": "They never die",
+          "variants": [
+            "Never die",
+            "Eternal life"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Life and you will never die.\"",
+          "source": {
+            "text": "Sahih Muslim 2837",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-sixty-cubits-tall",
+          "canonical": "Sixty cubits tall",
+          "variants": [
+            "Sixty cubits",
+            "Tall",
+            "60 cubits"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "In the form of Adam.",
+          "source": {
+            "text": "Sahih al-Bukhari 3327",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-aged-thirty-three",
+          "canonical": "Aged thirty-three",
+          "variants": [
+            "33",
+            "Thirty-three",
+            "Age 33"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "They enter aged thirty-three.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2545",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-no-hatred-between-them",
+          "canonical": "No hatred between them",
+          "variants": [
+            "No hatred",
+            "United hearts"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"No hatred or envy between them — their hearts as one.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3245",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-sweat-like-musk",
+          "canonical": "Sweat like musk",
+          "variants": [
+            "Sweat like musk",
+            "Musk"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "They do not urinate; their sweat is musk.",
+          "source": {
+            "text": "Sahih Muslim 2835",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-faces-like-the-moon",
+          "canonical": "Faces like the moon",
+          "variants": [
+            "Faces like the moon",
+            "Shining faces"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The first group enter with faces like the full moon.",
+          "source": {
+            "text": "Sahih al-Bukhari 3245",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-a-market-every-friday",
+          "canonical": "A market every Friday",
+          "variants": [
+            "Market",
+            "Friday market"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A wind blows, adding to their beauty.",
+          "source": {
+            "text": "Sahih Muslim 2833",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-allahs-pleasure",
+          "canonical": "Allah's pleasure",
+          "variants": [
+            "Allah's pleasure",
+            "Ridwan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"I am pleased with you and will never be displeased.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6549",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-combs-of-gold",
+          "canonical": "Combs of gold",
+          "variants": [
+            "Gold combs",
+            "Combs"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Their combs are gold.",
+          "source": {
+            "text": "Sahih al-Bukhari 3245",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-jannah-people-the-lowest-has-ten-times-this-world",
+          "canonical": "The lowest has ten times this world",
+          "variants": [
+            "Ten times the world",
+            "Lowest in Paradise"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"…like this world and ten times more.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6571",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1114-school-arabic",
+      "number": 6,
+      "prompt": "Name a word to do with school or learning in Arabic.",
+      "answers": [
+        {
+          "id": "d1114-school-arabic-madrasah",
+          "canonical": "Madrasah (school)",
+          "variants": [
+            "Madrasah",
+            "Madrasa",
+            "School"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "School.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-kitab",
+          "canonical": "Kitab (book)",
+          "variants": [
+            "Kitab",
+            "Book"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Book.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-qalam",
+          "canonical": "Qalam (pen)",
+          "variants": [
+            "Qalam",
+            "Pen"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Pen.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-talib",
+          "canonical": "Talib (student)",
+          "variants": [
+            "Talib",
+            "Student",
+            "Taalib"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Student.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-muallim",
+          "canonical": "Mu'allim (teacher)",
+          "variants": [
+            "Mu'allim",
+            "Muallim",
+            "Teacher"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Teacher.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-dars",
+          "canonical": "Dars (lesson)",
+          "variants": [
+            "Dars",
+            "Lesson"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Lesson.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-daftar",
+          "canonical": "Daftar (notebook)",
+          "variants": [
+            "Daftar",
+            "Notebook"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Notebook.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-fasl",
+          "canonical": "Fasl (class)",
+          "variants": [
+            "Fasl",
+            "Class",
+            "Classroom"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Classroom, class.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-jamiah",
+          "canonical": "Jami'ah (university)",
+          "variants": [
+            "Jami'ah",
+            "Jamia",
+            "University"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "University.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-imtihan",
+          "canonical": "Imtihan (exam)",
+          "variants": [
+            "Imtihan",
+            "Exam",
+            "Test"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Exam.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-sabb-rah",
+          "canonical": "Sabbūrah (board)",
+          "variants": [
+            "Sabburah",
+            "Board",
+            "Blackboard"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Blackboard.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-waraqah",
+          "canonical": "Waraqah (paper)",
+          "variants": [
+            "Waraqah",
+            "Waraqa",
+            "Paper"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Sheet of paper.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-wajib",
+          "canonical": "Wajib (homework)",
+          "variants": [
+            "Wajib",
+            "Homework"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Homework, duty.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-mistarah",
+          "canonical": "Mistarah (ruler)",
+          "variants": [
+            "Mistarah",
+            "Ruler"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Ruler.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-school-arabic-mimhah",
+          "canonical": "Mimhah (eraser)",
+          "variants": [
+            "Mimhah",
+            "Mimhat",
+            "Eraser",
+            "Rubber"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Eraser.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ],
+  "bonus": [
+    {
+      "id": "d1114-bonus-naziat",
+      "number": 7,
+      "prompt": "Name something mentioned in Surah an-Nazi'at.",
+      "answers": [
+        {
+          "id": "d1114-bonus-naziat-angels-extracting-souls",
+          "canonical": "Angels extracting souls",
+          "variants": [
+            "Angels",
+            "Souls taken",
+            "Extracting"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"By those who extract with violence… and draw out gently.\"",
+          "source": {
+            "text": "Qur'an 79:1-2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-naziat-musa-and-pharaoh",
+          "canonical": "Musa and Pharaoh",
+          "variants": [
+            "Musa",
+            "Pharaoh"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Go to Pharaoh, he has transgressed.\"",
+          "source": {
+            "text": "Qur'an 79:17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-naziat-the-valley-of-tuwa",
+          "canonical": "The valley of Tuwa",
+          "variants": [
+            "Tuwa",
+            "Sacred valley"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"His Lord called him in the sacred valley of Tuwa.\"",
+          "source": {
+            "text": "Qur'an 79:16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-naziat-i-am-your-lord-most-high",
+          "canonical": "\"I am your lord, most high\"",
+          "variants": [
+            "I am your lord most high",
+            "Pharaoh claimed"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Pharaoh's claim.",
+          "source": {
+            "text": "Qur'an 79:24",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-naziat-the-great-overwhelming-event",
+          "canonical": "The Great Overwhelming Event",
+          "variants": [
+            "Great Catastrophe",
+            "Tammah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"When the Great Catastrophe comes.\"",
+          "source": {
+            "text": "Qur'an 79:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-naziat-mountains-as-anchors",
+          "canonical": "Mountains as anchors",
+          "variants": [
+            "Mountains",
+            "Anchors"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and the mountains He set firmly.\"",
+          "source": {
+            "text": "Qur'an 79:32",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-naziat-the-earth-spread-out",
+          "canonical": "The earth spread out",
+          "variants": [
+            "Earth spread"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and after that He spread the earth.\"",
+          "source": {
+            "text": "Qur'an 79:30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-naziat-restraining-the-soul-from-desire",
+          "canonical": "Restraining the soul from desire",
+          "variants": [
+            "Restraining desire",
+            "Nafs",
+            "Desire"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and restrained the soul from desire — Paradise will be his refuge.\"",
+          "source": {
+            "text": "Qur'an 79:40-41",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-naziat-when-is-the-hour",
+          "canonical": "\"When is the Hour?\"",
+          "variants": [
+            "When is the Hour"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"They ask you about the Hour: when is its arrival?\"",
+          "source": {
+            "text": "Qur'an 79:42",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-naziat-the-quaking-blast",
+          "canonical": "The quaking blast",
+          "variants": [
+            "Blast",
+            "Rajifah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The Day the blast will convulse.\"",
+          "source": {
+            "text": "Qur'an 79:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-naziat-as-if-they-stayed-an-evening",
+          "canonical": "\"As if they stayed an evening\"",
+          "variants": [
+            "An evening",
+            "Afternoon or morning"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"…as if they had not remained except an afternoon or a morning.\"",
+          "source": {
+            "text": "Qur'an 79:46",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1114-bonus-merchants",
+      "number": 8,
+      "prompt": "Name a Companion who was known as a merchant.",
+      "answers": [
+        {
+          "id": "d1114-bonus-merchants-abu-bakr",
+          "canonical": "Abu Bakr",
+          "variants": [
+            "Abu Bakr"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A cloth merchant.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1114-bonus-merchants-uthman-ibn-affan",
+          "canonical": "'Uthman ibn 'Affan",
+          "variants": [
+            "Uthman"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A wealthy trader.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1114-bonus-merchants-abd-al-rahman-ibn-awf",
+          "canonical": "'Abd al-Rahman ibn 'Awf",
+          "variants": [
+            "Abd al-Rahman ibn Awf"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Show me the market.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2048",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1114-bonus-merchants-khadijah",
+          "canonical": "Khadijah",
+          "variants": [
+            "Khadijah",
+            "Khadija"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She employed the Prophet ﷺ in her trade.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1114-bonus-merchants-talhah-ibn-ubaydullah",
+          "canonical": "Talhah ibn 'Ubaydullah",
+          "variants": [
+            "Talhah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A rich merchant of Taym.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1114-bonus-merchants-al-zubayr",
+          "canonical": "Al-Zubayr",
+          "variants": [
+            "Zubayr"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His trade left great wealth.",
+          "source": {
+            "text": "Sahih al-Bukhari 3129",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1114-bonus-merchants-abu-sufyan",
+          "canonical": "Abu Sufyan",
+          "variants": [
+            "Abu Sufyan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Led the Quraysh caravans.",
+          "source": {
+            "text": "Sahih al-Bukhari 7",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1114-bonus-merchants-al-abbas",
+          "canonical": "Al-'Abbas",
+          "variants": [
+            "Abbas",
+            "Al-'Abbas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A rich merchant of Quraysh.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1114-bonus-merchants-hakim-ibn-hizam",
+          "canonical": "Hakim ibn Hizam",
+          "variants": [
+            "Hakim ibn Hizam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A famous trader.",
+          "source": {
+            "text": "Sahih al-Bukhari 2079",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1114-bonus-merchants-abu-al-as-ibn-al-rabi",
+          "canonical": "Abu al-'As ibn al-Rabi'",
+          "variants": [
+            "Abu al-As",
+            "Abul Aas"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A trusted merchant of Makkah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1114-bonus-merchants-suhayb",
+          "canonical": "Suhayb",
+          "variants": [
+            "Suhayb"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He made money trading in Makkah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        }
+      ]
+    },
+    {
+      "id": "d1114-bonus-hind",
+      "number": 9,
+      "prompt": "Name something from the life of Hind bint 'Utbah (RA).",
+      "answers": [
+        {
+          "id": "d1114-bonus-hind-wife-of-abu-sufyan",
+          "canonical": "Wife of Abu Sufyan",
+          "variants": [
+            "Abu Sufyan",
+            "Wife of Abu Sufyan"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "And mother of Mu'awiyah.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hind-hamzahs-body-at-uhud",
+          "canonical": "Hamzah's body at Uhud",
+          "variants": [
+            "Hamzah",
+            "Uhud",
+            "Liver"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She mutilated it before she was Muslim.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hind-accepted-islam-at-the-conquest",
+          "canonical": "Accepted Islam at the Conquest",
+          "variants": [
+            "Conquest",
+            "Accepted Islam"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She came with the women to give the pledge.",
+          "source": {
+            "text": "Sahih al-Bukhari 3825",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hind-would-a-free-woman-commit-zina",
+          "canonical": "\"Would a free woman commit zina?\"",
+          "variants": [
+            "Free woman",
+            "Pledge of women"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Her famous words during the women's pledge.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hind-mother-of-muawiyah",
+          "canonical": "Mother of Mu'awiyah",
+          "variants": [
+            "Mu'awiyah",
+            "Muawiyah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The first Umayyad caliph.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hind-daughter-of-utbah",
+          "canonical": "Daughter of 'Utbah",
+          "variants": [
+            "Utbah",
+            "Daughter of 'Utbah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Her father was killed at Badr.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hind-yarmuk",
+          "canonical": "Yarmuk",
+          "variants": [
+            "Yarmuk"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She urged the Muslims on.",
+          "source": {
+            "text": "Al-Tabari, Tarikh",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hind-take-what-is-reasonable",
+          "canonical": "\"Take what is reasonable\"",
+          "variants": [
+            "Reasonable",
+            "Maintenance",
+            "Abu Sufyan stingy"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "She asked about taking from Abu Sufyan's wealth for her needs.",
+          "source": {
+            "text": "Sahih al-Bukhari 5364",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1114-bonus-vessels",
+      "number": 10,
+      "prompt": "Name a cup, jug or vessel mentioned in the Qur'an.",
+      "answers": [
+        {
+          "id": "d1114-bonus-vessels-cups",
+          "canonical": "Cups (akwab)",
+          "variants": [
+            "Cups",
+            "Akwab"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…with cups and jugs.\"",
+          "source": {
+            "text": "Qur'an 56:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-vessels-jugs",
+          "canonical": "Jugs (abariq)",
+          "variants": [
+            "Jugs",
+            "Ewers",
+            "Abariq"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and jugs.\"",
+          "source": {
+            "text": "Qur'an 56:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-vessels-goblet",
+          "canonical": "Goblet (ka's)",
+          "variants": [
+            "Goblet",
+            "Ka's",
+            "Glass"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and a cup from a flowing spring.\"",
+          "source": {
+            "text": "Qur'an 56:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-vessels-the-kings-cup",
+          "canonical": "The king's cup",
+          "variants": [
+            "King's cup",
+            "Siqayah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Hidden in Binyamin's bag.",
+          "source": {
+            "text": "Qur'an 12:72",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-vessels-plates-of-gold",
+          "canonical": "Plates of gold",
+          "variants": [
+            "Plates of gold",
+            "Gold plates",
+            "Sihaf"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Circulated among them are plates of gold.\"",
+          "source": {
+            "text": "Qur'an 43:71",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-vessels-silver-vessels",
+          "canonical": "Silver vessels",
+          "variants": [
+            "Silver vessels",
+            "Crystal cups"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Vessels of silver and cups of crystal.\"",
+          "source": {
+            "text": "Qur'an 76:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-vessels-bowls-like-reservoirs",
+          "canonical": "Bowls like reservoirs",
+          "variants": [
+            "Basins",
+            "Bowls like reservoirs",
+            "Jifan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The jinn made for Sulayman \"bowls like reservoirs\".",
+          "source": {
+            "text": "Qur'an 34:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-vessels-fixed-cauldrons",
+          "canonical": "Fixed cauldrons",
+          "variants": [
+            "Cauldrons",
+            "Qudur"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…and cauldrons fixed in place.\"",
+          "source": {
+            "text": "Qur'an 34:13",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-vessels-a-bucket",
+          "canonical": "A bucket",
+          "variants": [
+            "Bucket",
+            "Dalw"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Lowered into Yusuf's well.",
+          "source": {
+            "text": "Qur'an 12:19",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-vessels-the-ark-of-the-covenant",
+          "canonical": "The Ark of the Covenant",
+          "variants": [
+            "Ark",
+            "Tabut"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"The sign of his kingship is that the Ark will come to you.\"",
+          "source": {
+            "text": "Qur'an 2:248",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1114-bonus-cast",
+      "number": 11,
+      "prompt": "Name a prophet who was thrown or placed into something dangerous.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Nuh",
+            "Noah"
+          ],
+          "message": "Nuh boarded the ark himself and was saved — try a prophet who was thrown or put in danger!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1114-bonus-cast-ibrahim-into-the-fire",
+          "canonical": "Ibrahim — into the fire",
+          "variants": [
+            "Ibrahim",
+            "Abraham"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"O fire, be coolness and safety.\"",
+          "source": {
+            "text": "Qur'an 21:69",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-cast-yusuf-into-the-well",
+          "canonical": "Yusuf — into the well",
+          "variants": [
+            "Yusuf",
+            "Joseph"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "And later into prison.",
+          "source": {
+            "text": "Qur'an 12:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-cast-yunus-into-the-sea",
+          "canonical": "Yunus — into the sea",
+          "variants": [
+            "Yunus",
+            "Jonah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Swallowed by the whale.",
+          "source": {
+            "text": "Qur'an 37:141-142",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-cast-musa-into-the-river",
+          "canonical": "Musa — into the river",
+          "variants": [
+            "Musa",
+            "Moses"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "As a baby in a chest.",
+          "source": {
+            "text": "Qur'an 20:39",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1114-bonus-hajj-conditions",
+      "number": 12,
+      "prompt": "Name a condition for Hajj to be obligatory on someone.",
+      "answers": [
+        {
+          "id": "d1114-bonus-hajj-conditions-being-able-to-afford-it",
+          "canonical": "Being able to afford it",
+          "variants": [
+            "Afford it",
+            "Money",
+            "Financial ability",
+            "Istita'ah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…for whoever is able to find a way.\"",
+          "source": {
+            "text": "Qur'an 3:97",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1114-bonus-hajj-conditions-being-muslim",
+          "canonical": "Being Muslim",
+          "variants": [
+            "Muslim",
+            "Islam"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "It is an act of worship for Muslims.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hajj-conditions-being-an-adult",
+          "canonical": "Being an adult",
+          "variants": [
+            "Adult",
+            "Puberty",
+            "Baligh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Past puberty.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hajj-conditions-being-sane",
+          "canonical": "Being sane",
+          "variants": [
+            "Sane",
+            "Sound mind",
+            "Aql"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Of sound mind.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hajj-conditions-being-physically-able",
+          "canonical": "Being physically able",
+          "variants": [
+            "Healthy",
+            "Physically able",
+            "Health"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Healthy enough to travel and perform it.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hajj-conditions-being-free",
+          "canonical": "Being free",
+          "variants": [
+            "Free",
+            "Freedom"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Not a slave.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hajj-conditions-a-safe-route",
+          "canonical": "A safe route",
+          "variants": [
+            "Safe route",
+            "Safe journey",
+            "Security"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The road must be safe.",
+          "source": {
+            "text": "Scholarly consensus",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1114-bonus-hajj-conditions-a-mahram-for-a-woman",
+          "canonical": "A mahram for a woman",
+          "variants": [
+            "Mahram"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Required by many scholars.",
+          "source": {
+            "text": "Sahih al-Bukhari 1862",
+            "status": "needs-review"
+          },
+          "note": "Scholars differ on details."
+        },
+        {
+          "id": "d1114-bonus-hajj-conditions-once-in-a-lifetime",
+          "canonical": "Once in a lifetime",
+          "variants": [
+            "Once in a lifetime",
+            "Once"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Hajj is once; whoever does more, it is voluntary.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 1721",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

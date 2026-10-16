@@ -1,0 +1,2463 @@
+{
+  "date": "2026-10-23",
+  "questions": [
+    {
+      "id": "d1023-body-parts",
+      "number": 1,
+      "prompt": "Name a part of the body mentioned in the Qur'an.",
+      "answers": [
+        {
+          "id": "d1023-body-parts-heart",
+          "canonical": "Heart",
+          "variants": [
+            "Heart",
+            "Qalb",
+            "Hearts"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Truly, in the remembrance of Allah do hearts find rest.\"",
+          "source": {
+            "text": "Qur'an 13:28",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-hand",
+          "canonical": "Hand",
+          "variants": [
+            "Hand",
+            "Hands",
+            "Yad"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The hand of Allah is over their hands\" — and hands will speak on the Day.",
+          "source": {
+            "text": "Qur'an 36:65",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-eye",
+          "canonical": "Eye",
+          "variants": [
+            "Eye",
+            "Eyes",
+            "Ayn"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Have We not made for him two eyes?\"",
+          "source": {
+            "text": "Qur'an 90:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-tongue",
+          "canonical": "Tongue",
+          "variants": [
+            "Tongue",
+            "Lisan"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and a tongue and two lips.\"",
+          "source": {
+            "text": "Qur'an 90:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-face",
+          "canonical": "Face",
+          "variants": [
+            "Face",
+            "Wajh",
+            "Faces"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Turn your face towards al-Masjid al-Haram.\"",
+          "source": {
+            "text": "Qur'an 2:144",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-ear",
+          "canonical": "Ear",
+          "variants": [
+            "Ear",
+            "Ears",
+            "Hearing",
+            "Udhun"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Hearing, sight and hearts will all be questioned.",
+          "source": {
+            "text": "Qur'an 17:36",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-lips",
+          "canonical": "Lips",
+          "variants": [
+            "Lips",
+            "Lip",
+            "Two lips",
+            "Shafatayn"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and a tongue and two lips.\"",
+          "source": {
+            "text": "Qur'an 90:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-skin",
+          "canonical": "Skin",
+          "variants": [
+            "Skin",
+            "Skins",
+            "Julud"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Their skins will testify against them.",
+          "source": {
+            "text": "Qur'an 41:20-22",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-feet",
+          "canonical": "Feet",
+          "variants": [
+            "Feet",
+            "Foot",
+            "Legs",
+            "Rijl"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Feet will bear witness on the Day.",
+          "source": {
+            "text": "Qur'an 36:65",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-fingertips",
+          "canonical": "Fingertips",
+          "variants": [
+            "Fingertips",
+            "Fingers",
+            "Finger tips",
+            "Banan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"We are able to restore even his fingertips.\"",
+          "source": {
+            "text": "Qur'an 75:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-jugular-vein",
+          "canonical": "Jugular vein",
+          "variants": [
+            "Jugular vein",
+            "Vein",
+            "Jugular",
+            "Habl al-warid"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"We are closer to him than his jugular vein.\"",
+          "source": {
+            "text": "Qur'an 50:16",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-forelock",
+          "canonical": "Forelock",
+          "variants": [
+            "Forelock",
+            "Nasiyah",
+            "Front of the head"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"We will drag him by the forelock.\"",
+          "source": {
+            "text": "Qur'an 96:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-bones",
+          "canonical": "Bones",
+          "variants": [
+            "Bones",
+            "Bone",
+            "Izam"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Does man think We will not assemble his bones?\"",
+          "source": {
+            "text": "Qur'an 75:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-neck",
+          "canonical": "Neck",
+          "variants": [
+            "Neck",
+            "Necks",
+            "Unuq"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Do not make your hand chained to your neck.\"",
+          "source": {
+            "text": "Qur'an 17:29",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-womb",
+          "canonical": "Womb",
+          "variants": [
+            "Womb",
+            "Wombs",
+            "Rahim",
+            "Arham"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He shapes you in the wombs as He wills.",
+          "source": {
+            "text": "Qur'an 3:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-body-parts-throat",
+          "canonical": "Throat",
+          "variants": [
+            "Throat",
+            "Hulqum",
+            "Collarbone"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "When the soul reaches the throat at death.",
+          "source": {
+            "text": "Qur'an 56:83",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1023-appearance",
+      "number": 2,
+      "prompt": "Name a feature of the Prophet's ﷺ appearance described by the Companions.",
+      "answers": [
+        {
+          "id": "d1023-appearance-face-like-the-moon",
+          "canonical": "Face like the moon",
+          "variants": [
+            "Face like the moon",
+            "Shining face",
+            "Bright face",
+            "Radiant face",
+            "Like the moon"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"His face was like the moon.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3552",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-medium-height",
+          "canonical": "Medium height",
+          "variants": [
+            "Medium height",
+            "Not tall not short",
+            "Average height",
+            "Middle height"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He was neither very tall nor short.",
+          "source": {
+            "text": "Sahih al-Bukhari 3549",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-black-wavy-hair",
+          "canonical": "Black wavy hair",
+          "variants": [
+            "Wavy hair",
+            "Black hair",
+            "Hair",
+            "Hair to his shoulders",
+            "Long hair"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "His hair was neither tightly curled nor straight.",
+          "source": {
+            "text": "Sahih al-Bukhari 3547",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-thick-beard",
+          "canonical": "Thick beard",
+          "variants": [
+            "Beard",
+            "Thick beard",
+            "Full beard"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He had a thick beard.",
+          "source": {
+            "text": "Sahih Muslim 2344",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-the-seal-of-prophethood",
+          "canonical": "The seal of prophethood",
+          "variants": [
+            "Seal of prophethood",
+            "Seal",
+            "Khatam an-nubuwwah",
+            "Mark between his shoulders"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Between his shoulders, like the egg of a pigeon.",
+          "source": {
+            "text": "Sahih Muslim 2344",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-rosy-white-complexion",
+          "canonical": "Rosy-white complexion",
+          "variants": [
+            "White complexion",
+            "Fair skin",
+            "Rosy",
+            "Complexion",
+            "Fair"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Fair with a reddish tinge — neither pale white nor brown.",
+          "source": {
+            "text": "Sahih al-Bukhari 3547",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-broad-shoulders",
+          "canonical": "Broad shoulders",
+          "variants": [
+            "Broad shoulders",
+            "Wide shoulders",
+            "Shoulders"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He was broad between the shoulders.",
+          "source": {
+            "text": "Sahih al-Bukhari 3551",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-fragrant-sweat",
+          "canonical": "Fragrant sweat",
+          "variants": [
+            "Fragrance",
+            "Fragrant",
+            "Sweat like pearls",
+            "Smelled of musk",
+            "Scent"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"I never smelled musk or perfume more fragrant than the Prophet ﷺ.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3561",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-soft-hands",
+          "canonical": "Soft hands",
+          "variants": [
+            "Soft hands",
+            "Soft palms",
+            "Hands softer than silk"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"I never touched silk softer than his palm.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3561",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-walking-as-if-downhill",
+          "canonical": "Walking as if downhill",
+          "variants": [
+            "Walked as if downhill",
+            "Brisk walk",
+            "Walk",
+            "Walking"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He walked briskly, leaning forward as if descending a slope.",
+          "source": {
+            "text": "Shama'il al-Tirmidhi 5",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-large-dark-eyes",
+          "canonical": "Large dark eyes",
+          "variants": [
+            "Large eyes",
+            "Black eyes",
+            "Long eyelashes",
+            "Eyes",
+            "Dark eyes"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His eyes were wide and very dark, with long lashes.",
+          "source": {
+            "text": "Shama'il al-Tirmidhi 7",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-few-grey-hairs",
+          "canonical": "Few grey hairs",
+          "variants": [
+            "Grey hair",
+            "White hairs",
+            "Few grey hairs",
+            "Twenty white hairs"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He had only about twenty white hairs when he died.",
+          "source": {
+            "text": "Sahih al-Bukhari 3547",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-large-hands-and-feet",
+          "canonical": "Large hands and feet",
+          "variants": [
+            "Big hands",
+            "Large hands",
+            "Large feet",
+            "Thick fingers"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "His hands and feet were large.",
+          "source": {
+            "text": "Sahih al-Bukhari 5907",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-appearance-wide-mouth",
+          "canonical": "Wide mouth",
+          "variants": [
+            "Wide mouth",
+            "Mouth",
+            "Smile",
+            "Smiling"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He had a wide mouth.",
+          "source": {
+            "text": "Sahih Muslim 2339",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1023-languages",
+      "number": 3,
+      "prompt": "Name a language spoken by large numbers of Muslims.",
+      "answers": [
+        {
+          "id": "d1023-languages-arabic",
+          "canonical": "Arabic",
+          "variants": [
+            "Arabic",
+            "Arabi"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The language of the Qur'an.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-urdu",
+          "canonical": "Urdu",
+          "variants": [
+            "Urdu"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Pakistan and India.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-turkish",
+          "canonical": "Turkish",
+          "variants": [
+            "Turkish",
+            "Turkce"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Turkey.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-persian",
+          "canonical": "Persian",
+          "variants": [
+            "Persian",
+            "Farsi",
+            "Dari",
+            "Tajik"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Iran, Afghanistan (Dari) and Tajikistan (Tajik).",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-bengali",
+          "canonical": "Bengali",
+          "variants": [
+            "Bengali",
+            "Bangla"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Bangladesh and West Bengal.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-indonesian",
+          "canonical": "Indonesian",
+          "variants": [
+            "Indonesian",
+            "Bahasa Indonesia",
+            "Bahasa"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Indonesia, the largest Muslim country.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-malay",
+          "canonical": "Malay",
+          "variants": [
+            "Malay",
+            "Bahasa Melayu",
+            "Melayu"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Malaysia and Brunei.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-punjabi",
+          "canonical": "Punjabi",
+          "variants": [
+            "Punjabi",
+            "Panjabi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Pakistan's most spoken language.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-pashto",
+          "canonical": "Pashto",
+          "variants": [
+            "Pashto",
+            "Pushto",
+            "Pashtu"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Afghanistan and Pakistan.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-somali",
+          "canonical": "Somali",
+          "variants": [
+            "Somali"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Somalia and the Horn of Africa.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-hausa",
+          "canonical": "Hausa",
+          "variants": [
+            "Hausa"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Northern Nigeria and Niger.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-swahili",
+          "canonical": "Swahili",
+          "variants": [
+            "Swahili",
+            "Kiswahili"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "East Africa.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-kurdish",
+          "canonical": "Kurdish",
+          "variants": [
+            "Kurdish",
+            "Kurmanji",
+            "Sorani"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Iraq, Turkey, Iran and Syria.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-javanese",
+          "canonical": "Javanese",
+          "variants": [
+            "Javanese",
+            "Jawa"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Java, Indonesia.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-uzbek",
+          "canonical": "Uzbek",
+          "variants": [
+            "Uzbek"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Uzbekistan.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-berber",
+          "canonical": "Berber",
+          "variants": [
+            "Berber",
+            "Amazigh",
+            "Tamazight",
+            "Kabyle"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Amazigh languages of North Africa.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-sindhi",
+          "canonical": "Sindhi",
+          "variants": [
+            "Sindhi"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Sindh, Pakistan.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-azerbaijani",
+          "canonical": "Azerbaijani",
+          "variants": [
+            "Azerbaijani",
+            "Azeri"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Azerbaijan and north-west Iran.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-kazakh",
+          "canonical": "Kazakh",
+          "variants": [
+            "Kazakh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Kazakhstan.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-fula",
+          "canonical": "Fula",
+          "variants": [
+            "Fula",
+            "Fulani",
+            "Fulfulde",
+            "Pulaar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Fulani across West Africa.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-wolof",
+          "canonical": "Wolof",
+          "variants": [
+            "Wolof"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Senegal.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-uyghur",
+          "canonical": "Uyghur",
+          "variants": [
+            "Uyghur",
+            "Uighur"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Xinjiang.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-bosnian",
+          "canonical": "Bosnian",
+          "variants": [
+            "Bosnian"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Bosnia and Herzegovina.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-albanian",
+          "canonical": "Albanian",
+          "variants": [
+            "Albanian",
+            "Shqip"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Albania and Kosovo.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-tatar",
+          "canonical": "Tatar",
+          "variants": [
+            "Tatar"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Tatarstan, Russia.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-baloch",
+          "canonical": "Baloch",
+          "variants": [
+            "Balochi",
+            "Baloch",
+            "Baluchi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Balochistan.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-languages-maldivian",
+          "canonical": "Maldivian",
+          "variants": [
+            "Dhivehi",
+            "Maldivian",
+            "Divehi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Dhivehi, the Maldives.",
+          "source": {
+            "text": "Ethnologue",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1023-tongue",
+      "number": 4,
+      "prompt": "Name a sin of the tongue.",
+      "answers": [
+        {
+          "id": "d1023-tongue-lying",
+          "canonical": "Lying",
+          "variants": [
+            "Lying",
+            "Lies",
+            "Kidhb",
+            "Telling lies"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Lying leads to wickedness, and wickedness leads to the Fire.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6094",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-tongue-backbiting",
+          "canonical": "Backbiting",
+          "variants": [
+            "Backbiting",
+            "Ghibah",
+            "Gheebah",
+            "Gossip"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Mentioning your brother with what he dislikes.\"",
+          "source": {
+            "text": "Qur'an 49:12; Sahih Muslim 2589",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-tongue-slander",
+          "canonical": "Slander",
+          "variants": [
+            "Slander",
+            "Buhtan",
+            "False accusation"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Saying about someone what is not true of them (buhtan).",
+          "source": {
+            "text": "Sahih Muslim 2589",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-tongue-tale-carrying",
+          "canonical": "Tale-carrying",
+          "variants": [
+            "Namimah",
+            "Tale carrying",
+            "Spreading tales",
+            "Tale-bearing",
+            "Causing division"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"The tale-carrier will not enter Paradise.\"",
+          "source": {
+            "text": "Sahih Muslim 105",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-tongue-mocking",
+          "canonical": "Mocking",
+          "variants": [
+            "Mocking",
+            "Mockery",
+            "Ridicule",
+            "Making fun",
+            "Sukhriyah"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Let not a people ridicule another people.\"",
+          "source": {
+            "text": "Qur'an 49:11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-tongue-cursing",
+          "canonical": "Cursing",
+          "variants": [
+            "Cursing",
+            "Swearing",
+            "Lan",
+            "Curse"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The believer is not one who curses.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 1977",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-tongue-insulting-nicknames",
+          "canonical": "Insulting nicknames",
+          "variants": [
+            "Nicknames",
+            "Name-calling",
+            "Insulting names",
+            "Bad nicknames"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Do not call one another by offensive nicknames.\"",
+          "source": {
+            "text": "Qur'an 49:11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-tongue-false-oath",
+          "canonical": "False oath",
+          "variants": [
+            "False oath",
+            "Lying under oath",
+            "Perjury",
+            "Swearing falsely"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Swearing falsely to sell goods is among the deeds Allah will not look at.",
+          "source": {
+            "text": "Sahih Muslim 106",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-tongue-false-testimony",
+          "canonical": "False testimony",
+          "variants": [
+            "False testimony",
+            "False witness",
+            "Shahadat al-zur",
+            "Bearing false witness"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Among the gravest of major sins.",
+          "source": {
+            "text": "Sahih al-Bukhari 2654",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-tongue-obscene-speech",
+          "canonical": "Obscene speech",
+          "variants": [
+            "Obscenity",
+            "Vulgar speech",
+            "Foul language",
+            "Obscene speech",
+            "Fuhsh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The believer is not… obscene or vulgar.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 1977",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-tongue-insulting-a-muslim",
+          "canonical": "Insulting a Muslim",
+          "variants": [
+            "Insulting",
+            "Insults",
+            "Abuse",
+            "Sabb"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Insulting a Muslim is sinful (fusuq).\"",
+          "source": {
+            "text": "Sahih al-Bukhari 48",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-tongue-boasting",
+          "canonical": "Boasting",
+          "variants": [
+            "Boasting",
+            "Bragging",
+            "Showing off"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Allah does not love the boastful.",
+          "source": {
+            "text": "Qur'an 31:18",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-tongue-arguing-needlessly",
+          "canonical": "Arguing needlessly",
+          "variants": [
+            "Arguing",
+            "Argument",
+            "Disputing",
+            "Mira"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"I guarantee a house in Paradise for one who leaves arguing even when right.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 4800",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-tongue-excessive-praise-to-someones-face",
+          "canonical": "Excessive praise to someone's face",
+          "variants": [
+            "Flattery",
+            "Excessive praise",
+            "Praising to the face"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"You have cut your brother's neck.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 2662",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-tongue-swearing-by-other-than-allah",
+          "canonical": "Swearing by other than Allah",
+          "variants": [
+            "Swearing by other than Allah",
+            "Oath by other than Allah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Whoever swears by other than Allah has committed shirk.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 1535",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1023-bilal",
+      "number": 5,
+      "prompt": "Name something from the life of Bilal ibn Rabah (RA).",
+      "answers": [
+        {
+          "id": "d1023-bilal-the-first-muadhdhin",
+          "canonical": "The first mu'adhdhin",
+          "variants": [
+            "First muezzin",
+            "Mu'adhdhin",
+            "Muezzin",
+            "Adhan",
+            "Called the adhan"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He was the first to call the adhan.",
+          "source": {
+            "text": "Sunan Abi Dawud 499",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-ahad-ahad",
+          "canonical": "\"Ahad, Ahad\"",
+          "variants": [
+            "Ahad",
+            "Ahad Ahad",
+            "One One"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Under torture he kept repeating \"One, One\".",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-tortured-with-a-rock-on-his-chest",
+          "canonical": "Tortured with a rock on his chest",
+          "variants": [
+            "Rock on his chest",
+            "Torture",
+            "Tortured",
+            "Hot sand",
+            "Boulder"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He was laid on burning sand under a great rock.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-freed-by-abu-bakr",
+          "canonical": "Freed by Abu Bakr",
+          "variants": [
+            "Freed by Abu Bakr",
+            "Abu Bakr",
+            "Freed",
+            "Bought by Abu Bakr"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Abu Bakr bought him and set him free.",
+          "source": {
+            "text": "Sahih al-Bukhari 3754",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-umayyah-ibn-khalaf",
+          "canonical": "Umayyah ibn Khalaf",
+          "variants": [
+            "Umayyah",
+            "Umayyah ibn Khalaf",
+            "Umayya",
+            "Master"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His master who tortured him; Bilal killed him at Badr.",
+          "source": {
+            "text": "Sahih al-Bukhari 2301",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-footsteps-in-paradise",
+          "canonical": "Footsteps in Paradise",
+          "variants": [
+            "Footsteps in Paradise",
+            "Footsteps",
+            "Sound of his sandals",
+            "Paradise"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"I heard your footsteps ahead of me in Paradise.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 1149",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-adhan-on-the-kabah",
+          "canonical": "Adhan on the Ka'bah",
+          "variants": [
+            "Adhan on the Kaaba",
+            "On top of the Kaaba",
+            "Conquest of Makkah",
+            "Roof of the Kaaba"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He called the adhan from the roof of the Ka'bah at the Conquest of Makkah.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-from-abyssinia",
+          "canonical": "From Abyssinia",
+          "variants": [
+            "Abyssinia",
+            "Habasha",
+            "Ethiopian",
+            "Abyssinian",
+            "African"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "His mother was Abyssinian.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-two-rakahs-after-wudu",
+          "canonical": "Two rak'ahs after wudu",
+          "variants": [
+            "Two rakahs after wudu",
+            "Prayer after wudu",
+            "Always prayed after wudu"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He prayed after every wudu — the deed he hoped for most.",
+          "source": {
+            "text": "Sahih al-Bukhari 1149",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-moved-to-syria",
+          "canonical": "Moved to Syria",
+          "variants": [
+            "Syria",
+            "Sham",
+            "Damascus",
+            "Buried in Damascus"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "After the Prophet's ﷺ death he went to Syria and is buried in Damascus.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-stopped-calling-the-adhan",
+          "canonical": "Stopped calling the adhan",
+          "variants": [
+            "Stopped the adhan",
+            "Grief",
+            "Could not finish the adhan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Grief kept him from calling the adhan after the Prophet ﷺ died.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bilal-treasurer-of-the-prophet",
+          "canonical": "Treasurer of the Prophet ﷺ",
+          "variants": [
+            "Treasurer",
+            "Looked after money",
+            "Steward"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He looked after the Prophet's ﷺ expenses.",
+          "source": {
+            "text": "Sunan Abi Dawud 3055",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1023-arabic-numbers",
+      "number": 6,
+      "prompt": "Name a number in Arabic.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Ahad"
+          ],
+          "message": "Ahad means \"one\" too, but it's used for Allah's oneness — try the counting word, or another number!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1023-arabic-numbers-wahid",
+          "canonical": "Wahid (one)",
+          "variants": [
+            "Wahid",
+            "Wahed",
+            "Wahad",
+            "One"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "1",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-ithnan",
+          "canonical": "Ithnan (two)",
+          "variants": [
+            "Ithnan",
+            "Ithnayn",
+            "Itnan",
+            "Two"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "2",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-thalatha",
+          "canonical": "Thalatha (three)",
+          "variants": [
+            "Thalatha",
+            "Thalathah",
+            "Talata",
+            "Three"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "3",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-arbaa",
+          "canonical": "Arba'a (four)",
+          "variants": [
+            "Arba",
+            "Arba'a",
+            "Arbaa",
+            "Arbaah",
+            "Four"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "4",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-khamsa",
+          "canonical": "Khamsa (five)",
+          "variants": [
+            "Khamsa",
+            "Khamsah",
+            "Five"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "5",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-sitta",
+          "canonical": "Sitta (six)",
+          "variants": [
+            "Sitta",
+            "Sittah",
+            "Six"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "6",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-saba",
+          "canonical": "Sab'a (seven)",
+          "variants": [
+            "Saba",
+            "Sab'a",
+            "Sabaa",
+            "Sab'ah",
+            "Seven"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "7",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-thamaniya",
+          "canonical": "Thamaniya (eight)",
+          "variants": [
+            "Thamaniya",
+            "Thamaniyah",
+            "Thamanya",
+            "Tamanya",
+            "Eight"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "8",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-tisa",
+          "canonical": "Tis'a (nine)",
+          "variants": [
+            "Tisa",
+            "Tis'a",
+            "Tisaa",
+            "Tis'ah",
+            "Nine"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "9",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-ashara",
+          "canonical": "'Ashara (ten)",
+          "variants": [
+            "Ashara",
+            "Asharah",
+            "'Ashra",
+            "Ten"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "10",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-sifr",
+          "canonical": "Sifr (zero)",
+          "variants": [
+            "Sifr",
+            "Zero"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "0 — the origin of the English \"cipher\" and \"zero\".",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-mia",
+          "canonical": "Mi'a (hundred)",
+          "variants": [
+            "Mia",
+            "Mi'ah",
+            "Miah",
+            "Hundred",
+            "One hundred"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "100",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-alf",
+          "canonical": "Alf (thousand)",
+          "variants": [
+            "Alf",
+            "Thousand",
+            "One thousand"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "1,000",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-ahad-ashar",
+          "canonical": "Ahad 'ashar (eleven)",
+          "variants": [
+            "Ahad ashar",
+            "Ahada 'ashar",
+            "Eleven"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "11",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-arabic-numbers-ishrun",
+          "canonical": "'Ishrun (twenty)",
+          "variants": [
+            "Ishrun",
+            "Ishreen",
+            "Ishrin",
+            "Twenty"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "20",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ],
+  "bonus": [
+    {
+      "id": "d1023-bonus-kursi",
+      "number": 7,
+      "prompt": "Name something mentioned in Ayat al-Kursi.",
+      "answers": [
+        {
+          "id": "d1023-bonus-kursi-al-hayy",
+          "canonical": "Al-Hayy (the Ever-Living)",
+          "variants": [
+            "Hayy",
+            "Al Hayy",
+            "Ever-Living",
+            "Ever Living",
+            "The Living"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Allah — there is no god but Him, the Ever-Living…\"",
+          "source": {
+            "text": "Qur'an 2:255",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-kursi-al-qayyum",
+          "canonical": "Al-Qayyum (the Sustainer)",
+          "variants": [
+            "Qayyum",
+            "Al Qayyum",
+            "Sustainer",
+            "Self-Sustaining"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…the Self-Sustaining.\"",
+          "source": {
+            "text": "Qur'an 2:255",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-kursi-the-kursi",
+          "canonical": "The Kursi",
+          "variants": [
+            "Kursi",
+            "Footstool",
+            "Throne",
+            "Chair"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"His Kursi extends over the heavens and the earth.\"",
+          "source": {
+            "text": "Qur'an 2:255",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-kursi-neither-slumber-nor-sleep",
+          "canonical": "Neither slumber nor sleep",
+          "variants": [
+            "Sleep",
+            "Slumber",
+            "Drowsiness",
+            "Sinah",
+            "Nawm",
+            "No sleep"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Neither drowsiness overtakes Him nor sleep.\"",
+          "source": {
+            "text": "Qur'an 2:255",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-kursi-the-heavens-and-the-earth",
+          "canonical": "The heavens and the earth",
+          "variants": [
+            "Heavens",
+            "Earth",
+            "Heavens and earth",
+            "Samawat",
+            "Ard"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"To Him belongs whatever is in the heavens and the earth.\"",
+          "source": {
+            "text": "Qur'an 2:255",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-kursi-intercession-only-by-his-permission",
+          "canonical": "Intercession only by His permission",
+          "variants": [
+            "Intercession",
+            "Shafaah",
+            "Intercede",
+            "Permission"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Who can intercede with Him except by His permission?\"",
+          "source": {
+            "text": "Qur'an 2:255",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-kursi-his-knowledge",
+          "canonical": "His knowledge",
+          "variants": [
+            "Knowledge",
+            "Ilm",
+            "He knows",
+            "What is before them"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"He knows what is before them and what is behind them.\"",
+          "source": {
+            "text": "Qur'an 2:255",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-kursi-al-aliyy-al-azim",
+          "canonical": "Al-'Aliyy al-'Azim",
+          "variants": [
+            "Al-Aliyy",
+            "Aliyy",
+            "Most High",
+            "Al-Azim",
+            "Most Great",
+            "Azim"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"He is the Most High, the Most Great.\"",
+          "source": {
+            "text": "Qur'an 2:255",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-kursi-guarding-them-does-not-tire-him",
+          "canonical": "Guarding them does not tire Him",
+          "variants": [
+            "Does not tire",
+            "Never tired",
+            "Preserving them",
+            "Guarding them"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Their preservation does not tire Him.\"",
+          "source": {
+            "text": "Qur'an 2:255",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-kursi-there-is-no-god-but-him",
+          "canonical": "There is no god but Him",
+          "variants": [
+            "La ilaha illa huwa",
+            "No god but Him",
+            "Tawhid"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Allah — la ilaha illa huwa.\"",
+          "source": {
+            "text": "Qur'an 2:255",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1023-bonus-unseen-five",
+      "number": 8,
+      "prompt": "Name one of the five things the Qur'an says only Allah knows.",
+      "answers": [
+        {
+          "id": "d1023-bonus-unseen-five-when-the-hour-will-come",
+          "canonical": "When the Hour will come",
+          "variants": [
+            "The Hour",
+            "Day of Judgement",
+            "When the Hour will come",
+            "Qiyamah"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Indeed, with Allah is knowledge of the Hour.\"",
+          "source": {
+            "text": "Qur'an 31:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-unseen-five-when-rain-will-fall",
+          "canonical": "When rain will fall",
+          "variants": [
+            "Rain",
+            "When it will rain"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and He sends down the rain.\"",
+          "source": {
+            "text": "Qur'an 31:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-unseen-five-what-is-in-the-wombs",
+          "canonical": "What is in the wombs",
+          "variants": [
+            "Wombs",
+            "What is in the wombs",
+            "Unborn child",
+            "Baby"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and He knows what is in the wombs.\"",
+          "source": {
+            "text": "Qur'an 31:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-unseen-five-what-a-person-will-earn-tomorrow",
+          "canonical": "What a person will earn tomorrow",
+          "variants": [
+            "Tomorrow",
+            "What you will earn tomorrow",
+            "Future",
+            "What will happen tomorrow"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"No soul knows what it will earn tomorrow.\"",
+          "source": {
+            "text": "Qur'an 31:34",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1023-bonus-unseen-five-where-a-person-will-die",
+          "canonical": "Where a person will die",
+          "variants": [
+            "Where you will die",
+            "Place of death",
+            "Death",
+            "Land of death"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and no soul knows in what land it will die.\"",
+          "source": {
+            "text": "Qur'an 31:34",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1023-bonus-forbidden-times",
+      "number": 9,
+      "prompt": "Name a time when voluntary prayer is forbidden.",
+      "answers": [
+        {
+          "id": "d1023-bonus-forbidden-times-at-sunrise",
+          "canonical": "At sunrise",
+          "variants": [
+            "Sunrise",
+            "When the sun rises",
+            "Shuruq"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "While the sun is rising until it is fully up.",
+          "source": {
+            "text": "Sahih Muslim 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-forbidden-times-at-sunset",
+          "canonical": "At sunset",
+          "variants": [
+            "Sunset",
+            "When the sun sets",
+            "Ghurub"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "While the sun is setting.",
+          "source": {
+            "text": "Sahih Muslim 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-forbidden-times-at-midday",
+          "canonical": "At midday",
+          "variants": [
+            "Midday",
+            "Noon",
+            "Zenith",
+            "When the sun is at its height",
+            "Zawal"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "When the sun is at its height, just before Zuhr.",
+          "source": {
+            "text": "Sahih Muslim 831",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-forbidden-times-after-fajr",
+          "canonical": "After Fajr",
+          "variants": [
+            "After Fajr",
+            "After Fajr until sunrise",
+            "After Subh"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"No prayer after Fajr until the sun rises.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 586",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-forbidden-times-after-asr",
+          "canonical": "After 'Asr",
+          "variants": [
+            "After Asr",
+            "After Asr until sunset"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and no prayer after 'Asr until the sun sets.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 586",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1023-bonus-best-at",
+      "number": 10,
+      "prompt": "Name a Companion the Prophet ﷺ praised as the best of the Ummah at something.",
+      "answers": [
+        {
+          "id": "d1023-bonus-best-at-abu-bakr",
+          "canonical": "Abu Bakr",
+          "variants": [
+            "Abu Bakr",
+            "Abu Bakar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"The most merciful of my Ummah to my Ummah is Abu Bakr.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3791",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-best-at-umar",
+          "canonical": "'Umar",
+          "variants": [
+            "Umar",
+            "Omar"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…the firmest in Allah's matters is 'Umar.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3791",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-best-at-uthman",
+          "canonical": "'Uthman",
+          "variants": [
+            "Uthman",
+            "Usman",
+            "Othman"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…the most truly modest is 'Uthman.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3791",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-best-at-ali",
+          "canonical": "'Ali",
+          "variants": [
+            "Ali"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"The best judge among them is 'Ali.\"",
+          "source": {
+            "text": "Sunan Ibn Majah 154",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-best-at-abu-ubaydah",
+          "canonical": "Abu 'Ubaydah",
+          "variants": [
+            "Abu Ubaydah",
+            "Abu Ubaidah",
+            "Abu Ubayda ibn al-Jarrah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Every nation has a trustworthy one, and ours is Abu 'Ubaydah.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3744",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-best-at-muadh-ibn-jabal",
+          "canonical": "Mu'adh ibn Jabal",
+          "variants": [
+            "Muadh",
+            "Mu'adh",
+            "Muadh ibn Jabal",
+            "Muaz"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…the most knowledgeable of halal and haram is Mu'adh.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3791",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-best-at-ubayy-ibn-kab",
+          "canonical": "Ubayy ibn Ka'b",
+          "variants": [
+            "Ubayy",
+            "Ubay ibn Kaab",
+            "Ubayy ibn Ka'b"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…the best reciter is Ubayy.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3791",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-best-at-zayd-ibn-thabit",
+          "canonical": "Zayd ibn Thabit",
+          "variants": [
+            "Zayd ibn Thabit",
+            "Zaid ibn Thabit",
+            "Zayd"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…the most knowledgeable of inheritance is Zayd.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3791",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-best-at-abu-dharr",
+          "canonical": "Abu Dharr",
+          "variants": [
+            "Abu Dharr",
+            "Abu Zar",
+            "Abu Dhar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The sky has not shaded anyone more truthful in speech than Abu Dharr.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3801",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        }
+      ]
+    },
+    {
+      "id": "d1023-bonus-sons-in-law",
+      "number": 11,
+      "prompt": "Name a man who married one of the Prophet's ﷺ daughters.",
+      "answers": [
+        {
+          "id": "d1023-bonus-sons-in-law-ali-ibn-abi-talib",
+          "canonical": "'Ali ibn Abi Talib",
+          "variants": [
+            "Ali",
+            "Ali ibn Abi Talib"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Married Fatimah.",
+          "source": {
+            "text": "Sahih al-Bukhari 3729",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-sons-in-law-uthman-ibn-affan",
+          "canonical": "'Uthman ibn 'Affan",
+          "variants": [
+            "Uthman",
+            "Usman",
+            "Uthman ibn Affan"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Married Ruqayyah, then Umm Kulthum.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-sons-in-law-abu-al-as-ibn-al-rabi",
+          "canonical": "Abu al-'As ibn al-Rabi'",
+          "variants": [
+            "Abu al-As",
+            "Abul Aas",
+            "Abu al-'As ibn al-Rabi'",
+            "Abu al As"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Married Zaynab; he later accepted Islam and she returned to him.",
+          "source": {
+            "text": "Sunan Abi Dawud 2240",
+            "status": "needs-review"
+          },
+          "honorific": "RA"
+        },
+        {
+          "id": "d1023-bonus-sons-in-law-utbah-ibn-abi-lahab",
+          "canonical": "'Utbah ibn Abi Lahab",
+          "variants": [
+            "Utbah",
+            "Utbah ibn Abi Lahab",
+            "Utba"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He was married to Ruqayyah before Islam and divorced her on his father's orders.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-sons-in-law-utaybah-ibn-abi-lahab",
+          "canonical": "'Utaybah ibn Abi Lahab",
+          "variants": [
+            "Utaybah",
+            "Utaybah ibn Abi Lahab",
+            "Utaiba"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He was married to Umm Kulthum and divorced her on his father's orders.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1023-bonus-measures",
+      "number": 12,
+      "prompt": "Name a unit of measure used in the Hadith.",
+      "answers": [
+        {
+          "id": "d1023-bonus-measures-sa",
+          "canonical": "Sa'",
+          "variants": [
+            "Sa",
+            "Sa'",
+            "Saa"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A measure of volume — Zakat al-Fitr is one sa'.",
+          "source": {
+            "text": "Sahih al-Bukhari 1503",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-measures-mudd",
+          "canonical": "Mudd",
+          "variants": [
+            "Mudd",
+            "Mud"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "A quarter of a sa' — the Prophet ﷺ did wudu with a mudd.",
+          "source": {
+            "text": "Sahih al-Bukhari 201",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-measures-dhira",
+          "canonical": "Dhira' (cubit)",
+          "variants": [
+            "Dhira",
+            "Cubit",
+            "Arm length"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Adam was sixty cubits tall.",
+          "source": {
+            "text": "Sahih al-Bukhari 3326",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-measures-qirat",
+          "canonical": "Qirat",
+          "variants": [
+            "Qirat",
+            "Qiraat",
+            "Carat"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A reward \"like Mount Uhud\" for attending a funeral prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari 1325",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-measures-wasq",
+          "canonical": "Wasq",
+          "variants": [
+            "Wasq",
+            "Awsuq",
+            "Wasaq"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Sixty sa'; no zakah on less than five awsuq of dates.",
+          "source": {
+            "text": "Sahih al-Bukhari 1447",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-measures-uqiyah",
+          "canonical": "Uqiyah",
+          "variants": [
+            "Uqiyah",
+            "Uqiya",
+            "Ounce"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Forty dirhams; no zakah on less than five uqiyah of silver.",
+          "source": {
+            "text": "Sahih al-Bukhari 1447",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-measures-mithqal",
+          "canonical": "Mithqal",
+          "variants": [
+            "Mithqal",
+            "Misqal"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A weight used for gold.",
+          "source": {
+            "text": "Sahih Muslim 1009",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-measures-farsakh",
+          "canonical": "Farsakh",
+          "variants": [
+            "Farsakh",
+            "Parasang",
+            "Farsakh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A distance of about three miles, used in travel rulings.",
+          "source": {
+            "text": "Sahih Muslim 691",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-measures-qullah",
+          "canonical": "Qullah",
+          "variants": [
+            "Qullah",
+            "Qullatayn",
+            "Qulla"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"If water reaches two qullahs it does not become impure.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 63",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-measures-shibr",
+          "canonical": "Shibr (span)",
+          "variants": [
+            "Shibr",
+            "Span",
+            "Hand span"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Whoever draws near Me a span, I draw near him a cubit.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 7405",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1023-bonus-measures-barid",
+          "canonical": "Barid",
+          "variants": [
+            "Barid",
+            "Bareed"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Four farsakhs — a distance used for shortening prayer.",
+          "source": {
+            "text": "Sahih al-Bukhari (ta'liq, Taqsir)",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}

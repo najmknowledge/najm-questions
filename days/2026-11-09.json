@@ -1,0 +1,2558 @@
+{
+  "date": "2026-11-09",
+  "questions": [
+    {
+      "id": "d1109-nations-sins",
+      "number": 1,
+      "prompt": "Name a sin that a past nation was destroyed for in the Qur'an.",
+      "answers": [
+        {
+          "id": "d1109-nations-sins-worshipping-idols",
+          "canonical": "Worshipping idols",
+          "variants": [
+            "Idol worship",
+            "Shirk",
+            "Worshipping idols"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The people of Nuh, 'Ad and Thamud.",
+          "source": {
+            "text": "Qur'an 71:23",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-cheating-in-weights-and-measures",
+          "canonical": "Cheating in weights and measures",
+          "variants": [
+            "Cheating",
+            "Short measure",
+            "Cheating in weights",
+            "Madyan"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The people of Madyan.",
+          "source": {
+            "text": "Qur'an 11:84-85",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-the-sin-of-luts-people",
+          "canonical": "The sin of Lut's people",
+          "variants": [
+            "Homosexuality",
+            "Lut's people",
+            "Sodom"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"You approach men instead of women.\"",
+          "source": {
+            "text": "Qur'an 7:80-81",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-killing-the-she-camel",
+          "canonical": "Killing the she-camel",
+          "variants": [
+            "She-camel",
+            "Killing the camel",
+            "Thamud"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Thamud hamstrung the camel of Allah.",
+          "source": {
+            "text": "Qur'an 91:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-breaking-the-sabbath",
+          "canonical": "Breaking the Sabbath",
+          "variants": [
+            "Sabbath",
+            "Fishing on the Sabbath"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Those who fished on the Sabbath.",
+          "source": {
+            "text": "Qur'an 7:163",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-arrogance",
+          "canonical": "Arrogance",
+          "variants": [
+            "Arrogance",
+            "Pride"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "'Ad: \"Who is mightier than us in strength?\"",
+          "source": {
+            "text": "Qur'an 41:15",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-tyranny-and-oppression",
+          "canonical": "Tyranny and oppression",
+          "variants": [
+            "Tyranny",
+            "Oppression",
+            "Pharaoh"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Pharaoh killed sons and enslaved people.",
+          "source": {
+            "text": "Qur'an 28:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-rejecting-the-messengers",
+          "canonical": "Rejecting the messengers",
+          "variants": [
+            "Rejecting messengers",
+            "Denying prophets"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Each denied the messengers.\"",
+          "source": {
+            "text": "Qur'an 50:14",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-ingratitude",
+          "canonical": "Ingratitude",
+          "variants": [
+            "Ingratitude",
+            "Kufr",
+            "Saba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Saba' turned away and their dam burst.",
+          "source": {
+            "text": "Qur'an 34:15-17",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-highway-robbery",
+          "canonical": "Highway robbery",
+          "variants": [
+            "Highway robbery",
+            "Robbing travellers"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Lut's people also \"cut off the road\".",
+          "source": {
+            "text": "Qur'an 29:29",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-mocking-the-messengers",
+          "canonical": "Mocking the messengers",
+          "variants": [
+            "Mocking",
+            "Mockery"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"No messenger came to them but they mocked him.\"",
+          "source": {
+            "text": "Qur'an 36:30",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-hoarding-and-showing-off-wealth",
+          "canonical": "Hoarding and showing off wealth",
+          "variants": [
+            "Qarun",
+            "Wealth",
+            "Pride in wealth"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Qarun's pride in his treasures.",
+          "source": {
+            "text": "Qur'an 28:78",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-nations-sins-building-monuments-for-vanity",
+          "canonical": "Building monuments for vanity",
+          "variants": [
+            "Monuments",
+            "Vanity buildings"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Do you build on every height a sign, amusing yourselves?\"",
+          "source": {
+            "text": "Qur'an 26:128",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1109-khaybar",
+      "number": 2,
+      "prompt": "Name something from the Battle of Khaybar.",
+      "answers": [
+        {
+          "id": "d1109-khaybar-ali-and-the-banner",
+          "canonical": "'Ali and the banner",
+          "variants": [
+            "Ali",
+            "Banner",
+            "Flag"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Tomorrow I will give the banner to a man who loves Allah and His Messenger.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3701",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-healing-alis-eyes",
+          "canonical": "Healing 'Ali's eyes",
+          "variants": [
+            "Ali's eyes",
+            "Healing"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The Prophet ﷺ applied his saliva.",
+          "source": {
+            "text": "Sahih al-Bukhari 3701",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-jewish-fortresses",
+          "canonical": "Jewish fortresses",
+          "variants": [
+            "Forts",
+            "Fortresses",
+            "Strongholds"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Strongholds such as Na'im and al-Qamus.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-marhab",
+          "canonical": "Marhab",
+          "variants": [
+            "Marhab"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "The champion killed in single combat.",
+          "source": {
+            "text": "Sahih Muslim 1807",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-safiyyah",
+          "canonical": "Safiyyah",
+          "variants": [
+            "Safiyyah",
+            "Safiya"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She was freed and married the Prophet ﷺ.",
+          "source": {
+            "text": "Sahih al-Bukhari 371",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-the-poisoned-sheep",
+          "canonical": "The poisoned sheep",
+          "variants": [
+            "Poisoned sheep",
+            "Poison",
+            "Poisoned lamb"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A woman put poison in roasted lamb.",
+          "source": {
+            "text": "Sahih al-Bukhari 3169",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-jafars-return-from-abyssinia",
+          "canonical": "Ja'far's return from Abyssinia",
+          "variants": [
+            "Ja'far",
+            "Abyssinia",
+            "Emigrants returned"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The emigrants arrived at Khaybar.",
+          "source": {
+            "text": "Sahih al-Bukhari 4230",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-donkey-meat-forbidden",
+          "canonical": "Donkey meat forbidden",
+          "variants": [
+            "Donkey meat",
+            "Donkeys"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Domestic donkeys were forbidden that day.",
+          "source": {
+            "text": "Sahih al-Bukhari 4218",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-7-ah",
+          "canonical": "7 AH",
+          "variants": [
+            "7 AH",
+            "Year 7"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In 7 AH.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-sharecropping-the-land",
+          "canonical": "Sharecropping the land",
+          "variants": [
+            "Sharecropping",
+            "Half the produce",
+            "Dates"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "The people of Khaybar farmed it for half the produce.",
+          "source": {
+            "text": "Sahih al-Bukhari 2285",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-abu-hurayrah-arrived",
+          "canonical": "Abu Hurayrah arrived",
+          "variants": [
+            "Abu Hurayrah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He came to the Prophet ﷺ at Khaybar.",
+          "source": {
+            "text": "Sahih al-Bukhari 4234",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-amir-ibn-al-akwa",
+          "canonical": "'Amir ibn al-Akwa'",
+          "variants": [
+            "'Amir ibn al-Akwa'",
+            "Amir"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "His sword rebounded and killed him; the Prophet ﷺ said he had a double reward.",
+          "source": {
+            "text": "Sahih al-Bukhari 4196",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-khaybar-north-of-madinah",
+          "canonical": "North of Madinah",
+          "variants": [
+            "North of Madinah"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "About 150 km north.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1109-west-africa",
+      "number": 3,
+      "prompt": "Name a city in West Africa with a long Muslim history.",
+      "answers": [
+        {
+          "id": "d1109-west-africa-timbuktu",
+          "canonical": "Timbuktu",
+          "variants": [
+            "Timbuktu",
+            "Tombouctou"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "A great centre of learning.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-dakar",
+          "canonical": "Dakar",
+          "variants": [
+            "Dakar"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Capital of Senegal.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-kano",
+          "canonical": "Kano",
+          "variants": [
+            "Kano"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "An ancient Hausa city.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-djenn",
+          "canonical": "Djenné",
+          "variants": [
+            "Djenne",
+            "Jenne"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Home of the Great Mosque.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-sokoto",
+          "canonical": "Sokoto",
+          "variants": [
+            "Sokoto"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Capital of the Sokoto Caliphate.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-gao",
+          "canonical": "Gao",
+          "variants": [
+            "Gao"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Capital of the Songhai Empire.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-bamako",
+          "canonical": "Bamako",
+          "variants": [
+            "Bamako"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Capital of Mali.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-touba",
+          "canonical": "Touba",
+          "variants": [
+            "Touba"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A holy city in Senegal.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-agadez",
+          "canonical": "Agadez",
+          "variants": [
+            "Agadez"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "A Saharan trading town in Niger.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-niamey",
+          "canonical": "Niamey",
+          "variants": [
+            "Niamey"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Capital of Niger.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-zaria",
+          "canonical": "Zaria",
+          "variants": [
+            "Zaria"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "An old Hausa city.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-katsina",
+          "canonical": "Katsina",
+          "variants": [
+            "Katsina"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "A Hausa city-state.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-kumbi-saleh",
+          "canonical": "Kumbi Saleh",
+          "variants": [
+            "Kumbi Saleh",
+            "Koumbi Saleh"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Capital of ancient Ghana.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-ouagadougou",
+          "canonical": "Ouagadougou",
+          "variants": [
+            "Ouagadougou"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Capital of Burkina Faso.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-nouakchott",
+          "canonical": "Nouakchott",
+          "variants": [
+            "Nouakchott"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Capital of Mauritania.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-chinguetti",
+          "canonical": "Chinguetti",
+          "variants": [
+            "Chinguetti"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A Mauritanian city of libraries.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-s-gou",
+          "canonical": "Ségou",
+          "variants": [
+            "Segou",
+            "Ségou"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Capital of a Bambara kingdom.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-maiduguri",
+          "canonical": "Maiduguri",
+          "variants": [
+            "Maiduguri"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "In Borno, north-east Nigeria.",
+          "source": {
+            "text": "Geography",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-west-africa-walata",
+          "canonical": "Walata",
+          "variants": [
+            "Walata",
+            "Oualata"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "An old caravan town.",
+          "source": {
+            "text": "Historical geography",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1109-nusaybah",
+      "number": 4,
+      "prompt": "Name something from the life of Nusaybah bint Ka'b (Umm 'Umarah) (RA).",
+      "answers": [
+        {
+          "id": "d1109-nusaybah-defended-the-prophet-at-uhud",
+          "canonical": "Defended the Prophet ﷺ at Uhud",
+          "variants": [
+            "Uhud",
+            "Defended the Prophet",
+            "Shield"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "She fought beside him when others scattered.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-nusaybah-twelve-wounds",
+          "canonical": "Twelve wounds",
+          "variants": [
+            "Wounds",
+            "Twelve wounds"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "She was wounded many times at Uhud.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-nusaybah-at-the-pledge-of-al-aqabah",
+          "canonical": "At the Pledge of al-'Aqabah",
+          "variants": [
+            "'Aqabah",
+            "Pledge",
+            "Aqaba"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "One of the two women there.",
+          "source": {
+            "text": "Ibn Hisham, al-Sirah",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-nusaybah-lost-her-hand-at-yamamah",
+          "canonical": "Lost her hand at Yamamah",
+          "variants": [
+            "Yamamah",
+            "Lost her hand",
+            "Hand"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Fighting Musaylimah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-nusaybah-her-son-habib-was-killed-by-musaylimah",
+          "canonical": "Her son Habib was killed by Musaylimah",
+          "variants": [
+            "Habib",
+            "Son killed",
+            "Musaylimah"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Cut to pieces for refusing to accept him.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-nusaybah-who-can-bear-what-you-bear",
+          "canonical": "\"Who can bear what you bear?\"",
+          "variants": [
+            "Who can bear what you bear",
+            "Praise"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The Prophet ﷺ praised her.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-nusaybah-asked-to-be-his-companion-in-paradise",
+          "canonical": "Asked to be his companion in Paradise",
+          "variants": [
+            "Companion in Paradise",
+            "Dua"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He prayed for her family.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-nusaybah-from-the-ansar",
+          "canonical": "From the Ansar",
+          "variants": [
+            "Ansar",
+            "Banu Najjar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Of Banu al-Najjar.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-nusaybah-at-the-pledge-of-ridwan",
+          "canonical": "At the Pledge of Ridwan",
+          "variants": [
+            "Hudaybiyah",
+            "Ridwan"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "She was at al-Hudaybiyah.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-nusaybah-wherever-i-turned-i-saw-her-fighting",
+          "canonical": "\"Wherever I turned, I saw her fighting\"",
+          "variants": [
+            "Fighting",
+            "Wherever I turned"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "The Prophet's ﷺ words about Uhud.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1109-none-believes",
+      "number": 5,
+      "prompt": "Complete a 'none of you truly believes until…' hadith — or name another sign of true faith from the Hadith.",
+      "answers": [
+        {
+          "id": "d1109-none-believes-he-loves-for-his-brother-what-he-loves-for-himself",
+          "canonical": "He loves for his brother what he loves for himself",
+          "variants": [
+            "Loves for his brother",
+            "Love for others what you love for yourself"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"None of you believes until he loves for his brother what he loves for himself.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 13",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-the-prophet-is-dearer-to-him-than-anyone",
+          "canonical": "The Prophet ﷺ is dearer to him than anyone",
+          "variants": [
+            "Loving the Prophet",
+            "Prophet most beloved"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…until I am more beloved to him than his father, his child and all people.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 15",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-his-neighbour-is-safe-from-his-harm",
+          "canonical": "His neighbour is safe from his harm",
+          "variants": [
+            "Neighbour safe",
+            "Neighbour",
+            "Not harming neighbours"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"By Allah he does not believe… whose neighbour is not safe from his harm.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6016",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-speaking-good-or-staying-silent",
+          "canonical": "Speaking good or staying silent",
+          "variants": [
+            "Speak good or be silent",
+            "Silence"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Whoever believes in Allah and the Last Day, let him speak good or be silent.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6018",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-honouring-the-guest",
+          "canonical": "Honouring the guest",
+          "variants": [
+            "Honour the guest",
+            "Guest"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…let him honour his guest.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6018",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-muslims-are-safe-from-his-tongue-and-hand",
+          "canonical": "Muslims are safe from his tongue and hand",
+          "variants": [
+            "Tongue and hand",
+            "Safe from his tongue"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The Muslim is the one from whose tongue and hand Muslims are safe.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 10",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-modesty-is-part-of-faith",
+          "canonical": "Modesty is part of faith",
+          "variants": [
+            "Modesty",
+            "Haya"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"Haya' is a branch of faith.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 9",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-removing-harm-from-the-road",
+          "canonical": "Removing harm from the road",
+          "variants": [
+            "Removing harm",
+            "Lowest branch"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "The lowest branch of faith.",
+          "source": {
+            "text": "Sahih Muslim 35",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-loving-the-ansar",
+          "canonical": "Loving the Ansar",
+          "variants": [
+            "Loving the Ansar",
+            "Ansar"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Love of the Ansar is a sign of faith.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 17",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-happy-with-good-sad-with-bad-deeds",
+          "canonical": "Happy with good, sad with bad deeds",
+          "variants": [
+            "Happy with good deeds",
+            "Sad at sin"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Whoever is pleased by his good deeds and saddened by his bad — that is a believer.\"",
+          "source": {
+            "text": "Jami' at-Tirmidhi 2165",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-loving-and-hating-for-allah",
+          "canonical": "Loving and hating for Allah",
+          "variants": [
+            "Love for Allah",
+            "Hate for Allah"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Whoever loves for Allah and hates for Allah… has completed faith.\"",
+          "source": {
+            "text": "Sunan Abi Dawud 4681",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-none-believes-sweetness-of-faith",
+          "canonical": "Sweetness of faith",
+          "variants": [
+            "Sweetness of faith",
+            "Three things"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"Three things: Allah and His Messenger most beloved, loving a person only for Allah, hating to return to disbelief.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 16",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1109-verbs-arabic",
+      "number": 6,
+      "prompt": "Name an Arabic verb (an action word).",
+      "answers": [
+        {
+          "id": "d1109-verbs-arabic-kataba",
+          "canonical": "Kataba (wrote)",
+          "variants": [
+            "Kataba",
+            "Katab",
+            "Wrote"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He wrote.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-qaraa",
+          "canonical": "Qara'a (read)",
+          "variants": [
+            "Qara'a",
+            "Qaraa",
+            "Read"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "He read.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-akala",
+          "canonical": "Akala (ate)",
+          "variants": [
+            "Akala",
+            "Ate"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He ate.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-shariba",
+          "canonical": "Shariba (drank)",
+          "variants": [
+            "Shariba",
+            "Drank"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He drank.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-dhahaba",
+          "canonical": "Dhahaba (went)",
+          "variants": [
+            "Dhahaba",
+            "Zahaba",
+            "Went"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He went.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-jalasa",
+          "canonical": "Jalasa (sat)",
+          "variants": [
+            "Jalasa",
+            "Sat"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He sat.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-samia",
+          "canonical": "Sami'a (heard)",
+          "variants": [
+            "Sami'a",
+            "Samia",
+            "Heard",
+            "Sami'na"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He heard — \"sami'na wa ata'na\".",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-nazara",
+          "canonical": "Nazara (looked)",
+          "variants": [
+            "Nazara",
+            "Looked"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He looked.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-fataha",
+          "canonical": "Fataha (opened)",
+          "variants": [
+            "Fataha",
+            "Opened"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He opened.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-qala",
+          "canonical": "Qala (said)",
+          "variants": [
+            "Qala",
+            "Said"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He said.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-sajada",
+          "canonical": "Sajada (prostrated)",
+          "variants": [
+            "Sajada",
+            "Prostrated"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He prostrated.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-nama",
+          "canonical": "Nama (slept)",
+          "variants": [
+            "Nama",
+            "Slept"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He slept.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-dakhala",
+          "canonical": "Dakhala (entered)",
+          "variants": [
+            "Dakhala",
+            "Entered"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He entered.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-kharaja",
+          "canonical": "Kharaja (went out)",
+          "variants": [
+            "Kharaja",
+            "Went out",
+            "Exited"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He went out.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-alima",
+          "canonical": "'Alima (knew)",
+          "variants": [
+            "Alima",
+            "Knew"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He knew.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-rajaa",
+          "canonical": "Raja'a (returned)",
+          "variants": [
+            "Raja'a",
+            "Rajaa",
+            "Returned"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He returned.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-sall",
+          "canonical": "Sallā (prayed)",
+          "variants": [
+            "Salla",
+            "Prayed"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He prayed.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-sama",
+          "canonical": "Sama (fasted)",
+          "variants": [
+            "Sama",
+            "Fasted"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He fasted.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-verbs-arabic-rakiba",
+          "canonical": "Rakiba (rode)",
+          "variants": [
+            "Rakiba",
+            "Rode"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "He rode.",
+          "source": {
+            "text": "Arabic",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ],
+  "bonus": [
+    {
+      "id": "d1109-bonus-duha",
+      "number": 7,
+      "prompt": "Name something mentioned in Surah ad-Duha.",
+      "answers": [
+        {
+          "id": "d1109-bonus-duha-the-morning-brightness",
+          "canonical": "The morning brightness",
+          "variants": [
+            "Morning",
+            "Duha",
+            "Forenoon"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"By the morning brightness.\"",
+          "source": {
+            "text": "Qur'an 93:1",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-the-night-when-it-covers",
+          "canonical": "The night when it covers",
+          "variants": [
+            "Night",
+            "Darkness"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…and the night when it covers with darkness.\"",
+          "source": {
+            "text": "Qur'an 93:2",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-your-lord-has-not-forsaken-you",
+          "canonical": "\"Your Lord has not forsaken you\"",
+          "variants": [
+            "Not forsaken",
+            "Not abandoned",
+            "Ma wadda'aka"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…nor has He detested you.\"",
+          "source": {
+            "text": "Qur'an 93:3",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-the-orphan-sheltered",
+          "canonical": "The orphan sheltered",
+          "variants": [
+            "Orphan",
+            "Sheltered",
+            "Refuge"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"Did He not find you an orphan and give you refuge?\"",
+          "source": {
+            "text": "Qur'an 93:6",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-lost-and-guided",
+          "canonical": "Lost and guided",
+          "variants": [
+            "Guided",
+            "Lost and guided"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…and found you lost and guided you?\"",
+          "source": {
+            "text": "Qur'an 93:7",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-poor-and-enriched",
+          "canonical": "Poor and enriched",
+          "variants": [
+            "Poor",
+            "Enriched",
+            "Self-sufficient"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and found you in need and made you self-sufficient?\"",
+          "source": {
+            "text": "Qur'an 93:8",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-do-not-oppress-the-orphan",
+          "canonical": "Do not oppress the orphan",
+          "variants": [
+            "Do not oppress the orphan",
+            "Oppress the orphan"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"As for the orphan, do not oppress him.\"",
+          "source": {
+            "text": "Qur'an 93:9",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-do-not-repel-the-one-who-asks",
+          "canonical": "Do not repel the one who asks",
+          "variants": [
+            "Do not repel the beggar",
+            "Petitioner",
+            "Beggar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"As for the petitioner, do not repel him.\"",
+          "source": {
+            "text": "Qur'an 93:10",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-speak-of-your-lords-blessings",
+          "canonical": "Speak of your Lord's blessings",
+          "variants": [
+            "Speak of blessings",
+            "Proclaim blessings",
+            "Gratitude"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"As for the favour of your Lord, proclaim it.\"",
+          "source": {
+            "text": "Qur'an 93:11",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-the-hereafter-is-better",
+          "canonical": "The Hereafter is better",
+          "variants": [
+            "Hereafter is better",
+            "Akhirah better"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"The Hereafter is better for you than the first life.\"",
+          "source": {
+            "text": "Qur'an 93:4",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-you-will-be-satisfied",
+          "canonical": "\"You will be satisfied\"",
+          "variants": [
+            "Satisfied",
+            "You will be pleased"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"Your Lord will give you, and you will be satisfied.\"",
+          "source": {
+            "text": "Qur'an 93:5",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-duha-a-pause-in-revelation",
+          "canonical": "A pause in revelation",
+          "variants": [
+            "Pause in revelation",
+            "Revelation stopped"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "It was revealed after a pause in revelation.",
+          "source": {
+            "text": "Sahih al-Bukhari 4950",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1109-bonus-tawbah-112",
+      "number": 8,
+      "prompt": "Name a quality of the believers in Surah at-Tawbah 9:112.",
+      "answers": [
+        {
+          "id": "d1109-bonus-tawbah-112-those-who-repent",
+          "canonical": "Those who repent",
+          "variants": [
+            "Repentant",
+            "Those who repent",
+            "Ta'ibun"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"Those who turn to Allah in repentance…\"",
+          "source": {
+            "text": "Qur'an 9:112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-tawbah-112-those-who-worship",
+          "canonical": "Those who worship",
+          "variants": [
+            "Worshippers",
+            "'Abidun"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"…who worship…\"",
+          "source": {
+            "text": "Qur'an 9:112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-tawbah-112-those-who-praise",
+          "canonical": "Those who praise",
+          "variants": [
+            "Praising",
+            "Hamidun"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…who praise…\"",
+          "source": {
+            "text": "Qur'an 9:112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-tawbah-112-those-who-bow",
+          "canonical": "Those who bow",
+          "variants": [
+            "Bowing",
+            "Raki'un",
+            "Ruku"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…who bow…\"",
+          "source": {
+            "text": "Qur'an 9:112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-tawbah-112-those-who-prostrate",
+          "canonical": "Those who prostrate",
+          "variants": [
+            "Prostrating",
+            "Sajidun",
+            "Sujud"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"…who prostrate…\"",
+          "source": {
+            "text": "Qur'an 9:112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-tawbah-112-those-who-enjoin-good",
+          "canonical": "Those who enjoin good",
+          "variants": [
+            "Enjoin good",
+            "Amr bil maruf"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…who enjoin what is right…\"",
+          "source": {
+            "text": "Qur'an 9:112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-tawbah-112-those-who-forbid-evil",
+          "canonical": "Those who forbid evil",
+          "variants": [
+            "Forbid evil",
+            "Nahy anil munkar"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"…and forbid what is wrong…\"",
+          "source": {
+            "text": "Qur'an 9:112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-tawbah-112-those-who-keep-allahs-limits",
+          "canonical": "Those who keep Allah's limits",
+          "variants": [
+            "Keep Allah's limits",
+            "Hudud"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "\"…and keep the limits of Allah.\"",
+          "source": {
+            "text": "Qur'an 9:112",
+            "status": "quran-reference"
+          }
+        },
+        {
+          "id": "d1109-bonus-tawbah-112-those-who-travel-or-fast",
+          "canonical": "Those who travel or fast (sa'ihun)",
+          "variants": [
+            "Sa'ihun",
+            "Fasting",
+            "Travelling"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Explained as those who fast, or who travel for Allah.",
+          "source": {
+            "text": "Qur'an 9:112",
+            "status": "quran-reference"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1109-bonus-ubayy",
+      "number": 9,
+      "prompt": "Name something from the life of Ubayy ibn Ka'b (RA).",
+      "answers": [
+        {
+          "id": "d1109-bonus-ubayy-master-of-the-reciters",
+          "canonical": "Master of the reciters",
+          "variants": [
+            "Master of reciters",
+            "Best reciter",
+            "Sayyid al-Qurra'"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Sayyid al-Qurra'.",
+          "source": {
+            "text": "Jami' at-Tirmidhi 3791",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-ubayy-allah-named-you-to-me",
+          "canonical": "\"Allah named you to me\"",
+          "variants": [
+            "Allah named him",
+            "Recite to Ubayy",
+            "Wept"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Allah commanded the Prophet ﷺ to recite to Ubayy by name, and he wept.",
+          "source": {
+            "text": "Sahih al-Bukhari 4959",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-ubayy-the-greatest-verse-ayat-al-kursi",
+          "canonical": "The greatest verse — Ayat al-Kursi",
+          "variants": [
+            "Ayat al-Kursi",
+            "Greatest verse"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He answered correctly: \"Congratulations on your knowledge, Abu al-Mundhir.\"",
+          "source": {
+            "text": "Sahih Muslim 810",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-ubayy-led-tarawih-for-umar",
+          "canonical": "Led tarawih for 'Umar",
+          "variants": [
+            "Tarawih",
+            "Led tarawih"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "'Umar gathered people behind him.",
+          "source": {
+            "text": "Sahih al-Bukhari 2010",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-ubayy-a-scribe-of-revelation",
+          "canonical": "A scribe of revelation",
+          "variants": [
+            "Scribe",
+            "Wrote revelation"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "He wrote for the Prophet ﷺ.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-ubayy-one-of-four-to-learn-the-quran-from",
+          "canonical": "One of four to learn the Qur'an from",
+          "variants": [
+            "Quran teacher"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Named among the four.",
+          "source": {
+            "text": "Sahih al-Bukhari 3758",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-ubayy-from-the-ansar",
+          "canonical": "From the Ansar",
+          "variants": [
+            "Ansar",
+            "Khazraj"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Of the Khazraj.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-ubayy-kunya-abu-al-mundhir",
+          "canonical": "Kunya Abu al-Mundhir",
+          "variants": [
+            "Abu al-Mundhir",
+            "Abul Mundhir"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Also Abu al-Tufayl.",
+          "source": {
+            "text": "Sahih Muslim 810",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-ubayy-at-aqabah-and-badr",
+          "canonical": "At 'Aqabah and Badr",
+          "variants": [
+            "Aqabah",
+            "Badr"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He gave the pledge and fought at Badr.",
+          "source": {
+            "text": "Ibn Sa'd, al-Tabaqat",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-ubayy-on-uthmans-mushaf-committee",
+          "canonical": "On 'Uthman's Mushaf committee",
+          "variants": [
+            "Mushaf committee",
+            "Uthman"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Reported to have helped with the copies.",
+          "source": {
+            "text": "Ibn Abi Dawud, al-Masahif",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1109-bonus-never-did",
+      "number": 10,
+      "prompt": "Name something the Companions said the Prophet ﷺ never did.",
+      "answers": [
+        {
+          "id": "d1109-bonus-never-did-never-hit-a-woman-or-servant",
+          "canonical": "Never hit a woman or servant",
+          "variants": [
+            "Never hit",
+            "Never struck anyone"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"He never struck anyone with his hand.\"",
+          "source": {
+            "text": "Sahih Muslim 2328",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-never-did-never-criticised-food",
+          "canonical": "Never criticised food",
+          "variants": [
+            "Never criticised food",
+            "Never complained about food"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "\"If he liked it he ate it; if not he left it.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3563",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-never-did-never-refused-a-request",
+          "canonical": "Never refused a request",
+          "variants": [
+            "Never said no",
+            "Never refused"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "\"He was never asked for something and said no.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 6034",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-never-did-never-took-revenge-for-himself",
+          "canonical": "Never took revenge for himself",
+          "variants": [
+            "No personal revenge",
+            "Never avenged himself"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Only when Allah's limits were broken.",
+          "source": {
+            "text": "Sahih al-Bukhari 3560",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-never-did-never-chose-the-harder-option",
+          "canonical": "Never chose the harder option",
+          "variants": [
+            "Chose the easier",
+            "Never chose the harder"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "He chose the easier of two things unless it was a sin.",
+          "source": {
+            "text": "Sahih al-Bukhari 3560",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-never-did-never-said-uff-to-anas",
+          "canonical": "Never said \"uff\" to Anas",
+          "variants": [
+            "Never said uff",
+            "Never scolded Anas"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "In ten years of service.",
+          "source": {
+            "text": "Sahih al-Bukhari 6038",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-never-did-was-never-obscene-or-vulgar",
+          "canonical": "Was never obscene or vulgar",
+          "variants": [
+            "Never obscene",
+            "No foul language"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"He was not obscene, nor did he use foul language.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 3559",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-never-did-never-ate-leaning",
+          "canonical": "Never ate leaning",
+          "variants": [
+            "Never leaned while eating",
+            "Reclining"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"I do not eat while reclining.\"",
+          "source": {
+            "text": "Sahih al-Bukhari 5398",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-never-did-never-ate-from-a-table-or-with-thin-bread",
+          "canonical": "Never ate from a table or with thin bread",
+          "variants": [
+            "Simple food",
+            "No table"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "He ate simply, on the ground.",
+          "source": {
+            "text": "Sahih al-Bukhari 5386",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-never-did-never-laughed-loudly",
+          "canonical": "Never laughed loudly",
+          "variants": [
+            "Never laughed loudly",
+            "Smiled instead"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "His laugh was mostly a smile.",
+          "source": {
+            "text": "Sahih al-Bukhari 6092",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-never-did-never-ate-his-fill-of-bread-two-days-running",
+          "canonical": "Never ate his fill of bread two days running",
+          "variants": [
+            "Hunger",
+            "Never full"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Until he died.",
+          "source": {
+            "text": "Sahih Muslim 2970",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1109-bonus-nisba",
+      "number": 11,
+      "prompt": "Name a famous scholar whose name comes from the place he was from (a nisba).",
+      "answers": [
+        {
+          "id": "d1109-bonus-nisba-al-bukhari",
+          "canonical": "Al-Bukhari",
+          "variants": [
+            "Bukhari",
+            "Al-Bukhari"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "From Bukhara.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-tirmidhi",
+          "canonical": "Al-Tirmidhi",
+          "variants": [
+            "Tirmidhi",
+            "At-Tirmidhi"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "From Tirmidh.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-tabari",
+          "canonical": "Al-Tabari",
+          "variants": [
+            "Tabari",
+            "At-Tabari"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "From Tabaristan.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-qurtubi",
+          "canonical": "Al-Qurtubi",
+          "variants": [
+            "Qurtubi",
+            "Al-Qurtubi"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "From Cordoba (Qurtubah).",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-nasai",
+          "canonical": "Al-Nasa'i",
+          "variants": [
+            "Nasa'i",
+            "An-Nasai"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "From Nasa', in Khurasan.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-nawawi",
+          "canonical": "Al-Nawawi",
+          "variants": [
+            "Nawawi",
+            "An-Nawawi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From Nawa, in Syria.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-baghdadi",
+          "canonical": "Al-Baghdadi",
+          "variants": [
+            "Baghdadi",
+            "Al-Khatib al-Baghdadi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From Baghdad — e.g. al-Khatib al-Baghdadi.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-razi",
+          "canonical": "Al-Razi",
+          "variants": [
+            "Razi",
+            "Al-Razi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From Rayy — Fakhr al-Din al-Razi, Abu Bakr al-Razi.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-khwarizmi",
+          "canonical": "Al-Khwarizmi",
+          "variants": [
+            "Khwarizmi",
+            "Al-Khwarizmi"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "From Khwarazm.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-sijistani",
+          "canonical": "Al-Sijistani",
+          "variants": [
+            "Sijistani",
+            "Abu Dawud al-Sijistani"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Abu Dawud, from Sijistan.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-qazwini",
+          "canonical": "Al-Qazwini",
+          "variants": [
+            "Qazwini",
+            "Ibn Majah al-Qazwini"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Ibn Majah, from Qazvin.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-naysaburi",
+          "canonical": "Al-Naysaburi",
+          "variants": [
+            "Naysaburi",
+            "Nishapuri"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Imam Muslim, from Nishapur.",
+          "source": {
+            "text": "Siyar A'lam al-Nubala'",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-dimashqi",
+          "canonical": "Al-Dimashqi",
+          "variants": [
+            "Dimashqi",
+            "Damascene"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "From Damascus — e.g. Ibn Kathir al-Dimashqi.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-andalusi",
+          "canonical": "Al-Andalusi",
+          "variants": [
+            "Andalusi",
+            "Ibn Hazm"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "From al-Andalus — e.g. Ibn Hazm al-Andalusi.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-farabi",
+          "canonical": "Al-Farabi",
+          "variants": [
+            "Farabi",
+            "Al-Farabi"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "From Farab.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-marghinani",
+          "canonical": "Al-Marghinani",
+          "variants": [
+            "Marghinani",
+            "Al-Marghinani"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "From Marghinan, author of al-Hidayah.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-biruni",
+          "canonical": "Al-Biruni",
+          "variants": [
+            "Biruni",
+            "Al-Biruni"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "\"From the outskirts\" of Kath.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-nisba-al-isfahani",
+          "canonical": "Al-Isfahani",
+          "variants": [
+            "Isfahani",
+            "Asbahani",
+            "Abu Nu'aym"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "From Isfahan — e.g. Abu Nu'aym al-Isfahani.",
+          "source": {
+            "text": "Standard biographies",
+            "status": "needs-review"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1109-bonus-islands",
+      "number": 12,
+      "prompt": "Name an island (or island country) where most people are Muslim.",
+      "notAccepted": [
+        {
+          "inputs": [
+            "Bali",
+            "Sri Lanka",
+            "Cyprus",
+            "Sicily",
+            "Madagascar",
+            "Mindanao"
+          ],
+          "message": "Most people there are not Muslim. Try another!"
+        }
+      ],
+      "answers": [
+        {
+          "id": "d1109-bonus-islands-maldives",
+          "canonical": "Maldives",
+          "variants": [
+            "Maldives"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "Almost entirely Muslim.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-java",
+          "canonical": "Java",
+          "variants": [
+            "Java",
+            "Jawa"
+          ],
+          "rarity": "ignition",
+          "distanceKm": 1000,
+          "explanation": "The most populous island in the world.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-sumatra",
+          "canonical": "Sumatra",
+          "variants": [
+            "Sumatra"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Including Aceh.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-bahrain",
+          "canonical": "Bahrain",
+          "variants": [
+            "Bahrain"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "An island kingdom in the Gulf.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-zanzibar",
+          "canonical": "Zanzibar",
+          "variants": [
+            "Zanzibar",
+            "Unguja"
+          ],
+          "rarity": "liftoff",
+          "distanceKm": 3000,
+          "explanation": "Off the coast of Tanzania.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-comoros",
+          "canonical": "Comoros",
+          "variants": [
+            "Comoros"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Between Mozambique and Madagascar.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-madura",
+          "canonical": "Madura",
+          "variants": [
+            "Madura"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "Off Java.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-lombok",
+          "canonical": "Lombok",
+          "variants": [
+            "Lombok"
+          ],
+          "rarity": "orbit",
+          "distanceKm": 6000,
+          "explanation": "\"The island of a thousand mosques.\"",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-sulawesi",
+          "canonical": "Sulawesi",
+          "variants": [
+            "Sulawesi",
+            "Celebes"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Indonesia.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-djerba",
+          "canonical": "Djerba",
+          "variants": [
+            "Djerba",
+            "Jerba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Off Tunisia.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-pemba",
+          "canonical": "Pemba",
+          "variants": [
+            "Pemba"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Part of Zanzibar.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-socotra",
+          "canonical": "Socotra",
+          "variants": [
+            "Socotra"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "Yemen.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-mayotte",
+          "canonical": "Mayotte",
+          "variants": [
+            "Mayotte"
+          ],
+          "rarity": "supernova",
+          "distanceKm": 10000,
+          "explanation": "In the Comoros group.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-lamu",
+          "canonical": "Lamu",
+          "variants": [
+            "Lamu"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Off the Kenyan coast.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-sumbawa",
+          "canonical": "Sumbawa",
+          "variants": [
+            "Sumbawa"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Indonesia.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-ternate",
+          "canonical": "Ternate",
+          "variants": [
+            "Ternate"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "A historic sultanate in the Moluccas.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        },
+        {
+          "id": "d1109-bonus-islands-basilan",
+          "canonical": "Basilan",
+          "variants": [
+            "Basilan",
+            "Jolo",
+            "Sulu"
+          ],
+          "rarity": "beyond",
+          "distanceKm": 15000,
+          "explanation": "Southern Philippines.",
+          "source": {
+            "text": "Demographic surveys",
+            "status": "needs-review"
+          }
+        }
+      ]
+    }
+  ]
+}
